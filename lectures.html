@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather & Climate Lectures - Mel Strong</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        nav {
+            background: #333;
+            padding: 10px;
+            text-align: center;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        nav a:hover { text-decoration: underline; }
+        .page-header {
+            background: linear-gradient(135deg, #1a1a2e, #16213e);
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+        }
+        .page-header h1 {
+            margin: 0 0 8px 0;
+            font-size: 1.8em;
+        }
+        .page-header p {
+            margin: 0;
+            color: #a0b8d8;
+            font-size: 0.95em;
+        }
+        .content {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .lecture-card {
+            background: white;
+            border-radius: 8px;
+            margin-bottom: 16px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        .lecture-header {
+            padding: 16px 20px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            transition: background 0.2s;
+        }
+        .lecture-header:hover { background: #f8f9fa; }
+        .lecture-num {
+            background: #333;
+            color: white;
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 14px;
+            flex-shrink: 0;
+        }
+        .lecture-num.extra { background: #666; font-size: 11px; }
+        .lecture-title { flex: 1; font-weight: 600; color: #333; }
+        .lecture-duration {
+            color: #888;
+            font-size: 13px;
+            flex-shrink: 0;
+        }
+        .lecture-toggle {
+            font-size: 18px;
+            color: #888;
+            transition: transform 0.3s;
+            flex-shrink: 0;
+        }
+        .lecture-card.open .lecture-toggle { transform: rotate(180deg); }
+        .lecture-body {
+            display: none;
+            padding: 0 20px 20px;
+        }
+        .lecture-card.open .lecture-body { display: block; }
+        .video-wrap {
+            position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+            border-radius: 6px;
+            overflow: hidden;
+            background: #000;
+        }
+        .video-wrap iframe {
+            position: absolute;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            border: none;
+        }
+        .transcript-toggle {
+            margin-top: 12px;
+            padding: 8px 16px;
+            background: #f0f0f0;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 13px;
+            color: #555;
+        }
+        .transcript-toggle:hover { background: #e8e8e8; }
+        .transcript {
+            display: none;
+            margin-top: 10px;
+            padding: 14px;
+            background: #fafafa;
+            border: 1px solid #eee;
+            border-radius: 4px;
+            font-size: 13px;
+            line-height: 1.7;
+            color: #444;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+        .transcript.show { display: block; }
+        @media (max-width: 600px) {
+            .content { padding: 10px; }
+            .lecture-header { padding: 12px 14px; gap: 10px; }
+            .lecture-title { font-size: 14px; }
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="index.html">Thermal Analysis</a>
+        <a href="mixing-ratio.html">Mixing Ratio</a>
+        <a href="states-of-matter.html">States of Matter</a>
+        <a href="lectures.html">Lectures</a>
+    </nav>
+
+    <div class="page-header">
+        <h1>Introduction to Weather &amp; Climate</h1>
+        <p>Lecture series by Mel Strong &mdash; 25 videos</p>
+    </div>
+
+    <div class="content" id="lectures"></div>
+
+    <script>
+    const lectures = [
+        { num: "1", id: "pOwPs4kNSwc", title: "How to identify and name clouds (introduction to weather)", dur: "34:13" },
+        { num: "2", id: "WEJbG-gTu0Q", title: "Introduction to humidity - part I - mixing ratio and dew point", dur: "42:44" },
+        { num: "3", id: "3pwIpcybxjg", title: "Introduction to relative humidity", dur: "37:11" },
+        { num: "3b", id: "xDiNHknsnwk", title: "Extra help with dew point and relative humidity", dur: "8:36", extra: true },
+        { num: "4", id: "0oQUQ4wPGqg", title: "Introduction to evaporation and latent heat", dur: "32:18" },
+        { num: "5", id: "LrG2j82bqPM", title: "Introduction to cloud formation and convection in the atmosphere", dur: "42:08" },
+        { num: "5b", id: "aXb0QSgCqY8", title: "Extra help with determining locations of clouds and thermals", dur: "11:13", extra: true },
+        { num: "6", id: "NM5eckZ_Iks", title: "Introduction to convective storms and precipitation formation", dur: "57:33" },
+        { num: "7", id: "OFt2kuEK4ys", title: "Air pressure and wind", dur: "57:24" },
+        { num: "7b", id: "rfvkXSYf1L4", title: "Extra help with wind direction and air pressure maps", dur: "9:10", extra: true },
+        { num: "8", id: "KUYO7N6fCSg", title: "Introduction to temperature inversions and air pollution", dur: "1:15:54" },
+        { num: "9", id: "6sK0Dl_C8jQ", title: "Introduction to fronts and midlatitude cyclones", dur: "1:01:35" },
+        { num: "10", id: "HjTqdVuEEPo", title: "Introduction to global circulation of the atmosphere", dur: "59:01" },
+        { num: "11", id: "K-0w_bJMNfo", title: "Seasonal changes in atmospheric circulation", dur: "33:00" },
+        { num: "12", id: "nwhlfOwPod8", title: "Introduction to monsoons", dur: "54:10" },
+        { num: "13", id: "LYKYcn8_vhc", title: "Introduction to ENSO (El Nino and La Nina)", dur: "50:24" },
+        { num: "14", id: "4kSFGDtqNY4", title: "Introduction to water projects of the Southwestern US", dur: "1:24:20" },
+        { num: "15", id: "DC2SWg1HwvA", title: "Introduction to greenhouse gasses and the greenhouse effect", dur: "55:36" },
+        { num: "16", id: "K6i_OcbRnWI", title: "Introduction to the carbon cycle", dur: "54:00" },
+        { num: "17", id: "1ZxgoBgKqV0", title: "Review of evidence for global warming", dur: "57:35" },
+        { num: "18", id: "jFhXdvh8E-s", title: "Introduction to electricity generation and calculating carbon footprint", dur: "1:00:09" },
+        { num: "18b", id: "0jSDvVAytPA", title: "Bulb swap calculations", dur: "15:47", extra: true },
+        { num: "19", id: "dNF7uZRfvUk", title: "Why we recycle aluminum", dur: "20:49" },
+        { num: "20", id: "tfmIk5nGtMU", title: "Introduction to renewable energy", dur: "1:01:11" },
+        { num: "21", id: "GXSQQ5_XNS0", title: "Climate change models + Exam 4 review", dur: "1:04:24" }
+    ];
+
+    const container = document.getElementById('lectures');
+
+    lectures.forEach((lec, i) => {
+        const card = document.createElement('div');
+        card.className = 'lecture-card';
+        card.innerHTML = `
+            <div class="lecture-header" onclick="toggleLecture(this)">
+                <div class="lecture-num ${lec.extra ? 'extra' : ''}">${lec.num}</div>
+                <div class="lecture-title">Lecture ${lec.num}: ${lec.title}</div>
+                <div class="lecture-duration">${lec.dur}</div>
+                <div class="lecture-toggle">&#9660;</div>
+            </div>
+            <div class="lecture-body">
+                <div class="video-wrap">
+                    <iframe data-src="https://www.youtube.com/embed/${lec.id}" allowfullscreen loading="lazy"></iframe>
+                </div>
+                <button class="transcript-toggle" onclick="toggleTranscript(this, '${String(i + 1).padStart(2, '0')}-${lec.id}')">Show Transcript</button>
+                <div class="transcript" id="transcript-${lec.id}"></div>
+            </div>
+        `;
+        container.appendChild(card);
+    });
+
+    function toggleLecture(header) {
+        const card = header.parentElement;
+        const wasOpen = card.classList.contains('open');
+        card.classList.toggle('open');
+
+        // Lazy-load the YouTube iframe only when opened
+        if (!wasOpen) {
+            const iframe = card.querySelector('iframe[data-src]');
+            if (iframe) {
+                iframe.src = iframe.dataset.src;
+                iframe.removeAttribute('data-src');
+            }
+        }
+    }
+
+    async function toggleTranscript(btn, fileKey) {
+        const card = btn.closest('.lecture-card');
+        const div = card.querySelector('.transcript');
+
+        if (div.classList.contains('show')) {
+            div.classList.remove('show');
+            btn.textContent = 'Show Transcript';
+            return;
+        }
+
+        if (!div.dataset.loaded) {
+            btn.textContent = 'Loading...';
+            try {
+                const resp = await fetch(`transcripts/clean/${fileKey}.txt`);
+                if (resp.ok) {
+                    div.textContent = await resp.text();
+                } else {
+                    div.textContent = 'Transcript not available.';
+                }
+            } catch (e) {
+                div.textContent = 'Failed to load transcript.';
+            }
+            div.dataset.loaded = '1';
+        }
+
+        div.classList.add('show');
+        btn.textContent = 'Hide Transcript';
+    }
+    </script>
+</body>
+</html>

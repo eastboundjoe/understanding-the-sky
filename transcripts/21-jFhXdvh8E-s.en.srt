@@ -1,0 +1,4476 @@
+1
+00:00:06,200 --> 00:00:10,620
+hey this is Mel and in this lecture
+
+2
+00:00:08,820 --> 00:00:13,490
+we're gonna be talking about how we
+
+3
+00:00:10,620 --> 00:00:15,929
+generate electricity with fossil fuels
+
+4
+00:00:13,490 --> 00:00:18,330
+so in the previous unit we've been
+
+5
+00:00:15,929 --> 00:00:19,800
+talking about greenhouse gases and one
+
+6
+00:00:18,330 --> 00:00:22,320
+of the things that we said is it we
+
+7
+00:00:19,800 --> 00:00:24,480
+actually burn more fossil fuels to
+
+8
+00:00:22,320 --> 00:00:28,560
+generate electricity than we do for
+
+9
+00:00:24,480 --> 00:00:31,800
+anything else even transportation so the
+
+10
+00:00:28,560 --> 00:00:34,020
+number one source of co2 emissions in
+
+11
+00:00:31,800 --> 00:00:36,750
+the world is for generating electricity
+
+12
+00:00:34,020 --> 00:00:39,629
+we're going to explore how that's done
+
+13
+00:00:36,750 --> 00:00:41,360
+okay so to start with we're going to
+
+14
+00:00:39,629 --> 00:00:44,219
+talk about how electricity is generated
+
+15
+00:00:41,360 --> 00:00:46,500
+and in general you need three things to
+
+16
+00:00:44,219 --> 00:00:50,070
+generate electricity you need a
+
+17
+00:00:46,500 --> 00:00:51,899
+conductor which is usually a metal you
+
+18
+00:00:50,070 --> 00:00:56,250
+need a magnetic field and you need
+
+19
+00:00:51,899 --> 00:01:00,180
+motion so let's talk about these what is
+
+20
+00:00:56,250 --> 00:01:03,030
+a conductor a conductor is usually
+
+21
+00:01:00,180 --> 00:01:06,570
+copper but it doesn't have to be but
+
+22
+00:01:03,030 --> 00:01:13,350
+it's a metal so imagine a wire right so
+
+23
+00:01:06,570 --> 00:01:15,180
+I've got this copper wire here and when
+
+24
+00:01:13,350 --> 00:01:17,970
+we when we talk about electricity what
+
+25
+00:01:15,180 --> 00:01:21,810
+we really mean is we've got the flow of
+
+26
+00:01:17,970 --> 00:01:26,400
+electrons going down a wire okay
+
+27
+00:01:21,810 --> 00:01:30,810
+so to get that to happen if I take a
+
+28
+00:01:26,400 --> 00:01:33,960
+magnet so remember a magnet has a north
+
+29
+00:01:30,810 --> 00:01:37,740
+cell north side in the south side and
+
+30
+00:01:33,960 --> 00:01:40,560
+let's say I move this magnet back and
+
+31
+00:01:37,740 --> 00:01:42,450
+forth what I would if I move this magnet
+
+32
+00:01:40,560 --> 00:01:46,130
+back and forth what I would notice is
+
+33
+00:01:42,450 --> 00:01:52,619
+that the little electrons would start
+
+34
+00:01:46,130 --> 00:01:54,810
+moving down the wire okay and if I move
+
+35
+00:01:52,619 --> 00:01:57,170
+this back and forth the electrons will
+
+36
+00:01:54,810 --> 00:02:00,420
+change direction back and forth as well
+
+37
+00:01:57,170 --> 00:02:04,920
+so the conductor is a metal that allows
+
+38
+00:02:00,420 --> 00:02:07,409
+the electrons to flow and the motion of
+
+39
+00:02:04,920 --> 00:02:11,640
+the magnet is what forces the electrons
+
+40
+00:02:07,409 --> 00:02:12,760
+to move both those things together will
+
+41
+00:02:11,640 --> 00:02:16,989
+generate electricity
+
+42
+00:02:12,760 --> 00:02:23,140
+so if I say wanted to power let's say a
+
+43
+00:02:16,989 --> 00:02:27,069
+light bulb then I would hook this say to
+
+44
+00:02:23,140 --> 00:02:29,290
+the light bulb okay and as I move this
+
+45
+00:02:27,069 --> 00:02:32,290
+back and forth the electrons would
+
+46
+00:02:29,290 --> 00:02:36,190
+actually move down the wire through the
+
+47
+00:02:32,290 --> 00:02:40,569
+light and they would continue going on a
+
+48
+00:02:36,190 --> 00:02:43,599
+loop and the light would light up right
+
+49
+00:02:40,569 --> 00:02:49,299
+so that's electricity so a simple
+
+50
+00:02:43,599 --> 00:02:52,950
+demonstration is so you may have seen
+
+51
+00:02:49,299 --> 00:02:55,720
+something like this that this is a
+
+52
+00:02:52,950 --> 00:02:56,980
+hand-crank generator and inside there
+
+53
+00:02:55,720 --> 00:03:00,010
+there's a little you see that little
+
+54
+00:02:56,980 --> 00:03:06,400
+metal cylinder that's got magnet in
+
+55
+00:03:00,010 --> 00:03:16,599
+there and when I spin the handle okay
+
+56
+00:03:06,400 --> 00:03:18,280
+the light lights up okay okay so you
+
+57
+00:03:16,599 --> 00:03:20,470
+need three things to generate
+
+58
+00:03:18,280 --> 00:03:23,889
+electricity magnetic field the conductor
+
+59
+00:03:20,470 --> 00:03:26,919
+and in motion so the wires or the
+
+60
+00:03:23,889 --> 00:03:29,410
+conductor a physical magnet or maybe a
+
+61
+00:03:26,919 --> 00:03:31,780
+coil wire is the magnetic field but you
+
+62
+00:03:29,410 --> 00:03:34,389
+need something to move it and the thing
+
+63
+00:03:31,780 --> 00:03:37,269
+that moves it is usually something
+
+64
+00:03:34,389 --> 00:03:40,930
+called a steam turbine so a steam
+
+65
+00:03:37,269 --> 00:03:45,510
+turbine looks like a giant fan and these
+
+66
+00:03:40,930 --> 00:03:49,209
+the steam turbines sit inside this
+
+67
+00:03:45,510 --> 00:03:51,489
+housing and steam comes in these holes
+
+68
+00:03:49,209 --> 00:03:54,489
+and pushes against the the blades of
+
+69
+00:03:51,489 --> 00:03:56,829
+this turbine and this whole thing spins
+
+70
+00:03:54,489 --> 00:03:58,840
+around and around and around and on the
+
+71
+00:03:56,829 --> 00:04:00,459
+other end it's gonna connect to
+
+72
+00:03:58,840 --> 00:04:03,250
+something that's producing a magnetic
+
+73
+00:04:00,459 --> 00:04:06,310
+field that will then spin in the same
+
+74
+00:04:03,250 --> 00:04:10,030
+way that I just spun that little one so
+
+75
+00:04:06,310 --> 00:04:11,680
+steam turbines can be gigantic and the
+
+76
+00:04:10,030 --> 00:04:15,280
+reason they have multiple blades as so
+
+77
+00:04:11,680 --> 00:04:17,440
+as the steam goes through them it it's
+
+78
+00:04:15,280 --> 00:04:19,030
+the max it's the most efficient way of
+
+79
+00:04:17,440 --> 00:04:21,130
+trying to capture all the energy from
+
+80
+00:04:19,030 --> 00:04:23,950
+the steam is they have multiple fan
+
+81
+00:04:21,130 --> 00:04:25,270
+blades so on in short what happens to
+
+82
+00:04:23,950 --> 00:04:28,000
+steam comes in
+
+83
+00:04:25,270 --> 00:04:30,610
+and turns the the blades of the turbine
+
+84
+00:04:28,000 --> 00:04:32,770
+which then turn a giant version of the
+
+85
+00:04:30,610 --> 00:04:35,379
+thing I was just holding and that is
+
+86
+00:04:32,770 --> 00:04:37,090
+what generates electricity so this is
+
+87
+00:04:35,379 --> 00:04:39,310
+what one looks like in an actual power
+
+88
+00:04:37,090 --> 00:04:41,470
+plant everything's covered so you don't
+
+89
+00:04:39,310 --> 00:04:44,319
+there's not much to see but the steam
+
+90
+00:04:41,470 --> 00:04:46,659
+comes in here there's the the fan blades
+
+91
+00:04:44,319 --> 00:04:48,009
+would be in here the turbine and it's
+
+92
+00:04:46,659 --> 00:04:49,990
+spinning this thing which has the
+
+93
+00:04:48,009 --> 00:04:51,879
+magnetic field and it's generating the
+
+94
+00:04:49,990 --> 00:04:52,479
+electricity that's the generator here's
+
+95
+00:04:51,879 --> 00:04:54,340
+another one
+
+96
+00:04:52,479 --> 00:04:59,349
+steam comes in there here's the
+
+97
+00:04:54,340 --> 00:05:01,419
+generator and in a big big power plant
+
+98
+00:04:59,349 --> 00:05:03,220
+they'll have several of these so here
+
+99
+00:05:01,419 --> 00:05:05,680
+they've got several steam turbines and
+
+100
+00:05:03,220 --> 00:05:07,150
+then turning generators here okay so
+
+101
+00:05:05,680 --> 00:05:08,979
+there everything's covered there's not a
+
+102
+00:05:07,150 --> 00:05:11,409
+whole lot to see if you're actually to
+
+103
+00:05:08,979 --> 00:05:13,509
+go inside a power plant but in order to
+
+104
+00:05:11,409 --> 00:05:15,039
+do this you got to make steam in order
+
+105
+00:05:13,509 --> 00:05:17,229
+to make steam you got to boil water in
+
+106
+00:05:15,039 --> 00:05:19,210
+order to boil water you need a source of
+
+107
+00:05:17,229 --> 00:05:23,379
+heat okay so what are some of the things
+
+108
+00:05:19,210 --> 00:05:24,940
+that we could actually burn well purpose
+
+109
+00:05:23,379 --> 00:05:26,530
+of this lecture is to talk about fossil
+
+110
+00:05:24,940 --> 00:05:30,430
+fuels so that's probably where we're in
+
+111
+00:05:26,530 --> 00:05:32,050
+the start this this is a graph that's
+
+112
+00:05:30,430 --> 00:05:33,940
+talking about co2 emissions from
+
+113
+00:05:32,050 --> 00:05:35,020
+different sectors and I just want to
+
+114
+00:05:33,940 --> 00:05:38,530
+focus on this one right here it says
+
+115
+00:05:35,020 --> 00:05:41,949
+electricity generation so by burning
+
+116
+00:05:38,530 --> 00:05:44,349
+fossil fuels we can boil water and this
+
+117
+00:05:41,949 --> 00:05:48,490
+breaks it down into which fossil fuel we
+
+118
+00:05:44,349 --> 00:05:51,520
+burn the most and this color right here
+
+119
+00:05:48,490 --> 00:05:54,639
+is coal so that's number one number two
+
+120
+00:05:51,520 --> 00:05:58,210
+is natural gas that's thread and then
+
+121
+00:05:54,639 --> 00:06:00,279
+just a little bit of petroleum so we in
+
+122
+00:05:58,210 --> 00:06:01,449
+general in this country do not burn oil
+
+123
+00:06:00,279 --> 00:06:04,810
+to make electricity
+
+124
+00:06:01,449 --> 00:06:08,229
+we typically burn coal number one and
+
+125
+00:06:04,810 --> 00:06:09,279
+number two we burn natural gas now in
+
+126
+00:06:08,229 --> 00:06:11,380
+New Mexico
+
+127
+00:06:09,279 --> 00:06:13,840
+what's kind of a crappy graphic but it's
+
+128
+00:06:11,380 --> 00:06:15,759
+only one I got about three-quarters of
+
+129
+00:06:13,840 --> 00:06:17,979
+all the electricity in New Mexico is
+
+130
+00:06:15,759 --> 00:06:19,539
+from burning coal and almost all the
+
+131
+00:06:17,979 --> 00:06:21,000
+rest is from natural gas and we're
+
+132
+00:06:19,539 --> 00:06:23,349
+starting to see a little bit of
+
+133
+00:06:21,000 --> 00:06:24,729
+renewables since this slide was made in
+
+134
+00:06:23,349 --> 00:06:27,819
+2009 since then
+
+135
+00:06:24,729 --> 00:06:30,250
+renewables has gone up a little bit but
+
+136
+00:06:27,819 --> 00:06:32,770
+it's still pretty low so let's talk
+
+137
+00:06:30,250 --> 00:06:34,810
+about coal so what is coal well coal
+
+138
+00:06:32,770 --> 00:06:38,610
+figure to look at kind of as a black
+
+139
+00:06:34,810 --> 00:06:42,389
+shiny looking Rock and it starts with
+
+140
+00:06:38,610 --> 00:06:44,280
+womp so in a swamp you if you kind of
+
+141
+00:06:42,389 --> 00:06:46,939
+think back to our lecture on dams and
+
+142
+00:06:44,280 --> 00:06:49,409
+how we said the bottom of a reservoir
+
+143
+00:06:46,939 --> 00:06:51,240
+gamma reverie and you make a artificial
+
+144
+00:06:49,409 --> 00:06:53,430
+lake at the bottom you have very little
+
+145
+00:06:51,240 --> 00:06:55,439
+oxygen right well this is happening
+
+146
+00:06:53,430 --> 00:07:00,000
+naturally in a swamp so this water down
+
+147
+00:06:55,439 --> 00:07:02,069
+here is very stagnant and and near the
+
+148
+00:07:00,000 --> 00:07:04,800
+bottom there's very little oxygen so as
+
+149
+00:07:02,069 --> 00:07:06,900
+material plant leaves whatever they fall
+
+150
+00:07:04,800 --> 00:07:09,210
+down they land in the water they sink to
+
+151
+00:07:06,900 --> 00:07:12,389
+the bottom they actually get preserved
+
+152
+00:07:09,210 --> 00:07:14,849
+because there's no oxygen down there to
+
+153
+00:07:12,389 --> 00:07:16,740
+promote decay and so the organic
+
+154
+00:07:14,849 --> 00:07:18,930
+material builds up and builds up as long
+
+155
+00:07:16,740 --> 00:07:21,539
+as these swamps stay in existence
+
+156
+00:07:18,930 --> 00:07:24,090
+eventually the swamp the material from
+
+157
+00:07:21,539 --> 00:07:28,610
+the swamps is buried and we would call
+
+158
+00:07:24,090 --> 00:07:31,080
+that peat so you can go to say nursery
+
+159
+00:07:28,610 --> 00:07:33,449
+or Home Depot wherever you can buy bags
+
+160
+00:07:31,080 --> 00:07:35,819
+of peat and it looks like kind of old
+
+161
+00:07:33,449 --> 00:07:38,400
+crappy looking leaves and you put in
+
+162
+00:07:35,819 --> 00:07:42,750
+your garden as fertilizer but eventually
+
+163
+00:07:38,400 --> 00:07:45,479
+if over geologic time those that peat
+
+164
+00:07:42,750 --> 00:07:47,520
+will become buried as weak as it becomes
+
+165
+00:07:45,479 --> 00:07:50,039
+buried it's good it gets subjected to
+
+166
+00:07:47,520 --> 00:07:52,589
+pressure and heat and there's this
+
+167
+00:07:50,039 --> 00:07:55,469
+metamorphism that happens where that
+
+168
+00:07:52,589 --> 00:07:57,449
+what looks like old dead leaves turns
+
+169
+00:07:55,469 --> 00:08:01,800
+into this black shiny rock and then we
+
+170
+00:07:57,449 --> 00:08:03,419
+call it coal and high-quality coal has
+
+171
+00:08:01,800 --> 00:08:05,069
+been has been buried
+
+172
+00:08:03,419 --> 00:08:07,020
+you know maybe miles below the surface
+
+173
+00:08:05,069 --> 00:08:09,479
+and subjected to really high
+
+174
+00:08:07,020 --> 00:08:12,000
+temperatures for maybe over millions of
+
+175
+00:08:09,479 --> 00:08:14,009
+years so it's it's seen a lot of heat
+
+176
+00:08:12,000 --> 00:08:16,620
+and pressure by the time we pull it back
+
+177
+00:08:14,009 --> 00:08:19,319
+out of the ground but it used to be for
+
+178
+00:08:16,620 --> 00:08:20,939
+the most part dead plant matter so this
+
+179
+00:08:19,319 --> 00:08:23,430
+is what a coal seam looks like so you
+
+180
+00:08:20,939 --> 00:08:26,610
+can imagine this all used to be the
+
+181
+00:08:23,430 --> 00:08:28,860
+bottom of a swamp long buried subjected
+
+182
+00:08:26,610 --> 00:08:32,070
+to heat and pressure transformed into
+
+183
+00:08:28,860 --> 00:08:33,870
+this coal and in order to get to the
+
+184
+00:08:32,070 --> 00:08:36,510
+coal if I just go back you know you've
+
+185
+00:08:33,870 --> 00:08:39,390
+got to dig this rock away to get to the
+
+186
+00:08:36,510 --> 00:08:41,070
+coal down here and sometimes it's that's
+
+187
+00:08:39,390 --> 00:08:43,440
+really easy like these guys there's just
+
+188
+00:08:41,070 --> 00:08:45,329
+right below the surface but often it's
+
+189
+00:08:43,440 --> 00:08:47,760
+not very close to the surface and you
+
+190
+00:08:45,329 --> 00:08:50,069
+gotta go way down to get it there's a
+
+191
+00:08:47,760 --> 00:08:51,570
+couple ways we do that one is called
+
+192
+00:08:50,069 --> 00:08:54,540
+mountaintop removal
+
+193
+00:08:51,570 --> 00:08:56,910
+and everything you see in this in this
+
+194
+00:08:54,540 --> 00:08:59,370
+picture is coal you can see all the
+
+195
+00:08:56,910 --> 00:09:02,579
+black out here and this used to be a
+
+196
+00:08:59,370 --> 00:09:04,320
+mountain and they started at the top and
+
+197
+00:09:02,579 --> 00:09:07,139
+they started to remove all the stuff
+
+198
+00:09:04,320 --> 00:09:09,209
+that was not coal to get down to the
+
+199
+00:09:07,139 --> 00:09:13,079
+coal and that's what they're doing here
+
+200
+00:09:09,209 --> 00:09:16,370
+so it's a big operation requires big
+
+201
+00:09:13,079 --> 00:09:19,970
+equipment big trucks big shovels and
+
+202
+00:09:16,370 --> 00:09:22,829
+they have to remove a lot of material
+
+203
+00:09:19,970 --> 00:09:24,569
+for this to be profitable so here's a
+
+204
+00:09:22,829 --> 00:09:26,310
+mountaintop removal the pictures I'm
+
+205
+00:09:24,569 --> 00:09:29,069
+showing you here are mostly from the
+
+206
+00:09:26,310 --> 00:09:31,470
+east east half of the country so
+
+207
+00:09:29,069 --> 00:09:33,630
+Appalachian region a lot of this so this
+
+208
+00:09:31,470 --> 00:09:35,880
+was a mountain with trees on it and they
+
+209
+00:09:33,630 --> 00:09:39,990
+have started at the top and worked their
+
+210
+00:09:35,880 --> 00:09:41,160
+way down well if you if you do this you
+
+211
+00:09:39,990 --> 00:09:42,839
+there's a lot of environmental
+
+212
+00:09:41,160 --> 00:09:44,790
+destruction that's going on as a result
+
+213
+00:09:42,839 --> 00:09:47,970
+of mountaintop removal a lot of the
+
+214
+00:09:44,790 --> 00:09:49,740
+material ends up in the rivers you're
+
+215
+00:09:47,970 --> 00:09:53,399
+wiping out all of the vegetation that
+
+216
+00:09:49,740 --> 00:09:54,930
+was on top and just from a human
+
+217
+00:09:53,399 --> 00:09:56,880
+perspective I mean it's a pretty ugly
+
+218
+00:09:54,930 --> 00:10:00,420
+thing to look at but you can see in this
+
+219
+00:09:56,880 --> 00:10:03,240
+picture the black is the coal and the
+
+220
+00:10:00,420 --> 00:10:05,160
+the beige is not coal but they got to
+
+221
+00:10:03,240 --> 00:10:06,510
+take it all down anyway whether it's
+
+222
+00:10:05,160 --> 00:10:08,459
+coal or not because they got to remove
+
+223
+00:10:06,510 --> 00:10:10,889
+the stuff that don't want to get down to
+
+224
+00:10:08,459 --> 00:10:12,750
+this stuff that they do want so again
+
+225
+00:10:10,889 --> 00:10:14,910
+all these pictures mountaintop removal
+
+226
+00:10:12,750 --> 00:10:17,130
+okay so it's a pretty a pretty
+
+227
+00:10:14,910 --> 00:10:21,600
+environmentally destructive way to
+
+228
+00:10:17,130 --> 00:10:24,060
+remove coal now the other way of doing
+
+229
+00:10:21,600 --> 00:10:26,069
+it is underground mines so an
+
+230
+00:10:24,060 --> 00:10:29,130
+underground mine is you did coals
+
+231
+00:10:26,069 --> 00:10:31,350
+underground so you drill a hole down get
+
+232
+00:10:29,130 --> 00:10:34,410
+a tunnel going and this is really
+
+233
+00:10:31,350 --> 00:10:37,769
+difficult dangerous work you follow that
+
+234
+00:10:34,410 --> 00:10:39,089
+coal seam and so environmentally it's
+
+235
+00:10:37,769 --> 00:10:40,560
+actually better for the environment
+
+236
+00:10:39,089 --> 00:10:42,300
+because you're not taking down a whole
+
+237
+00:10:40,560 --> 00:10:45,660
+mountain to get to it you're just making
+
+238
+00:10:42,300 --> 00:10:49,009
+a hole going down there from a workman's
+
+239
+00:10:45,660 --> 00:10:52,069
+perspective it is a very dangerous job
+
+240
+00:10:49,009 --> 00:10:54,689
+there's coal dust dangerous equipment
+
+241
+00:10:52,069 --> 00:10:57,389
+gases coming out and by the way
+
+242
+00:10:54,689 --> 00:11:00,829
+everything you're mining is flammable so
+
+243
+00:10:57,389 --> 00:11:05,520
+the accidents happen and coal fires
+
+244
+00:11:00,829 --> 00:11:08,480
+happen and occasionally we get some
+
+245
+00:11:05,520 --> 00:11:11,850
+disaster so here's one from 2010 where
+
+246
+00:11:08,480 --> 00:11:14,510
+25 people in West revenge vert West
+
+247
+00:11:11,850 --> 00:11:17,010
+Virginia died when there is an explosion
+
+248
+00:11:14,510 --> 00:11:22,080
+so there's a methane gas buildup and
+
+249
+00:11:17,010 --> 00:11:25,230
+they ignited and we don't have this so
+
+250
+00:11:22,080 --> 00:11:27,000
+we have decent amount of safety rules in
+
+251
+00:11:25,230 --> 00:11:28,650
+this country but if you look at some
+
+252
+00:11:27,000 --> 00:11:30,450
+other countries like China and they was
+
+253
+00:11:28,650 --> 00:11:33,030
+you know usually a couple hundred people
+
+254
+00:11:30,450 --> 00:11:34,920
+a year mining coal it's a bit
+
+255
+00:11:33,030 --> 00:11:36,870
+underground it's a very dangerous job
+
+256
+00:11:34,920 --> 00:11:39,240
+and like I said everything you're mining
+
+257
+00:11:36,870 --> 00:11:41,040
+is flammable so why are we burning coal
+
+258
+00:11:39,240 --> 00:11:43,680
+in the first place well we just have a
+
+259
+00:11:41,040 --> 00:11:45,870
+lot of it and as an accident a geologic
+
+260
+00:11:43,680 --> 00:11:49,890
+history that the United States has a lot
+
+261
+00:11:45,870 --> 00:11:52,230
+of coal the reason is is for millions of
+
+262
+00:11:49,890 --> 00:11:55,140
+years we were actually situated in a
+
+263
+00:11:52,230 --> 00:11:57,930
+place where swamps were very common
+
+264
+00:11:55,140 --> 00:11:59,100
+widespread over most of the country so
+
+265
+00:11:57,930 --> 00:12:01,800
+if you ever seen pictures of the
+
+266
+00:11:59,100 --> 00:12:03,420
+Everglades today you can imagine that
+
+267
+00:12:01,800 --> 00:12:06,270
+type of environment all across the
+
+268
+00:12:03,420 --> 00:12:08,130
+United States and so all these places
+
+269
+00:12:06,270 --> 00:12:11,640
+that are blue are places where we see a
+
+270
+00:12:08,130 --> 00:12:13,890
+lot of coal deposits because in geologic
+
+271
+00:12:11,640 --> 00:12:16,350
+time there was just extensive swamps for
+
+272
+00:12:13,890 --> 00:12:18,900
+they they existed for millions of years
+
+273
+00:12:16,350 --> 00:12:22,260
+you'll notice that one of those places
+
+274
+00:12:18,900 --> 00:12:24,840
+happens to be in Northwest New Mexico
+
+275
+00:12:22,260 --> 00:12:27,990
+ok so we have a pretty good coal deposit
+
+276
+00:12:24,840 --> 00:12:30,330
+up in here and consequently we have coal
+
+277
+00:12:27,990 --> 00:12:31,980
+mines in that area and coal-fired power
+
+278
+00:12:30,330 --> 00:12:33,030
+plants so one of the biggest ones we
+
+279
+00:12:31,980 --> 00:12:35,460
+have is called the San Juan generating
+
+280
+00:12:33,030 --> 00:12:38,480
+station there's actually several near
+
+281
+00:12:35,460 --> 00:12:42,000
+the Four Corners area you can see here
+
+282
+00:12:38,480 --> 00:12:44,190
+pile of coal here we've got a conveyor
+
+283
+00:12:42,000 --> 00:12:46,620
+belt system that takes the coal up into
+
+284
+00:12:44,190 --> 00:12:50,220
+the power plant so a power plant like
+
+285
+00:12:46,620 --> 00:12:52,410
+this you see there's four chimneys right
+
+286
+00:12:50,220 --> 00:12:57,060
+that means there's four furnaces that
+
+287
+00:12:52,410 --> 00:12:59,100
+feed four turbines okay so here we can
+
+288
+00:12:57,060 --> 00:13:02,280
+see three of them this white that's
+
+289
+00:12:59,100 --> 00:13:04,620
+coming out is water vapor and a long
+
+290
+00:13:02,280 --> 00:13:06,810
+time ago we talked about how when you
+
+291
+00:13:04,620 --> 00:13:08,310
+burn hydrocarbons water vapor as a
+
+292
+00:13:06,810 --> 00:13:11,040
+byproduct
+
+293
+00:13:08,310 --> 00:13:13,890
+so then back then we were talking about
+
+294
+00:13:11,040 --> 00:13:15,720
+it in terms of what makes a cloud so I
+
+295
+00:13:13,890 --> 00:13:17,760
+actually used a coal-fired power plant
+
+296
+00:13:15,720 --> 00:13:19,230
+as an example back then so what's coming
+
+297
+00:13:17,760 --> 00:13:21,120
+out here is
+
+298
+00:13:19,230 --> 00:13:23,970
+water vapor that's condensing making a
+
+299
+00:13:21,120 --> 00:13:25,650
+cloud from burning of the coal now
+
+300
+00:13:23,970 --> 00:13:27,150
+remember the whole reason we're talking
+
+301
+00:13:25,650 --> 00:13:29,100
+about this is because of greenhouse
+
+302
+00:13:27,150 --> 00:13:32,820
+gases and as we're burning coal or
+
+303
+00:13:29,100 --> 00:13:34,530
+producing a lot of carbon dioxide and a
+
+304
+00:13:32,820 --> 00:13:37,080
+little bit of meal a few other things as
+
+305
+00:13:34,530 --> 00:13:39,180
+well but you can't see that right you
+
+306
+00:13:37,080 --> 00:13:41,220
+cannot see the mercury that if there is
+
+307
+00:13:39,180 --> 00:13:43,650
+any that's coming out you can't see the
+
+308
+00:13:41,220 --> 00:13:47,640
+NOx all you can really see is the water
+
+309
+00:13:43,650 --> 00:13:51,750
+vapor but near the Four Corners area
+
+310
+00:13:47,640 --> 00:13:53,820
+we've got several large generating
+
+311
+00:13:51,750 --> 00:13:56,850
+stations cold fire power plants because
+
+312
+00:13:53,820 --> 00:13:59,930
+coal is so plentiful there so here's a
+
+313
+00:13:56,850 --> 00:14:02,190
+coal mine near Farmington for example
+
+314
+00:13:59,930 --> 00:14:04,290
+here's another one their Page Arizona
+
+315
+00:14:02,190 --> 00:14:06,630
+you can see it's got three chimneys
+
+316
+00:14:04,290 --> 00:14:09,210
+therefore it has three furnaces with
+
+317
+00:14:06,630 --> 00:14:11,070
+three steam turbines
+
+318
+00:14:09,210 --> 00:14:16,980
+there's the coal piled up right here
+
+319
+00:14:11,070 --> 00:14:20,430
+ready to go another picture of it here's
+
+320
+00:14:16,980 --> 00:14:22,320
+what a here's a pile of coal that's
+
+321
+00:14:20,430 --> 00:14:24,870
+getting ready to load it up into a
+
+322
+00:14:22,320 --> 00:14:26,970
+coal-fired power plant so that in this
+
+323
+00:14:24,870 --> 00:14:29,490
+case the barges are bringing it down
+
+324
+00:14:26,970 --> 00:14:33,360
+they dump in this pile and they comes up
+
+325
+00:14:29,490 --> 00:14:36,690
+the conveyor belt and the amount of coal
+
+326
+00:14:33,360 --> 00:14:39,090
+that is burned and each coal-fired power
+
+327
+00:14:36,690 --> 00:14:42,450
+plant is kind of staggering so this is a
+
+328
+00:14:39,090 --> 00:14:44,970
+coal train and it's just a train full of
+
+329
+00:14:42,450 --> 00:14:47,400
+coal and generally they can be about a
+
+330
+00:14:44,970 --> 00:14:49,140
+mile long or so and a really big
+
+331
+00:14:47,400 --> 00:14:51,540
+coal-fired power plant like the one we
+
+332
+00:14:49,140 --> 00:14:54,330
+have in the four corners can burn
+
+333
+00:14:51,540 --> 00:14:56,820
+through three to five trains of coal per
+
+334
+00:14:54,330 --> 00:14:58,950
+day so that gives you some kind of
+
+335
+00:14:56,820 --> 00:15:00,570
+amount you know it's a staggering amount
+
+336
+00:14:58,950 --> 00:15:02,970
+of coal that we're bringing through
+
+337
+00:15:00,570 --> 00:15:06,660
+every single day just to keep generating
+
+338
+00:15:02,970 --> 00:15:08,640
+electricity so we're gonna watch a
+
+339
+00:15:06,660 --> 00:15:12,410
+little video here that was put together
+
+340
+00:15:08,640 --> 00:15:15,990
+by a coal-fired power plant company that
+
+341
+00:15:12,410 --> 00:15:16,980
+explains very well how it works and
+
+342
+00:15:15,990 --> 00:15:19,260
+they're going to go through the steps
+
+343
+00:15:16,980 --> 00:15:21,570
+from the coal going into the into the
+
+344
+00:15:19,260 --> 00:15:25,140
+power plant until electricity is
+
+345
+00:15:21,570 --> 00:15:28,770
+generated and it's it's very well done
+
+346
+00:15:25,140 --> 00:15:31,410
+it's animated one of the things I want
+
+347
+00:15:28,770 --> 00:15:32,850
+you to pay attention to is they're going
+
+348
+00:15:31,410 --> 00:15:37,199
+to talk about several technology
+
+349
+00:15:32,850 --> 00:15:39,139
+geez that they use to clean the exhaust
+
+350
+00:15:37,199 --> 00:15:43,290
+so in other words as they burn the coal
+
+351
+00:15:39,139 --> 00:15:44,759
+and exhaust goes up the chimney they
+
+352
+00:15:43,290 --> 00:15:46,410
+have to clean that before it goes into
+
+353
+00:15:44,759 --> 00:15:50,220
+the air and they'll talk about several
+
+354
+00:15:46,410 --> 00:15:53,069
+things that happen to clean that and I
+
+355
+00:15:50,220 --> 00:15:54,899
+just want to point out that the culpa
+
+356
+00:15:53,069 --> 00:15:57,110
+the coal-fired power plants in this
+
+357
+00:15:54,899 --> 00:16:02,250
+country are required to do those things
+
+358
+00:15:57,110 --> 00:16:04,319
+from our Clean Air Act so so in the past
+
+359
+00:16:02,250 --> 00:16:08,250
+we talked about air pollution we talked
+
+360
+00:16:04,319 --> 00:16:11,370
+about we have these regulations for for
+
+361
+00:16:08,250 --> 00:16:13,980
+air air pollution and other countries
+
+362
+00:16:11,370 --> 00:16:15,600
+don't necessarily have those right so
+
+363
+00:16:13,980 --> 00:16:17,880
+the technologies are talking about in
+
+364
+00:16:15,600 --> 00:16:20,339
+this video are not the same technologies
+
+365
+00:16:17,880 --> 00:16:22,529
+that you may find say in a in a power
+
+366
+00:16:20,339 --> 00:16:24,660
+plant in China okay because they don't
+
+367
+00:16:22,529 --> 00:16:26,970
+have the same stringent
+
+368
+00:16:24,660 --> 00:16:28,790
+air laws that we do so keep that in mind
+
+369
+00:16:26,970 --> 00:16:31,950
+let's watch the video
+
+370
+00:16:28,790 --> 00:16:31,950
+[Music]
+
+371
+00:16:32,149 --> 00:16:38,130
+our process uses Powder River Basin coal
+
+372
+00:16:35,670 --> 00:16:40,589
+from Wyoming the sub-bituminous type
+
+373
+00:16:38,130 --> 00:16:42,839
+coal as a fuel source when the coal
+
+374
+00:16:40,589 --> 00:16:44,910
+arrives that our plant by train we use a
+
+375
+00:16:42,839 --> 00:16:47,160
+trencher and a series of long conveyors
+
+376
+00:16:44,910 --> 00:16:49,709
+to stack coal in our yard move it to
+
+377
+00:16:47,160 --> 00:16:52,079
+storage silos or send it directly to the
+
+378
+00:16:49,709 --> 00:16:55,350
+plant we try to keep a thirty seven day
+
+379
+00:16:52,079 --> 00:16:57,990
+supply of coal about 1.4 million tons on
+
+380
+00:16:55,350 --> 00:17:00,839
+the pile in our coal yard and up to
+
+381
+00:16:57,990 --> 00:17:02,550
+forty thousand tons in silos since we
+
+382
+00:17:00,839 --> 00:17:05,429
+burn as much as thirty eight thousand
+
+383
+00:17:02,550 --> 00:17:07,530
+tons of coal in a 24 hour period we need
+
+384
+00:17:05,429 --> 00:17:08,220
+to ensure we have a substantial amount
+
+385
+00:17:07,530 --> 00:17:11,359
+on hand
+
+386
+00:17:08,220 --> 00:17:11,359
+[Music]
+
+387
+00:17:17,459 --> 00:17:23,049
+cold moves into the plant on a conveyor
+
+388
+00:17:20,439 --> 00:17:25,539
+and is stored in a series of silos each
+
+389
+00:17:23,049 --> 00:17:28,269
+one leading to a feeder pulverizer and
+
+390
+00:17:25,539 --> 00:17:31,090
+ultimately to the boiler at plant miller
+
+391
+00:17:28,269 --> 00:17:33,460
+we have four generating units and each
+
+392
+00:17:31,090 --> 00:17:36,279
+unit has seven silos feeding into one
+
+393
+00:17:33,460 --> 00:17:38,860
+single boiler the coal within each silo
+
+394
+00:17:36,279 --> 00:17:40,659
+falls into a feeder which measures and
+
+395
+00:17:38,860 --> 00:17:44,200
+controls the flow of coal into a
+
+396
+00:17:40,659 --> 00:17:46,870
+polarizer inside the pulverizer coal
+
+397
+00:17:44,200 --> 00:17:48,789
+falls onto a large rotating bowl where
+
+398
+00:17:46,870 --> 00:17:50,919
+it is continuously crushed by three
+
+399
+00:17:48,789 --> 00:17:53,440
+large grinding wheels until it becomes
+
+400
+00:17:50,919 --> 00:17:56,110
+the consistency of baby powder once the
+
+401
+00:17:53,440 --> 00:17:58,000
+coal is a fine powder it falls off the
+
+402
+00:17:56,110 --> 00:18:00,820
+grinding Bowl and is carried by warm
+
+403
+00:17:58,000 --> 00:18:01,750
+primary air maintained at 140 degrees
+
+404
+00:18:00,820 --> 00:18:04,090
+Fahrenheit
+
+405
+00:18:01,750 --> 00:18:06,880
+inside the pulverizer to the boiler
+
+406
+00:18:04,090 --> 00:18:08,799
+through 8 burner lines when the
+
+407
+00:18:06,880 --> 00:18:10,929
+particles have cold reached the burners
+
+408
+00:18:08,799 --> 00:18:13,029
+they are mixed with secondary air that
+
+409
+00:18:10,929 --> 00:18:15,789
+has been preheated to over 500 degrees
+
+410
+00:18:13,029 --> 00:18:18,039
+to support complete combustion inside
+
+411
+00:18:15,789 --> 00:18:20,320
+the boiler the combustion of the coal
+
+412
+00:18:18,039 --> 00:18:22,510
+converts its chemical energy into
+
+413
+00:18:20,320 --> 00:18:25,289
+thermal energy creating a temperature
+
+414
+00:18:22,510 --> 00:18:27,880
+inside the boiler of over 2200 degrees
+
+415
+00:18:25,289 --> 00:18:30,010
+that's enough to heat the water in the
+
+416
+00:18:27,880 --> 00:18:32,470
+series of boiler tubes to create steam
+
+417
+00:18:30,010 --> 00:18:35,910
+which moves onto the turbine to power
+
+418
+00:18:32,470 --> 00:18:42,400
+the next step in our process
+
+419
+00:18:35,910 --> 00:18:42,400
+[Music]
+
+420
+00:18:43,340 --> 00:18:49,080
+superheated steam from the boiler which
+
+421
+00:18:45,750 --> 00:18:50,820
+is approximately 2400 psi and 1,000
+
+422
+00:18:49,080 --> 00:18:52,920
+degrees travels to the high-pressure
+
+423
+00:18:50,820 --> 00:18:55,110
+section of the turbine where it creates
+
+424
+00:18:52,920 --> 00:18:57,870
+the force that turns the turbine shaft
+
+425
+00:18:55,110 --> 00:18:59,970
+this process causes the steam to lose
+
+426
+00:18:57,870 --> 00:19:01,980
+temperature and pressure so it must be
+
+427
+00:18:59,970 --> 00:19:04,650
+sent back to the boiler to be reheated
+
+428
+00:19:01,980 --> 00:19:06,720
+to 1,000 degrees after reheating the
+
+429
+00:19:04,650 --> 00:19:08,550
+steam returns to the intermediate
+
+430
+00:19:06,720 --> 00:19:10,710
+turbine and continues through the
+
+431
+00:19:08,550 --> 00:19:13,320
+crossover into the low pressure turbines
+
+432
+00:19:10,710 --> 00:19:15,960
+the force of the steam turns the turbine
+
+433
+00:19:13,320 --> 00:19:18,480
+shaft which turns the generator rotor at
+
+434
+00:19:15,960 --> 00:19:20,490
+3,600 revolutions per minute this
+
+435
+00:19:18,480 --> 00:19:22,500
+rotation along with the induced current
+
+436
+00:19:20,490 --> 00:19:24,990
+on the rotor inside the generator
+
+437
+00:19:22,500 --> 00:19:27,450
+produces voltage completing the process
+
+438
+00:19:24,990 --> 00:19:30,690
+of generating electricity the generator
+
+439
+00:19:27,450 --> 00:19:33,180
+output is 24,000 volts which is stepped
+
+440
+00:19:30,690 --> 00:19:35,840
+up to as much as 500,000 volts for
+
+441
+00:19:33,180 --> 00:19:35,840
+transmission
+
+442
+00:19:39,830 --> 00:19:45,730
+[Music]
+
+443
+00:19:43,140 --> 00:19:47,860
+plant Miller uses a closed-loop
+
+444
+00:19:45,730 --> 00:19:51,190
+circulating water system that allows
+
+445
+00:19:47,860 --> 00:19:53,470
+water to be reused over and over one way
+
+446
+00:19:51,190 --> 00:19:55,270
+we use water is in the condenser where
+
+447
+00:19:53,470 --> 00:19:57,610
+steam enters from the turbine and
+
+448
+00:19:55,270 --> 00:20:00,220
+condenses back into water as it passes
+
+449
+00:19:57,610 --> 00:20:02,380
+over tubes filled with cool circulating
+
+450
+00:20:00,220 --> 00:20:04,690
+water which is chlorinated river water
+
+451
+00:20:02,380 --> 00:20:07,540
+from nearby mulberry Fork of the Warrior
+
+452
+00:20:04,690 --> 00:20:10,000
+River the condensed water moves into the
+
+453
+00:20:07,540 --> 00:20:12,190
+hot well where it reads the system to be
+
+454
+00:20:10,000 --> 00:20:15,510
+reheated turned back into steam and
+
+455
+00:20:12,190 --> 00:20:22,769
+continue its use throughout the plant
+
+456
+00:20:15,510 --> 00:20:22,769
+[Music]
+
+457
+00:20:23,490 --> 00:20:27,540
+let's take a closer look at the
+
+458
+00:20:25,810 --> 00:20:30,910
+circulating water the plant uses
+
+459
+00:20:27,540 --> 00:20:33,070
+starting at the cooling tower cool water
+
+460
+00:20:30,910 --> 00:20:35,380
+is pumped from the cooling tower basin
+
+461
+00:20:33,070 --> 00:20:37,390
+through large pipes to the condenser to
+
+462
+00:20:35,380 --> 00:20:40,180
+absorb most of the heat from the turbine
+
+463
+00:20:37,390 --> 00:20:42,910
+exhaust steam leaving us with warmer
+
+464
+00:20:40,180 --> 00:20:45,100
+water that must be cooled so the warmer
+
+465
+00:20:42,910 --> 00:20:46,810
+water is circulated back to the cooling
+
+466
+00:20:45,100 --> 00:20:48,820
+tower where it enters through riser
+
+467
+00:20:46,810 --> 00:20:51,760
+lines to the top of the cooling tower
+
+468
+00:20:48,820 --> 00:20:53,920
+fill as the water cascades down the
+
+469
+00:20:51,760 --> 00:20:56,380
+cooling tower fill material it's air
+
+470
+00:20:53,920 --> 00:20:58,300
+cooled allowing the heat to escape up
+
+471
+00:20:56,380 --> 00:21:00,940
+through the natural draft cooling tower
+
+472
+00:20:58,300 --> 00:21:03,310
+the cooled water is collected in the
+
+473
+00:21:00,940 --> 00:21:05,350
+cooling tower basin to be recirculated
+
+474
+00:21:03,310 --> 00:21:08,300
+back to the plant to condense more
+
+475
+00:21:05,350 --> 00:21:16,340
+turbine steam exhaust
+
+476
+00:21:08,300 --> 00:21:19,350
+[Music]
+
+477
+00:21:16,340 --> 00:21:22,049
+once combustion is complete the heavier
+
+478
+00:21:19,350 --> 00:21:24,630
+particles of ash called bottom ash fall
+
+479
+00:21:22,049 --> 00:21:26,760
+into the bottom of the boiler there the
+
+480
+00:21:24,630 --> 00:21:29,220
+bottom ash is crushed using clinker
+
+481
+00:21:26,760 --> 00:21:30,960
+grinders mixed with water and sluice to
+
+482
+00:21:29,220 --> 00:21:33,210
+the hydro bins where the water is
+
+483
+00:21:30,960 --> 00:21:35,610
+decanted and ash collected in dump
+
+484
+00:21:33,210 --> 00:21:38,390
+trucks and either sold or moved to
+
+485
+00:21:35,610 --> 00:21:38,390
+on-site storage
+
+486
+00:21:39,050 --> 00:21:45,880
+[Music]
+
+487
+00:21:45,960 --> 00:21:50,770
+while the heavier particles of ash fall
+
+488
+00:21:48,730 --> 00:21:52,929
+to the bottom of the Pointer the hot
+
+489
+00:21:50,770 --> 00:21:55,809
+flue gas containing finer particles of
+
+490
+00:21:52,929 --> 00:21:57,970
+fly ash naturally flows up to the top of
+
+491
+00:21:55,809 --> 00:22:00,610
+the boiler and around down and out
+
+492
+00:21:57,970 --> 00:22:03,000
+through the back pass section the last
+
+493
+00:22:00,610 --> 00:22:05,200
+section of the boiler is the economizer
+
+494
+00:22:03,000 --> 00:22:08,049
+because of the shape and the flue gas
+
+495
+00:22:05,200 --> 00:22:11,380
+flow path some of the fly ash falls out
+
+496
+00:22:08,049 --> 00:22:14,110
+here into hoppers this economizer ash is
+
+497
+00:22:11,380 --> 00:22:16,240
+pulled by vacuum mixed and sluiced with
+
+498
+00:22:14,110 --> 00:22:20,200
+water to the ash booster station where
+
+499
+00:22:16,240 --> 00:22:22,780
+it is moved to on-site storage flue gas
+
+500
+00:22:20,200 --> 00:22:24,340
+a byproduct of combustion exits the
+
+501
+00:22:22,780 --> 00:22:37,840
+boiler and enters the selective
+
+502
+00:22:24,340 --> 00:22:40,030
+catalytic reduction oxide compounds the
+
+503
+00:22:37,840 --> 00:22:42,340
+flue gas then passes across the air
+
+504
+00:22:40,030 --> 00:22:44,320
+heater where over 400 degrees of
+
+505
+00:22:42,340 --> 00:22:46,840
+temperature are transferred from the
+
+506
+00:22:44,320 --> 00:22:48,929
+exiting flue gas to preheat the primary
+
+507
+00:22:46,840 --> 00:22:51,970
+and secondary air entering the plant
+
+508
+00:22:48,929 --> 00:22:54,549
+next the flue gas passes through the
+
+509
+00:22:51,970 --> 00:22:56,650
+precipitators where a negative charge is
+
+510
+00:22:54,549 --> 00:22:59,620
+induced onto the fine particles of ash
+
+511
+00:22:56,650 --> 00:23:01,539
+contained in the flue gas that ash is
+
+512
+00:22:59,620 --> 00:23:03,760
+then collected with an opposing charged
+
+513
+00:23:01,539 --> 00:23:06,220
+collecting plate these plates are then
+
+514
+00:23:03,760 --> 00:23:08,230
+shaken by vibrating wrappers causing the
+
+515
+00:23:06,220 --> 00:23:10,600
+ash to fall off into hoppers at the
+
+516
+00:23:08,230 --> 00:23:12,159
+bottom of the precipitator the ash is
+
+517
+00:23:10,600 --> 00:23:14,169
+then pulled with a vacuum to a
+
+518
+00:23:12,159 --> 00:23:16,809
+collection facility for Seiler storage
+
+519
+00:23:14,169 --> 00:23:18,909
+the flue gas then passes through the
+
+520
+00:23:16,809 --> 00:23:20,980
+induced draught fans and to the scrubber
+
+521
+00:23:18,909 --> 00:23:22,570
+where booster fans pull the flue gas
+
+522
+00:23:20,980 --> 00:23:25,330
+from the plant and push it through the
+
+523
+00:23:22,570 --> 00:23:27,820
+scrubber absorber in the absorber flue
+
+524
+00:23:25,330 --> 00:23:29,980
+gas mixes with water and limestone the
+
+525
+00:23:27,820 --> 00:23:32,350
+limestone reacts with and removes about
+
+526
+00:23:29,980 --> 00:23:35,230
+98% of sulfur dioxide
+
+527
+00:23:32,350 --> 00:23:37,299
+creating the byproduct of gypsum the wet
+
+528
+00:23:35,230 --> 00:23:39,640
+flue gas exits out the top of the
+
+529
+00:23:37,299 --> 00:23:41,650
+absorber through to the wet stack and a
+
+530
+00:23:39,640 --> 00:23:43,600
+gypsum slurry stream is pulled from the
+
+531
+00:23:41,650 --> 00:23:46,150
+bottom of the absorber and sent through
+
+532
+00:23:43,600 --> 00:23:48,309
+a dewatering facility inside the
+
+533
+00:23:46,150 --> 00:23:50,919
+dewatering facility most of the moisture
+
+534
+00:23:48,309 --> 00:23:52,680
+is removed from the gypsum so it can be
+
+535
+00:23:50,919 --> 00:23:57,660
+sold for use in wallboard
+
+536
+00:23:52,680 --> 00:23:57,660
+[Music]
+
+537
+00:24:01,850 --> 00:24:07,110
+when the power leaves the plant we
+
+538
+00:24:04,740 --> 00:24:09,299
+increase or step up the voltage for
+
+539
+00:24:07,110 --> 00:24:11,520
+transmission purposes to as much as five
+
+540
+00:24:09,299 --> 00:24:13,770
+hundred thousand volts to help minimize
+
+541
+00:24:11,520 --> 00:24:15,750
+losses from the transmission of power
+
+542
+00:24:13,770 --> 00:24:18,419
+our transmission group is responsible
+
+543
+00:24:15,750 --> 00:24:20,520
+for the large transmission lines towers
+
+544
+00:24:18,419 --> 00:24:22,740
+and substations that handle the large
+
+545
+00:24:20,520 --> 00:24:25,260
+voltage transfer of power over long
+
+546
+00:24:22,740 --> 00:24:27,330
+distances our distribution group
+
+547
+00:24:25,260 --> 00:24:29,399
+interacts with our customers more
+
+548
+00:24:27,330 --> 00:24:31,890
+directly and handles delivery of the
+
+549
+00:24:29,399 --> 00:24:34,409
+power in lower voltages stepped down in
+
+550
+00:24:31,890 --> 00:24:36,779
+substations and delivered to industrial
+
+551
+00:24:34,409 --> 00:24:40,380
+commercial and residential customers in
+
+552
+00:24:36,779 --> 00:24:42,899
+various voltages to suit their needs it
+
+553
+00:24:40,380 --> 00:24:45,570
+is our responsibility to provide our
+
+554
+00:24:42,899 --> 00:24:48,539
+customers with reliable affordable and
+
+555
+00:24:45,570 --> 00:24:51,570
+clean energy for their needs and we take
+
+556
+00:24:48,539 --> 00:24:54,220
+that very seriously we hope you enjoyed
+
+557
+00:24:51,570 --> 00:24:57,400
+this virtual tour of plant Miller
+
+558
+00:24:54,220 --> 00:24:57,400
+[Music]
+
+559
+00:24:58,310 --> 00:25:01,530
+so one problem that coal-fired power
+
+560
+00:25:00,780 --> 00:25:03,840
+plants
+
+561
+00:25:01,530 --> 00:25:06,890
+still have is they don't know what to do
+
+562
+00:25:03,840 --> 00:25:10,140
+with all of the ash that's left over
+
+563
+00:25:06,890 --> 00:25:12,750
+when they're done burning the coal so in
+
+564
+00:25:10,140 --> 00:25:14,670
+that video they talked about fly ash so
+
+565
+00:25:12,750 --> 00:25:17,190
+ash is just you know if you had a
+
+566
+00:25:14,670 --> 00:25:19,260
+fireplace and you burn some wood you got
+
+567
+00:25:17,190 --> 00:25:19,920
+leftover ash in the bottom when you're
+
+568
+00:25:19,260 --> 00:25:21,360
+done right
+
+569
+00:25:19,920 --> 00:25:22,920
+and so there's technology in that
+
+570
+00:25:21,360 --> 00:25:25,080
+coal-fired power plant to keep the ash
+
+571
+00:25:22,920 --> 00:25:27,090
+from flying out the chimney that's what
+
+572
+00:25:25,080 --> 00:25:29,070
+they call fly ash and flies out right
+
+573
+00:25:27,090 --> 00:25:31,290
+but there's ash left in the bottom and
+
+574
+00:25:29,070 --> 00:25:33,570
+they have to do something with it and if
+
+575
+00:25:31,290 --> 00:25:36,660
+they're burning you know multiple trains
+
+576
+00:25:33,570 --> 00:25:39,180
+full of coal a day they're generating a
+
+577
+00:25:36,660 --> 00:25:41,630
+lot of ash so in this picture here you
+
+578
+00:25:39,180 --> 00:25:45,060
+can see it looks like this muddy area
+
+579
+00:25:41,630 --> 00:25:48,870
+this is coal ash and they have to keep
+
+580
+00:25:45,060 --> 00:25:51,480
+it wet so it doesn't blow away and they
+
+581
+00:25:48,870 --> 00:25:54,420
+actually don't really know what to do
+
+582
+00:25:51,480 --> 00:25:58,770
+with it so this big area right out in
+
+583
+00:25:54,420 --> 00:26:00,510
+here is a pond and so they you know they
+
+584
+00:25:58,770 --> 00:26:02,240
+take a shot of the furnace they dump it
+
+585
+00:26:00,510 --> 00:26:07,320
+into this big pond where it stays wet
+
+586
+00:26:02,240 --> 00:26:08,990
+eventually settles down and here's an
+
+587
+00:26:07,320 --> 00:26:11,160
+here's an example of one of these ash
+
+588
+00:26:08,990 --> 00:26:12,930
+reservoirs so they're dumping ash into
+
+589
+00:26:11,160 --> 00:26:15,390
+this water you can kind of see there's
+
+590
+00:26:12,930 --> 00:26:18,270
+an outlet here so some of its going out
+
+591
+00:26:15,390 --> 00:26:20,010
+into the river there's regulations in
+
+592
+00:26:18,270 --> 00:26:22,260
+this country as to how much ash can get
+
+593
+00:26:20,010 --> 00:26:23,820
+into the river system and our current
+
+594
+00:26:22,260 --> 00:26:25,920
+administration has been trying to weaken
+
+595
+00:26:23,820 --> 00:26:28,740
+those regulations so that coal power
+
+596
+00:26:25,920 --> 00:26:30,630
+plants can can add more to the rivers
+
+597
+00:26:28,740 --> 00:26:33,420
+than they have in the past I don't know
+
+598
+00:26:30,630 --> 00:26:35,130
+where that'll go and people were trying
+
+599
+00:26:33,420 --> 00:26:37,200
+to figure out what to do with all this
+
+600
+00:26:35,130 --> 00:26:38,850
+ash can we like mix it in concrete to
+
+601
+00:26:37,200 --> 00:26:41,910
+get rid of it we make something out of
+
+602
+00:26:38,850 --> 00:26:43,950
+it usually it's just buried so this
+
+603
+00:26:41,910 --> 00:26:45,780
+whole field here is all coal ash and
+
+604
+00:26:43,950 --> 00:26:48,240
+there are some event where there's a big
+
+605
+00:26:45,780 --> 00:26:51,900
+erosion here but all this dark stuff you
+
+606
+00:26:48,240 --> 00:26:53,490
+see is coal ash right they just kept
+
+607
+00:26:51,900 --> 00:26:55,110
+dumping and dumping in this field and
+
+608
+00:26:53,490 --> 00:26:56,760
+they had kept it wet and kept it wet and
+
+609
+00:26:55,110 --> 00:26:59,280
+they finally got something to grow on it
+
+610
+00:26:56,760 --> 00:27:00,510
+and really they just thought of a
+
+611
+00:26:59,280 --> 00:27:02,400
+solution they don't know what to do with
+
+612
+00:27:00,510 --> 00:27:06,000
+all of it there's been a couple of
+
+613
+00:27:02,400 --> 00:27:08,640
+disasters where coal ash has leaked out
+
+614
+00:27:06,000 --> 00:27:09,450
+from reservoir and there's a big
+
+615
+00:27:08,640 --> 00:27:12,240
+disaster
+
+616
+00:27:09,450 --> 00:27:14,760
+about 10 years ago in Tennessee where
+
+617
+00:27:12,240 --> 00:27:16,890
+one of these coal ash reservoirs broke
+
+618
+00:27:14,760 --> 00:27:20,430
+about 1:00 in the morning all of this
+
+619
+00:27:16,890 --> 00:27:22,560
+wet gooey coal ash comes out and goes
+
+620
+00:27:20,430 --> 00:27:24,260
+through town there's chunks of roads in
+
+621
+00:27:22,560 --> 00:27:26,790
+the hair it's kind of hard to see but
+
+622
+00:27:24,260 --> 00:27:30,120
+this is all muddy
+
+623
+00:27:26,790 --> 00:27:33,240
+coal ash that went through a town wiped
+
+624
+00:27:30,120 --> 00:27:36,510
+out some houses comes down gets in the
+
+625
+00:27:33,240 --> 00:27:39,270
+river gets carried downstream so there's
+
+626
+00:27:36,510 --> 00:27:42,000
+a lot of places in the United States
+
+627
+00:27:39,270 --> 00:27:46,320
+where coal ash is becoming a problem
+
+628
+00:27:42,000 --> 00:27:49,650
+this is a few years old now but this is
+
+629
+00:27:46,320 --> 00:27:52,320
+a map showing the yellow dots are places
+
+630
+00:27:49,650 --> 00:27:54,720
+where there are these waste ponds these
+
+631
+00:27:52,320 --> 00:27:58,500
+reservoirs that have coal ash sitting in
+
+632
+00:27:54,720 --> 00:28:02,700
+them staying wet places that are orange
+
+633
+00:27:58,500 --> 00:28:05,250
+are recognized as having a high hazard
+
+634
+00:28:02,700 --> 00:28:07,890
+potential of having a leak or a failure
+
+635
+00:28:05,250 --> 00:28:10,350
+and then the red ones or places where
+
+636
+00:28:07,890 --> 00:28:11,700
+there was some sort of failure or gotten
+
+637
+00:28:10,350 --> 00:28:13,920
+to the groundwater or something like
+
+638
+00:28:11,700 --> 00:28:15,960
+that happen so what you see here is
+
+639
+00:28:13,920 --> 00:28:17,730
+there's a lot of red dots out here but
+
+640
+00:28:15,960 --> 00:28:19,500
+of course there's just a lot more coal
+
+641
+00:28:17,730 --> 00:28:21,750
+fire power plants out here because
+
+642
+00:28:19,500 --> 00:28:23,940
+there's a lot more coal out here the
+
+643
+00:28:21,750 --> 00:28:25,560
+eastern part of the country has the
+
+644
+00:28:23,940 --> 00:28:27,390
+majority of the cold fire power plants
+
+645
+00:28:25,560 --> 00:28:28,650
+so they have the most coal ash and
+
+646
+00:28:27,390 --> 00:28:31,890
+therefore they have the most coal ash
+
+647
+00:28:28,650 --> 00:28:35,100
+related problems now we could burn
+
+648
+00:28:31,890 --> 00:28:37,380
+natural gas instead of coal and one
+
+649
+00:28:35,100 --> 00:28:40,800
+advantage of doing that is natural gas
+
+650
+00:28:37,380 --> 00:28:42,540
+has a much cleaner fuel to burn it's
+
+651
+00:28:40,800 --> 00:28:47,540
+cleaner in that it produces less
+
+652
+00:28:42,540 --> 00:28:49,950
+greenhouse gases than coal does now coal
+
+653
+00:28:47,540 --> 00:28:53,070
+produces all kinds of stuff produces co2
+
+654
+00:28:49,950 --> 00:28:56,520
+ash etc if I burn natural gas
+
+655
+00:28:53,070 --> 00:28:59,280
+I still get co2 but I get less of it and
+
+656
+00:28:56,520 --> 00:29:01,380
+there's no leftover ash product and we
+
+657
+00:28:59,280 --> 00:29:02,490
+don't have piles of coal everywhere so
+
+658
+00:29:01,380 --> 00:29:06,510
+all you have to do is you have to have a
+
+659
+00:29:02,490 --> 00:29:09,150
+pipe that takes the the the natural gas
+
+660
+00:29:06,510 --> 00:29:10,890
+from wherever came from so if you live
+
+661
+00:29:09,150 --> 00:29:12,770
+in Albuquerque the natural gas probably
+
+662
+00:29:10,890 --> 00:29:15,060
+came from somewhere around Carlsbad and
+
+663
+00:29:12,770 --> 00:29:16,950
+down the pipe that we talked about in
+
+664
+00:29:15,060 --> 00:29:18,660
+the past and it comes to a power plant
+
+665
+00:29:16,950 --> 00:29:21,540
+and here's for example you can see
+
+666
+00:29:18,660 --> 00:29:22,830
+there's four chimneys here there's four
+
+667
+00:29:21,540 --> 00:29:26,160
+turbines
+
+668
+00:29:22,830 --> 00:29:28,320
+and so they burn they burn it spins a
+
+669
+00:29:26,160 --> 00:29:30,120
+turbine just just like the coal does and
+
+670
+00:29:28,320 --> 00:29:31,680
+generates electricity that way here's
+
+671
+00:29:30,120 --> 00:29:33,870
+another one but what you don't see here
+
+672
+00:29:31,680 --> 00:29:37,800
+is you don't see the piles of coal and
+
+673
+00:29:33,870 --> 00:29:39,960
+all the apparatus for that so when we
+
+674
+00:29:37,800 --> 00:29:42,570
+talk about electricity there's some
+
+675
+00:29:39,960 --> 00:29:45,030
+vocabulary and some math that we gotta
+
+676
+00:29:42,570 --> 00:29:46,950
+get into and ultimately what we're
+
+677
+00:29:45,030 --> 00:29:50,550
+trying to do is calculate what we call
+
+678
+00:29:46,950 --> 00:29:52,920
+carbon footprint so where we're headed
+
+679
+00:29:50,550 --> 00:29:55,110
+in this class is if I do something like
+
+680
+00:29:52,920 --> 00:29:58,380
+I turn on an appliance for a certain
+
+681
+00:29:55,110 --> 00:30:00,030
+amount of time how much co2 did I
+
+682
+00:29:58,380 --> 00:30:02,400
+produce that's where we're headed with
+
+683
+00:30:00,030 --> 00:30:04,380
+all this okay so to get there there's a
+
+684
+00:30:02,400 --> 00:30:07,170
+couple things that we've got to know one
+
+685
+00:30:04,380 --> 00:30:10,160
+is energy and one is power and they're
+
+686
+00:30:07,170 --> 00:30:15,930
+related to each other and that power is
+
+687
+00:30:10,160 --> 00:30:18,870
+how much energy you use over the time
+
+688
+00:30:15,930 --> 00:30:27,600
+that you use it and you can think of
+
+689
+00:30:18,870 --> 00:30:30,870
+this as a rate of energy consumption now
+
+690
+00:30:27,600 --> 00:30:35,940
+a physicist does not like to use the
+
+691
+00:30:30,870 --> 00:30:37,980
+term consuming energy or using energy we
+
+692
+00:30:35,940 --> 00:30:40,250
+don't really talk about that way we
+
+693
+00:30:37,980 --> 00:30:42,630
+convert energy from one form to another
+
+694
+00:30:40,250 --> 00:30:45,030
+but in everyday language we talk about
+
+695
+00:30:42,630 --> 00:30:48,180
+things like I'm going to use energy or
+
+696
+00:30:45,030 --> 00:30:50,190
+waste energy right but just to be clear
+
+697
+00:30:48,180 --> 00:30:53,610
+we're just converting it from one form
+
+698
+00:30:50,190 --> 00:30:55,110
+to another but verbally we say things
+
+699
+00:30:53,610 --> 00:30:58,350
+that are different than that and I will
+
+700
+00:30:55,110 --> 00:31:02,220
+too because that's how we talk so rate
+
+701
+00:30:58,350 --> 00:31:06,390
+of energy consumption is power it's how
+
+702
+00:31:02,220 --> 00:31:08,330
+fast are using the energy and the unit
+
+703
+00:31:06,390 --> 00:31:14,480
+that we use for this is called the Wat
+
+704
+00:31:08,330 --> 00:31:16,770
+Hey so James Watt he's a guy that helped
+
+705
+00:31:14,480 --> 00:31:21,240
+develop the steam engine back in the
+
+706
+00:31:16,770 --> 00:31:25,800
+1700s and so his last name is used today
+
+707
+00:31:21,240 --> 00:31:32,340
+as a unit of power and one watt means
+
+708
+00:31:25,800 --> 00:31:33,510
+you're using one Joule of energy per
+
+709
+00:31:32,340 --> 00:31:36,270
+second
+
+710
+00:31:33,510 --> 00:31:38,910
+now that probably has no meaning to you
+
+711
+00:31:36,270 --> 00:31:40,980
+either because what's a jewel and that's
+
+712
+00:31:38,910 --> 00:31:42,750
+a unit that if you're a physicist that
+
+713
+00:31:40,980 --> 00:31:43,919
+would make sense to you what a jewel is
+
+714
+00:31:42,750 --> 00:31:46,710
+but it's not something we have in
+
+715
+00:31:43,919 --> 00:31:49,590
+everyday use but if you think about
+
+716
+00:31:46,710 --> 00:31:51,270
+taking an apple and lifting it one meter
+
+717
+00:31:49,590 --> 00:31:53,429
+off the ground right so you pick it up
+
+718
+00:31:51,270 --> 00:31:55,740
+off the ground one meter that's about a
+
+719
+00:31:53,429 --> 00:31:57,000
+Joule of energy it took you a Joule of
+
+720
+00:31:55,740 --> 00:32:00,419
+energy to do that
+
+721
+00:31:57,000 --> 00:32:02,240
+so one watt would mean do you use it one
+
+722
+00:32:00,419 --> 00:32:05,429
+Joule of energy for every second right
+
+723
+00:32:02,240 --> 00:32:09,630
+okay so this is power and you've heard
+
+724
+00:32:05,429 --> 00:32:11,820
+of this because for one thing you may
+
+725
+00:32:09,630 --> 00:32:13,260
+have heard in terms of lightbulbs right
+
+726
+00:32:11,820 --> 00:32:17,669
+so you might hear something like a
+
+727
+00:32:13,260 --> 00:32:20,820
+hundred watt light bulb right you may
+
+728
+00:32:17,669 --> 00:32:23,280
+have heard of it that way or some guys
+
+729
+00:32:20,820 --> 00:32:27,480
+can tell you that they have a you know
+
+730
+00:32:23,280 --> 00:32:28,679
+thousand watt stereo right so that is it
+
+731
+00:32:27,480 --> 00:32:31,230
+you know another place you may have
+
+732
+00:32:28,679 --> 00:32:33,480
+heard about it if you have a hairdryer
+
+733
+00:32:31,230 --> 00:32:37,470
+on the side and I have a number like
+
+734
+00:32:33,480 --> 00:32:39,809
+1300 or 1350 those are that's its rating
+
+735
+00:32:37,470 --> 00:32:41,940
+and Watts so watts is something you
+
+736
+00:32:39,809 --> 00:32:44,100
+probably have heard of before and this
+
+737
+00:32:41,940 --> 00:32:45,660
+is all power it's how you a 100 watt
+
+738
+00:32:44,100 --> 00:32:48,660
+light bulb means it uses a hundred
+
+739
+00:32:45,660 --> 00:32:50,190
+joules of energy of electricity every
+
+740
+00:32:48,660 --> 00:32:52,140
+second that's what it means a thousand
+
+741
+00:32:50,190 --> 00:32:55,190
+watt stereo is capable of using a
+
+742
+00:32:52,140 --> 00:33:05,340
+thousand joules a second all right so
+
+743
+00:32:55,190 --> 00:33:07,320
+energy is the converse of this power
+
+744
+00:33:05,340 --> 00:33:10,770
+times time so I'm just taking this
+
+745
+00:33:07,320 --> 00:33:13,290
+formula and rewriting it solving it it's
+
+746
+00:33:10,770 --> 00:33:16,679
+the same exact formula but here's how we
+
+747
+00:33:13,290 --> 00:33:22,440
+we would do this let's imagine that I've
+
+748
+00:33:16,679 --> 00:33:29,669
+got a 60 watt light bulb and I have it
+
+749
+00:33:22,440 --> 00:33:33,540
+on for let's say four hours how much
+
+750
+00:33:29,669 --> 00:33:37,620
+energy did I use again we're using the
+
+751
+00:33:33,540 --> 00:33:39,150
+word use energy consumed energy whatever
+
+752
+00:33:37,620 --> 00:33:40,350
+we're converting it from one form to the
+
+753
+00:33:39,150 --> 00:33:45,059
+other but blah blah blah we know that
+
+754
+00:33:40,350 --> 00:33:46,080
+okay so what do we do math is easy 60
+
+755
+00:33:45,059 --> 00:33:52,130
+watts
+
+756
+00:33:46,080 --> 00:33:57,930
+times four hours and 60 times four is
+
+757
+00:33:52,130 --> 00:34:00,030
+240 now I've got the unit of watts I got
+
+758
+00:33:57,930 --> 00:34:03,800
+a unit of hours and when they multiply
+
+759
+00:34:00,030 --> 00:34:14,480
+these two together we write it as what
+
+760
+00:34:03,800 --> 00:34:19,290
+time's our so this what our is by itself
+
+761
+00:34:14,480 --> 00:34:21,210
+the unit of energy okay
+
+762
+00:34:19,290 --> 00:34:24,149
+so in physics there's a bunch of
+
+763
+00:34:21,210 --> 00:34:25,740
+different units of energy the one we're
+
+764
+00:34:24,149 --> 00:34:27,330
+going to use in this class and the only
+
+765
+00:34:25,740 --> 00:34:29,940
+one we're gonna use in this class is
+
+766
+00:34:27,330 --> 00:34:33,300
+something called the watt hour how many
+
+767
+00:34:29,940 --> 00:34:36,210
+watts times how many hours you take that
+
+768
+00:34:33,300 --> 00:34:38,340
+watt times that our it becomes watt hour
+
+769
+00:34:36,210 --> 00:34:41,280
+that's it's like its own thing the watt
+
+770
+00:34:38,340 --> 00:34:44,929
+hour it's not watts per hour that would
+
+771
+00:34:41,280 --> 00:34:50,399
+be divided by its Watts times hour okay
+
+772
+00:34:44,929 --> 00:34:52,260
+so verbal you'd say this 240 watt hours
+
+773
+00:34:50,399 --> 00:34:55,260
+that's how you would say it okay so
+
+774
+00:34:52,260 --> 00:35:00,650
+that's what that means now let's do
+
+775
+00:34:55,260 --> 00:35:06,350
+another example and let's say I now have
+
+776
+00:35:00,650 --> 00:35:08,700
+I've got a hundred watt light bulb and
+
+777
+00:35:06,350 --> 00:35:12,600
+let's say it's a porch light and I turn
+
+778
+00:35:08,700 --> 00:35:18,000
+it on and I just leave it on okay so
+
+779
+00:35:12,600 --> 00:35:20,010
+it's on for 24 hours a day and I'd like
+
+780
+00:35:18,000 --> 00:35:29,300
+to know how much energy I'm using in a
+
+781
+00:35:20,010 --> 00:35:33,870
+week energy used in one week okay so
+
+782
+00:35:29,300 --> 00:35:39,840
+energy the formula that we just had less
+
+783
+00:35:33,870 --> 00:35:44,150
+power times time okay so power is always
+
+784
+00:35:39,840 --> 00:35:46,110
+in watts time is always in hours and
+
+785
+00:35:44,150 --> 00:35:48,080
+sometimes you've got to do a little math
+
+786
+00:35:46,110 --> 00:35:52,500
+to figure out what your total hours are
+
+787
+00:35:48,080 --> 00:35:54,270
+so in this case my energy is somewhat so
+
+788
+00:35:52,500 --> 00:35:57,450
+Energy's power to assign power is 100
+
+789
+00:35:54,270 --> 00:36:00,450
+watts okay so what's my time gonna be
+
+790
+00:35:57,450 --> 00:36:03,580
+well it's on 24 hours a day
+
+791
+00:36:00,450 --> 00:36:05,050
+but it's on for a week right so there's
+
+792
+00:36:03,580 --> 00:36:08,350
+seven days in a week so I multiply that
+
+793
+00:36:05,050 --> 00:36:12,370
+by seven okay so I've got a hundred
+
+794
+00:36:08,350 --> 00:36:13,620
+watts times 24 times seven so let me do
+
+795
+00:36:12,370 --> 00:36:22,150
+that real quick
+
+796
+00:36:13,620 --> 00:36:25,170
+100 times 24 times seven equals sixteen
+
+797
+00:36:22,150 --> 00:36:31,000
+thousand eight hundred now my units are
+
+798
+00:36:25,170 --> 00:36:36,370
+watt hours okay 16 thousand eight
+
+799
+00:36:31,000 --> 00:36:40,600
+hundred watt hours now if you have over
+
+800
+00:36:36,370 --> 00:36:42,550
+a thousand watt hours we're going to
+
+801
+00:36:40,600 --> 00:36:52,180
+we're going to alter that unit a little
+
+802
+00:36:42,550 --> 00:36:56,500
+bit okay if I have over a thousand the
+
+803
+00:36:52,180 --> 00:37:00,250
+convention that we do is we divide by a
+
+804
+00:36:56,500 --> 00:37:03,190
+thousand and add a K in front of it so
+
+805
+00:37:00,250 --> 00:37:10,030
+if I have over a thousand watt hours I'm
+
+806
+00:37:03,190 --> 00:37:18,880
+going to divide the answer by a thousand
+
+807
+00:37:10,030 --> 00:37:21,910
+and then add a little K to the unit all
+
+808
+00:37:18,880 --> 00:37:28,900
+right it's like this so sixteen thousand
+
+809
+00:37:21,910 --> 00:37:31,270
+eight hundred watt hours it's over a
+
+810
+00:37:28,900 --> 00:37:35,200
+thousand so I'm then divided by a
+
+811
+00:37:31,270 --> 00:37:43,150
+thousand and I get sixteen point eight
+
+812
+00:37:35,200 --> 00:37:47,370
+and I know that add k2 watt hours all
+
+813
+00:37:43,150 --> 00:37:53,590
+right so the way that verbally reads is
+
+814
+00:37:47,370 --> 00:37:57,400
+16.8 kilowatt hours but people got tired
+
+815
+00:37:53,590 --> 00:38:00,240
+of writing all that out so there's an
+
+816
+00:37:57,400 --> 00:38:08,770
+abbreviation for the kilowatt hours
+
+817
+00:38:00,240 --> 00:38:12,970
+it's called K WH and this is called when
+
+818
+00:38:08,770 --> 00:38:20,140
+we talk about a kWh we say verbally you
+
+819
+00:38:12,970 --> 00:38:23,700
+is a kilowatt-hour that's how we say it
+
+820
+00:38:20,140 --> 00:38:36,340
+a kilowatt hour and the kilowatt hour is
+
+821
+00:38:23,700 --> 00:38:44,619
+the worldwide standard for measuring
+
+822
+00:38:36,340 --> 00:38:47,859
+electrical energy okay so outside your
+
+823
+00:38:44,619 --> 00:38:51,550
+house you have a kilowatt hour meter
+
+824
+00:38:47,859 --> 00:38:54,430
+because this is how the power company
+
+825
+00:38:51,550 --> 00:38:56,560
+charges you for the electricity that you
+
+826
+00:38:54,430 --> 00:38:58,480
+use so here's an old-school one that's
+
+827
+00:38:56,560 --> 00:39:01,510
+got the dials on it right and the guys
+
+828
+00:38:58,480 --> 00:39:04,960
+come over and there's this you know this
+
+829
+00:39:01,510 --> 00:39:06,400
+disc spins right here and the more
+
+830
+00:39:04,960 --> 00:39:10,900
+electricity you use the faster it spins
+
+831
+00:39:06,400 --> 00:39:13,900
+and these dials tell somebody how many
+
+832
+00:39:10,900 --> 00:39:16,900
+kilowatt hours yeah you have used since
+
+833
+00:39:13,900 --> 00:39:19,390
+the last time the meter reader person
+
+834
+00:39:16,900 --> 00:39:22,660
+came out and took a reading and then
+
+835
+00:39:19,390 --> 00:39:25,030
+you're charged by your kilowatt hours so
+
+836
+00:39:22,660 --> 00:39:28,150
+notice that this meter actually spells
+
+837
+00:39:25,030 --> 00:39:34,180
+out kilowatt hours and this one just
+
+838
+00:39:28,150 --> 00:39:36,490
+says kWh right so when you're charged by
+
+839
+00:39:34,180 --> 00:39:41,050
+the electric company so for example
+
+840
+00:39:36,490 --> 00:39:45,359
+around here it's usually PNM is our
+
+841
+00:39:41,050 --> 00:39:45,359
+electric company you will get charged
+
+842
+00:39:45,780 --> 00:39:53,859
+per kilowatt hour right so a rate
+
+843
+00:39:51,730 --> 00:39:56,560
+depends on kind of where you live but
+
+844
+00:39:53,859 --> 00:40:01,510
+maybe somewhere between on the low end
+
+845
+00:39:56,560 --> 00:40:05,040
+maybe eight cents - depending on where
+
+846
+00:40:01,510 --> 00:40:08,589
+you live may be as high as 30 cents per
+
+847
+00:40:05,040 --> 00:40:10,930
+kilowatt hour so we're going to learn
+
+848
+00:40:08,589 --> 00:40:13,000
+how to calculate a carbon footprint
+
+849
+00:40:10,930 --> 00:40:15,609
+which just means how much carbon are we
+
+850
+00:40:13,000 --> 00:40:17,440
+putting into the atmosphere when we do
+
+851
+00:40:15,609 --> 00:40:20,320
+different things and we're focusing in
+
+852
+00:40:17,440 --> 00:40:23,320
+this class on electricity cuz it's kind
+
+853
+00:40:20,320 --> 00:40:25,450
+of the easiest one to deal with so let's
+
+854
+00:40:23,320 --> 00:40:27,220
+imagine that all of my electricity is
+
+855
+00:40:25,450 --> 00:40:31,060
+being generated
+
+856
+00:40:27,220 --> 00:40:32,740
+by coal and so if I do an activity let's
+
+857
+00:40:31,060 --> 00:40:35,109
+say I leave a light on for a certain
+
+858
+00:40:32,740 --> 00:40:38,020
+number of hours or TV on for a certain
+
+859
+00:40:35,109 --> 00:40:41,290
+number of hours I want to know how much
+
+860
+00:40:38,020 --> 00:40:43,810
+coal had to be burned to do that and as
+
+861
+00:40:41,290 --> 00:40:47,470
+a result how much carbon got into the
+
+862
+00:40:43,810 --> 00:40:49,930
+atmosphere because of that okay so there
+
+863
+00:40:47,470 --> 00:40:52,119
+are modern coal-fired power plants there
+
+864
+00:40:49,930 --> 00:40:53,859
+are older Coldfire power plants they're
+
+865
+00:40:52,119 --> 00:40:56,590
+not all the same efficiency but when you
+
+866
+00:40:53,859 --> 00:41:06,280
+look at all of them roughly it comes out
+
+867
+00:40:56,590 --> 00:41:07,570
+that to generate one kilowatt hour to
+
+868
+00:41:06,280 --> 00:41:11,520
+generate one kilowatt hour of
+
+869
+00:41:07,570 --> 00:41:17,820
+electricity with coal you need to burn
+
+870
+00:41:11,520 --> 00:41:20,950
+one kilogram or about 2.2 pounds of coal
+
+871
+00:41:17,820 --> 00:41:22,930
+and that's about the size of a big
+
+872
+00:41:20,950 --> 00:41:24,880
+shoebox right so imagine kind of
+
+873
+00:41:22,930 --> 00:41:28,359
+extra-large shoebox full of coal that's
+
+874
+00:41:24,880 --> 00:41:30,250
+about how much you need okay so the
+
+875
+00:41:28,359 --> 00:41:32,320
+problems that we're gonna have are all
+
+876
+00:41:30,250 --> 00:41:34,510
+kind of the same format which is that
+
+877
+00:41:32,320 --> 00:41:36,760
+we'll have a scenario we want to know
+
+878
+00:41:34,510 --> 00:41:39,359
+how much coal is going to be burned and
+
+879
+00:41:36,760 --> 00:41:44,560
+then we're going to figure out from that
+
+880
+00:41:39,359 --> 00:41:49,619
+how much co2 is produced so it turns out
+
+881
+00:41:44,560 --> 00:41:49,619
+that when you burn one kilogram of coal
+
+882
+00:41:55,020 --> 00:42:09,730
+that you will produce two kilograms of
+
+883
+00:42:00,450 --> 00:42:15,960
+co2 gas or if I burn 2.2 pounds to put
+
+884
+00:42:09,730 --> 00:42:24,160
+it in our unit system we get 4.4 pounds
+
+885
+00:42:15,960 --> 00:42:27,910
+of co2 so in other words I get more co2
+
+886
+00:42:24,160 --> 00:42:30,369
+out of the chimney then the amount of
+
+887
+00:42:27,910 --> 00:42:33,820
+coal that I put in why would that be
+
+888
+00:42:30,369 --> 00:42:35,440
+because the call reacts when you burn
+
+889
+00:42:33,820 --> 00:42:39,940
+the coal it reacts with oxygen in the
+
+890
+00:42:35,440 --> 00:42:40,970
+air to produce more co2 so so one
+
+891
+00:42:39,940 --> 00:42:44,000
+kilogram of coal
+
+892
+00:42:40,970 --> 00:42:47,569
+to kilograms of co2 all right
+
+893
+00:42:44,000 --> 00:42:49,190
+that's we're talking about mass of a gas
+
+894
+00:42:47,569 --> 00:42:51,040
+which is abstract cuz we don't think
+
+895
+00:42:49,190 --> 00:42:53,510
+about gases is having mass but they do
+
+896
+00:42:51,040 --> 00:42:58,220
+so how much would that be if I had what
+
+897
+00:42:53,510 --> 00:43:00,290
+if I had two kilograms of co2 like how
+
+898
+00:42:58,220 --> 00:43:07,490
+much is that right if you could see it
+
+899
+00:43:00,290 --> 00:43:11,770
+and if you could see it it would be it
+
+900
+00:43:07,490 --> 00:43:16,069
+could feel cube that's about one meter
+
+901
+00:43:11,770 --> 00:43:19,880
+on a side so we call that one cubic
+
+902
+00:43:16,069 --> 00:43:27,109
+meter and one cubic meter is about one
+
+903
+00:43:19,880 --> 00:43:29,780
+thousand liters okay so think if I for
+
+904
+00:43:27,109 --> 00:43:34,640
+every kilowatt hour that I use in
+
+905
+00:43:29,780 --> 00:43:38,619
+electricity I have to burn one kilogram
+
+906
+00:43:34,640 --> 00:43:41,930
+of coal which makes two kilograms of co2
+
+907
+00:43:38,619 --> 00:43:45,770
+which would fill up a thousand liters of
+
+908
+00:43:41,930 --> 00:43:47,930
+co2 gas okay so that's those are the
+
+909
+00:43:45,770 --> 00:43:50,060
+numbers we've been using this class to
+
+910
+00:43:47,930 --> 00:43:53,450
+do the problems but they're all kind of
+
+911
+00:43:50,060 --> 00:44:03,589
+similar so here's an example so let's
+
+912
+00:43:53,450 --> 00:44:06,770
+say I have a TV that uses 330 watts and
+
+913
+00:44:03,589 --> 00:44:14,000
+I have this TV on let's say six hours a
+
+914
+00:44:06,770 --> 00:44:16,250
+day all right and let's say I do this
+
+915
+00:44:14,000 --> 00:44:20,260
+every single day for a month so we'll
+
+916
+00:44:16,250 --> 00:44:24,050
+say 30 days okay so here's the scenario
+
+917
+00:44:20,260 --> 00:44:25,760
+how much ultimately here's what I want
+
+918
+00:44:24,050 --> 00:44:28,960
+to know how much co2 did I put in the
+
+919
+00:44:25,760 --> 00:44:32,810
+atmosphere because of this right so to
+
+920
+00:44:28,960 --> 00:44:36,530
+answer that we've got to figure out how
+
+921
+00:44:32,810 --> 00:44:42,349
+many kilowatt hours how much coal and
+
+922
+00:44:36,530 --> 00:44:44,060
+how much co2 then it all starts on these
+
+923
+00:44:42,349 --> 00:44:46,760
+problems with figuring out the kilowatt
+
+924
+00:44:44,060 --> 00:44:48,470
+hours if you know the kilowatt hours you
+
+925
+00:44:46,760 --> 00:44:51,079
+can get to all the other things you need
+
+926
+00:44:48,470 --> 00:44:52,520
+to solve for all right so that's we're
+
+927
+00:44:51,079 --> 00:44:54,450
+going to do first we're going to figure
+
+928
+00:44:52,520 --> 00:45:00,920
+out how much energy did
+
+929
+00:44:54,450 --> 00:45:00,920
+this take so energy is power times time
+
+930
+00:45:01,010 --> 00:45:08,520
+what's my power 330 watts what's my time
+
+931
+00:45:05,369 --> 00:45:12,570
+okay so it's got to be in hours it's six
+
+932
+00:45:08,520 --> 00:45:17,160
+hours a day but I'm doing this for 30
+
+933
+00:45:12,570 --> 00:45:20,390
+days so my total hours is 6 times 30 so
+
+934
+00:45:17,160 --> 00:45:22,609
+it's multiply all that out so I've got
+
+935
+00:45:20,390 --> 00:45:35,180
+330 oops
+
+936
+00:45:22,609 --> 00:45:40,680
+330 times 6 times 30 equals 59400 what
+
+937
+00:45:35,180 --> 00:45:43,560
+hours okay so 4000 divided by a thousand
+
+938
+00:45:40,680 --> 00:45:46,890
+turn it into kilowatt hours so I'm gonna
+
+939
+00:45:43,560 --> 00:45:54,420
+divide by a thousand and that gives me
+
+940
+00:45:46,890 --> 00:45:57,500
+fifty nine point four kWh all right this
+
+941
+00:45:54,420 --> 00:46:01,680
+is what we need to do the rest
+
+942
+00:45:57,500 --> 00:46:03,960
+so for every kill we see in the
+
+943
+00:46:01,680 --> 00:46:06,480
+beginning for every kilowatt hour I need
+
+944
+00:46:03,960 --> 00:46:10,500
+to burn one kilogram or 2.2 pounds of
+
+945
+00:46:06,480 --> 00:46:15,810
+coal so let's say I ask you pounds of
+
+946
+00:46:10,500 --> 00:46:19,020
+coal how many pounds of coal did I have
+
+947
+00:46:15,810 --> 00:46:22,280
+to burn in that month right so I take my
+
+948
+00:46:19,020 --> 00:46:27,319
+fifty nine point four kilowatt hours
+
+949
+00:46:22,280 --> 00:46:34,099
+times two point two pounds oops 2.2
+
+950
+00:46:27,319 --> 00:46:36,950
+pounds of coal for every kilowatt hour
+
+951
+00:46:34,099 --> 00:46:40,800
+so I just take that number fifty nine
+
+952
+00:46:36,950 --> 00:46:49,319
+point four times two point two and I get
+
+953
+00:46:40,800 --> 00:46:51,000
+130 point seven pounds so that's how
+
+954
+00:46:49,319 --> 00:46:54,450
+many pounds of coal I had to burn that
+
+955
+00:46:51,000 --> 00:47:02,960
+month for my TV so how much co2 did I
+
+956
+00:46:54,450 --> 00:47:06,290
+make well if I ask for say pounds of co2
+
+957
+00:47:02,960 --> 00:47:08,210
+then I would go back to my
+
+958
+00:47:06,290 --> 00:47:13,760
+fifty nine point fifty nine point four
+
+959
+00:47:08,210 --> 00:47:17,840
+kilowatt hours times four point four so
+
+960
+00:47:13,760 --> 00:47:21,320
+I get four point four pounds of co2 for
+
+961
+00:47:17,840 --> 00:47:25,970
+every kilowatt hour and now I can just
+
+962
+00:47:21,320 --> 00:47:32,050
+take the one I just got and I get two
+
+963
+00:47:25,970 --> 00:47:32,050
+sixty one point four pounds of co2
+
+964
+00:47:32,859 --> 00:47:39,890
+so that's pounds of a gas how many
+
+965
+00:47:36,980 --> 00:47:42,980
+liters is that I go back to the kilowatt
+
+966
+00:47:39,890 --> 00:47:53,480
+hours and multiply by a thousand so if I
+
+967
+00:47:42,980 --> 00:47:55,490
+go back to how many liters of co2 then I
+
+968
+00:47:53,480 --> 00:48:00,670
+go back to my kilowatt hours which is
+
+969
+00:47:55,490 --> 00:48:04,090
+fifty nine point four times a thousand
+
+970
+00:48:00,670 --> 00:48:11,000
+liters per every kilowatt hour and
+
+971
+00:48:04,090 --> 00:48:15,260
+that's pretty easy math 59400 liters of
+
+972
+00:48:11,000 --> 00:48:17,119
+co2 so in all these problems you go back
+
+973
+00:48:15,260 --> 00:48:21,890
+to the kilowatt hours and multiply that
+
+974
+00:48:17,119 --> 00:48:23,330
+by two point two or one or a thousand
+
+975
+00:48:21,890 --> 00:48:29,020
+depending on what your what you're
+
+976
+00:48:23,330 --> 00:48:32,119
+trying to solve for or what if the cost
+
+977
+00:48:29,020 --> 00:48:35,900
+financial cost let's say you're charging
+
+978
+00:48:32,119 --> 00:48:38,480
+me eleven cents a kilowatt hour how much
+
+979
+00:48:35,900 --> 00:48:41,810
+money does that cost me to run my TV per
+
+980
+00:48:38,480 --> 00:48:46,460
+month I take fifty nine point four
+
+981
+00:48:41,810 --> 00:48:53,750
+kilowatt hours times eleven cents per
+
+982
+00:48:46,460 --> 00:48:56,810
+kilowatt hour and fifty nine point four
+
+983
+00:48:53,750 --> 00:49:02,540
+times point one one and I get six
+
+984
+00:48:56,810 --> 00:49:07,640
+dollars and 53 cents so if you compare
+
+985
+00:49:02,540 --> 00:49:11,240
+these two things the financial cost in
+
+986
+00:49:07,640 --> 00:49:13,670
+this country is very low to generating
+
+987
+00:49:11,240 --> 00:49:15,200
+fifty nine point four kilowatt hours
+
+988
+00:49:13,670 --> 00:49:16,250
+that's actually quite a bit of
+
+989
+00:49:15,200 --> 00:49:18,800
+electricity if you had to do that
+
+990
+00:49:16,250 --> 00:49:19,970
+manually by cranking something I mean it
+
+991
+00:49:18,800 --> 00:49:25,070
+would take you weeks of work
+
+992
+00:49:19,970 --> 00:49:27,650
+to do this only costs us $6.50 and yet
+
+993
+00:49:25,070 --> 00:49:31,190
+it produces close to sixty thousand
+
+994
+00:49:27,650 --> 00:49:32,510
+liters of co2 into the atmosphere so
+
+995
+00:49:31,190 --> 00:49:34,310
+this is one of the problems that we deal
+
+996
+00:49:32,510 --> 00:49:37,880
+with in environmental science that there
+
+997
+00:49:34,310 --> 00:49:40,040
+is a financial cost which is not very
+
+998
+00:49:37,880 --> 00:49:41,900
+big and there's an environmental cost
+
+999
+00:49:40,040 --> 00:49:44,750
+which can be huge
+
+1000
+00:49:41,900 --> 00:49:47,270
+nobody's paying for this upfront right
+
+1001
+00:49:44,750 --> 00:49:50,780
+we pay for this but this is really the
+
+1002
+00:49:47,270 --> 00:49:54,109
+cost that we're worried about in in this
+
+1003
+00:49:50,780 --> 00:50:03,290
+class okay so let's do another example
+
+1004
+00:49:54,109 --> 00:50:07,970
+let's say I've got a 60 watt let's see
+
+1005
+00:50:03,290 --> 00:50:13,340
+let's say I got 60 watt porch light in
+
+1006
+00:50:07,970 --> 00:50:18,700
+the front and I got a hundred watt porch
+
+1007
+00:50:13,340 --> 00:50:20,980
+light in the back of my house alright so
+
+1008
+00:50:18,700 --> 00:50:30,940
+one in the front one in the back and
+
+1009
+00:50:20,980 --> 00:50:34,730
+they're on 24 hours a day how much coal
+
+1010
+00:50:30,940 --> 00:50:42,830
+do I need to burn for these just these
+
+1011
+00:50:34,730 --> 00:50:46,660
+two light bulbs in a year so I got to
+
+1012
+00:50:42,830 --> 00:50:46,660
+get my kilowatt hours first
+
+1013
+00:50:51,470 --> 00:51:03,410
+okay what's my power I've got 60 water
+
+1014
+00:50:56,190 --> 00:51:10,470
+and 100 water what's my time 24 hours
+
+1015
+00:51:03,410 --> 00:51:21,750
+all year long times 365 so that gives me
+
+1016
+00:51:10,470 --> 00:51:29,460
+160 watts times 24 times 365 hours so i
+
+1017
+00:51:21,750 --> 00:51:36,569
+have 160 times 24 times 365 I get 1
+
+1018
+00:51:29,460 --> 00:51:39,809
+million 400 1600 watt hours okay
+
+1019
+00:51:36,569 --> 00:51:42,329
+I got divided by thousand to turn it
+
+1020
+00:51:39,809 --> 00:51:48,510
+into kilowatt hours so divided by
+
+1021
+00:51:42,329 --> 00:51:51,720
+thousand and I get 1400 1.6 kilowatt
+
+1022
+00:51:48,510 --> 00:51:58,289
+hours and this is remember for the whole
+
+1023
+00:51:51,720 --> 00:52:04,020
+year how many pounds of coal let's say I
+
+1024
+00:51:58,289 --> 00:52:07,079
+ask that question so so what we said is
+
+1025
+00:52:04,020 --> 00:52:10,410
+if you know your kilowatt hours multiply
+
+1026
+00:52:07,079 --> 00:52:15,029
+that by 2.2 so I take one thousand four
+
+1027
+00:52:10,410 --> 00:52:22,710
+hundred and one kilowatt hours 2.2
+
+1028
+00:52:15,029 --> 00:52:27,270
+pounds so one thousand four hundred and
+
+1029
+00:52:22,710 --> 00:52:31,500
+one point six times two point two and I
+
+1030
+00:52:27,270 --> 00:52:37,430
+get three thousand eighty three point
+
+1031
+00:52:31,500 --> 00:52:37,430
+five pounds of coal oops
+
+1032
+00:52:38,839 --> 00:52:49,230
+pounds of coal
+
+1033
+00:52:41,059 --> 00:52:52,130
+all right liters of co2 I go back to my
+
+1034
+00:52:49,230 --> 00:52:52,130
+kilowatt hours
+
+1035
+00:52:53,319 --> 00:53:00,609
+and it's a thousand liters for every
+
+1036
+00:52:56,900 --> 00:53:09,849
+kilowatt hour so that gets me 1 million
+
+1037
+00:53:00,609 --> 00:53:09,849
+for 1600 liters the co2
+
+1038
+00:53:10,390 --> 00:53:18,920
+how about cost let's say it costs 13
+
+1039
+00:53:14,779 --> 00:53:29,569
+cents kilowatt hour then I go back to my
+
+1040
+00:53:18,920 --> 00:53:40,809
+kilowatt hours 1401 point 6 times 13
+
+1041
+00:53:29,569 --> 00:53:47,900
+cents 1401 point 6 times 0.1 3 I get
+
+1042
+00:53:40,809 --> 00:53:51,589
+$182 and 21 cents ok so that's the cost
+
+1043
+00:53:47,900 --> 00:53:53,359
+in terms of financial and the cost in
+
+1044
+00:53:51,589 --> 00:53:56,109
+terms of the environmental of leaving
+
+1045
+00:53:53,359 --> 00:53:59,410
+those two light bulbs on 24 hours a day
+
+1046
+00:53:56,109 --> 00:54:01,849
+so these problems can get more and more
+
+1047
+00:53:59,410 --> 00:54:04,130
+complicated but it's the same math every
+
+1048
+00:54:01,849 --> 00:54:05,270
+time its power times time so we'll do
+
+1049
+00:54:04,130 --> 00:54:07,460
+one more that's slightly more
+
+1050
+00:54:05,270 --> 00:54:16,789
+complicated so you can see how you might
+
+1051
+00:54:07,460 --> 00:54:19,549
+do something like this so we could have
+
+1052
+00:54:16,789 --> 00:54:25,520
+a scenario such as this I've got a 60
+
+1053
+00:54:19,549 --> 00:54:31,549
+watt porch light and it's on for 12
+
+1054
+00:54:25,520 --> 00:54:39,109
+hours a day 12 hours a day I have a 210
+
+1055
+00:54:31,549 --> 00:54:47,660
+watt TV it's on for 4 hours a day inside
+
+1056
+00:54:39,109 --> 00:54:50,950
+I have two 120 watt lamps they are on
+
+1057
+00:54:47,660 --> 00:54:50,950
+for 6 hours a day
+
+1058
+00:54:52,299 --> 00:54:55,869
+what is my
+
+1059
+00:54:56,250 --> 00:55:06,210
+carbon footprint for the year
+
+1060
+00:55:03,740 --> 00:55:09,660
+okay so we're assuming the same usage
+
+1061
+00:55:06,210 --> 00:55:12,240
+every day so what does carbon footprint
+
+1062
+00:55:09,660 --> 00:55:18,450
+mean how much coal did I burn how much
+
+1063
+00:55:12,240 --> 00:55:24,630
+co2 co2 did I produce alright so same
+
+1064
+00:55:18,450 --> 00:55:27,000
+math energy is power times time I guy
+
+1065
+00:55:24,630 --> 00:55:29,520
+add it all up and do all the math so I
+
+1066
+00:55:27,000 --> 00:55:33,000
+can do a piecewise so in other words I
+
+1067
+00:55:29,520 --> 00:55:40,160
+can say all right let's do the porch
+
+1068
+00:55:33,000 --> 00:55:46,730
+lights I've got 60 watts times 12 hours
+
+1069
+00:55:40,160 --> 00:55:53,100
+times 365 days a year I've got the TV
+
+1070
+00:55:46,730 --> 00:56:03,330
+the TV is 210 watts times 4 hours times
+
+1071
+00:55:53,100 --> 00:56:04,910
+365 I got the lamps I've got 120 watt
+
+1072
+00:56:03,330 --> 00:56:09,440
+lamps but there's two of them and
+
+1073
+00:56:04,910 --> 00:56:13,020
+they're on for six hours a day times 365
+
+1074
+00:56:09,440 --> 00:56:16,610
+ok so so I'm just dividing each one of
+
+1075
+00:56:13,020 --> 00:56:20,430
+these up each time power times time and
+
+1076
+00:56:16,610 --> 00:56:31,010
+I can do each one and then add them all
+
+1077
+00:56:20,430 --> 00:56:43,340
+up so 60 times 12 times 365 I get 2
+
+1078
+00:56:31,010 --> 00:56:48,570
+moves 260 2800 watt hours for the TVs I
+
+1079
+00:56:43,340 --> 00:56:52,830
+get 210 times four times three six two
+
+1080
+00:56:48,570 --> 00:56:56,730
+five three hundred six thousand six
+
+1081
+00:56:52,830 --> 00:57:01,490
+hundred watt hours and for the lamps I
+
+1082
+00:56:56,730 --> 00:57:10,050
+get home 20 times two times six times
+
+1083
+00:57:01,490 --> 00:57:12,750
+365 525,600 watt hours now
+
+1084
+00:57:10,050 --> 00:57:14,760
+what I'm going to do is go ahead and and
+
+1085
+00:57:12,750 --> 00:57:17,790
+divide each of those by a thousand and
+
+1086
+00:57:14,760 --> 00:57:23,390
+turn them into kWh so that gift
+
+1087
+00:57:17,790 --> 00:57:28,730
+gets me to sixty two point eight KW h 3o
+
+1088
+00:57:23,390 --> 00:57:34,710
+6.6 kWh five twenty five point six kwh
+
+1089
+00:57:28,730 --> 00:57:37,890
+add them all up take my two sixty two
+
+1090
+00:57:34,710 --> 00:57:42,650
+point eight plus three o six point six
+
+1091
+00:57:37,890 --> 00:57:46,670
+plus five twenty five point six equals
+
+1092
+00:57:42,650 --> 00:57:53,250
+thousand ninety five kilowatt hours per
+
+1093
+00:57:46,670 --> 00:57:57,120
+year okay so now if I said all right how
+
+1094
+00:57:53,250 --> 00:58:02,640
+much how many kilograms of coal would we
+
+1095
+00:57:57,120 --> 00:58:08,070
+have to burn for this so then we'll do a
+
+1096
+00:58:02,640 --> 00:58:11,820
+couple here so kilograms of coal well I
+
+1097
+00:58:08,070 --> 00:58:15,600
+can take that many kilowatt hours
+
+1098
+00:58:11,820 --> 00:58:21,030
+thousand ninety-five one kilogram one
+
+1099
+00:58:15,600 --> 00:58:25,250
+kilogram of co2 oops I'm sorry one
+
+1100
+00:58:21,030 --> 00:58:29,340
+kilogram of coal for every kilowatt hour
+
+1101
+00:58:25,250 --> 00:58:33,390
+means I get one thousand that thousand
+
+1102
+00:58:29,340 --> 00:58:35,310
+ninety five kilograms of coal alright
+
+1103
+00:58:33,390 --> 00:58:37,650
+that's pretty easy calculation you're
+
+1104
+00:58:35,310 --> 00:58:44,250
+just multiplying by one right well if I
+
+1105
+00:58:37,650 --> 00:58:47,870
+said pounds of coal all right then I got
+
+1106
+00:58:44,250 --> 00:58:56,330
+a thousand ninety five kilowatt hours
+
+1107
+00:58:47,870 --> 00:58:56,330
+times 2.2 pounds per coal sorry
+
+1108
+00:59:00,200 --> 00:59:07,710
+pounds per kilowatt-hour so I just take
+
+1109
+00:59:04,710 --> 00:59:18,230
+that multiply that by two point two and
+
+1110
+00:59:07,710 --> 00:59:24,230
+you get 24 oh nine pounds of coal or
+
+1111
+00:59:18,230 --> 00:59:29,160
+what if I said how many liters of co2 I
+
+1112
+00:59:24,230 --> 00:59:32,610
+go back to my kilowatt hours and
+
+1113
+00:59:29,160 --> 00:59:45,080
+multiply that by a thousand thousand
+
+1114
+00:59:32,610 --> 00:59:50,900
+liters per kilowatt hour and I get 109
+
+1115
+00:59:45,080 --> 00:59:58,080
+500 so a million 95 thousand liters a
+
+1116
+00:59:50,900 --> 01:00:00,680
+co2 okay etc right so so that the
+
+1117
+00:59:58,080 --> 01:00:04,440
+problems are all of the similar nature
+
+1118
+01:00:00,680 --> 01:00:08,870
+get it to kilowatt hours multiply it by
+
+1119
+01:00:04,440 --> 01:00:08,870
+one of those factors get the answer
+

@@ -1,0 +1,4476 @@
+1
+00:00:06,319 --> 00:00:11,460
+hey this is Mel and this lecture is on
+
+2
+00:00:09,510 --> 00:00:14,280
+greenhouse gases and the greenhouse
+
+3
+00:00:11,460 --> 00:00:15,900
+effect before we get into the greenhouse
+
+4
+00:00:14,280 --> 00:00:20,130
+stuff we're going to talk a little bit
+
+5
+00:00:15,900 --> 00:00:23,310
+about light and one of the ideas in
+
+6
+00:00:20,130 --> 00:00:25,470
+light is that light travels in waves
+
+7
+00:00:23,310 --> 00:00:28,529
+so there's several things in physics
+
+8
+00:00:25,470 --> 00:00:31,500
+that travel as ways so for example we
+
+9
+00:00:28,529 --> 00:00:33,600
+have sound waves right earthquake waves
+
+10
+00:00:31,500 --> 00:00:36,090
+so energy can propagate as waves
+
+11
+00:00:33,600 --> 00:00:40,050
+sometimes and light is one of those
+
+12
+00:00:36,090 --> 00:00:42,480
+things so if you think about what a wave
+
+13
+00:00:40,050 --> 00:00:51,510
+would look like so I'm just going to
+
+14
+00:00:42,480 --> 00:00:54,710
+draw some waves here so now when we get
+
+15
+00:00:51,510 --> 00:00:57,989
+into waves in physics there's some
+
+16
+00:00:54,710 --> 00:01:00,629
+terminology that we use a lot and one of
+
+17
+00:00:57,989 --> 00:01:02,430
+them is something called wavelength so
+
+18
+00:01:00,629 --> 00:01:04,860
+if I had a bunch of waves here and I
+
+19
+00:01:02,430 --> 00:01:09,180
+measure the distance between two
+
+20
+00:01:04,860 --> 00:01:13,439
+consecutive parts on a wave we call that
+
+21
+00:01:09,180 --> 00:01:17,130
+the wavelength so for example from
+
+22
+00:01:13,439 --> 00:01:19,680
+trough to trough or crest to crest
+
+23
+00:01:17,130 --> 00:01:24,180
+that's the literally the length of the
+
+24
+00:01:19,680 --> 00:01:27,150
+wave so light is made of waves that are
+
+25
+00:01:24,180 --> 00:01:29,310
+so small that you can't see them how
+
+26
+00:01:27,150 --> 00:01:32,070
+small are they so you can imagine if you
+
+27
+00:01:29,310 --> 00:01:34,380
+took a meter stick and you divide it
+
+28
+00:01:32,070 --> 00:01:36,720
+into million pieces and then you take
+
+29
+00:01:34,380 --> 00:01:39,810
+one of those pieces and you divide it
+
+30
+00:01:36,720 --> 00:01:42,210
+into about 10 to 50 pieces and take one
+
+31
+00:01:39,810 --> 00:01:45,990
+of those pieces that's about the length
+
+32
+00:01:42,210 --> 00:01:49,860
+of a wavelength of light okay so these
+
+33
+00:01:45,990 --> 00:01:51,479
+are sub microscopic waves right so we
+
+34
+00:01:49,860 --> 00:01:55,159
+think of them and we draw them like this
+
+35
+00:01:51,479 --> 00:01:57,030
+but we can't actually see the waves
+
+36
+00:01:55,159 --> 00:02:00,170
+themselves there's everything that's way
+
+37
+00:01:57,030 --> 00:02:03,869
+too microscopic okay
+
+38
+00:02:00,170 --> 00:02:06,930
+these waves the way our eyes and brains
+
+39
+00:02:03,869 --> 00:02:09,690
+are set up is what we perceive as color
+
+40
+00:02:06,930 --> 00:02:12,690
+are actually different wavelengths of
+
+41
+00:02:09,690 --> 00:02:13,980
+light so when I see red light that's a
+
+42
+00:02:12,690 --> 00:02:15,540
+certain wavelength when I
+
+43
+00:02:13,980 --> 00:02:17,519
+say blue light that's a different
+
+44
+00:02:15,540 --> 00:02:19,920
+wavelength the waves are physically
+
+45
+00:02:17,519 --> 00:02:23,549
+different sizes and our eyes and brains
+
+46
+00:02:19,920 --> 00:02:33,540
+interpret that as a color okay so what
+
+47
+00:02:23,549 --> 00:02:37,080
+I'm gonna do is we're gonna draw if we
+
+48
+00:02:33,540 --> 00:02:40,980
+could look at all of the waves from the
+
+49
+00:02:37,080 --> 00:02:44,459
+Sun okay so I'm gonna make a graph here
+
+50
+00:02:40,980 --> 00:02:46,860
+on the x-axis are the waves shorter
+
+51
+00:02:44,459 --> 00:02:50,160
+waves are down here longer waves over
+
+52
+00:02:46,860 --> 00:02:52,560
+here and on the y-axis is intensity so
+
+53
+00:02:50,160 --> 00:02:53,970
+we're gonna look at all the light coming
+
+54
+00:02:52,560 --> 00:02:57,269
+from the Sun they were gonna make a
+
+55
+00:02:53,970 --> 00:03:07,530
+graph now I did so it would kind of look
+
+56
+00:02:57,269 --> 00:03:09,569
+like this so it's not symmetrical
+
+57
+00:03:07,530 --> 00:03:11,190
+there's a peak and then there's this
+
+58
+00:03:09,569 --> 00:03:13,530
+really long tail that actually goes on
+
+59
+00:03:11,190 --> 00:03:15,000
+forever off the page and if I drew it
+
+60
+00:03:13,530 --> 00:03:16,620
+correctly it would never come down to
+
+61
+00:03:15,000 --> 00:03:20,819
+zero but I kind of screwed up there a
+
+62
+00:03:16,620 --> 00:03:21,569
+little bit okay so let's explain kind of
+
+63
+00:03:20,819 --> 00:03:24,750
+what this means
+
+64
+00:03:21,569 --> 00:03:28,109
+on this end these are the waves coming
+
+65
+00:03:24,750 --> 00:03:29,519
+from the Sun that are really short so
+
+66
+00:03:28,109 --> 00:03:32,760
+I'm gonna draw a little line kind of
+
+67
+00:03:29,519 --> 00:03:37,340
+right here because it turns out those
+
+68
+00:03:32,760 --> 00:03:40,829
+waves are too short for our eyes to see
+
+69
+00:03:37,340 --> 00:03:44,130
+then we start to get into waves that our
+
+70
+00:03:40,829 --> 00:03:48,709
+eyes can see and the shortest ones that
+
+71
+00:03:44,130 --> 00:03:51,150
+we can see our eyes interpret that as
+
+72
+00:03:48,709 --> 00:03:55,260
+violet so I'm just gonna shade this
+
+73
+00:03:51,150 --> 00:03:57,299
+cover violet purple cover and then
+
+74
+00:03:55,260 --> 00:04:00,840
+eventually as these waves get longer and
+
+75
+00:03:57,299 --> 00:04:03,720
+longer we interpret them to be more of a
+
+76
+00:04:00,840 --> 00:04:06,720
+blue color so I'm gonna put some blue in
+
+77
+00:04:03,720 --> 00:04:07,859
+here and I'm not gonna draw every color
+
+78
+00:04:06,720 --> 00:04:13,799
+that we can see I'm just kind of
+
+79
+00:04:07,859 --> 00:04:17,310
+generalizing here okay so then as the
+
+80
+00:04:13,799 --> 00:04:23,490
+waves get longer they turn more and more
+
+81
+00:04:17,310 --> 00:04:40,180
+of a green color so I'm gonna draw
+
+82
+00:04:23,490 --> 00:04:43,300
+some green Hey and then as they get
+
+83
+00:04:40,180 --> 00:04:51,840
+longer still we start to get into the
+
+84
+00:04:43,300 --> 00:04:51,840
+yellow and then we get into some orange
+
+85
+00:04:59,610 --> 00:05:15,430
+which then turns more and more towards a
+
+86
+00:05:02,740 --> 00:05:17,590
+red color okay so something like this so
+
+87
+00:05:15,430 --> 00:05:19,140
+I'm gonna put another little dashed line
+
+88
+00:05:17,590 --> 00:05:21,940
+right there
+
+89
+00:05:19,140 --> 00:05:26,890
+so roughly and this is really rough but
+
+90
+00:05:21,940 --> 00:05:29,530
+the idea is that over here we've got
+
+91
+00:05:26,890 --> 00:05:31,930
+waves that are too short to see then we
+
+92
+00:05:29,530 --> 00:05:34,300
+get into violet then in the blues greens
+
+93
+00:05:31,930 --> 00:05:36,600
+and then as the waves get longer and
+
+94
+00:05:34,300 --> 00:05:41,350
+longer we eventually see that as red and
+
+95
+00:05:36,600 --> 00:05:45,520
+eventually they are too long to see okay
+
+96
+00:05:41,350 --> 00:05:53,530
+now the ones that are too long to see we
+
+97
+00:05:45,520 --> 00:05:57,580
+call those infra red sometimes we
+
+98
+00:05:53,530 --> 00:06:03,870
+abbreviate this as IR and the waves that
+
+99
+00:05:57,580 --> 00:06:14,110
+are too short to see we call those ultra
+
+100
+00:06:03,870 --> 00:06:15,750
+violet or UV so UV is this entire region
+
+101
+00:06:14,110 --> 00:06:18,310
+in here
+
+102
+00:06:15,750 --> 00:06:19,390
+infrared is this entire region that goes
+
+103
+00:06:18,310 --> 00:06:22,030
+off the page
+
+104
+00:06:19,390 --> 00:06:23,590
+let's talk about UV first so we've
+
+105
+00:06:22,030 --> 00:06:25,990
+talked about UV in the past we talked
+
+106
+00:06:23,590 --> 00:06:30,040
+about the ozone layer and how the ozone
+
+107
+00:06:25,990 --> 00:06:34,560
+layer blocks most but not quite all of
+
+108
+00:06:30,040 --> 00:06:36,460
+the UV from hitting the surface right so
+
+109
+00:06:34,560 --> 00:06:39,460
+UV
+
+110
+00:06:36,460 --> 00:06:41,440
+light comes in hits an ozone own so
+
+111
+00:06:39,460 --> 00:06:43,540
+breaks apart eventually gets back
+
+112
+00:06:41,440 --> 00:06:47,350
+together that releases heat to the
+
+113
+00:06:43,540 --> 00:06:49,440
+stratosphere okay so this little segment
+
+114
+00:06:47,350 --> 00:06:54,550
+right here
+
+115
+00:06:49,440 --> 00:06:56,139
+of UV is the UV that gets through it's
+
+116
+00:06:54,550 --> 00:07:00,280
+the UV that gets all the way to the
+
+117
+00:06:56,139 --> 00:07:03,280
+surface and the UV out here this is the
+
+118
+00:07:00,280 --> 00:07:08,740
+UV that's blocked by the ozone layer
+
+119
+00:07:03,280 --> 00:07:10,660
+okay so this whole the the shorter these
+
+120
+00:07:08,740 --> 00:07:12,389
+shorter waves it turns out have more
+
+121
+00:07:10,660 --> 00:07:16,169
+energy and they're more dangerous to us
+
+122
+00:07:12,389 --> 00:07:19,960
+so for us
+
+123
+00:07:16,169 --> 00:07:22,300
+things like x-rays and gamma rays those
+
+124
+00:07:19,960 --> 00:07:24,100
+are even shorter than this unfortunately
+
+125
+00:07:22,300 --> 00:07:27,910
+we have very few of those coming into
+
+126
+00:07:24,100 --> 00:07:30,400
+the atmosphere from the Sun but those
+
+127
+00:07:27,910 --> 00:07:32,470
+are very dangerous and then the longer
+
+128
+00:07:30,400 --> 00:07:36,280
+the wavelength is it turns out the safer
+
+129
+00:07:32,470 --> 00:07:38,320
+it is for for us for our bodies okay so
+
+130
+00:07:36,280 --> 00:07:40,560
+you don't want to get whacked with UV
+
+131
+00:07:38,320 --> 00:07:43,000
+radiation it's okay to get whacked with
+
+132
+00:07:40,560 --> 00:07:44,530
+visible radiation which is what we call
+
+133
+00:07:43,000 --> 00:07:48,490
+this part in here this is the part that
+
+134
+00:07:44,530 --> 00:07:50,340
+we can see then we get up here to these
+
+135
+00:07:48,490 --> 00:07:53,440
+longer wavelengths and now we're back to
+
+136
+00:07:50,340 --> 00:07:56,349
+waves that we can no longer see now the
+
+137
+00:07:53,440 --> 00:08:03,700
+ones that are pretty close to red in
+
+138
+00:07:56,349 --> 00:08:05,620
+here we call this near-infrared and the
+
+139
+00:08:03,700 --> 00:08:10,539
+ones that are way out here on this tail
+
+140
+00:08:05,620 --> 00:08:12,550
+we call these far infrared so everything
+
+141
+00:08:10,539 --> 00:08:15,610
+in the tail is infrared
+
+142
+00:08:12,550 --> 00:08:17,440
+NIR is this these guys far and it goes
+
+143
+00:08:15,610 --> 00:08:18,550
+goes on and on and on on this page goes
+
+144
+00:08:17,440 --> 00:08:23,919
+on forever
+
+145
+00:08:18,550 --> 00:08:26,320
+okay also when you get far out on this
+
+146
+00:08:23,919 --> 00:08:28,840
+tail and it's kind of off the page but
+
+147
+00:08:26,320 --> 00:08:35,409
+I'm going to draw it here anyway you get
+
+148
+00:08:28,840 --> 00:08:37,770
+to some radiation that is it we can't
+
+149
+00:08:35,409 --> 00:08:41,409
+see it but we have another sense for it
+
+150
+00:08:37,770 --> 00:08:43,180
+you would call this heat so if you were
+
+151
+00:08:41,409 --> 00:08:46,240
+up to let's say you walk up to a wall
+
+152
+00:08:43,180 --> 00:08:47,829
+and the wall is hot you have a sense
+
+153
+00:08:46,240 --> 00:08:50,290
+that it's hot without actually having to
+
+154
+00:08:47,829 --> 00:08:52,060
+touch it right like you can you can you
+
+155
+00:08:50,290 --> 00:08:56,370
+since it on your face like you feel
+
+156
+00:08:52,060 --> 00:09:02,949
+something and out here we call this
+
+157
+00:08:56,370 --> 00:09:04,660
+sensible heat not sensible because it
+
+158
+00:09:02,949 --> 00:09:06,579
+has good sense but sensible and that
+
+159
+00:09:04,660 --> 00:09:08,050
+it's not if you remember back some
+
+160
+00:09:06,579 --> 00:09:11,759
+lectures we talked about latent heat
+
+161
+00:09:08,050 --> 00:09:14,199
+latent heat is heat that is hidden
+
+162
+00:09:11,759 --> 00:09:18,279
+sensible heat is not hidden you can
+
+163
+00:09:14,199 --> 00:09:20,199
+touch it and feel it so what we perceive
+
+164
+00:09:18,279 --> 00:09:21,759
+as and what we talk about is sensible
+
+165
+00:09:20,199 --> 00:09:24,670
+heat that touched something warm and
+
+166
+00:09:21,759 --> 00:09:27,910
+feels warm that is actually I'm feeling
+
+167
+00:09:24,670 --> 00:09:30,190
+these waves way out here our eyes can't
+
+168
+00:09:27,910 --> 00:09:33,370
+see them now it's worth pointing out
+
+169
+00:09:30,190 --> 00:09:36,130
+that some animals can see other waves
+
+170
+00:09:33,370 --> 00:09:41,589
+that we cannot write so we can't see
+
+171
+00:09:36,130 --> 00:09:43,930
+near-infrared right here but snakes for
+
+172
+00:09:41,589 --> 00:09:46,449
+example pit vipers they have this little
+
+173
+00:09:43,930 --> 00:09:49,839
+pit on their head and it's a sensor and
+
+174
+00:09:46,449 --> 00:09:52,089
+they can see things that are warm and
+
+175
+00:09:49,839 --> 00:09:53,889
+they're kind of seeing they don't really
+
+176
+00:09:52,089 --> 00:09:56,560
+see this out here but they kind of see
+
+177
+00:09:53,889 --> 00:10:00,610
+the near-infrared part of that a lot of
+
+178
+00:09:56,560 --> 00:10:03,790
+insects can see UV out here and so I
+
+179
+00:10:00,610 --> 00:10:07,510
+helps them see different flowers so our
+
+180
+00:10:03,790 --> 00:10:08,980
+our world is the visible you know the
+
+181
+00:10:07,510 --> 00:10:11,260
+vit what we call the visible light world
+
+182
+00:10:08,980 --> 00:10:13,510
+these are the ways that we see but we're
+
+183
+00:10:11,260 --> 00:10:18,760
+surrounded with these other waves that
+
+184
+00:10:13,510 --> 00:10:22,300
+we cannot so with that I'm going to then
+
+185
+00:10:18,760 --> 00:10:23,800
+move to talk about how this what this
+
+186
+00:10:22,300 --> 00:10:27,310
+has anything they do with greenhouse
+
+187
+00:10:23,800 --> 00:10:29,560
+effect what we do when we talked about
+
+188
+00:10:27,310 --> 00:10:33,100
+the greenhouse effect is we take all of
+
+189
+00:10:29,560 --> 00:10:35,800
+these waves and we group them into two
+
+190
+00:10:33,100 --> 00:10:42,000
+categories we basically say that
+
+191
+00:10:35,800 --> 00:10:50,500
+everything from about here onward is
+
+192
+00:10:42,000 --> 00:10:52,959
+called shortwave radiation okay and so
+
+193
+00:10:50,500 --> 00:10:55,990
+sometimes that means all the visible and
+
+194
+00:10:52,959 --> 00:10:58,360
+UV sometimes people also include the
+
+195
+00:10:55,990 --> 00:11:01,199
+near-infrared but it's the majority this
+
+196
+00:10:58,360 --> 00:11:03,430
+hump that's the shortwave radiation and
+
+197
+00:11:01,199 --> 00:11:08,830
+everything to the right of this
+
+198
+00:11:03,430 --> 00:11:12,339
+is long-wave radiation so that is this
+
+199
+00:11:08,830 --> 00:11:14,410
+long tail that again it's it's much it's
+
+200
+00:11:12,339 --> 00:11:17,860
+much longer than I'm showing here goes
+
+201
+00:11:14,410 --> 00:11:19,420
+off the page so all the waves to the
+
+202
+00:11:17,860 --> 00:11:22,540
+right of this we call long wave
+
+203
+00:11:19,420 --> 00:11:25,420
+radiation all the ways to the left of
+
+204
+00:11:22,540 --> 00:11:29,200
+this we call short wave radiation okay
+
+205
+00:11:25,420 --> 00:11:31,510
+so we're gonna talk about short wave
+
+206
+00:11:29,200 --> 00:11:33,360
+radiation long wave radiation and just
+
+207
+00:11:31,510 --> 00:11:37,209
+keep in mind when you hear short wave
+
+208
+00:11:33,360 --> 00:11:39,459
+it's the stuff you see with the UV when
+
+209
+00:11:37,209 --> 00:11:41,260
+you see long wave radiation it's these
+
+210
+00:11:39,459 --> 00:11:43,690
+really long waves that you can't see but
+
+211
+00:11:41,260 --> 00:11:47,050
+you might be able to feel as sensible
+
+212
+00:11:43,690 --> 00:11:49,540
+heat so one of the things that happens
+
+213
+00:11:47,050 --> 00:11:53,050
+on earth is that shortwave radiation
+
+214
+00:11:49,540 --> 00:11:56,050
+comes in from the Sun and the earth
+
+215
+00:11:53,050 --> 00:11:58,600
+absorbs that and turns it into long wave
+
+216
+00:11:56,050 --> 00:12:02,110
+radiation okay so the way I would draw
+
+217
+00:11:58,600 --> 00:12:04,540
+that is so here's the surface there's
+
+218
+00:12:02,110 --> 00:12:08,980
+the Sun and mostly what comes in from
+
+219
+00:12:04,540 --> 00:12:11,160
+the Sun is shortwave radiation that's
+
+220
+00:12:08,980 --> 00:12:15,250
+the big hump of radiation we just drew
+
+221
+00:12:11,160 --> 00:12:17,560
+and it comes down and it goes through
+
+222
+00:12:15,250 --> 00:12:19,750
+space unaffected goes through the
+
+223
+00:12:17,560 --> 00:12:22,120
+atmosphere mostly unaffected hits the
+
+224
+00:12:19,750 --> 00:12:27,279
+ground and the ground absorbs this and
+
+225
+00:12:22,120 --> 00:12:31,690
+then the ground turns it into a long
+
+226
+00:12:27,279 --> 00:12:35,470
+wave radiation and so coming off of the
+
+227
+00:12:31,690 --> 00:12:39,270
+ground beaming back into space is long
+
+228
+00:12:35,470 --> 00:12:39,270
+wave radiation so this is the long wave
+
+229
+00:12:39,839 --> 00:12:43,529
+this is the short way
+
+230
+00:12:47,670 --> 00:12:54,940
+okay so remember that from the previous
+
+231
+00:12:50,680 --> 00:12:57,090
+diagram shortwave that's all mostly the
+
+232
+00:12:54,940 --> 00:12:59,650
+visible plus a little bit on each side
+
+233
+00:12:57,090 --> 00:13:01,690
+what's coming back what's coming off the
+
+234
+00:12:59,650 --> 00:13:05,050
+earth is a stuff way out here including
+
+235
+00:13:01,690 --> 00:13:07,060
+the heat that you can feel so you can
+
+236
+00:13:05,050 --> 00:13:10,300
+kind of think of the earth is converting
+
+237
+00:13:07,060 --> 00:13:13,780
+one type of radiation to the other we
+
+238
+00:13:10,300 --> 00:13:17,050
+see visible light weak comes in hits the
+
+239
+00:13:13,780 --> 00:13:21,190
+ground turns into heat that you can feel
+
+240
+00:13:17,050 --> 00:13:23,500
+so here's an illustration sun's out turn
+
+241
+00:13:21,190 --> 00:13:27,250
+you back to the Sun you back gets warm
+
+242
+00:13:23,500 --> 00:13:29,560
+why it's not heat coming from the Sun
+
+243
+00:13:27,250 --> 00:13:32,110
+it's shortwave radiation coming from the
+
+244
+00:13:29,560 --> 00:13:34,810
+Sun your heat your back absorbs that
+
+245
+00:13:32,110 --> 00:13:35,410
+turns it into long wave and then you can
+
+246
+00:13:34,810 --> 00:13:39,370
+sense it
+
+247
+00:13:35,410 --> 00:13:41,980
+so objects that are in the sunlight
+
+248
+00:13:39,370 --> 00:13:43,960
+take that shortwave radiation convert it
+
+249
+00:13:41,980 --> 00:13:46,000
+to a long wave radiation now in the
+
+250
+00:13:43,960 --> 00:13:49,300
+earth this long wave radiation is
+
+251
+00:13:46,000 --> 00:13:51,100
+beaming back out into space okay so if
+
+252
+00:13:49,300 --> 00:13:54,220
+you have any object floating out in
+
+253
+00:13:51,100 --> 00:13:57,310
+space earth the moon whatever it absorbs
+
+254
+00:13:54,220 --> 00:13:58,840
+the shortwave beams long wave back so
+
+255
+00:13:57,310 --> 00:14:01,570
+you if you're floating around out in
+
+256
+00:13:58,840 --> 00:14:03,700
+space and you had a thermometer you
+
+257
+00:14:01,570 --> 00:14:06,520
+could point it at the earth you would
+
+258
+00:14:03,700 --> 00:14:08,740
+measure this coming off of it so the
+
+259
+00:14:06,520 --> 00:14:12,310
+earth is like beaming this long wave
+
+260
+00:14:08,740 --> 00:14:14,560
+radiation out in space kind of like how
+
+261
+00:14:12,310 --> 00:14:17,860
+the Sun beams shortwave radiation out
+
+262
+00:14:14,560 --> 00:14:22,090
+into space okay so this is what's going
+
+263
+00:14:17,860 --> 00:14:24,850
+on with the earth so with that we're
+
+264
+00:14:22,090 --> 00:14:27,310
+going to investigate what greenhouse
+
+265
+00:14:24,850 --> 00:14:28,540
+what the greenhouse gas what a
+
+266
+00:14:27,310 --> 00:14:31,450
+greenhouse gas is and what the
+
+267
+00:14:28,540 --> 00:14:32,650
+greenhouse effect is and all that so
+
+268
+00:14:31,450 --> 00:14:34,450
+this is another one of the Phet
+
+269
+00:14:32,650 --> 00:14:37,330
+simulations it's called the greenhouse
+
+270
+00:14:34,450 --> 00:14:39,370
+effect and what we have here is a box
+
+271
+00:14:37,330 --> 00:14:42,990
+and I can put a different kind of
+
+272
+00:14:39,370 --> 00:14:46,840
+molecule on the box so nitrogen oxygen
+
+273
+00:14:42,990 --> 00:14:49,450
+water co2 whatever and I've got a
+
+274
+00:14:46,840 --> 00:14:52,120
+flashlight that can shoot either
+
+275
+00:14:49,450 --> 00:14:53,800
+shortwave radiation or long-wave
+
+276
+00:14:52,120 --> 00:14:56,410
+radiation now what they're calling it
+
+277
+00:14:53,800 --> 00:14:58,810
+here is they're calling it infrared so
+
+278
+00:14:56,410 --> 00:15:00,819
+that's a long wave radiation and I can
+
+279
+00:14:58,810 --> 00:15:03,489
+turn on the slider and it's
+
+280
+00:15:00,819 --> 00:15:06,239
+start shooting well we call photons a
+
+281
+00:15:03,489 --> 00:15:08,649
+little packets of light that are either
+
+282
+00:15:06,239 --> 00:15:09,939
+so what they're calling infrared we just
+
+283
+00:15:08,649 --> 00:15:11,709
+call it a long way so these are a long
+
+284
+00:15:09,939 --> 00:15:15,220
+way this is little packets a long wave
+
+285
+00:15:11,709 --> 00:15:16,629
+radiation or I can switch it to the
+
+286
+00:15:15,220 --> 00:15:17,799
+visible light which is the shortwave
+
+287
+00:15:16,629 --> 00:15:19,809
+radiation okay
+
+288
+00:15:17,799 --> 00:15:21,399
+and it shows whether what it's showing
+
+289
+00:15:19,809 --> 00:15:24,189
+here is that the photons are just
+
+290
+00:15:21,399 --> 00:15:26,649
+passing right through my oxygen molecule
+
+291
+00:15:24,189 --> 00:15:30,009
+and nothing's happening and I can switch
+
+292
+00:15:26,649 --> 00:15:32,679
+this to nitrogen and again no matter
+
+293
+00:15:30,009 --> 00:15:38,109
+what I do the different types of light
+
+294
+00:15:32,679 --> 00:15:39,850
+just go right through so so far nothing
+
+295
+00:15:38,109 --> 00:15:42,009
+really interesting is happening what's
+
+296
+00:15:39,850 --> 00:15:44,410
+our atmosphere made out of roughly
+
+297
+00:15:42,009 --> 00:15:47,499
+eighty percent nitrogen twenty percent
+
+298
+00:15:44,410 --> 00:15:50,789
+oxygen and so when I put these molecules
+
+299
+00:15:47,499 --> 00:15:54,399
+in there nothing happens right okay so
+
+300
+00:15:50,789 --> 00:15:56,979
+let's say I change this though and I'm
+
+301
+00:15:54,399 --> 00:16:02,169
+gonna put in a water molecule okay so I
+
+302
+00:15:56,979 --> 00:16:04,629
+got water molecules and so just remind
+
+303
+00:16:02,169 --> 00:16:06,789
+you there's the the two oxygen sorry the
+
+304
+00:16:04,629 --> 00:16:08,049
+two hydrogen's on one side and it kind
+
+305
+00:16:06,789 --> 00:16:10,539
+of has that Mickey Mouse head shape we
+
+306
+00:16:08,049 --> 00:16:13,389
+talked about in the past so if I change
+
+307
+00:16:10,539 --> 00:16:15,489
+this to shoot long wave radiation at it
+
+308
+00:16:13,389 --> 00:16:17,499
+I notice that finally something's
+
+309
+00:16:15,489 --> 00:16:21,399
+different starts happening and once in a
+
+310
+00:16:17,499 --> 00:16:25,449
+while the water molecule absorbs one of
+
+311
+00:16:21,399 --> 00:16:28,509
+those photons of long wave radiation it
+
+312
+00:16:25,449 --> 00:16:30,269
+gets excited it wiggles and then it
+
+313
+00:16:28,509 --> 00:16:34,959
+shoots it off in some random direction
+
+314
+00:16:30,269 --> 00:16:36,519
+okay so as I sit here and watch this you
+
+315
+00:16:34,959 --> 00:16:39,519
+know if I was standing behind this
+
+316
+00:16:36,519 --> 00:16:43,089
+flashlight doing this once in a while
+
+317
+00:16:39,519 --> 00:16:46,289
+one of those red photons of long wave
+
+318
+00:16:43,089 --> 00:16:48,329
+radiation would come back towards me now
+
+319
+00:16:46,289 --> 00:16:51,129
+we just said that long wave radiation
+
+320
+00:16:48,329 --> 00:16:53,799
+includes sensible heat which you can
+
+321
+00:16:51,129 --> 00:16:55,749
+feel alright so if you can imagine me
+
+322
+00:16:53,799 --> 00:16:57,369
+shooting these little photons of long
+
+323
+00:16:55,749 --> 00:17:00,249
+wave radiation at this water molecule
+
+324
+00:16:57,369 --> 00:17:02,229
+and occasionally one of them comes back
+
+325
+00:17:00,249 --> 00:17:05,529
+towards me like that one right there
+
+326
+00:17:02,229 --> 00:17:08,470
+then my experience as the guy behind the
+
+327
+00:17:05,529 --> 00:17:11,860
+flashlight is I feel the warmth of that
+
+328
+00:17:08,470 --> 00:17:13,360
+little photons coming back okay so I'm
+
+329
+00:17:11,860 --> 00:17:14,530
+gonna make a bunch of them
+
+330
+00:17:13,360 --> 00:17:16,990
+let's build a nap
+
+331
+00:17:14,530 --> 00:17:21,660
+fear I'm gonna put a bunch of waters out
+
+332
+00:17:16,990 --> 00:17:26,320
+here and I'm gonna turn on my flashlight
+
+333
+00:17:21,660 --> 00:17:29,950
+America and I start spraying this box of
+
+334
+00:17:26,320 --> 00:17:32,740
+water molecules with photons of long
+
+335
+00:17:29,950 --> 00:17:34,870
+wave radiation and as I stand back here
+
+336
+00:17:32,740 --> 00:17:39,580
+I'll notice that occasionally some of
+
+337
+00:17:34,870 --> 00:17:41,860
+them come back towards me okay this is
+
+338
+00:17:39,580 --> 00:17:45,160
+what we call the greenhouse effect and
+
+339
+00:17:41,860 --> 00:17:49,390
+water is a greenhouse gas because it
+
+340
+00:17:45,160 --> 00:17:51,790
+does this not all gases do this so I
+
+341
+00:17:49,390 --> 00:17:56,140
+just Illustrated this but if I had a
+
+342
+00:17:51,790 --> 00:17:56,680
+bunch of let me take my waters back come
+
+343
+00:17:56,140 --> 00:17:59,740
+on
+
+344
+00:17:56,680 --> 00:18:03,130
+and I'm going to increase my got a bunch
+
+345
+00:17:59,740 --> 00:18:08,740
+of oxygens and I got a bunch of
+
+346
+00:18:03,130 --> 00:18:13,300
+nitrogen's and now I will shoot those
+
+347
+00:18:08,740 --> 00:18:15,100
+guys and that the the long wave
+
+348
+00:18:13,300 --> 00:18:17,200
+radiation just passes right through and
+
+349
+00:18:15,100 --> 00:18:19,960
+you sees molecules just don't care
+
+350
+00:18:17,200 --> 00:18:21,640
+nothing's happening so none of those
+
+351
+00:18:19,960 --> 00:18:25,060
+photons are getting reflected back
+
+352
+00:18:21,640 --> 00:18:28,240
+towards me at any point on the other
+
+353
+00:18:25,060 --> 00:18:32,170
+hand if I went to let's get rid of my
+
+354
+00:18:28,240 --> 00:18:40,210
+nitrogen let's get rid of my oxygen come
+
+355
+00:18:32,170 --> 00:18:42,250
+on and I could put in some co2 so co2 is
+
+356
+00:18:40,210 --> 00:18:44,950
+another one of these molecules that acts
+
+357
+00:18:42,250 --> 00:18:47,950
+as a greenhouse gas you can see they get
+
+358
+00:18:44,950 --> 00:18:49,990
+excited occasionally and they shoot off
+
+359
+00:18:47,950 --> 00:18:52,570
+a photon in some random direction and
+
+360
+00:18:49,990 --> 00:18:59,200
+that random direction might be back
+
+361
+00:18:52,570 --> 00:19:02,170
+towards where I am methane nothing isn't
+
+362
+00:18:59,200 --> 00:19:05,610
+as a CH floor has carbon with four
+
+363
+00:19:02,170 --> 00:19:11,700
+hydrogen's so I go back here and make a
+
+364
+00:19:05,610 --> 00:19:11,700
+atmosphere with methane and
+
+365
+00:19:14,140 --> 00:19:20,549
+so as I shoot the methane with the
+
+366
+00:19:17,549 --> 00:19:23,410
+long-wave radiation you can see it also
+
+367
+00:19:20,549 --> 00:19:24,240
+gets partly absorbed and reflects back
+
+368
+00:19:23,410 --> 00:19:26,620
+towards me
+
+369
+00:19:24,240 --> 00:19:29,170
+it's also worth pointing out that if I
+
+370
+00:19:26,620 --> 00:19:32,140
+put the flashlight on visible so
+
+371
+00:19:29,170 --> 00:19:38,250
+shortwave radiation and I fill up the
+
+372
+00:19:32,140 --> 00:19:38,250
+atmosphere with nitrogen and oxygen that
+
+373
+00:19:38,549 --> 00:19:45,370
+the shortwave radiation goes through the
+
+374
+00:19:41,950 --> 00:19:53,940
+atmosphere completely unaffected and if
+
+375
+00:19:45,370 --> 00:20:00,760
+I put in greenhouse gases so methane co2
+
+376
+00:19:53,940 --> 00:20:02,020
+water that nothing is affected here in
+
+377
+00:20:00,760 --> 00:20:03,970
+other words the shortwave radiation
+
+378
+00:20:02,020 --> 00:20:06,340
+pretty much just goes right through the
+
+379
+00:20:03,970 --> 00:20:09,669
+atmosphere so it's coming from the Sun
+
+380
+00:20:06,340 --> 00:20:13,150
+goes to the atmosphere does not interact
+
+381
+00:20:09,669 --> 00:20:17,260
+with hardly any gases it's the long-wave
+
+382
+00:20:13,150 --> 00:20:18,429
+radiation that is interacting with the
+
+383
+00:20:17,260 --> 00:20:21,429
+greenhouse gases
+
+384
+00:20:18,429 --> 00:20:23,860
+okay so oxygen nitrogen no interaction
+
+385
+00:20:21,429 --> 00:20:26,200
+whatsoever with anything the greenhouse
+
+386
+00:20:23,860 --> 00:20:29,470
+gases and so far we've seen co2 water
+
+387
+00:20:26,200 --> 00:20:31,500
+and methane do interact with a long wave
+
+388
+00:20:29,470 --> 00:20:31,500
+radiation
+
+389
+00:20:31,590 --> 00:20:36,790
+okay so let's return back to this
+
+390
+00:20:33,970 --> 00:20:39,160
+diagram that we just drew and what we
+
+391
+00:20:36,790 --> 00:20:41,950
+have drawn here is a scenario on a
+
+392
+00:20:39,160 --> 00:20:45,130
+planet that has no greenhouse gases so
+
+393
+00:20:41,950 --> 00:20:48,580
+let's just say our atmosphere was oxygen
+
+394
+00:20:45,130 --> 00:20:51,010
+nitrogen we have no greenhouse gases or
+
+395
+00:20:48,580 --> 00:20:53,799
+maybe no atmosphere at all shortwave
+
+396
+00:20:51,010 --> 00:20:56,140
+radiation comes in hits the ground goes
+
+397
+00:20:53,799 --> 00:20:59,200
+back out into space as long wave
+
+398
+00:20:56,140 --> 00:21:02,820
+radiation if the earth had no greenhouse
+
+399
+00:20:59,200 --> 00:21:07,559
+gases whatsoever just oxygen nitrogen
+
+400
+00:21:02,820 --> 00:21:07,559
+then our average temperature
+
+401
+00:21:11,630 --> 00:21:19,070
+the entire planet is somewhere around
+
+402
+00:21:16,240 --> 00:21:21,799
+four degrees Fahrenheit okay
+
+403
+00:21:19,070 --> 00:21:23,480
+so this takes into this is the whole
+
+404
+00:21:21,799 --> 00:21:25,190
+earth now so it's the poles is the
+
+405
+00:21:23,480 --> 00:21:26,720
+equator it's the summers it's the
+
+406
+00:21:25,190 --> 00:21:29,030
+winters the days of the night it's all
+
+407
+00:21:26,720 --> 00:21:32,330
+thrown together you get a number about
+
+408
+00:21:29,030 --> 00:21:35,059
+four degrees Fahrenheit so pretty close
+
+409
+00:21:32,330 --> 00:21:38,210
+to zero Fahrenheit what's what would the
+
+410
+00:21:35,059 --> 00:21:40,580
+earth be like if the average temperature
+
+411
+00:21:38,210 --> 00:21:42,770
+is about zero that means you're looking
+
+412
+00:21:40,580 --> 00:21:45,080
+at an earth that is essentially entirely
+
+413
+00:21:42,770 --> 00:21:48,200
+frozen the oceans would probably be
+
+414
+00:21:45,080 --> 00:21:50,840
+frozen completely over right so that's
+
+415
+00:21:48,200 --> 00:21:53,659
+what it would be like if we had no
+
+416
+00:21:50,840 --> 00:21:56,299
+greenhouse gases okay so now let's let's
+
+417
+00:21:53,659 --> 00:22:00,730
+take this scenario and let's add one
+
+418
+00:21:56,299 --> 00:22:05,059
+thing what if we had a planet that had
+
+419
+00:22:00,730 --> 00:22:10,309
+clouds okay so we're just gonna do that
+
+420
+00:22:05,059 --> 00:22:15,049
+first so redraw okay so in this scenario
+
+421
+00:22:10,309 --> 00:22:20,120
+we have clouds and so I'm gonna draw
+
+422
+00:22:15,049 --> 00:22:20,720
+these as some physical objects in the
+
+423
+00:22:20,120 --> 00:22:25,010
+sky
+
+424
+00:22:20,720 --> 00:22:28,640
+okay and what happens
+
+425
+00:22:25,010 --> 00:22:30,919
+well shortwave radiation still comes
+
+426
+00:22:28,640 --> 00:22:39,370
+down from the Sun as before which I'm
+
+427
+00:22:30,919 --> 00:22:42,350
+drawing is blue and clouds will reflect
+
+428
+00:22:39,370 --> 00:22:44,270
+some of that shortwave radiation back
+
+429
+00:22:42,350 --> 00:22:47,390
+out into space okay so that's a
+
+430
+00:22:44,270 --> 00:22:50,590
+possibility and one of the things that
+
+431
+00:22:47,390 --> 00:22:54,980
+we'll do is that will help cool it down
+
+432
+00:22:50,590 --> 00:22:57,559
+during the day right so cloudy day
+
+433
+00:22:54,980 --> 00:22:59,179
+usually not as hot it's because we're we
+
+434
+00:22:57,559 --> 00:23:06,200
+are reflecting some of that shortwave
+
+435
+00:22:59,179 --> 00:23:08,210
+radiation back out into space but the
+
+436
+00:23:06,200 --> 00:23:11,090
+the short way some of it still gets to
+
+437
+00:23:08,210 --> 00:23:15,919
+the ground and still turns into long
+
+438
+00:23:11,090 --> 00:23:19,250
+wave and long wave then heads out into
+
+439
+00:23:15,919 --> 00:23:20,720
+space just like before but the
+
+440
+00:23:19,250 --> 00:23:24,140
+difference now is that we have some
+
+441
+00:23:20,720 --> 00:23:26,809
+clouds so as so so some of it
+
+442
+00:23:24,140 --> 00:23:29,659
+we'll make it all about the space right
+
+443
+00:23:26,809 --> 00:23:34,929
+that will mix it up of space but maybe
+
+444
+00:23:29,659 --> 00:23:38,960
+this one hits this cloud and some of it
+
+445
+00:23:34,929 --> 00:23:43,640
+goes through but some of it reflects
+
+446
+00:23:38,960 --> 00:23:46,570
+back this one hits the cloud some of it
+
+447
+00:23:43,640 --> 00:23:51,320
+goes through some of it reflects back
+
+448
+00:23:46,570 --> 00:23:57,740
+okay so if you are an observer on the
+
+449
+00:23:51,320 --> 00:23:59,690
+ground down here so we're sitting we're
+
+450
+00:23:57,740 --> 00:24:01,730
+saying this is the same planet as before
+
+451
+00:23:59,690 --> 00:24:04,880
+so the planet before had no greenhouse
+
+452
+00:24:01,730 --> 00:24:07,250
+gases it was zero degrees the person on
+
+453
+00:24:04,880 --> 00:24:10,100
+that previous planet could feel the
+
+454
+00:24:07,250 --> 00:24:12,169
+warmth coming up from the surface this
+
+455
+00:24:10,100 --> 00:24:14,960
+person also feels the warmth coming up
+
+456
+00:24:12,169 --> 00:24:17,210
+from the surface but but now there's a
+
+457
+00:24:14,960 --> 00:24:21,159
+little portion of it that's coming down
+
+458
+00:24:17,210 --> 00:24:28,090
+from above so in other words this little
+
+459
+00:24:21,159 --> 00:24:31,130
+reflection may come down and hit you and
+
+460
+00:24:28,090 --> 00:24:35,230
+you now feel like there's a little bit
+
+461
+00:24:31,130 --> 00:24:39,169
+of warmth coming up from those clouds so
+
+462
+00:24:35,230 --> 00:24:40,490
+the presence of clouds and so we've kind
+
+463
+00:24:39,169 --> 00:24:41,919
+of skipped greenhouse gases here for a
+
+464
+00:24:40,490 --> 00:24:52,240
+little bit but the presence of clouds
+
+465
+00:24:41,919 --> 00:24:56,049
+means that you will have cooler days but
+
+466
+00:24:52,240 --> 00:24:56,049
+you'll have warmer nights
+
+467
+00:24:56,830 --> 00:25:01,460
+okay so generally speaking if it's
+
+468
+00:25:00,080 --> 00:25:04,669
+clutch you know especially in the winter
+
+469
+00:25:01,460 --> 00:25:06,980
+if it's cloudy at night it's gonna be
+
+470
+00:25:04,669 --> 00:25:09,230
+much warmer at night than it is if it's
+
+471
+00:25:06,980 --> 00:25:11,860
+clearer at night because a lot of this
+
+472
+00:25:09,230 --> 00:25:14,240
+long wave radiation that's coming up is
+
+473
+00:25:11,860 --> 00:25:16,429
+reflecting off of these clouds and
+
+474
+00:25:14,240 --> 00:25:18,080
+coming back towards you and so just to
+
+475
+00:25:16,429 --> 00:25:22,789
+be clear make sure what I'm doing here
+
+476
+00:25:18,080 --> 00:25:24,919
+all my red ones those are all long long
+
+477
+00:25:22,789 --> 00:25:27,889
+wave radiation going out towards this
+
+478
+00:25:24,919 --> 00:25:30,350
+toward space so so so the big picture
+
+479
+00:25:27,889 --> 00:25:33,350
+here is everything is the same as before
+
+480
+00:25:30,350 --> 00:25:35,809
+except these clouds are going to cause
+
+481
+00:25:33,350 --> 00:25:37,640
+some reflections some reflections of
+
+482
+00:25:35,809 --> 00:25:39,980
+shortwave back out into space
+
+483
+00:25:37,640 --> 00:25:41,900
+makes things cooler some reflection of
+
+484
+00:25:39,980 --> 00:25:45,290
+long wave radiation coming back down
+
+485
+00:25:41,900 --> 00:25:48,860
+makes things warmer so the big picture
+
+486
+00:25:45,290 --> 00:25:51,250
+is a cloudy planet going to be warmer at
+
+487
+00:25:48,860 --> 00:25:54,610
+night probably cooler during the day
+
+488
+00:25:51,250 --> 00:25:58,070
+okay so now here's our third scenario
+
+489
+00:25:54,610 --> 00:25:59,690
+now we have an atmosphere that has some
+
+490
+00:25:58,070 --> 00:26:02,450
+greenhouse gases and I've drawn some
+
+491
+00:25:59,690 --> 00:26:05,270
+greenhouse gases here I've not drawn in
+
+492
+00:26:02,450 --> 00:26:07,730
+oxygen in nitrogen because as we've just
+
+493
+00:26:05,270 --> 00:26:09,590
+kind of demonstrated they have nothing
+
+494
+00:26:07,730 --> 00:26:13,100
+to do with either a long wave or
+
+495
+00:26:09,590 --> 00:26:14,990
+shortwave radiation so I'm not drawing
+
+496
+00:26:13,100 --> 00:26:16,880
+them I just threw in some some
+
+497
+00:26:14,990 --> 00:26:19,430
+greenhouse gases we've got some methane
+
+498
+00:26:16,880 --> 00:26:24,670
+we've got some water we got some co2
+
+499
+00:26:19,430 --> 00:26:27,320
+okay so what happens in this scenario
+
+500
+00:26:24,670 --> 00:26:33,190
+shortwave radiation still comes in from
+
+501
+00:26:27,320 --> 00:26:33,190
+the Sun so here's my shortwave coming in
+
+502
+00:26:36,850 --> 00:26:44,600
+and long-wave radiation
+
+503
+00:26:41,560 --> 00:26:47,930
+heads out to space from the from the
+
+504
+00:26:44,600 --> 00:26:50,420
+surface and as it goes out you know some
+
+505
+00:26:47,930 --> 00:26:52,880
+of it comes out and goes all the way
+
+506
+00:26:50,420 --> 00:26:56,540
+until it you know it goes all the way
+
+507
+00:26:52,880 --> 00:26:59,060
+out into space and sometimes it will
+
+508
+00:26:56,540 --> 00:27:01,670
+interact with one of these greenhouse
+
+509
+00:26:59,060 --> 00:27:03,470
+gases so back to the animation where the
+
+510
+00:27:01,670 --> 00:27:05,510
+greenhouse gas got excited and wiggled
+
+511
+00:27:03,470 --> 00:27:08,150
+and it shot that photon in a random
+
+512
+00:27:05,510 --> 00:27:08,450
+direction well that's what's happening
+
+513
+00:27:08,150 --> 00:27:12,130
+here
+
+514
+00:27:08,450 --> 00:27:15,950
+this outgoing there's my long wave
+
+515
+00:27:12,130 --> 00:27:20,510
+coming out is going to interact with
+
+516
+00:27:15,950 --> 00:27:23,680
+this co2 co2 gets excited Wiggles shoots
+
+517
+00:27:20,510 --> 00:27:28,840
+out a photon in some random direction
+
+518
+00:27:23,680 --> 00:27:32,200
+okay and this is happening all
+
+519
+00:27:28,840 --> 00:27:38,270
+throughout here where some of these
+
+520
+00:27:32,200 --> 00:27:40,790
+interactions are sending the long-wave
+
+521
+00:27:38,270 --> 00:27:42,560
+radiation in various random directions
+
+522
+00:27:40,790 --> 00:27:45,430
+I'm just going to draw a few of them
+
+523
+00:27:42,560 --> 00:27:45,430
+because it takes forever
+
+524
+00:27:46,560 --> 00:27:51,660
+so well I'm trying to draw here is that
+
+525
+00:27:49,620 --> 00:27:55,950
+there's all these interactions occurring
+
+526
+00:27:51,660 --> 00:27:59,160
+with greenhouse gases now eventually
+
+527
+00:27:55,950 --> 00:28:01,500
+this long wave radiation will make it
+
+528
+00:27:59,160 --> 00:28:03,960
+out to space right you know it'll bounce
+
+529
+00:28:01,500 --> 00:28:06,120
+back and forth between one molecule and
+
+530
+00:28:03,960 --> 00:28:09,480
+what have you eventually it'll get out
+
+531
+00:28:06,120 --> 00:28:17,060
+but before it gets out the person on the
+
+532
+00:28:09,480 --> 00:28:19,860
+ground down here is experiencing these
+
+533
+00:28:17,060 --> 00:28:24,120
+photons a long wave radiation coming
+
+534
+00:28:19,860 --> 00:28:26,100
+back down out of the sky now before we
+
+535
+00:28:24,120 --> 00:28:27,420
+say they're coming down reflecting off a
+
+536
+00:28:26,100 --> 00:28:29,970
+cloud well in this case we have no
+
+537
+00:28:27,420 --> 00:28:31,830
+clouds but they're still coming back
+
+538
+00:28:29,970 --> 00:28:34,700
+down they're reflecting off of these
+
+539
+00:28:31,830 --> 00:28:38,100
+invisible gases these greenhouse gases
+
+540
+00:28:34,700 --> 00:28:40,680
+so if this one for example comes down to
+
+541
+00:28:38,100 --> 00:28:43,890
+the ground and hits this person this
+
+542
+00:28:40,680 --> 00:28:45,240
+person feels warmer well eventually if
+
+543
+00:28:43,890 --> 00:28:48,720
+we just think about where that
+
+544
+00:28:45,240 --> 00:28:51,150
+ultimately goes it'll eventually head
+
+545
+00:28:48,720 --> 00:28:53,790
+back out into space and it may reflect
+
+546
+00:28:51,150 --> 00:28:55,470
+back and forth several times but it'll
+
+547
+00:28:53,790 --> 00:28:58,380
+eventually get out it'll eventually go
+
+548
+00:28:55,470 --> 00:29:00,180
+out into into space but you can think of
+
+549
+00:28:58,380 --> 00:29:02,310
+this as like we're recycling some of
+
+550
+00:29:00,180 --> 00:29:04,470
+these long these parties photons of long
+
+551
+00:29:02,310 --> 00:29:06,780
+wave radiation it was all headed to
+
+552
+00:29:04,470 --> 00:29:07,380
+space it got intercepted on the way
+
+553
+00:29:06,780 --> 00:29:09,660
+there
+
+554
+00:29:07,380 --> 00:29:12,600
+got rerouted back down towards the
+
+555
+00:29:09,660 --> 00:29:14,970
+surface some of it and then as it hits
+
+556
+00:29:12,600 --> 00:29:17,490
+the surface that it's back headed back
+
+557
+00:29:14,970 --> 00:29:21,030
+out to space for a second or third or
+
+558
+00:29:17,490 --> 00:29:23,220
+fourth or fifth time so this is what we
+
+559
+00:29:21,030 --> 00:29:25,980
+mean by greenhouse effect the greenhouse
+
+560
+00:29:23,220 --> 00:29:28,170
+effect means we have these molecules
+
+561
+00:29:25,980 --> 00:29:29,060
+that has has this property of being able
+
+562
+00:29:28,170 --> 00:29:32,400
+to absorb
+
+563
+00:29:29,060 --> 00:29:34,920
+Longway radiation redirect it in a
+
+564
+00:29:32,400 --> 00:29:37,350
+random direction that random direction
+
+565
+00:29:34,920 --> 00:29:39,840
+could be back down towards the surface
+
+566
+00:29:37,350 --> 00:29:43,010
+in which case it makes the surface
+
+567
+00:29:39,840 --> 00:29:46,350
+warmer than initially was going to be
+
+568
+00:29:43,010 --> 00:29:49,880
+that's the greenhouse effect and because
+
+569
+00:29:46,350 --> 00:29:53,660
+of the greenhouse effect the worldwide
+
+570
+00:29:49,880 --> 00:29:53,660
+average temperature
+
+571
+00:29:55,680 --> 00:30:03,250
+is about 54 degrees okay
+
+572
+00:29:59,800 --> 00:30:07,350
+and that's lucky for us because that's
+
+573
+00:30:03,250 --> 00:30:09,670
+above freezing so we could not survive
+
+574
+00:30:07,350 --> 00:30:12,520
+without the greenhouse effect
+
+575
+00:30:09,670 --> 00:30:14,440
+so prior we said that without the
+
+576
+00:30:12,520 --> 00:30:17,320
+greenhouse effect the entire earth is
+
+577
+00:30:14,440 --> 00:30:19,200
+below freezing okay we have to have the
+
+578
+00:30:17,320 --> 00:30:23,140
+rehouse effect to survive on this planet
+
+579
+00:30:19,200 --> 00:30:25,750
+it just turns out that in the last 100
+
+580
+00:30:23,140 --> 00:30:29,200
+ish years or so we as humans have been
+
+581
+00:30:25,750 --> 00:30:31,780
+adding too much of a good thing to the
+
+582
+00:30:29,200 --> 00:30:34,600
+planet and into the atmosphere and we
+
+583
+00:30:31,780 --> 00:30:36,580
+are increasing this greenhouse effect so
+
+584
+00:30:34,600 --> 00:30:39,310
+as we get into climate change what what
+
+585
+00:30:36,580 --> 00:30:41,110
+I want you to keep clear is you got to
+
+586
+00:30:39,310 --> 00:30:44,260
+have the greenhouse effect you got to
+
+587
+00:30:41,110 --> 00:30:46,180
+have it otherwise we die right but we've
+
+588
+00:30:44,260 --> 00:30:48,520
+got it a little too much of it now and
+
+589
+00:30:46,180 --> 00:30:50,970
+so things are warming up because we are
+
+590
+00:30:48,520 --> 00:30:53,530
+reflecting more of those long wave
+
+591
+00:30:50,970 --> 00:30:56,980
+photons back towards the surface that
+
+592
+00:30:53,530 --> 00:30:58,810
+are that are supposed to be here okay
+
+593
+00:30:56,980 --> 00:31:01,480
+we're going to return to that Phet
+
+594
+00:30:58,810 --> 00:31:03,640
+animation and we were looking at this
+
+595
+00:31:01,480 --> 00:31:05,650
+tab called photon absorption and now
+
+596
+00:31:03,640 --> 00:31:08,320
+we're going to go over to greenhouse
+
+597
+00:31:05,650 --> 00:31:09,850
+effect and what they're trying to show
+
+598
+00:31:08,320 --> 00:31:12,910
+they're trying to animate basically what
+
+599
+00:31:09,850 --> 00:31:15,100
+we just drew they're using yellow to
+
+600
+00:31:12,910 --> 00:31:16,810
+represent shortwave radiation from the
+
+601
+00:31:15,100 --> 00:31:19,750
+Sun so these little yellow photons
+
+602
+00:31:16,810 --> 00:31:22,120
+that's the visible light plus the UV
+
+603
+00:31:19,750 --> 00:31:25,780
+maybe some near-infrared coming down and
+
+604
+00:31:22,120 --> 00:31:29,230
+this the red represents the long wave
+
+605
+00:31:25,780 --> 00:31:31,330
+radiation going back out into space okay
+
+606
+00:31:29,230 --> 00:31:33,520
+so this is what we drew as arrows I used
+
+607
+00:31:31,330 --> 00:31:34,870
+the color blue they're using the color
+
+608
+00:31:33,520 --> 00:31:38,260
+yellow
+
+609
+00:31:34,870 --> 00:31:41,350
+but there's photons coming down there's
+
+610
+00:31:38,260 --> 00:31:44,550
+photons going out no greenhouse gases
+
+611
+00:31:41,350 --> 00:31:47,050
+and it shows that the worldwide
+
+612
+00:31:44,550 --> 00:31:49,300
+temperature is about in this case looks
+
+613
+00:31:47,050 --> 00:31:51,070
+like it's about minus 2 pretty close to
+
+614
+00:31:49,300 --> 00:31:54,760
+zero zero degrees Fahrenheit right so
+
+615
+00:31:51,070 --> 00:31:57,400
+the world is frozen now what I can do
+
+616
+00:31:54,760 --> 00:32:01,180
+with this is I can put in greenhouse
+
+617
+00:31:57,400 --> 00:32:03,670
+gases and watch how things change so
+
+618
+00:32:01,180 --> 00:32:06,040
+right now this entire time I've had this
+
+619
+00:32:03,670 --> 00:32:06,850
+says greenhouse gas concentration have
+
+620
+00:32:06,040 --> 00:32:09,280
+had it all
+
+621
+00:32:06,850 --> 00:32:13,270
+and I'm gonna turn it up to somewhere in
+
+622
+00:32:09,280 --> 00:32:16,300
+the middle here and what I want you to
+
+623
+00:32:13,270 --> 00:32:18,190
+do is notice how the red ones change
+
+624
+00:32:16,300 --> 00:32:19,540
+their behavior you'll notice if you
+
+625
+00:32:18,190 --> 00:32:22,570
+watch one for a while it'll suddenly
+
+626
+00:32:19,540 --> 00:32:24,220
+change direction that's where it's
+
+627
+00:32:22,570 --> 00:32:26,980
+interacting with a greenhouse gas
+
+628
+00:32:24,220 --> 00:32:30,400
+molecule and kind of like I drew with
+
+629
+00:32:26,980 --> 00:32:33,100
+arrows reflecting these little photons
+
+630
+00:32:30,400 --> 00:32:35,290
+of long-wave radiation are headed out to
+
+631
+00:32:33,100 --> 00:32:37,690
+space but before they get there they
+
+632
+00:32:35,290 --> 00:32:39,550
+often get intercepted redirected and a
+
+633
+00:32:37,690 --> 00:32:42,040
+lot of them come back down towards the
+
+634
+00:32:39,550 --> 00:32:43,510
+surface so what that means is the
+
+635
+00:32:42,040 --> 00:32:44,920
+surface is getting warm and you can see
+
+636
+00:32:43,510 --> 00:32:48,550
+the temperature has been rising here
+
+637
+00:32:44,920 --> 00:32:50,020
+okay so this is the greenhouse effect
+
+638
+00:32:48,550 --> 00:32:52,630
+and they're not showing you the
+
+639
+00:32:50,020 --> 00:32:55,750
+molecules I drew those in on our last
+
+640
+00:32:52,630 --> 00:32:59,070
+paper but it's showing it's animating
+
+641
+00:32:55,750 --> 00:33:04,000
+the effect that the greenhouse effect
+
+642
+00:32:59,070 --> 00:33:05,680
+produces I could also just turn it all
+
+643
+00:33:04,000 --> 00:33:07,230
+the way up so I'm going to crank it all
+
+644
+00:33:05,680 --> 00:33:09,250
+that we have greenhouse gas
+
+645
+00:33:07,230 --> 00:33:11,500
+concentrations all the way Taurus has
+
+646
+00:33:09,250 --> 00:33:13,960
+lots and you'll see a lot more
+
+647
+00:33:11,500 --> 00:33:16,120
+interactions with the red maliki the red
+
+648
+00:33:13,960 --> 00:33:17,740
+photons you see a lot of them bouncing
+
+649
+00:33:16,120 --> 00:33:19,960
+around meaning that they're interacting
+
+650
+00:33:17,740 --> 00:33:21,940
+with greenhouse gas molecules coming
+
+651
+00:33:19,960 --> 00:33:23,520
+back towards the surface and we see that
+
+652
+00:33:21,940 --> 00:33:26,080
+that surface temperature is now
+
+653
+00:33:23,520 --> 00:33:28,420
+increasing looks like it's getting up to
+
+654
+00:33:26,080 --> 00:33:30,790
+over 70 degrees now remember what this
+
+655
+00:33:28,420 --> 00:33:31,840
+means this is not 70 degrees I mean that
+
+656
+00:33:30,790 --> 00:33:34,450
+doesn't sound bad at all
+
+657
+00:33:31,840 --> 00:33:36,790
+that's a worldwide global average so
+
+658
+00:33:34,450 --> 00:33:38,620
+it's also including the poles and the
+
+659
+00:33:36,790 --> 00:33:43,030
+days and nights and the winners and
+
+660
+00:33:38,620 --> 00:33:46,420
+everything right so worldwide the entire
+
+661
+00:33:43,030 --> 00:33:50,200
+temperature is increasing if I increase
+
+662
+00:33:46,420 --> 00:33:51,340
+the greenhouse gas concentrations so
+
+663
+00:33:50,200 --> 00:33:53,380
+we're going to talk about some of these
+
+664
+00:33:51,340 --> 00:33:55,000
+different greenhouse gases but before we
+
+665
+00:33:53,380 --> 00:33:57,940
+do that we're going to talk a little bit
+
+666
+00:33:55,000 --> 00:34:02,410
+about some of the gases we've talked
+
+667
+00:33:57,940 --> 00:34:05,140
+about so far in class and so early on in
+
+668
+00:34:02,410 --> 00:34:07,570
+the semester we talked about how the
+
+669
+00:34:05,140 --> 00:34:10,630
+atmosphere is mostly oxygen and nitrogen
+
+670
+00:34:07,570 --> 00:34:13,570
+a little bit of argon a little bit co2 a
+
+671
+00:34:10,630 --> 00:34:15,970
+little bit of water vapor and then up in
+
+672
+00:34:13,570 --> 00:34:17,710
+the stratosphere a little bit of ozone
+
+673
+00:34:15,970 --> 00:34:18,980
+right so these are all naturally
+
+674
+00:34:17,710 --> 00:34:21,230
+occurring
+
+675
+00:34:18,980 --> 00:34:24,040
+and we did a section on air pollution we
+
+676
+00:34:21,230 --> 00:34:27,040
+talked about gases some of these are
+
+677
+00:34:24,040 --> 00:34:29,599
+human created some of these are
+
+678
+00:34:27,040 --> 00:34:32,300
+naturally occurring but humans add to
+
+679
+00:34:29,599 --> 00:34:35,089
+that so things like carbon monoxide so2
+
+680
+00:34:32,300 --> 00:34:37,010
+NOx and all those things so that was
+
+681
+00:34:35,089 --> 00:34:40,099
+part of our air pollution unit okay so
+
+682
+00:34:37,010 --> 00:34:42,619
+now we have a third category gases that
+
+683
+00:34:40,099 --> 00:34:44,869
+we're calling greenhouse gases okay and
+
+684
+00:34:42,619 --> 00:34:49,070
+all of the greenhouse gases we can
+
+685
+00:34:44,869 --> 00:34:51,919
+subdivide them into two categories one
+
+686
+00:34:49,070 --> 00:34:55,250
+is naturally-occurring greenhouse gases
+
+687
+00:34:51,919 --> 00:34:57,139
+that we as humans are adding to and then
+
+688
+00:34:55,250 --> 00:34:59,270
+there's a second category of greenhouse
+
+689
+00:34:57,139 --> 00:35:01,400
+gases that we as humans have just
+
+690
+00:34:59,270 --> 00:35:02,089
+created there are synthetic molecules
+
+691
+00:35:01,400 --> 00:35:07,990
+okay
+
+692
+00:35:02,089 --> 00:35:10,460
+so before we get to further in on this
+
+693
+00:35:07,990 --> 00:35:13,790
+we're going to really be focusing on
+
+694
+00:35:10,460 --> 00:35:16,250
+this group right here co2 ch4 and n2 oh
+
+695
+00:35:13,790 --> 00:35:19,609
+and we're not going to really talk about
+
+696
+00:35:16,250 --> 00:35:22,220
+water vapor even though water vapor is
+
+697
+00:35:19,609 --> 00:35:24,319
+the most abundant greenhouse gas in the
+
+698
+00:35:22,220 --> 00:35:26,750
+atmosphere so why would we not talk
+
+699
+00:35:24,319 --> 00:35:28,940
+about this well if you go back to when
+
+700
+00:35:26,750 --> 00:35:30,260
+we talked about humidity we said that
+
+701
+00:35:28,940 --> 00:35:32,720
+the amount of water vapor in the
+
+702
+00:35:30,260 --> 00:35:35,060
+atmosphere is controlled strongly by
+
+703
+00:35:32,720 --> 00:35:38,089
+temperature so warm air has a higher
+
+704
+00:35:35,060 --> 00:35:40,160
+possible maximum mixing ratio right and
+
+705
+00:35:38,089 --> 00:35:42,079
+if they cool the air down remember we
+
+706
+00:35:40,160 --> 00:35:46,670
+hit the dew point we condense water out
+
+707
+00:35:42,079 --> 00:35:48,560
+so what water vapor cannot stay in the
+
+708
+00:35:46,670 --> 00:35:52,069
+atmosphere if the atmosphere is too cold
+
+709
+00:35:48,560 --> 00:35:54,109
+right so if we all as humans got
+
+710
+00:35:52,069 --> 00:35:56,829
+together and started adding water vapor
+
+711
+00:35:54,109 --> 00:35:59,480
+to the atmosphere on purpose let's say
+
+712
+00:35:56,829 --> 00:36:01,910
+it won't stay in the atmosphere more
+
+713
+00:35:59,480 --> 00:36:04,400
+than maybe a few days before it drifts
+
+714
+00:36:01,910 --> 00:36:05,660
+off into someplace cold condenses out
+
+715
+00:36:04,400 --> 00:36:07,819
+and it gets removed from the atmosphere
+
+716
+00:36:05,660 --> 00:36:09,589
+the greenhouse gases that we're
+
+717
+00:36:07,819 --> 00:36:12,349
+interested in are the ones that are not
+
+718
+00:36:09,589 --> 00:36:14,300
+being removed in a short time okay so
+
+719
+00:36:12,349 --> 00:36:16,400
+that's why we're not really talking
+
+720
+00:36:14,300 --> 00:36:18,230
+about water vapor even though water
+
+721
+00:36:16,400 --> 00:36:23,510
+vapor is a pretty significant greenhouse
+
+722
+00:36:18,230 --> 00:36:25,700
+gas okay so so it turns out the
+
+723
+00:36:23,510 --> 00:36:28,970
+strengths of greenhouse gases are not
+
+724
+00:36:25,700 --> 00:36:31,010
+all the same and if you think back to
+
+725
+00:36:28,970 --> 00:36:33,010
+the animation we're shooting molecules
+
+726
+00:36:31,010 --> 00:36:35,779
+with the little gun
+
+727
+00:36:33,010 --> 00:36:37,609
+you know occasionally molecule got
+
+728
+00:36:35,779 --> 00:36:39,680
+excited and absorbed that photon of
+
+729
+00:36:37,609 --> 00:36:44,150
+radiation and then re-emitted it okay
+
+730
+00:36:39,680 --> 00:36:46,460
+well some molecules absorb radiation
+
+731
+00:36:44,150 --> 00:36:48,619
+much easier than others they are much
+
+732
+00:36:46,460 --> 00:36:51,380
+more efficient at being greenhouse gases
+
+733
+00:36:48,619 --> 00:36:55,220
+and so we have this system called global
+
+734
+00:36:51,380 --> 00:36:57,890
+warming potential or GWP and what we say
+
+735
+00:36:55,220 --> 00:37:00,230
+is that greenhouse gasses so on the Left
+
+736
+00:36:57,890 --> 00:37:01,520
+these are all greenhouse gases and by
+
+737
+00:37:00,230 --> 00:37:04,760
+the way if you're one of my students
+
+738
+00:37:01,520 --> 00:37:06,260
+what I'm showing you here are part of
+
+739
+00:37:04,760 --> 00:37:08,089
+what we used to have handouts and my
+
+740
+00:37:06,260 --> 00:37:10,549
+face-to-face class so this is on learn
+
+741
+00:37:08,089 --> 00:37:14,420
+so you can find this document in some of
+
+742
+00:37:10,549 --> 00:37:17,750
+the future slides too so what we say is
+
+743
+00:37:14,420 --> 00:37:23,750
+that co2 has a GWP of one okay we just
+
+744
+00:37:17,750 --> 00:37:28,420
+aren't this arbitrary so methane ch4 has
+
+745
+00:37:23,750 --> 00:37:32,270
+a GWP of 25 so what that means is ch4
+
+746
+00:37:28,420 --> 00:37:35,900
+per molecule is 25 times as powerful of
+
+747
+00:37:32,270 --> 00:37:39,109
+a greenhouse gas as co2 so if I had one
+
+748
+00:37:35,900 --> 00:37:42,589
+molecule of ch4 it's worth twenty-five
+
+749
+00:37:39,109 --> 00:37:45,829
+molecules of co2 or if I take nitrous
+
+750
+00:37:42,589 --> 00:37:48,740
+oxide n2o it has a global warming
+
+751
+00:37:45,829 --> 00:37:52,579
+potential 298 so one molecule of nitrous
+
+752
+00:37:48,740 --> 00:37:54,440
+oxide is worth 298 molecules of co2 so
+
+753
+00:37:52,579 --> 00:37:57,079
+greenhouse gases all have very different
+
+754
+00:37:54,440 --> 00:37:59,450
+strengths and what we want to do here is
+
+755
+00:37:57,079 --> 00:38:01,609
+we want to be able to compare different
+
+756
+00:37:59,450 --> 00:38:02,960
+sources to see which emissions are
+
+757
+00:38:01,609 --> 00:38:09,349
+actually affecting the greenhouse effect
+
+758
+00:38:02,960 --> 00:38:12,920
+more and so if I go back a slide these
+
+759
+00:38:09,349 --> 00:38:15,410
+were the naturally occurring ones and we
+
+760
+00:38:12,920 --> 00:38:18,619
+as humans add them that's these three
+
+761
+00:38:15,410 --> 00:38:19,970
+and then all these are synthetic we as
+
+762
+00:38:18,619 --> 00:38:23,059
+humans make them they don't occur in
+
+763
+00:38:19,970 --> 00:38:26,779
+nature notice though how strong some of
+
+764
+00:38:23,059 --> 00:38:30,410
+these are this one has a GWP 14800 so
+
+765
+00:38:26,779 --> 00:38:34,670
+one single molecule of HFC 23 is worth
+
+766
+00:38:30,410 --> 00:38:36,849
+about 15,000 co2 molecules also notice
+
+767
+00:38:34,670 --> 00:38:39,319
+that they are up in the atmosphere
+
+768
+00:38:36,849 --> 00:38:42,559
+sometimes for a very long time and we
+
+769
+00:38:39,319 --> 00:38:45,710
+look at this see CF 4 has an atmospheric
+
+770
+00:38:42,559 --> 00:38:47,180
+lifetime of 50,000 years meaning that
+
+771
+00:38:45,710 --> 00:38:49,010
+it gets in the atmosphere there's no
+
+772
+00:38:47,180 --> 00:38:51,080
+natural processes that break this down
+
+773
+00:38:49,010 --> 00:38:55,099
+it's gonna be up there a very very long
+
+774
+00:38:51,080 --> 00:38:57,470
+time okay so what we want to do is let's
+
+775
+00:38:55,099 --> 00:39:00,980
+imagine a scenario we we've got three
+
+776
+00:38:57,470 --> 00:39:03,109
+different greenhouse gas emitters I'd
+
+777
+00:39:00,980 --> 00:39:04,700
+say three different factories but
+
+778
+00:39:03,109 --> 00:39:07,430
+they're not all emitting the same gas
+
+779
+00:39:04,700 --> 00:39:09,470
+you've got one emitting co2 you get one
+
+780
+00:39:07,430 --> 00:39:12,349
+emitting methane you get one mini
+
+781
+00:39:09,470 --> 00:39:14,630
+nitrous oxide and you want to know who's
+
+782
+00:39:12,349 --> 00:39:17,420
+actually making the biggest contribution
+
+783
+00:39:14,630 --> 00:39:19,550
+to the greenhouse effect so in order to
+
+784
+00:39:17,420 --> 00:39:21,770
+do this we have to convert all those
+
+785
+00:39:19,550 --> 00:39:25,580
+gasses to what we're gonna call co2
+
+786
+00:39:21,770 --> 00:39:28,730
+equivalent the analogy is like money if
+
+787
+00:39:25,580 --> 00:39:30,650
+I if I had something in dollars so I
+
+788
+00:39:28,730 --> 00:39:32,089
+have enough some item and that's worth a
+
+789
+00:39:30,650 --> 00:39:33,530
+certain amount of dollars I have another
+
+790
+00:39:32,089 --> 00:39:35,720
+item that's worth a certain amount of
+
+791
+00:39:33,530 --> 00:39:38,210
+pesos I got a third item that's worth
+
+792
+00:39:35,720 --> 00:39:39,320
+certain the number of euros and my
+
+793
+00:39:38,210 --> 00:39:42,290
+question is which one is the most
+
+794
+00:39:39,320 --> 00:39:44,780
+expensive I won't know till I convert
+
+795
+00:39:42,290 --> 00:39:46,880
+them all to the same currency what we're
+
+796
+00:39:44,780 --> 00:39:50,150
+doing here is we're going to convert all
+
+797
+00:39:46,880 --> 00:39:52,040
+the gases to the same currency of co2
+
+798
+00:39:50,150 --> 00:39:53,990
+and we're going to use a global warming
+
+799
+00:39:52,040 --> 00:40:02,260
+potential to do this okay I'm gonna work
+
+800
+00:39:53,990 --> 00:40:09,280
+through a problem so let's say we have a
+
+801
+00:40:02,260 --> 00:40:13,390
+cement plant and the cement plant is
+
+802
+00:40:09,280 --> 00:40:21,430
+emitting 1,200 kilograms of co2 per day
+
+803
+00:40:13,390 --> 00:40:23,690
+okay and then we have a gas plant that
+
+804
+00:40:21,430 --> 00:40:27,740
+processes natural gas we'll talk more
+
+805
+00:40:23,690 --> 00:40:33,470
+about this later and it is it is
+
+806
+00:40:27,740 --> 00:40:38,830
+emitting 150 kilograms of methane per
+
+807
+00:40:33,470 --> 00:40:38,830
+day okay then we have a fertilizer plant
+
+808
+00:40:41,410 --> 00:40:51,910
+and let's say it is emitting 25
+
+809
+00:40:45,730 --> 00:40:52,270
+kilograms of nitrous oxide per day all
+
+810
+00:40:51,910 --> 00:40:54,250
+right
+
+811
+00:40:52,270 --> 00:41:03,060
+so the question is if this is the
+
+812
+00:40:54,250 --> 00:41:03,060
+scenario where we focus here then I
+
+813
+00:41:03,450 --> 00:41:10,170
+compare these three who is contributing
+
+814
+00:41:12,900 --> 00:41:25,930
+the most to the greenhouse effect okay
+
+815
+00:41:23,440 --> 00:41:28,300
+so what we said a few minutes ago is
+
+816
+00:41:25,930 --> 00:41:30,100
+that we need the greenhouse effect to
+
+817
+00:41:28,300 --> 00:41:32,530
+survive on the planet but as humans
+
+818
+00:41:30,100 --> 00:41:34,330
+we're adding more to it here we have
+
+819
+00:41:32,530 --> 00:41:36,400
+three different outfits that are
+
+820
+00:41:34,330 --> 00:41:39,580
+emitting greenhouse gases but what we
+
+821
+00:41:36,400 --> 00:41:41,110
+want to know is who's adding the most ok
+
+822
+00:41:39,580 --> 00:41:43,900
+who's who's making the biggest
+
+823
+00:41:41,110 --> 00:41:47,200
+contribution to to the greenhouse effect
+
+824
+00:41:43,900 --> 00:41:48,880
+through greenhouse gas emissions so in
+
+825
+00:41:47,200 --> 00:41:52,080
+order to do this we're going to convert
+
+826
+00:41:48,880 --> 00:41:52,080
+everything to co2
+
+827
+00:41:53,880 --> 00:42:00,340
+now cement plant it's already n co2 so
+
+828
+00:41:58,840 --> 00:42:04,120
+I'd have to do anything ok
+
+829
+00:42:00,340 --> 00:42:07,390
+no work ok that's done so what I do have
+
+830
+00:42:04,120 --> 00:42:10,120
+to do is take the gas plant and I want
+
+831
+00:42:07,390 --> 00:42:14,560
+to convert I want to say ok if it if it
+
+832
+00:42:10,120 --> 00:42:17,590
+is emitting 150 kilograms of ch4 what is
+
+833
+00:42:14,560 --> 00:42:20,710
+the equivalent amount of co2 that that
+
+834
+00:42:17,590 --> 00:42:27,600
+would be or converting currency here ok
+
+835
+00:42:20,710 --> 00:42:30,130
+so I'm going to take 150 this is ch4 and
+
+836
+00:42:27,600 --> 00:42:32,560
+what I'm going to do is multiply that
+
+837
+00:42:30,130 --> 00:42:35,080
+number times the global warming
+
+838
+00:42:32,560 --> 00:42:39,130
+potential so the global warming
+
+839
+00:42:35,080 --> 00:42:42,820
+potential of methane ch4 is 25 1
+
+840
+00:42:39,130 --> 00:42:46,750
+molecule of ch4 is worth 25 co2 s all
+
+841
+00:42:42,820 --> 00:42:55,150
+right so I multiply that by 25 okay so
+
+842
+00:42:46,750 --> 00:43:05,450
+I'm gonna take $150 25 I get 3000
+
+843
+00:42:55,150 --> 00:43:10,190
+750 kilograms of co2 equivalent okay so
+
+844
+00:43:05,450 --> 00:43:11,900
+I so that 150 kilograms of ch4 is the
+
+845
+00:43:10,190 --> 00:43:14,090
+same amount of global warming potential
+
+846
+00:43:11,900 --> 00:43:17,750
+as three thousand seven hundred fifty
+
+847
+00:43:14,090 --> 00:43:24,500
+kilograms of co2 all right let's do the
+
+848
+00:43:17,750 --> 00:43:29,750
+fertilizer plant so I've got 25
+
+849
+00:43:24,500 --> 00:43:36,310
+kilograms of n2o nitrous oxide and I
+
+850
+00:43:29,750 --> 00:43:45,380
+look up the goe P of n 2o it's 298 so
+
+851
+00:43:36,310 --> 00:43:47,000
+multiply by 298 25 times 298 I get seven
+
+852
+00:43:45,380 --> 00:43:54,430
+thousand four hundred and fifty
+
+853
+00:43:47,000 --> 00:43:57,320
+kilograms a co2 equivalent okay
+
+854
+00:43:54,430 --> 00:43:59,750
+sometimes we get really tired of writing
+
+855
+00:43:57,320 --> 00:44:05,300
+out the word equivalent so what you'll
+
+856
+00:43:59,750 --> 00:44:07,720
+see instead is co2 eq and sometimes in
+
+857
+00:44:05,300 --> 00:44:10,430
+parentheses that means equivalent co2
+
+858
+00:44:07,720 --> 00:44:15,290
+alright so we've converted currency's
+
+859
+00:44:10,430 --> 00:44:19,600
+our cement plant is twelve hundred
+
+860
+00:44:15,290 --> 00:44:21,860
+kilograms of co2 our gas plant is
+
+861
+00:44:19,600 --> 00:44:24,500
+equivalent to three thousand seven
+
+862
+00:44:21,860 --> 00:44:26,690
+hundred fifty kilograms of co2 and a
+
+863
+00:44:24,500 --> 00:44:29,180
+fertilizer plant is equivalent to seven
+
+864
+00:44:26,690 --> 00:44:32,150
+thousand four hundred and fifty
+
+865
+00:44:29,180 --> 00:44:34,550
+kilograms of co2 so who's making the
+
+866
+00:44:32,150 --> 00:44:37,970
+biggest contribution fertilizer plant
+
+867
+00:44:34,550 --> 00:44:41,770
+okay so even though it was the smallest
+
+868
+00:44:37,970 --> 00:44:44,930
+overall amount in terms of mass of gases
+
+869
+00:44:41,770 --> 00:44:47,600
+these nitrous oxide gives such a potent
+
+870
+00:44:44,930 --> 00:44:49,160
+greenhouse effect overall when you
+
+871
+00:44:47,600 --> 00:44:51,170
+multiply the whole thing out times the
+
+872
+00:44:49,160 --> 00:44:52,580
+global warming potential you find out
+
+873
+00:44:51,170 --> 00:44:54,650
+that it actually makes the biggest
+
+874
+00:44:52,580 --> 00:44:55,940
+contribution so if you're one of my
+
+875
+00:44:54,650 --> 00:44:58,010
+students you'll have a couple of these
+
+876
+00:44:55,940 --> 00:45:01,970
+problems you'll have to work out this
+
+877
+00:44:58,010 --> 00:45:03,740
+week okay so here's a breakdown of the
+
+878
+00:45:01,970 --> 00:45:06,020
+major greenhouse gases that are emitted
+
+879
+00:45:03,740 --> 00:45:08,390
+in the United States and they've been
+
+880
+00:45:06,020 --> 00:45:12,170
+converted to co2
+
+881
+00:45:08,390 --> 00:45:15,650
+so it says percentages based on MMT
+
+882
+00:45:12,170 --> 00:45:17,599
+million mega ton that's just a gigantic
+
+883
+00:45:15,650 --> 00:45:22,400
+number don't worry too much about that
+
+884
+00:45:17,599 --> 00:45:25,430
+co2 equivalent okay so what this is
+
+885
+00:45:22,400 --> 00:45:27,740
+showing is that 82% of all the
+
+886
+00:45:25,430 --> 00:45:31,309
+greenhouse gas emissions that we produce
+
+887
+00:45:27,740 --> 00:45:34,819
+in the United States is co2 okay and if
+
+888
+00:45:31,309 --> 00:45:37,579
+you convert the other ones to co2
+
+889
+00:45:34,819 --> 00:45:39,319
+equivalent so there's methane and
+
+890
+00:45:37,579 --> 00:45:40,789
+there's not just oxide and then here's a
+
+891
+00:45:39,319 --> 00:45:43,309
+whole bunch of it yeah of the other ones
+
+892
+00:45:40,789 --> 00:45:47,210
+what you see is that even though these
+
+893
+00:45:43,309 --> 00:45:50,690
+are a stronger greenhouse gas as a
+
+894
+00:45:47,210 --> 00:45:52,670
+nation we emit co2 by such a greater
+
+895
+00:45:50,690 --> 00:45:55,069
+volume that this is the greenhouse gas
+
+896
+00:45:52,670 --> 00:45:58,339
+that we typically focus on we're talking
+
+897
+00:45:55,069 --> 00:46:00,349
+about global warming issues the co2 is
+
+898
+00:45:58,339 --> 00:46:02,450
+the number-one gas that we're worried
+
+899
+00:46:00,349 --> 00:46:04,670
+about that doesn't mean we don't worry
+
+900
+00:46:02,450 --> 00:46:08,089
+about these others we do because they do
+
+901
+00:46:04,670 --> 00:46:11,200
+have a greenhouse effect but co2 is by
+
+902
+00:46:08,089 --> 00:46:13,250
+far the biggest one that we worry about
+
+903
+00:46:11,200 --> 00:46:17,390
+so here's another way to look at those
+
+904
+00:46:13,250 --> 00:46:21,380
+same numbers over time so the blue is
+
+905
+00:46:17,390 --> 00:46:23,750
+how much co2 we've emitted each year
+
+906
+00:46:21,380 --> 00:46:26,150
+then the red is the methane Green is
+
+907
+00:46:23,750 --> 00:46:27,349
+nitrous oxide and then purple has served
+
+908
+00:46:26,150 --> 00:46:29,690
+a whole bunch of other ones all thrown
+
+909
+00:46:27,349 --> 00:46:31,400
+together as time has gone on you'll see
+
+910
+00:46:29,690 --> 00:46:35,150
+there's kind of this overall trend from
+
+911
+00:46:31,400 --> 00:46:37,579
+early 1990 early 1990s to the mid 2000s
+
+912
+00:46:35,150 --> 00:46:40,339
+where every year as a country we're
+
+913
+00:46:37,579 --> 00:46:42,680
+emitting more and more greenhouse gases
+
+914
+00:46:40,339 --> 00:46:43,910
+and again these are and you can't really
+
+915
+00:46:42,680 --> 00:46:47,210
+even wrap your mouth around these
+
+916
+00:46:43,910 --> 00:46:50,569
+numbers so this is 7,000 million
+
+917
+00:46:47,210 --> 00:46:52,700
+megatons so you have to basically add 12
+
+918
+00:46:50,569 --> 00:46:54,289
+zeros onto the ends of these numbers but
+
+919
+00:46:52,700 --> 00:46:56,109
+don't worry about that it's just a
+
+920
+00:46:54,289 --> 00:46:59,450
+meaningless gigantic number to you
+
+921
+00:46:56,109 --> 00:47:01,670
+notice what happens here 2008 things go
+
+922
+00:46:59,450 --> 00:47:04,309
+downhill a little bit so the world
+
+923
+00:47:01,670 --> 00:47:06,170
+economy slowed down we stopped buying
+
+924
+00:47:04,309 --> 00:47:08,329
+things we stopped building things we
+
+925
+00:47:06,170 --> 00:47:10,160
+stopped burning so much fuel and we see
+
+926
+00:47:08,329 --> 00:47:12,500
+that there's a little drop-off here but
+
+927
+00:47:10,160 --> 00:47:14,720
+as years go by you can see that the
+
+928
+00:47:12,500 --> 00:47:19,309
+trends are pretty similar right that as
+
+929
+00:47:14,720 --> 00:47:21,259
+a nation we tend to emit mostly co2 and
+
+930
+00:47:19,309 --> 00:47:22,480
+then methane and nitrous oxide is our
+
+931
+00:47:21,259 --> 00:47:25,760
+greenhouse gases
+
+932
+00:47:22,480 --> 00:47:27,500
+so we're gonna talk about what we do to
+
+933
+00:47:25,760 --> 00:47:29,779
+generate some of these greenhouse gases
+
+934
+00:47:27,500 --> 00:47:31,760
+so again you this is part of the figures
+
+935
+00:47:29,779 --> 00:47:34,539
+that are on this handout that I've got
+
+936
+00:47:31,760 --> 00:47:37,549
+on learn if you're in my class so
+
+937
+00:47:34,539 --> 00:47:42,740
+sources of co2 emissions again in this
+
+938
+00:47:37,549 --> 00:47:46,579
+million Megaton co2 equivalent okay
+
+939
+00:47:42,740 --> 00:47:48,230
+fossil fuel combustion now before I talk
+
+940
+00:47:46,579 --> 00:47:50,630
+about that look at some of the ones
+
+941
+00:47:48,230 --> 00:47:52,700
+below here non energy use of fuels iron
+
+942
+00:47:50,630 --> 00:47:54,799
+and steel production natural gas systems
+
+943
+00:47:52,700 --> 00:47:57,589
+cement production and down here on the
+
+944
+00:47:54,799 --> 00:48:03,740
+x-axis are numbers in this million
+
+945
+00:47:57,589 --> 00:48:07,700
+Megaton co2 so 25 50 75 but this very
+
+946
+00:48:03,740 --> 00:48:10,760
+first one is so long it would be off the
+
+947
+00:48:07,700 --> 00:48:13,730
+page on through next several pages and
+
+948
+00:48:10,760 --> 00:48:14,690
+it would end over here at five thousand
+
+949
+00:48:13,730 --> 00:48:16,760
+so what they did is they put a little
+
+950
+00:48:14,690 --> 00:48:19,670
+dash right here to show that this is not
+
+951
+00:48:16,760 --> 00:48:23,180
+continuous that the rest of these bars
+
+952
+00:48:19,670 --> 00:48:26,180
+you know this is 150 that's the scale so
+
+953
+00:48:23,180 --> 00:48:29,000
+this moves on for you know a dozen pages
+
+954
+00:48:26,180 --> 00:48:33,049
+later if this was all to scale okay so
+
+955
+00:48:29,000 --> 00:48:35,359
+that number right there that 5050 that
+
+956
+00:48:33,049 --> 00:48:37,520
+is a so much larger number than all of
+
+957
+00:48:35,359 --> 00:48:40,250
+these so what this is saying is that the
+
+958
+00:48:37,520 --> 00:48:42,109
+number one source of co2 is burning
+
+959
+00:48:40,250 --> 00:48:46,309
+fossil fuels that's the number one thing
+
+960
+00:48:42,109 --> 00:48:48,950
+we do more than anything else then we've
+
+961
+00:48:46,309 --> 00:48:50,210
+got some of these other things you
+
+962
+00:48:48,950 --> 00:48:51,980
+probably have heard at least heard about
+
+963
+00:48:50,210 --> 00:48:54,980
+some of these things so when we make
+
+964
+00:48:51,980 --> 00:48:59,270
+cement that adds co2 to the air when we
+
+965
+00:48:54,980 --> 00:49:02,690
+make RN steel add co2 to the air all
+
+966
+00:48:59,270 --> 00:49:04,730
+these things add some co2 to the air but
+
+967
+00:49:02,690 --> 00:49:08,210
+that very first one that fossil fuel
+
+968
+00:49:04,730 --> 00:49:11,630
+combustion boy that is by large by far
+
+969
+00:49:08,210 --> 00:49:13,970
+the number one thing that we do so in
+
+970
+00:49:11,630 --> 00:49:17,329
+this table we are breaking down the co2
+
+971
+00:49:13,970 --> 00:49:21,770
+further so we said that this number
+
+972
+00:49:17,329 --> 00:49:24,950
+right here this 5050 is so five thousand
+
+973
+00:49:21,770 --> 00:49:28,099
+50 million megatons of co2 were produced
+
+974
+00:49:24,950 --> 00:49:29,569
+in 2015 in the United States for burning
+
+975
+00:49:28,099 --> 00:49:31,970
+fossil fuels yeah that's what that
+
+976
+00:49:29,569 --> 00:49:34,940
+there's that number we can break that
+
+977
+00:49:31,970 --> 00:49:36,130
+down further all of that five thousand
+
+978
+00:49:34,940 --> 00:49:39,160
+50 million
+
+979
+00:49:36,130 --> 00:49:40,830
+megatonnes 1900 was for generating
+
+980
+00:49:39,160 --> 00:49:45,820
+electricity
+
+981
+00:49:40,830 --> 00:49:50,410
+17:36 was for transportation 805 was for
+
+982
+00:49:45,820 --> 00:49:53,470
+residential or I'm sorry industrial 319
+
+983
+00:49:50,410 --> 00:49:56,050
+was for residential now reason I'm
+
+984
+00:49:53,470 --> 00:49:58,270
+bringing this up is that most people
+
+985
+00:49:56,050 --> 00:50:01,030
+don't realize that when we talk about
+
+986
+00:49:58,270 --> 00:50:04,000
+burning fossil fuels ok we're generating
+
+987
+00:50:01,030 --> 00:50:06,400
+co2 from burning fossil fuels the number
+
+988
+00:50:04,000 --> 00:50:10,120
+one thing we burn fossil fuels to do in
+
+989
+00:50:06,400 --> 00:50:14,200
+this country is not to drive cars the
+
+990
+00:50:10,120 --> 00:50:18,790
+number one thing is this one generating
+
+991
+00:50:14,200 --> 00:50:20,860
+electricity so we produced more co2 from
+
+992
+00:50:18,790 --> 00:50:23,800
+generating electricity by burning fossil
+
+993
+00:50:20,860 --> 00:50:28,330
+fuels then we do say burning fossil
+
+994
+00:50:23,800 --> 00:50:31,150
+fuels in our cars cars ships everything
+
+995
+00:50:28,330 --> 00:50:33,340
+airplanes etc that's transportation
+
+996
+00:50:31,150 --> 00:50:34,900
+that's number two so number one
+
+997
+00:50:33,340 --> 00:50:37,600
+generating electricity
+
+998
+00:50:34,900 --> 00:50:43,030
+number two transportation and then it
+
+999
+00:50:37,600 --> 00:50:46,240
+breaks down further from there when we
+
+1000
+00:50:43,030 --> 00:50:48,550
+get to methane the number one source of
+
+1001
+00:50:46,240 --> 00:50:50,080
+methane in this country is something
+
+1002
+00:50:48,550 --> 00:50:53,170
+called enteric fermentation
+
+1003
+00:50:50,080 --> 00:50:56,020
+what does enteric fermentation fancy way
+
+1004
+00:50:53,170 --> 00:50:58,270
+of saying cow farts so cows they eat
+
+1005
+00:50:56,020 --> 00:51:01,570
+grass grass goes down they got this
+
+1006
+00:50:58,270 --> 00:51:03,310
+weird for stomach system and so you
+
+1007
+00:51:01,570 --> 00:51:05,080
+heard about cows chewing their cud right
+
+1008
+00:51:03,310 --> 00:51:07,180
+so they they chewed this grass that goes
+
+1009
+00:51:05,080 --> 00:51:08,320
+down and eventually they comes back up
+
+1010
+00:51:07,180 --> 00:51:10,000
+and they chew for a while and it goes
+
+1011
+00:51:08,320 --> 00:51:12,340
+back down there's bacteria down there
+
+1012
+00:51:10,000 --> 00:51:14,170
+and the bacteria produced methane and
+
+1013
+00:51:12,340 --> 00:51:15,580
+methane some come sometimes comes out
+
+1014
+00:51:14,170 --> 00:51:18,520
+the front end sometimes comes up the
+
+1015
+00:51:15,580 --> 00:51:21,280
+back end of the cow but cows produce a
+
+1016
+00:51:18,520 --> 00:51:23,140
+lot of methane as a country we really
+
+1017
+00:51:21,280 --> 00:51:25,510
+like our hamburgers so we have a lot of
+
+1018
+00:51:23,140 --> 00:51:27,970
+cows and cows produce a lot of methane
+
+1019
+00:51:25,510 --> 00:51:29,590
+that's enteric fermentation that's the
+
+1020
+00:51:27,970 --> 00:51:32,560
+number one source of methane in our
+
+1021
+00:51:29,590 --> 00:51:33,610
+country number two is natural gas so
+
+1022
+00:51:32,560 --> 00:51:35,260
+we're going to talk about this in a
+
+1023
+00:51:33,610 --> 00:51:37,840
+future lecture but when we extract
+
+1024
+00:51:35,260 --> 00:51:39,460
+natural gas out of the ground some of it
+
+1025
+00:51:37,840 --> 00:51:42,010
+gets into the atmosphere
+
+1026
+00:51:39,460 --> 00:51:43,270
+number three is landfills so this is
+
+1027
+00:51:42,010 --> 00:51:44,380
+where all your garbage goes they just
+
+1028
+00:51:43,270 --> 00:51:47,500
+throw in a big hole in the ground and
+
+1029
+00:51:44,380 --> 00:51:48,630
+cover it bacteria decay that that the
+
+1030
+00:51:47,500 --> 00:51:51,360
+garbage
+
+1031
+00:51:48,630 --> 00:51:54,300
+then that produces methane manure
+
+1032
+00:51:51,360 --> 00:51:56,760
+management might be a career option if
+
+1033
+00:51:54,300 --> 00:51:59,010
+if college isn't working out for you
+
+1034
+00:51:56,760 --> 00:52:00,660
+coal mining petroleum systems wastewater
+
+1035
+00:51:59,010 --> 00:52:03,060
+treatment that's where all your sewer
+
+1036
+00:52:00,660 --> 00:52:04,860
+goes methane is produced through that so
+
+1037
+00:52:03,060 --> 00:52:07,470
+there's a bunch of them here and here's
+
+1038
+00:52:04,860 --> 00:52:09,660
+a breakdown of nitrous oxide and number
+
+1039
+00:52:07,470 --> 00:52:11,760
+one on the list is agricultural soil
+
+1040
+00:52:09,660 --> 00:52:13,530
+management so this is another one of
+
+1041
+00:52:11,760 --> 00:52:15,540
+those graphs that they have the break
+
+1042
+00:52:13,530 --> 00:52:19,080
+because it's so bigger so much bigger
+
+1043
+00:52:15,540 --> 00:52:21,780
+than all the other ones so number one by
+
+1044
+00:52:19,080 --> 00:52:23,160
+far is agricultural soil manager what
+
+1045
+00:52:21,780 --> 00:52:25,320
+does that mean so plants need nitrogen
+
+1046
+00:52:23,160 --> 00:52:27,330
+but they can't take nitrogen out of the
+
+1047
+00:52:25,320 --> 00:52:29,310
+air they have to take it out of the soil
+
+1048
+00:52:27,330 --> 00:52:31,350
+but there's a limited amount of nitrogen
+
+1049
+00:52:29,310 --> 00:52:33,960
+in the soil so what humans have done is
+
+1050
+00:52:31,350 --> 00:52:37,410
+they figured out how to add nitrogen to
+
+1051
+00:52:33,960 --> 00:52:39,900
+the soil making we make something called
+
+1052
+00:52:37,410 --> 00:52:41,520
+synthetic fertilizer and they look like
+
+1053
+00:52:39,900 --> 00:52:44,610
+these little babies you throw them into
+
+1054
+00:52:41,520 --> 00:52:46,230
+the soil and they break down and they
+
+1055
+00:52:44,610 --> 00:52:48,330
+produce nitrogen that the plants can
+
+1056
+00:52:46,230 --> 00:52:50,460
+absorb well one of the byproducts of
+
+1057
+00:52:48,330 --> 00:52:51,990
+that is some of that produces nitrous
+
+1058
+00:52:50,460 --> 00:52:53,820
+oxide which then goes into the
+
+1059
+00:52:51,990 --> 00:52:56,790
+atmosphere okay so that's your number
+
+1060
+00:52:53,820 --> 00:52:58,680
+one here by far number two stationary
+
+1061
+00:52:56,790 --> 00:53:00,840
+combustion that's something that's
+
+1062
+00:52:58,680 --> 00:53:04,080
+burning but not moving like it could be
+
+1063
+00:53:00,840 --> 00:53:06,750
+an engine that's not moving anywhere it
+
+1064
+00:53:04,080 --> 00:53:08,970
+could be a fire manure management again
+
+1065
+00:53:06,750 --> 00:53:12,240
+mobile combustion okay so now you got an
+
+1066
+00:53:08,970 --> 00:53:15,090
+engine that's on the move wastewater
+
+1067
+00:53:12,240 --> 00:53:17,480
+treatment again so on down the line so
+
+1068
+00:53:15,090 --> 00:53:22,830
+the number one though by far is
+
+1069
+00:53:17,480 --> 00:53:26,280
+agricultural soil management so if we
+
+1070
+00:53:22,830 --> 00:53:29,340
+think about all of the variety of
+
+1071
+00:53:26,280 --> 00:53:31,080
+sources that is the greenhouse gases
+
+1072
+00:53:29,340 --> 00:53:33,300
+were putting into the atmosphere and
+
+1073
+00:53:31,080 --> 00:53:36,330
+sinks these are things that remove
+
+1074
+00:53:33,300 --> 00:53:39,240
+greenhouse gases from the atmosphere it
+
+1075
+00:53:36,330 --> 00:53:42,120
+kind of looks like this so this is on
+
+1076
+00:53:39,240 --> 00:53:44,490
+the y axis it says million megatons of
+
+1077
+00:53:42,120 --> 00:53:46,290
+co2 equivalent right so we're taking all
+
+1078
+00:53:44,490 --> 00:53:48,990
+the different greenhouse gases
+
+1079
+00:53:46,290 --> 00:53:51,540
+converting all of them to co2 equivalent
+
+1080
+00:53:48,990 --> 00:53:55,070
+throwing it all together and looking at
+
+1081
+00:53:51,540 --> 00:53:57,870
+what we got is a country so the blue is
+
+1082
+00:53:55,070 --> 00:54:01,740
+energy okay so most of the greenhouse
+
+1083
+00:53:57,870 --> 00:54:04,250
+gases are from this energy sector
+
+1084
+00:54:01,740 --> 00:54:07,349
+so that's electricity that's
+
+1085
+00:54:04,250 --> 00:54:09,270
+transportation energy is a lot of a lot
+
+1086
+00:54:07,349 --> 00:54:12,510
+of things there then the red is
+
+1087
+00:54:09,270 --> 00:54:15,690
+agriculture then the green is industrial
+
+1088
+00:54:12,510 --> 00:54:18,450
+processes of some kind this little blue
+
+1089
+00:54:15,690 --> 00:54:20,819
+here is waste so that's mostly us
+
+1090
+00:54:18,450 --> 00:54:23,990
+throwing things away and then this
+
+1091
+00:54:20,819 --> 00:54:23,990
+little tiny one
+
+1092
+00:54:24,059 --> 00:54:29,490
+it says L u L u CF which stands for a
+
+1093
+00:54:26,549 --> 00:54:32,069
+land-use line use change and forestry
+
+1094
+00:54:29,490 --> 00:54:36,450
+okay and we'll talk more about this in a
+
+1095
+00:54:32,069 --> 00:54:39,809
+little later lecture okay so as time has
+
+1096
+00:54:36,450 --> 00:54:41,430
+gone on as the economy has grown you can
+
+1097
+00:54:39,809 --> 00:54:43,470
+see overall the amount of greenhouse
+
+1098
+00:54:41,430 --> 00:54:45,720
+gases has gone up and up and up like we
+
+1099
+00:54:43,470 --> 00:54:47,819
+saw an earlier slide then the economy
+
+1100
+00:54:45,720 --> 00:54:51,839
+kind of crashes in 2008 and drops down
+
+1101
+00:54:47,819 --> 00:54:53,220
+again but by and large the the number
+
+1102
+00:54:51,839 --> 00:54:56,609
+one thing that we do as humans to
+
+1103
+00:54:53,220 --> 00:54:59,069
+produce greenhouse gases is generating
+
+1104
+00:54:56,609 --> 00:55:01,109
+energy of some kind right either
+
+1105
+00:54:59,069 --> 00:55:04,260
+electricity or our cars or what have you
+
+1106
+00:55:01,109 --> 00:55:06,480
+also notice this purple which is
+
+1107
+00:55:04,260 --> 00:55:08,730
+negative okay this is what we call a
+
+1108
+00:55:06,480 --> 00:55:11,940
+sync so what that means is these are
+
+1109
+00:55:08,730 --> 00:55:14,039
+processes that take co2 or other
+
+1110
+00:55:11,940 --> 00:55:16,170
+greenhouse gases out of the air and
+
+1111
+00:55:14,039 --> 00:55:18,930
+remove them well what would that be so
+
+1112
+00:55:16,170 --> 00:55:22,309
+imagine a really intensive farming if
+
+1113
+00:55:18,930 --> 00:55:26,309
+you plant a lot of plants in a tiny area
+
+1114
+00:55:22,309 --> 00:55:27,750
+then they're going to pull down co2 out
+
+1115
+00:55:26,309 --> 00:55:30,630
+of the atmosphere and they'll actually
+
+1116
+00:55:27,750 --> 00:55:32,279
+offset some of the co2 that we've been
+
+1117
+00:55:30,630 --> 00:55:33,630
+putting into the atmosphere so that's
+
+1118
+00:55:32,279 --> 00:55:36,079
+what we mean is a sink that's this
+
+1119
+00:55:33,630 --> 00:55:36,079
+purple
+

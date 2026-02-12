@@ -1,0 +1,836 @@
+1
+00:00:02,790 --> 00:00:09,750
+[Music]
+
+2
+00:00:07,160 --> 00:00:12,269
+hey this is Mel strong and this is a
+
+3
+00:00:09,750 --> 00:00:14,940
+little extra help for people who are
+
+4
+00:00:12,269 --> 00:00:16,770
+still struggling to understand the
+
+5
+00:00:14,940 --> 00:00:18,750
+difference between dew point and
+
+6
+00:00:16,770 --> 00:00:21,779
+relative humidity and how they're
+
+7
+00:00:18,750 --> 00:00:24,000
+related so I'm gonna use this little
+
+8
+00:00:21,779 --> 00:00:26,070
+interactive tool from the University of
+
+9
+00:00:24,000 --> 00:00:29,160
+Wisconsin so I've put a link up on learn
+
+10
+00:00:26,070 --> 00:00:32,189
+and on my website so you can play with
+
+11
+00:00:29,160 --> 00:00:34,020
+this too and so over on the right hand
+
+12
+00:00:32,189 --> 00:00:36,180
+side here cuz we're gonna ignore the
+
+13
+00:00:34,020 --> 00:00:39,030
+left for now on the right hand side
+
+14
+00:00:36,180 --> 00:00:40,620
+we've got a thermometer and we've got
+
+15
+00:00:39,030 --> 00:00:44,010
+dew point and we've got relative
+
+16
+00:00:40,620 --> 00:00:45,600
+humidity and as I I can make changes in
+
+17
+00:00:44,010 --> 00:00:47,579
+either the temperature of the dew point
+
+18
+00:00:45,600 --> 00:00:51,480
+and it will show me how that changes
+
+19
+00:00:47,579 --> 00:00:53,460
+relative humidity now when we did this
+
+20
+00:00:51,480 --> 00:00:54,960
+in my previous lecture if you watch my
+
+21
+00:00:53,460 --> 00:00:58,859
+lecture on relative humidity we
+
+22
+00:00:54,960 --> 00:01:00,420
+calculated it with mixing ratios now we
+
+23
+00:00:58,859 --> 00:01:02,879
+could have also done it with dew points
+
+24
+00:01:00,420 --> 00:01:04,439
+remember both mixing ratio and dew point
+
+25
+00:01:02,879 --> 00:01:05,760
+tell you how much water is in the air
+
+26
+00:01:04,439 --> 00:01:09,570
+they're just two different ways of
+
+27
+00:01:05,760 --> 00:01:11,130
+reporting the same thing but it's the
+
+28
+00:01:09,570 --> 00:01:14,189
+calculation to get the relative humidity
+
+29
+00:01:11,130 --> 00:01:17,549
+is much more difficult if you only have
+
+30
+00:01:14,189 --> 00:01:21,119
+dew point so this doesn't have mixing
+
+31
+00:01:17,549 --> 00:01:22,979
+ratio in it but it's the same concept so
+
+32
+00:01:21,119 --> 00:01:25,140
+right now the temperature is a little
+
+33
+00:01:22,979 --> 00:01:26,909
+bit above sixty degrees the dew point
+
+34
+00:01:25,140 --> 00:01:30,540
+looks like it's a little below 40 and
+
+35
+00:01:26,909 --> 00:01:34,020
+our relative humidity is 38 percent okay
+
+36
+00:01:30,540 --> 00:01:36,659
+so if I raise the temperature so I just
+
+37
+00:01:34,020 --> 00:01:39,270
+drag this up you notice what's happening
+
+38
+00:01:36,659 --> 00:01:40,950
+to the relative humidity as that
+
+39
+00:01:39,270 --> 00:01:43,649
+temperature goes up the relative
+
+40
+00:01:40,950 --> 00:01:45,420
+humidity goes down so to relate this to
+
+41
+00:01:43,649 --> 00:01:47,670
+what we've done before with mixing
+
+42
+00:01:45,420 --> 00:01:50,490
+ratios we said the top of the fraction
+
+43
+00:01:47,670 --> 00:01:52,350
+was the current mixing ratio that's not
+
+44
+00:01:50,490 --> 00:01:54,329
+changing because dew point is not
+
+45
+00:01:52,350 --> 00:01:56,130
+changing remember dew point mixing
+
+46
+00:01:54,329 --> 00:01:58,200
+really shall have to change together if
+
+47
+00:01:56,130 --> 00:02:00,299
+I add more water to the air they both go
+
+48
+00:01:58,200 --> 00:02:02,670
+up if I subtract bar from the air they
+
+49
+00:02:00,299 --> 00:02:04,530
+both go down the fact that dew point is
+
+50
+00:02:02,670 --> 00:02:08,310
+not changing tells me that the amount of
+
+51
+00:02:04,530 --> 00:02:11,009
+water in the air is still a constant but
+
+52
+00:02:08,310 --> 00:02:12,230
+I mean I increased the temperature just
+
+53
+00:02:11,009 --> 00:02:13,940
+then
+
+54
+00:02:12,230 --> 00:02:17,390
+so again to relate that to what we've
+
+55
+00:02:13,940 --> 00:02:20,269
+seen before I'm dividing by the maximum
+
+56
+00:02:17,390 --> 00:02:22,519
+possible mixing ratio and the maximum
+
+57
+00:02:20,269 --> 00:02:25,040
+possible mixing ratio goes up as
+
+58
+00:02:22,519 --> 00:02:28,910
+temperature goes up dividing by a bigger
+
+59
+00:02:25,040 --> 00:02:29,870
+number gets me a smaller answer so as I
+
+60
+00:02:28,910 --> 00:02:33,890
+raise the temperature you saw the
+
+61
+00:02:29,870 --> 00:02:35,150
+relative humidity decreased so I will
+
+62
+00:02:33,890 --> 00:02:36,620
+continue the race if the temperature
+
+63
+00:02:35,150 --> 00:02:38,480
+will make as hot as we can make it
+
+64
+00:02:36,620 --> 00:02:40,910
+relative humidity goes down the five
+
+65
+00:02:38,480 --> 00:02:42,739
+percent okay so watch what happens when
+
+66
+00:02:40,910 --> 00:02:44,900
+I cool it down so I'm going to cool down
+
+67
+00:02:42,739 --> 00:02:46,340
+the temperature so I cool it down and I
+
+68
+00:02:44,900 --> 00:02:48,799
+cool it down and notice the relative
+
+69
+00:02:46,340 --> 00:02:50,480
+humidity is increasing the dew points
+
+70
+00:02:48,799 --> 00:02:53,739
+not changing because I'm not taking
+
+71
+00:02:50,480 --> 00:02:56,690
+water from the air okay so I'm going to
+
+72
+00:02:53,739 --> 00:02:57,769
+tropic further cool it cool it and
+
+73
+00:02:56,690 --> 00:03:02,299
+notice that the relative humidity
+
+74
+00:02:57,769 --> 00:03:04,040
+continues to go higher and higher and so
+
+75
+00:03:02,299 --> 00:03:05,750
+now as I as I'm getting closer and
+
+76
+00:03:04,040 --> 00:03:07,459
+closer to the dew point the dew points a
+
+77
+00:03:05,750 --> 00:03:10,220
+little below 40 I'm getting I'm getting
+
+78
+00:03:07,459 --> 00:03:12,440
+close notice how high my relative
+
+79
+00:03:10,220 --> 00:03:13,780
+humidity is so I'm gonna drop it even
+
+80
+00:03:12,440 --> 00:03:17,030
+further
+
+81
+00:03:13,780 --> 00:03:18,340
+dropped out okay so now relative
+
+82
+00:03:17,030 --> 00:03:20,859
+humidity is a hundred percent
+
+83
+00:03:18,340 --> 00:03:22,069
+temperature and dew point are the same
+
+84
+00:03:20,859 --> 00:03:24,380
+okay
+
+85
+00:03:22,069 --> 00:03:27,530
+so I'm going to continue to cool it
+
+86
+00:03:24,380 --> 00:03:29,900
+further so we would be making do at this
+
+87
+00:03:27,530 --> 00:03:31,489
+point even though the picture shows snow
+
+88
+00:03:29,900 --> 00:03:33,639
+that's not quite correct because we're
+
+89
+00:03:31,489 --> 00:03:35,959
+above freezing but we would be making do
+
+90
+00:03:33,639 --> 00:03:38,750
+okay so I'm gonna I'm gonna lower the
+
+91
+00:03:35,959 --> 00:03:40,700
+temperature so as I lower the
+
+92
+00:03:38,750 --> 00:03:42,590
+temperature notice what happens to the
+
+93
+00:03:40,700 --> 00:03:46,040
+dew point the dew point has to go down
+
+94
+00:03:42,590 --> 00:03:49,519
+with it but the relative humidity stays
+
+95
+00:03:46,040 --> 00:03:50,930
+at exactly 100% right so I can now we're
+
+96
+00:03:49,519 --> 00:03:53,239
+below freezing for sure we're making
+
+97
+00:03:50,930 --> 00:03:55,459
+Frost but I'll keep going down and keep
+
+98
+00:03:53,239 --> 00:03:57,109
+going down and keep going down and as
+
+99
+00:03:55,459 --> 00:03:59,989
+long as I keep making it colder and
+
+100
+00:03:57,109 --> 00:04:01,760
+colder the dew point has to go lower and
+
+101
+00:03:59,989 --> 00:04:04,010
+lower because I'm taking water out of
+
+102
+00:04:01,760 --> 00:04:05,780
+the air and putting it onto the ground
+
+103
+00:04:04,010 --> 00:04:09,680
+at first it was liquid and then it's
+
+104
+00:04:05,780 --> 00:04:13,310
+frozen but that entire time the relative
+
+105
+00:04:09,680 --> 00:04:17,299
+humidity was staying at 100% so now
+
+106
+00:04:13,310 --> 00:04:19,190
+let's say I warm it up so now the dew
+
+107
+00:04:17,299 --> 00:04:22,039
+point is really low the dew point looks
+
+108
+00:04:19,190 --> 00:04:23,510
+like it's about negative 10 and as I
+
+109
+00:04:22,039 --> 00:04:26,430
+warm the temperature up you see the
+
+110
+00:04:23,510 --> 00:04:30,870
+relative humidity rapidly drop
+
+111
+00:04:26,430 --> 00:04:33,750
+now this is not completely realistic
+
+112
+00:04:30,870 --> 00:04:36,360
+because normally what happens if you if
+
+113
+00:04:33,750 --> 00:04:38,580
+we may do in the more overnight and the
+
+114
+00:04:36,360 --> 00:04:40,229
+do sitting on the grass then when the
+
+115
+00:04:38,580 --> 00:04:41,970
+Sun comes up the next day that do
+
+116
+00:04:40,229 --> 00:04:44,250
+evaporates back into the air at least
+
+117
+00:04:41,970 --> 00:04:46,710
+most of it does and the dew point would
+
+118
+00:04:44,250 --> 00:04:48,539
+go back up what this is doing is once we
+
+119
+00:04:46,710 --> 00:04:51,509
+lowered the dew point it's keeping it
+
+120
+00:04:48,539 --> 00:04:54,630
+lowered right so that's a not quite what
+
+121
+00:04:51,509 --> 00:04:56,250
+happens in nature usually so here's
+
+122
+00:04:54,630 --> 00:04:59,820
+another thing I could do so let me crank
+
+123
+00:04:56,250 --> 00:05:03,060
+up the temperature to sixty relative
+
+124
+00:04:59,820 --> 00:05:06,030
+humidity is four percent if I add water
+
+125
+00:05:03,060 --> 00:05:08,610
+to the air I increase dew point right so
+
+126
+00:05:06,030 --> 00:05:10,260
+I can crank up the dew point as I
+
+127
+00:05:08,610 --> 00:05:13,440
+cranked up the dew point relative
+
+128
+00:05:10,260 --> 00:05:15,810
+humidity is also increasing now in this
+
+129
+00:05:13,440 --> 00:05:17,580
+case it's increasing because we think
+
+130
+00:05:15,810 --> 00:05:19,560
+again back to the definition of relative
+
+131
+00:05:17,580 --> 00:05:22,979
+humidity that we used with with mixing
+
+132
+00:05:19,560 --> 00:05:26,550
+ratios the top part of that fraction was
+
+133
+00:05:22,979 --> 00:05:28,380
+the the current mixing ratio how do you
+
+134
+00:05:26,550 --> 00:05:29,910
+increase the current mixing ratio you
+
+135
+00:05:28,380 --> 00:05:32,490
+add more water to the air you add more
+
+136
+00:05:29,910 --> 00:05:34,889
+grams of water to the air increasing dew
+
+137
+00:05:32,490 --> 00:05:39,090
+point is the same thing if I add water
+
+138
+00:05:34,889 --> 00:05:40,949
+to the air dew point goes up so we don't
+
+139
+00:05:39,090 --> 00:05:42,210
+see a process here you have to imagine
+
+140
+00:05:40,949 --> 00:05:44,460
+there's someone off the screen that's
+
+141
+00:05:42,210 --> 00:05:47,430
+adding water to the air somehow as I
+
+142
+00:05:44,460 --> 00:05:49,020
+crank this up so there's some mechanism
+
+143
+00:05:47,430 --> 00:05:51,180
+that we can't see that as I crank this
+
+144
+00:05:49,020 --> 00:05:52,800
+up I'm adding do I'm adding water vapor
+
+145
+00:05:51,180 --> 00:05:55,919
+to the air and the dew point
+
+146
+00:05:52,800 --> 00:05:59,010
+consequently is going up the temperature
+
+147
+00:05:55,919 --> 00:06:01,139
+is the same but as I add water relative
+
+148
+00:05:59,010 --> 00:06:02,010
+humidity goes up with it so go up and up
+
+149
+00:06:01,139 --> 00:06:05,580
+and up and up and up
+
+150
+00:06:02,010 --> 00:06:10,050
+and then when I get up to about there I
+
+151
+00:06:05,580 --> 00:06:13,650
+am 100% relative humidity temperature
+
+152
+00:06:10,050 --> 00:06:15,960
+and dew point are the same if I it is
+
+153
+00:06:13,650 --> 00:06:17,729
+physically impossible for me to have dew
+
+154
+00:06:15,960 --> 00:06:20,010
+point above temperature so the way this
+
+155
+00:06:17,729 --> 00:06:22,889
+software handles this is if I try to
+
+156
+00:06:20,010 --> 00:06:24,630
+crank dew point higher it also just
+
+157
+00:06:22,889 --> 00:06:27,570
+raises the temperature so that you don't
+
+158
+00:06:24,630 --> 00:06:29,370
+have math that makes no sense but in
+
+159
+00:06:27,570 --> 00:06:31,349
+reality if I was actually adding water
+
+160
+00:06:29,370 --> 00:06:34,279
+to the air the temperature does not
+
+161
+00:06:31,349 --> 00:06:37,119
+magically go up okay that's kind of a
+
+162
+00:06:34,279 --> 00:06:40,789
+limitation of this of this
+
+163
+00:06:37,119 --> 00:06:43,639
+software simulation so here two
+
+164
+00:06:40,789 --> 00:06:46,490
+temperature eighty degrees dew point
+
+165
+00:06:43,639 --> 00:06:48,379
+eighty degrees relative for me 100% this
+
+166
+00:06:46,490 --> 00:06:50,360
+would be a pretty miserable place to
+
+167
+00:06:48,379 --> 00:06:52,479
+live right now if you had this because
+
+168
+00:06:50,360 --> 00:06:55,009
+you as we talked about with the
+
+169
+00:06:52,479 --> 00:06:59,119
+evaporation lecture your sweat would not
+
+170
+00:06:55,009 --> 00:07:02,539
+evaporate so from here if I cool it down
+
+171
+00:06:59,119 --> 00:07:04,939
+I'm generating a condensation making do
+
+172
+00:07:02,539 --> 00:07:07,879
+making do making do a relative humidity
+
+173
+00:07:04,939 --> 00:07:10,009
+again stays of 100% then I can raise the
+
+174
+00:07:07,879 --> 00:07:12,469
+temperature back up and again the
+
+175
+00:07:10,009 --> 00:07:14,149
+dewpoint stays there because we have no
+
+176
+00:07:12,469 --> 00:07:16,309
+mechanism to add or subtract water from
+
+177
+00:07:14,149 --> 00:07:19,939
+the air so this is a little tool that
+
+178
+00:07:16,309 --> 00:07:22,969
+you can play with maybe it'll help on
+
+179
+00:07:19,939 --> 00:07:24,259
+the left hand side there is another
+
+180
+00:07:22,969 --> 00:07:25,939
+thing where what they're doing is
+
+181
+00:07:24,259 --> 00:07:27,319
+they've got an indoor thermometers and
+
+182
+00:07:25,939 --> 00:07:28,969
+so both of these things are outdoor
+
+183
+00:07:27,319 --> 00:07:32,449
+there's an indoor thermometer and then
+
+184
+00:07:28,969 --> 00:07:35,180
+indoor relative humidity and you can do
+
+185
+00:07:32,449 --> 00:07:37,099
+things like you can change the
+
+186
+00:07:35,180 --> 00:07:39,770
+temperature you can turn the air
+
+187
+00:07:37,099 --> 00:07:42,409
+conditioner on and off and you can see
+
+188
+00:07:39,770 --> 00:07:43,909
+what the effect is on the indoor
+
+189
+00:07:42,409 --> 00:07:45,349
+relative humidity so you can play with
+
+190
+00:07:43,909 --> 00:07:47,749
+that if you want you can open the door
+
+191
+00:07:45,349 --> 00:07:51,639
+and let in some outside air and see how
+
+192
+00:07:47,749 --> 00:07:54,919
+that changes the the point being that
+
+193
+00:07:51,639 --> 00:07:56,990
+often we have the same air outside as we
+
+194
+00:07:54,919 --> 00:08:00,490
+have inside right it's usually the same
+
+195
+00:07:56,990 --> 00:08:03,559
+air and if I have a relative humidity
+
+196
+00:08:00,490 --> 00:08:06,409
+gauge inside it'll have one reading on
+
+197
+00:08:03,559 --> 00:08:09,080
+it and I have a relative gate relative
+
+198
+00:08:06,409 --> 00:08:11,149
+humidity gauge outside it'll have a
+
+199
+00:08:09,080 --> 00:08:13,069
+different reading on it but the air is
+
+200
+00:08:11,149 --> 00:08:14,330
+the same why are the readings different
+
+201
+00:08:13,069 --> 00:08:16,370
+because the temperatures are different
+
+202
+00:08:14,330 --> 00:08:18,469
+that's why and that's what plane with
+
+203
+00:08:16,370 --> 00:08:21,319
+this allows you to allows you to mess
+
+204
+00:08:18,469 --> 00:08:22,879
+with that okay so I don't know if that
+
+205
+00:08:21,319 --> 00:08:24,860
+helps it up but you can go and play with
+
+206
+00:08:22,879 --> 00:08:26,240
+this to your heart's content and see if
+
+207
+00:08:24,860 --> 00:08:28,490
+you can understand the relationship
+
+208
+00:08:26,240 --> 00:08:30,759
+between dewpoint temperature relative
+
+209
+00:08:28,490 --> 00:08:30,759
+humidity
+

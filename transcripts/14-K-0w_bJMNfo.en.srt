@@ -1,0 +1,2976 @@
+1
+00:00:06,259 --> 00:00:09,780
+hey this is Mel strong and in this
+
+2
+00:00:08,639 --> 00:00:12,500
+lecture we're going to talk about
+
+3
+00:00:09,780 --> 00:00:15,960
+seasonal changes that occur in Earth's
+
+4
+00:00:12,500 --> 00:00:18,210
+atmospheric circulation pattern so we're
+
+5
+00:00:15,960 --> 00:00:20,100
+making the transition from weather to
+
+6
+00:00:18,210 --> 00:00:21,720
+climate and we haven't really talked
+
+7
+00:00:20,100 --> 00:00:23,010
+about the difference between weather and
+
+8
+00:00:21,720 --> 00:00:25,890
+climate yet so we're going to start with
+
+9
+00:00:23,010 --> 00:00:28,260
+that so weather is what we've been
+
+10
+00:00:25,890 --> 00:00:30,150
+talking about so far in this class is
+
+11
+00:00:28,260 --> 00:00:31,769
+what's happening right now in the
+
+12
+00:00:30,150 --> 00:00:32,460
+atmosphere it's the current conditions
+
+13
+00:00:31,769 --> 00:00:35,460
+okay
+
+14
+00:00:32,460 --> 00:00:37,530
+now weather turns out you can't really
+
+15
+00:00:35,460 --> 00:00:40,170
+predict it more than about five days out
+
+16
+00:00:37,530 --> 00:00:41,700
+and we probably never will and the
+
+17
+00:00:40,170 --> 00:00:45,030
+reason for that is something called
+
+18
+00:00:41,700 --> 00:00:49,500
+chaos that's in the atmosphere now chaos
+
+19
+00:00:45,030 --> 00:00:51,000
+is a mathematical thing but you can kind
+
+20
+00:00:49,500 --> 00:00:53,730
+of think of it as if you have a system
+
+21
+00:00:51,000 --> 00:00:56,789
+is so complicated that there are too
+
+22
+00:00:53,730 --> 00:01:00,690
+many variables we call those degrees of
+
+23
+00:00:56,789 --> 00:01:03,199
+freedom and all these extra degrees of
+
+24
+00:01:00,690 --> 00:01:07,049
+freedom mean that you can't really make
+
+25
+00:01:03,199 --> 00:01:08,640
+predictions very far out in time so what
+
+26
+00:01:07,049 --> 00:01:10,650
+will happen is a very small change
+
+27
+00:01:08,640 --> 00:01:13,350
+somewhere in the atmosphere can
+
+28
+00:01:10,650 --> 00:01:16,250
+propagate to a much bigger change that's
+
+29
+00:01:13,350 --> 00:01:18,360
+unforeseeable a few days in the future
+
+30
+00:01:16,250 --> 00:01:21,150
+mathematically is a pretty complicated
+
+31
+00:01:18,360 --> 00:01:22,890
+thing but you can kind of get a sense of
+
+32
+00:01:21,150 --> 00:01:24,689
+it with this movie that we saw before so
+
+33
+00:01:22,890 --> 00:01:27,330
+this is water vapor in the atmosphere
+
+34
+00:01:24,689 --> 00:01:30,270
+and in the bright white are clouds and
+
+35
+00:01:27,330 --> 00:01:32,369
+so we so if you just if I took a
+
+36
+00:01:30,270 --> 00:01:34,650
+freeze-frame of this right and I asked
+
+37
+00:01:32,369 --> 00:01:36,270
+you okay based on all the swirls and
+
+38
+00:01:34,650 --> 00:01:39,869
+everything you see what would this look
+
+39
+00:01:36,270 --> 00:01:42,750
+like say five days in the future it's
+
+40
+00:01:39,869 --> 00:01:45,060
+nearly impossible to do okay there are
+
+41
+00:01:42,750 --> 00:01:48,570
+so much going on here there's a lot of
+
+42
+00:01:45,060 --> 00:01:51,899
+chaos and so that means it's really
+
+43
+00:01:48,570 --> 00:01:56,790
+impossible to predict out more than five
+
+44
+00:01:51,899 --> 00:01:59,579
+days some outlets let's just say oh I
+
+45
+00:01:56,790 --> 00:02:01,170
+don't know The Weather Channel will
+
+46
+00:01:59,579 --> 00:02:03,619
+claim that they can make predictions
+
+47
+00:02:01,170 --> 00:02:06,719
+beyond what they do a 10-day forecast
+
+48
+00:02:03,619 --> 00:02:08,129
+but if you keep track of how well
+
+49
+00:02:06,719 --> 00:02:10,649
+they're doing and their ten-day forecast
+
+50
+00:02:08,129 --> 00:02:14,330
+is actually pretty bad okay
+
+51
+00:02:10,649 --> 00:02:19,440
+so realistically five maybe seven days
+
+52
+00:02:14,330 --> 00:02:21,570
+so that's weather climate climate really
+
+53
+00:02:19,440 --> 00:02:23,460
+refers to the average conditions for a
+
+54
+00:02:21,570 --> 00:02:27,420
+given place at a given time so in other
+
+55
+00:02:23,460 --> 00:02:30,390
+words we might say okay what high
+
+56
+00:02:27,420 --> 00:02:32,970
+temperature do we expect in Albuquerque
+
+57
+00:02:30,390 --> 00:02:34,710
+on July 1st so the answer to that we
+
+58
+00:02:32,970 --> 00:02:36,930
+would go back to all the July firsts
+
+59
+00:02:34,710 --> 00:02:39,450
+that we have on record in average the
+
+60
+00:02:36,930 --> 00:02:40,860
+high temperatures okay that's climate
+
+61
+00:02:39,450 --> 00:02:42,450
+and it can include all kinds of things
+
+62
+00:02:40,860 --> 00:02:43,980
+the high temperature the low temperature
+
+63
+00:02:42,450 --> 00:02:46,320
+the average temperature the
+
+64
+00:02:43,980 --> 00:02:48,300
+precipitation the dew point is a lot of
+
+65
+00:02:46,320 --> 00:02:51,989
+things that we can include in climate
+
+66
+00:02:48,300 --> 00:02:55,290
+now the weird thing is that climate is
+
+67
+00:02:51,989 --> 00:02:57,209
+actually predictable for decades out so
+
+68
+00:02:55,290 --> 00:02:59,390
+it would be impossible for us to say
+
+69
+00:02:57,209 --> 00:03:02,760
+exactly what's going to happen
+
+70
+00:02:59,390 --> 00:03:04,770
+September 15th of next year in terms of
+
+71
+00:03:02,760 --> 00:03:05,580
+the weather we just can't do that that's
+
+72
+00:03:04,770 --> 00:03:09,930
+impossible
+
+73
+00:03:05,580 --> 00:03:12,720
+but what we can do is we can say say 10
+
+74
+00:03:09,930 --> 00:03:16,530
+years or 20 years in the future what
+
+75
+00:03:12,720 --> 00:03:19,680
+will a average September month be like
+
+76
+00:03:16,530 --> 00:03:22,560
+how will it be compared to an average
+
+77
+00:03:19,680 --> 00:03:24,720
+September this year right that's the
+
+78
+00:03:22,560 --> 00:03:28,019
+kind of thing that we're that we do with
+
+79
+00:03:24,720 --> 00:03:30,650
+climate so how is this possible
+
+80
+00:03:28,019 --> 00:03:35,360
+well there's one little analogy I do
+
+81
+00:03:30,650 --> 00:03:39,890
+that might help imagine if you have a
+
+82
+00:03:35,360 --> 00:03:43,709
+cigarette and the cigarettes burning and
+
+83
+00:03:39,890 --> 00:03:46,769
+it has all these wispy curls of smoke
+
+84
+00:03:43,709 --> 00:03:49,560
+that come up alright and I take a
+
+85
+00:03:46,769 --> 00:03:51,600
+picture of that and I say okay tell me
+
+86
+00:03:49,560 --> 00:03:54,690
+exactly where that all these little
+
+87
+00:03:51,600 --> 00:03:57,660
+smoke particles are going to be in five
+
+88
+00:03:54,690 --> 00:03:59,910
+seconds from now okay that would be very
+
+89
+00:03:57,660 --> 00:04:02,330
+hard to do there's too many degrees of
+
+90
+00:03:59,910 --> 00:04:06,450
+freedoms too much chaos in this system
+
+91
+00:04:02,330 --> 00:04:10,380
+that's whether climate would be okay now
+
+92
+00:04:06,450 --> 00:04:13,049
+we're going to take our cigarette and my
+
+93
+00:04:10,380 --> 00:04:16,530
+question is where do you expect the
+
+94
+00:04:13,049 --> 00:04:19,470
+smoke to be say five seconds from now
+
+95
+00:04:16,530 --> 00:04:23,820
+and climate would say well all the smoke
+
+96
+00:04:19,470 --> 00:04:26,880
+is going to be contained in this volume
+
+97
+00:04:23,820 --> 00:04:27,510
+right there that's sort of the
+
+98
+00:04:26,880 --> 00:04:29,130
+difference between
+
+99
+00:04:27,510 --> 00:04:31,080
+in climate weather is concerned about
+
+100
+00:04:29,130 --> 00:04:33,360
+where are the individual particles of
+
+101
+00:04:31,080 --> 00:04:35,550
+smoke going to be climate is concerned
+
+102
+00:04:33,360 --> 00:04:38,190
+with well where is all the smoke gun to
+
+103
+00:04:35,550 --> 00:04:40,410
+be contained sometimes we were referred
+
+104
+00:04:38,190 --> 00:04:42,300
+to this as the boundary conditions so
+
+105
+00:04:40,410 --> 00:04:44,670
+for any given place there are
+
+106
+00:04:42,300 --> 00:04:46,680
+limitations I can only get so hot and
+
+107
+00:04:44,670 --> 00:04:48,810
+only gets so cold there's only a certain
+
+108
+00:04:46,680 --> 00:04:51,240
+amount of water vapor you expect in the
+
+109
+00:04:48,810 --> 00:04:52,440
+air these are the boundary conditions
+
+110
+00:04:51,240 --> 00:04:55,500
+and they're set by all kinds of things
+
+111
+00:04:52,440 --> 00:04:57,750
+like the atmospheric chemistry and the
+
+112
+00:04:55,500 --> 00:04:59,280
+tilt of the Earth's axis and what the
+
+113
+00:04:57,750 --> 00:05:02,970
+Sun is doing all these different things
+
+114
+00:04:59,280 --> 00:05:04,620
+okay so that's climate you can actually
+
+115
+00:05:02,970 --> 00:05:07,170
+make a better prediction for climate
+
+116
+00:05:04,620 --> 00:05:13,140
+decades out then you can with weather
+
+117
+00:05:07,170 --> 00:05:16,650
+more than about a week out there's
+
+118
+00:05:13,140 --> 00:05:18,600
+another term that you will sometimes
+
+119
+00:05:16,650 --> 00:05:21,770
+hear called a climate normal or
+
+120
+00:05:18,600 --> 00:05:26,040
+sometimes we just say a climate norm
+
+121
+00:05:21,770 --> 00:05:28,080
+climate normal is climate data for a
+
+122
+00:05:26,040 --> 00:05:30,630
+thirty-year period and it came about
+
+123
+00:05:28,080 --> 00:05:32,270
+because a long time ago there's a bunch
+
+124
+00:05:30,630 --> 00:05:35,070
+of scientists at the weather meeting and
+
+125
+00:05:32,270 --> 00:05:37,020
+really reliable weather stations had
+
+126
+00:05:35,070 --> 00:05:39,810
+only been around for about 30 years and
+
+127
+00:05:37,020 --> 00:05:42,780
+so they decided to use a 30-year chunk
+
+128
+00:05:39,810 --> 00:05:44,520
+of time to represent climate and every
+
+129
+00:05:42,780 --> 00:05:47,430
+so many years they redefined that
+
+130
+00:05:44,520 --> 00:05:49,410
+30-year chunk so sometimes when you look
+
+131
+00:05:47,430 --> 00:05:52,320
+up climate conditions for a certain
+
+132
+00:05:49,410 --> 00:05:54,300
+place like back to my example what's the
+
+133
+00:05:52,320 --> 00:05:56,700
+average high temperature for July 1st in
+
+134
+00:05:54,300 --> 00:05:58,140
+Albuquerque it usually the number you
+
+135
+00:05:56,700 --> 00:06:01,350
+might find if you look something like
+
+136
+00:05:58,140 --> 00:06:03,720
+that up will come from a 30-year chunk
+
+137
+00:06:01,350 --> 00:06:09,300
+of time called a climate normal okay so
+
+138
+00:06:03,720 --> 00:06:13,500
+we'll see these in this class okay first
+
+139
+00:06:09,300 --> 00:06:16,020
+things first why do we have seasons so
+
+140
+00:06:13,500 --> 00:06:18,930
+if you ask a lot of people including
+
+141
+00:06:16,020 --> 00:06:21,870
+college graduates why is it warmer in
+
+142
+00:06:18,930 --> 00:06:23,700
+the summer and colder in the winter the
+
+143
+00:06:21,870 --> 00:06:26,220
+most common wrong answer that you will
+
+144
+00:06:23,700 --> 00:06:29,250
+get is that the earth is closer to the
+
+145
+00:06:26,220 --> 00:06:32,910
+Sun in the summer and farther from the
+
+146
+00:06:29,250 --> 00:06:35,790
+Sun in the winter and kids believe this
+
+147
+00:06:32,910 --> 00:06:38,250
+Adil's believe this Yale graduates
+
+148
+00:06:35,790 --> 00:06:41,340
+believe this okay so let's just go over
+
+149
+00:06:38,250 --> 00:06:43,580
+this first the reason we have seasons is
+
+150
+00:06:41,340 --> 00:06:48,810
+because the earth is on a tilted axis
+
+151
+00:06:43,580 --> 00:06:51,620
+now this orbit looks like an ellipse but
+
+152
+00:06:48,810 --> 00:06:56,699
+it's actually pretty close to a circle
+
+153
+00:06:51,620 --> 00:07:00,270
+now if we move around the Sun okay with
+
+154
+00:06:56,699 --> 00:07:03,540
+time so let's say here here I am in June
+
+155
+00:07:00,270 --> 00:07:05,729
+and what you can see is that if you
+
+156
+00:07:03,540 --> 00:07:09,180
+lived up above this little red circle
+
+157
+00:07:05,729 --> 00:07:11,550
+the Arctic Circle that you are in Sun 24
+
+158
+00:07:09,180 --> 00:07:13,889
+hours a day right and if you have
+
+159
+00:07:11,550 --> 00:07:15,630
+somewhere down here you have part of
+
+160
+00:07:13,889 --> 00:07:17,850
+your day of Sun part of your day as
+
+161
+00:07:15,630 --> 00:07:20,250
+night and if you're down here which we
+
+162
+00:07:17,850 --> 00:07:23,600
+can't see right now they're in the dark
+
+163
+00:07:20,250 --> 00:07:26,250
+24 hours a day so I'm gonna show that
+
+164
+00:07:23,600 --> 00:07:28,470
+okay this is just another view of the
+
+165
+00:07:26,250 --> 00:07:29,580
+same thing here's these guys down here
+
+166
+00:07:28,470 --> 00:07:31,919
+in Antarctica
+
+167
+00:07:29,580 --> 00:07:34,800
+they'd aren't seeing any Sun whatsoever
+
+168
+00:07:31,919 --> 00:07:37,380
+right so right now the northern
+
+169
+00:07:34,800 --> 00:07:40,350
+hemisphere is getting more Sun southern
+
+170
+00:07:37,380 --> 00:07:43,880
+hemisphere is getting less Sun okay so
+
+171
+00:07:40,350 --> 00:07:47,430
+it's our summer and it's their winter
+
+172
+00:07:43,880 --> 00:07:52,260
+all right so if we travel forward in
+
+173
+00:07:47,430 --> 00:07:56,250
+time we come around and as we go around
+
+174
+00:07:52,260 --> 00:07:59,760
+the Sun we're maintaining this tilted
+
+175
+00:07:56,250 --> 00:08:02,700
+angle right the angle of rotation of the
+
+176
+00:07:59,760 --> 00:08:05,130
+earth and Earth's axis it's not exactly
+
+177
+00:08:02,700 --> 00:08:08,280
+perpendicular to the plane there the
+
+178
+00:08:05,130 --> 00:08:11,430
+orbits it's tilted a little bit about 23
+
+179
+00:08:08,280 --> 00:08:15,450
+degrees and that's why this is happening
+
+180
+00:08:11,430 --> 00:08:19,110
+so I come over here now we're in the
+
+181
+00:08:15,450 --> 00:08:20,930
+we're in the winter our winter and you
+
+182
+00:08:19,110 --> 00:08:24,510
+can see that the guys that are in the
+
+183
+00:08:20,930 --> 00:08:27,870
+Arctic Circle and any for any place
+
+184
+00:08:24,510 --> 00:08:30,539
+north of that are in the dark 24 hours a
+
+185
+00:08:27,870 --> 00:08:33,419
+day and if we can see what our friends
+
+186
+00:08:30,539 --> 00:08:37,740
+in Antarctica are doing they are in the
+
+187
+00:08:33,419 --> 00:08:41,159
+Sun 24 hours a day so our winter their
+
+188
+00:08:37,740 --> 00:08:43,950
+summer okay but it's not the distance
+
+189
+00:08:41,159 --> 00:08:45,779
+right the distant fact in the northern
+
+190
+00:08:43,950 --> 00:08:48,600
+hemisphere our summer were actually
+
+191
+00:08:45,779 --> 00:08:50,610
+farthest from the Sun in the summer and
+
+192
+00:08:48,600 --> 00:08:53,900
+we're actually closest to the Sun in the
+
+193
+00:08:50,610 --> 00:08:56,160
+winter for us in the northern hemisphere
+
+194
+00:08:53,900 --> 00:08:59,550
+alright so with that let's talk about
+
+195
+00:08:56,160 --> 00:09:03,860
+what the seasons actually do as a result
+
+196
+00:08:59,550 --> 00:09:06,240
+of this tilted Earth's axis business we
+
+197
+00:09:03,860 --> 00:09:08,310
+alternate between heating the Northern
+
+198
+00:09:06,240 --> 00:09:10,830
+Hemisphere and and then heating the
+
+199
+00:09:08,310 --> 00:09:14,340
+southern hemisphere right so here's a
+
+200
+00:09:10,830 --> 00:09:16,530
+little animation it says net shortwave
+
+201
+00:09:14,340 --> 00:09:19,350
+radiation that's a kind of a fancy way
+
+202
+00:09:16,530 --> 00:09:20,490
+of just saying sunlight so just imagine
+
+203
+00:09:19,350 --> 00:09:23,040
+that this is showing you how much
+
+204
+00:09:20,490 --> 00:09:25,800
+sunlight hits the ground as the months
+
+205
+00:09:23,040 --> 00:09:29,400
+go by okay and you see there's this band
+
+206
+00:09:25,800 --> 00:09:32,460
+of dark red which is the most intense
+
+207
+00:09:29,400 --> 00:09:36,300
+sunlight and it migrates north and it
+
+208
+00:09:32,460 --> 00:09:38,820
+migrated south with the seasons now it's
+
+209
+00:09:36,300 --> 00:09:40,500
+not a perfect band it's kind of spotty
+
+210
+00:09:38,820 --> 00:09:43,590
+because it also takes into account
+
+211
+00:09:40,500 --> 00:09:46,350
+clouds so this is how much radiation
+
+212
+00:09:43,590 --> 00:09:48,300
+actually hits the surface which if
+
+213
+00:09:46,350 --> 00:09:49,890
+there's a lot of clouds it will reflect
+
+214
+00:09:48,300 --> 00:09:52,320
+some of that so that's why it's not a
+
+215
+00:09:49,890 --> 00:09:55,920
+perfect band but a couple things to
+
+216
+00:09:52,320 --> 00:09:59,310
+think about here first of all when we're
+
+217
+00:09:55,920 --> 00:10:01,020
+in we have the winter up here right they
+
+218
+00:09:59,310 --> 00:10:02,940
+have the summer down there paid
+
+219
+00:10:01,020 --> 00:10:06,540
+hopefully you know that but some people
+
+220
+00:10:02,940 --> 00:10:10,020
+don't what would life be like if you
+
+221
+00:10:06,540 --> 00:10:12,240
+lived right out here say where my dot is
+
+222
+00:10:10,020 --> 00:10:14,910
+right now so this would be kind of weird
+
+223
+00:10:12,240 --> 00:10:17,880
+because the red band passes you over
+
+224
+00:10:14,910 --> 00:10:19,890
+there and you have summer and then it
+
+225
+00:10:17,880 --> 00:10:23,250
+comes back down and passes you again and
+
+226
+00:10:19,890 --> 00:10:26,910
+you have summer again so if you lived
+
+227
+00:10:23,250 --> 00:10:29,700
+along the ITCZ that area you actually
+
+228
+00:10:26,910 --> 00:10:31,380
+would have two summers you don't really
+
+229
+00:10:29,700 --> 00:10:34,710
+have anything you could consider winter
+
+230
+00:10:31,380 --> 00:10:37,500
+or even seasons for that matter but you
+
+231
+00:10:34,710 --> 00:10:44,010
+have two extra hot periods of the year
+
+232
+00:10:37,500 --> 00:10:46,200
+if you live near the equator well if the
+
+233
+00:10:44,010 --> 00:10:48,270
+earth was all the same thing
+
+234
+00:10:46,200 --> 00:10:51,300
+then the patterns of temperature would
+
+235
+00:10:48,270 --> 00:10:52,950
+kind of follow that last animation but
+
+236
+00:10:51,300 --> 00:10:55,350
+it's not all the same thing
+
+237
+00:10:52,950 --> 00:10:57,570
+and so this what we're looking at here
+
+238
+00:10:55,350 --> 00:11:01,230
+is air temperature again throughout the
+
+239
+00:10:57,570 --> 00:11:04,290
+months and you can see that there's a
+
+240
+00:11:01,230 --> 00:11:06,930
+band here of high air temperatures and
+
+241
+00:11:04,290 --> 00:11:09,390
+then you can see the the
+
+242
+00:11:06,930 --> 00:11:10,860
+we purple colors are the cold
+
+243
+00:11:09,390 --> 00:11:15,060
+temperatures so a couple things of
+
+244
+00:11:10,860 --> 00:11:18,540
+notice when it becomes the winter say
+
+245
+00:11:15,060 --> 00:11:21,390
+our winter the continents cool off much
+
+246
+00:11:18,540 --> 00:11:23,700
+quicker than the oceans right so you can
+
+247
+00:11:21,390 --> 00:11:26,010
+see that and in the summer the
+
+248
+00:11:23,700 --> 00:11:28,980
+continents heat up faster than the
+
+249
+00:11:26,010 --> 00:11:32,070
+oceans so we talk about sometimes this
+
+250
+00:11:28,980 --> 00:11:34,860
+term heat capacity that it takes a lot
+
+251
+00:11:32,070 --> 00:11:36,480
+of energy to heat up water and then once
+
+252
+00:11:34,860 --> 00:11:39,029
+water is warm it takes a long time for
+
+253
+00:11:36,480 --> 00:11:40,950
+it to cool off whereas soil heats up
+
+254
+00:11:39,029 --> 00:11:43,380
+pretty quickly cools off pretty quickly
+
+255
+00:11:40,950 --> 00:11:45,750
+so the temperatures of the continents
+
+256
+00:11:43,380 --> 00:11:48,750
+change much more rapidly than the
+
+257
+00:11:45,750 --> 00:11:51,000
+temperatures of the oceans so that's one
+
+258
+00:11:48,750 --> 00:11:53,370
+thing to notice another thing to notice
+
+259
+00:11:51,000 --> 00:11:57,750
+is that the really if we're thinking
+
+260
+00:11:53,370 --> 00:11:59,430
+about the ITCZ so again this is a
+
+261
+00:11:57,750 --> 00:12:00,660
+continuation of the last lecture so if
+
+262
+00:11:59,430 --> 00:12:01,950
+you didn't watch the last one go back
+
+263
+00:12:00,660 --> 00:12:06,240
+and do that first or nothing is going to
+
+264
+00:12:01,950 --> 00:12:10,440
+make sense here the ITCZ follows the
+
+265
+00:12:06,240 --> 00:12:12,420
+hottest part of the earth okay but the
+
+266
+00:12:10,440 --> 00:12:15,300
+hottest part of the earth is moving
+
+267
+00:12:12,420 --> 00:12:17,370
+great so if you imagine kind of right in
+
+268
+00:12:15,300 --> 00:12:19,470
+the middle of this orange blob kind of
+
+269
+00:12:17,370 --> 00:12:24,300
+right up in North Africa down here right
+
+270
+00:12:19,470 --> 00:12:27,570
+so as you watch this the ITCZ is going
+
+271
+00:12:24,300 --> 00:12:30,720
+to follow the hottest part of the earth
+
+272
+00:12:27,570 --> 00:12:36,570
+so it's also moving with this orange
+
+273
+00:12:30,720 --> 00:12:39,959
+blob here so as the seasons change the
+
+274
+00:12:36,570 --> 00:12:42,330
+location of the ITCZ changes well
+
+275
+00:12:39,959 --> 00:12:45,330
+remember at the ITCZ that's where it
+
+276
+00:12:42,330 --> 00:12:47,880
+rises okay well if you change where air
+
+277
+00:12:45,330 --> 00:12:50,300
+rises then you're also going to change
+
+278
+00:12:47,880 --> 00:12:53,490
+where the air comes and sinks back down
+
+279
+00:12:50,300 --> 00:12:55,440
+so what's not shown here but we'll see
+
+280
+00:12:53,490 --> 00:12:58,020
+in a second is locations of the
+
+281
+00:12:55,440 --> 00:12:58,620
+subtropical highs also change with the
+
+282
+00:12:58,020 --> 00:13:01,980
+seasons
+
+283
+00:12:58,620 --> 00:13:03,420
+so what we're getting into is a pattern
+
+284
+00:13:01,980 --> 00:13:04,800
+you know many patterns here they're
+
+285
+00:13:03,420 --> 00:13:06,180
+going to be shifting with the seasons
+
+286
+00:13:04,800 --> 00:13:08,430
+the ITCZ
+
+287
+00:13:06,180 --> 00:13:11,700
+the heavily cells subtropical highs
+
+288
+00:13:08,430 --> 00:13:13,470
+polar fronts easterlies westerlies all
+
+289
+00:13:11,700 --> 00:13:15,950
+that all that stuff it's all going to
+
+290
+00:13:13,470 --> 00:13:18,480
+shift with the seasons as we
+
+291
+00:13:15,950 --> 00:13:20,080
+alternatively warm in cool different
+
+292
+00:13:18,480 --> 00:13:23,140
+parts of the earth
+
+293
+00:13:20,080 --> 00:13:25,540
+okay so here is an animation that kind
+
+294
+00:13:23,140 --> 00:13:27,670
+of shows how some of these things change
+
+295
+00:13:25,540 --> 00:13:29,620
+with the seasons so right now I've got
+
+296
+00:13:27,670 --> 00:13:32,589
+time slider down here and it's said
+
+297
+00:13:29,620 --> 00:13:35,769
+early January and I can see that the
+
+298
+00:13:32,589 --> 00:13:38,079
+ITCZ is this purple line right here and
+
+299
+00:13:35,769 --> 00:13:41,410
+the first thing you'll notice is that
+
+300
+00:13:38,079 --> 00:13:42,880
+it's actually not a straight line and if
+
+301
+00:13:41,410 --> 00:13:45,310
+you remember from the previous lecture
+
+302
+00:13:42,880 --> 00:13:48,220
+we looked at some diagrams from a
+
+303
+00:13:45,310 --> 00:13:50,829
+textbook that showed the ITCZ is as nice
+
+304
+00:13:48,220 --> 00:13:52,720
+perfectly straight line usually right at
+
+305
+00:13:50,829 --> 00:13:54,310
+the equator and we see that you know it
+
+306
+00:13:52,720 --> 00:13:58,149
+hits the equator a couple of places here
+
+307
+00:13:54,310 --> 00:14:01,209
+but it's not at the equator so right now
+
+308
+00:13:58,149 --> 00:14:02,980
+we're in the winter and so the winter is
+
+309
+00:14:01,209 --> 00:14:05,320
+heating up the southern hemisphere more
+
+310
+00:14:02,980 --> 00:14:07,720
+which means that these continents down
+
+311
+00:14:05,320 --> 00:14:10,360
+here are heating up more which means
+
+312
+00:14:07,720 --> 00:14:13,209
+that the warmest part of the earth is
+
+313
+00:14:10,360 --> 00:14:15,670
+kind of near the equator but right now
+
+314
+00:14:13,209 --> 00:14:17,860
+South America is is warming up quite a
+
+315
+00:14:15,670 --> 00:14:19,360
+bit because it's their summer so you see
+
+316
+00:14:17,860 --> 00:14:21,490
+it dip down to the south a little bit
+
+317
+00:14:19,360 --> 00:14:24,820
+then returns close to the equator then
+
+318
+00:14:21,490 --> 00:14:27,370
+again Africa is warming up because it's
+
+319
+00:14:24,820 --> 00:14:30,100
+it's summer and it dips down again and
+
+320
+00:14:27,370 --> 00:14:31,990
+then it gets into some really warm ocean
+
+321
+00:14:30,100 --> 00:14:35,620
+water which we'll talk about probably in
+
+322
+00:14:31,990 --> 00:14:37,420
+a couple of lectures now here it shows
+
+323
+00:14:35,620 --> 00:14:39,399
+the Hadley cells this is where the air
+
+324
+00:14:37,420 --> 00:14:41,350
+is rising and you can see they show the
+
+325
+00:14:39,399 --> 00:14:43,750
+air moving to the north and the south
+
+326
+00:14:41,350 --> 00:14:46,450
+and sinking down about 30 degrees north
+
+327
+00:14:43,750 --> 00:14:48,459
+30 degrees south and of course that
+
+328
+00:14:46,450 --> 00:14:50,230
+travels all the way across you know the
+
+329
+00:14:48,459 --> 00:14:52,839
+world right so this is going all the way
+
+330
+00:14:50,230 --> 00:14:55,899
+around the planet they also show in here
+
+331
+00:14:52,839 --> 00:14:57,370
+the polar front now this is kind of a
+
+332
+00:14:55,899 --> 00:15:00,100
+weird way to show it because the polar
+
+333
+00:14:57,370 --> 00:15:02,110
+front itself is a wavy line kind of like
+
+334
+00:15:00,100 --> 00:15:04,870
+the Purple Line and it would be coming
+
+335
+00:15:02,110 --> 00:15:06,279
+along kind of through here right and it
+
+336
+00:15:04,870 --> 00:15:08,140
+changes day to day right it's always
+
+337
+00:15:06,279 --> 00:15:12,459
+changing though with a bunch of these
+
+338
+00:15:08,140 --> 00:15:15,279
+rows be waves okay so I'm going to move
+
+339
+00:15:12,459 --> 00:15:18,279
+forward in time and so as I do so we're
+
+340
+00:15:15,279 --> 00:15:21,310
+getting into our spring and then we're
+
+341
+00:15:18,279 --> 00:15:23,459
+getting into our summer and you notice
+
+342
+00:15:21,310 --> 00:15:26,320
+how this whole thing is migrating
+
+343
+00:15:23,459 --> 00:15:29,110
+northwards right and as it migrates
+
+344
+00:15:26,320 --> 00:15:33,760
+northwards the Hadley cells also migrate
+
+345
+00:15:29,110 --> 00:15:36,310
+northwards and polar front migrates more
+
+346
+00:15:33,760 --> 00:15:39,250
+northwards so I continue to move this oh
+
+347
+00:15:36,310 --> 00:15:41,290
+we just got past summer they were going
+
+348
+00:15:39,250 --> 00:15:44,800
+to get into fall and you'll see the ITCZ
+
+349
+00:15:41,290 --> 00:15:48,630
+who is back down down meaning south
+
+350
+00:15:44,800 --> 00:15:52,209
+right okay so this is how the ITCZ
+
+351
+00:15:48,630 --> 00:15:54,459
+changes with the seasons and heavily
+
+352
+00:15:52,209 --> 00:15:56,459
+sells change with it which means that
+
+353
+00:15:54,459 --> 00:15:58,510
+we're that air is coming down right here
+
+354
+00:15:56,459 --> 00:16:01,000
+that's where that subtropical high is
+
+355
+00:15:58,510 --> 00:16:03,430
+gonna be it's also going to change so I
+
+356
+00:16:01,000 --> 00:16:05,949
+want to show pressure that's what that
+
+357
+00:16:03,430 --> 00:16:07,930
+button does okay so let's see if we can
+
+358
+00:16:05,949 --> 00:16:10,870
+figure out what's happening here so I'm
+
+359
+00:16:07,930 --> 00:16:13,269
+gonna go back to January and we've got
+
+360
+00:16:10,870 --> 00:16:16,060
+our subtropical highs there's a strong
+
+361
+00:16:13,269 --> 00:16:18,550
+one right there one right there one
+
+362
+00:16:16,060 --> 00:16:19,810
+right there about 30 degrees right more
+
+363
+00:16:18,550 --> 00:16:22,839
+or less 30 degrees
+
+364
+00:16:19,810 --> 00:16:25,360
+then we've got some over here and here
+
+365
+00:16:22,839 --> 00:16:27,880
+those are about 30 degrees we also have
+
+366
+00:16:25,360 --> 00:16:29,410
+some highs if you remember back when we
+
+367
+00:16:27,880 --> 00:16:30,610
+talked about air pressure we said that
+
+368
+00:16:29,410 --> 00:16:33,010
+you could get a high pressure if you
+
+369
+00:16:30,610 --> 00:16:34,209
+have just really cold air that's what's
+
+370
+00:16:33,010 --> 00:16:35,800
+happening here
+
+371
+00:16:34,209 --> 00:16:38,620
+so our friends over here in Siberia
+
+372
+00:16:35,800 --> 00:16:40,720
+which are very cold they're experiencing
+
+373
+00:16:38,620 --> 00:16:44,260
+some high pressure just from a big pool
+
+374
+00:16:40,720 --> 00:16:46,630
+of cold air as our friends in the
+
+375
+00:16:44,260 --> 00:16:49,149
+northern territories up here in Canada
+
+376
+00:16:46,630 --> 00:16:52,959
+very cold air makes a high pressure for
+
+377
+00:16:49,149 --> 00:16:55,630
+a totally different reason also we can
+
+378
+00:16:52,959 --> 00:16:57,970
+see lows here and here these are places
+
+379
+00:16:55,630 --> 00:17:00,100
+where mid-latitude cyclones often form
+
+380
+00:16:57,970 --> 00:17:01,480
+we didn't talk about this when we talked
+
+381
+00:17:00,100 --> 00:17:02,980
+about mid-latitude cyclones but there's
+
+382
+00:17:01,480 --> 00:17:04,449
+certain places on earth where they
+
+383
+00:17:02,980 --> 00:17:06,910
+happen to form over and over the
+
+384
+00:17:04,449 --> 00:17:09,040
+conditions are just right and this is
+
+385
+00:17:06,910 --> 00:17:10,750
+referred to as the Aleutian low it's a
+
+386
+00:17:09,040 --> 00:17:12,280
+so these are the Aleutian Islands and
+
+387
+00:17:10,750 --> 00:17:14,740
+it's just a place where these mid
+
+388
+00:17:12,280 --> 00:17:16,150
+latitudes start to spin up and we talked
+
+389
+00:17:14,740 --> 00:17:19,630
+about the stages that they go through
+
+390
+00:17:16,150 --> 00:17:23,199
+well they start here so it's low because
+
+391
+00:17:19,630 --> 00:17:25,120
+on average this is where you often get
+
+392
+00:17:23,199 --> 00:17:26,860
+the warm fronts and the cold fronts over
+
+393
+00:17:25,120 --> 00:17:28,510
+and over and over and over right you can
+
+394
+00:17:26,860 --> 00:17:31,360
+give them other places but if you
+
+395
+00:17:28,510 --> 00:17:32,950
+average it out over many years you would
+
+396
+00:17:31,360 --> 00:17:34,750
+see it kind of there's a low pressure
+
+397
+00:17:32,950 --> 00:17:37,660
+that kind of hangs out over here and one
+
+398
+00:17:34,750 --> 00:17:39,910
+over here okay also one other thing
+
+399
+00:17:37,660 --> 00:17:42,940
+looks like we have a thermal glow right
+
+400
+00:17:39,910 --> 00:17:45,600
+here so it's super hot in Africa hot air
+
+401
+00:17:42,940 --> 00:17:47,230
+rises so they put a low well here okay
+
+402
+00:17:45,600 --> 00:17:49,150
+notice
+
+403
+00:17:47,230 --> 00:17:51,880
+this one this is the Pacific subtropical
+
+404
+00:17:49,150 --> 00:17:53,220
+high oK we've talked about this last
+
+405
+00:17:51,880 --> 00:17:55,870
+time it's sitting out here in the ocean
+
+406
+00:17:53,220 --> 00:17:59,260
+I'm going to go forward in a time and
+
+407
+00:17:55,870 --> 00:18:02,500
+notice what it in particular does so as
+
+408
+00:17:59,260 --> 00:18:03,910
+we go forward in time our lows that we
+
+409
+00:18:02,500 --> 00:18:06,730
+had up here from the mid-latitude
+
+410
+00:18:03,910 --> 00:18:08,290
+cyclones are going away there's still
+
+411
+00:18:06,730 --> 00:18:09,640
+mid-latitude cyclones but they're
+
+412
+00:18:08,290 --> 00:18:11,860
+they're pretty weak and they're really
+
+413
+00:18:09,640 --> 00:18:16,950
+far to the north but notice what's
+
+414
+00:18:11,860 --> 00:18:19,960
+happened to our Pacific subtropical high
+
+415
+00:18:16,950 --> 00:18:22,840
+it's getting bigger which means it's
+
+416
+00:18:19,960 --> 00:18:26,410
+getting stronger but it's also moving
+
+417
+00:18:22,840 --> 00:18:29,559
+away from the continent okay so here we
+
+418
+00:18:26,410 --> 00:18:31,990
+are in in July and we see it's kind of
+
+419
+00:18:29,559 --> 00:18:35,340
+parked out here over the Pacific and
+
+420
+00:18:31,990 --> 00:18:39,669
+it's big right let me go back I go back
+
+421
+00:18:35,340 --> 00:18:44,160
+in our winter it's smaller but it's
+
+422
+00:18:39,669 --> 00:18:47,350
+actually much closer to us me New Mexico
+
+423
+00:18:44,160 --> 00:18:52,450
+Southern California Arizona much closer
+
+424
+00:18:47,350 --> 00:18:54,220
+to that area and in the summer he gets
+
+425
+00:18:52,450 --> 00:18:56,740
+bigger but it kind of moves further
+
+426
+00:18:54,220 --> 00:18:59,830
+offshore okay so this is important
+
+427
+00:18:56,740 --> 00:19:02,290
+because what we're leading up to is
+
+428
+00:18:59,830 --> 00:19:04,510
+we're trying to explain weather patterns
+
+429
+00:19:02,290 --> 00:19:06,880
+climate patterns that we see in the
+
+430
+00:19:04,510 --> 00:19:09,880
+United States so one of the climate
+
+431
+00:19:06,880 --> 00:19:12,160
+patterns that we see in New Mexico and
+
+432
+00:19:09,880 --> 00:19:15,460
+in Arizona and in Southern California is
+
+433
+00:19:12,160 --> 00:19:18,070
+that we have pretty dry winters right in
+
+434
+00:19:15,460 --> 00:19:19,929
+New Mexico most of our precipitation
+
+435
+00:19:18,070 --> 00:19:22,660
+falls in the monsoon season in the
+
+436
+00:19:19,929 --> 00:19:24,130
+summer and then the other half of it is
+
+437
+00:19:22,660 --> 00:19:25,530
+scattered throughout the year so we have
+
+438
+00:19:24,130 --> 00:19:28,270
+pretty dry
+
+439
+00:19:25,530 --> 00:19:30,580
+January's pretty JA dried December is
+
+440
+00:19:28,270 --> 00:19:32,860
+pretty dry February's and that's because
+
+441
+00:19:30,580 --> 00:19:35,260
+this Pacific subtropical high is just
+
+442
+00:19:32,860 --> 00:19:37,929
+sitting right up there really close to
+
+443
+00:19:35,260 --> 00:19:40,450
+us so even though it's weaker it's
+
+444
+00:19:37,929 --> 00:19:43,390
+closer and we if we feel the effects of
+
+445
+00:19:40,450 --> 00:19:46,030
+that Pacific subtropical high now in the
+
+446
+00:19:43,390 --> 00:19:49,179
+summer it gets bigger it gets stronger
+
+447
+00:19:46,030 --> 00:19:52,780
+and it but it moves further away from us
+
+448
+00:19:49,179 --> 00:19:54,460
+so we get a relief from the Pacific
+
+449
+00:19:52,780 --> 00:19:56,380
+subtropical high and that is one of the
+
+450
+00:19:54,460 --> 00:19:58,409
+things that allows our monsoon to
+
+451
+00:19:56,380 --> 00:20:01,180
+actually kick in and start producing
+
+452
+00:19:58,409 --> 00:20:03,310
+precipitation but
+
+453
+00:20:01,180 --> 00:20:06,250
+not to clear on this but it actually is
+
+454
+00:20:03,310 --> 00:20:08,220
+closer to the west coast up here like
+
+455
+00:20:06,250 --> 00:20:12,040
+California Oregon and Washington State
+
+456
+00:20:08,220 --> 00:20:14,410
+so their summers are actually going to
+
+457
+00:20:12,040 --> 00:20:16,660
+be really really dry because of the
+
+458
+00:20:14,410 --> 00:20:18,730
+specific subtropical high it's it's out
+
+459
+00:20:16,660 --> 00:20:20,860
+there right off the coast and they are
+
+460
+00:20:18,730 --> 00:20:23,950
+under the influence of sinking air day
+
+461
+00:20:20,860 --> 00:20:26,740
+after day after day so we can see this
+
+462
+00:20:23,950 --> 00:20:28,420
+on earth nil Schoolnet and you can
+
+463
+00:20:26,740 --> 00:20:30,250
+actually change the date and look at
+
+464
+00:20:28,420 --> 00:20:33,190
+different times in the past so what I've
+
+465
+00:20:30,250 --> 00:20:36,550
+done here is I've loaded up a day that's
+
+466
+00:20:33,190 --> 00:20:38,350
+in January and we're looking at surface
+
+467
+00:20:36,550 --> 00:20:44,470
+winds and I'm actually going to change
+
+468
+00:20:38,350 --> 00:20:50,740
+the overlay to MSL P 4 means sea level
+
+469
+00:20:44,470 --> 00:20:53,140
+pressure and right there spiraling off
+
+470
+00:20:50,740 --> 00:20:55,480
+the west coast so there is California
+
+471
+00:20:53,140 --> 00:20:58,390
+there's roughly the international border
+
+472
+00:20:55,480 --> 00:21:01,540
+and there's the Pacific subtropical high
+
+473
+00:20:58,390 --> 00:21:03,490
+it's spiraling around really pretty
+
+474
+00:21:01,540 --> 00:21:04,720
+close to where we live right and you can
+
+475
+00:21:03,490 --> 00:21:06,970
+see the winds coming right down the
+
+476
+00:21:04,720 --> 00:21:12,190
+coast here now I'm gonna I'm gonna
+
+477
+00:21:06,970 --> 00:21:15,400
+change I'm gonna go one day further now
+
+478
+00:21:12,190 --> 00:21:17,320
+you can see it's even closer right so
+
+479
+00:21:15,400 --> 00:21:22,630
+that would mean even more sinking air
+
+480
+00:21:17,320 --> 00:21:23,320
+kind of in this region one day there it
+
+481
+00:21:22,630 --> 00:21:25,690
+is again
+
+482
+00:21:23,320 --> 00:21:27,520
+so as I go day to day you'll see it
+
+483
+00:21:25,690 --> 00:21:29,050
+moves around a little bit but it's
+
+484
+00:21:27,520 --> 00:21:33,550
+pretty much just staying in this one
+
+485
+00:21:29,050 --> 00:21:35,050
+spot producing sinking air and that
+
+486
+00:21:33,550 --> 00:21:37,120
+seeking air is gonna fight cloud
+
+487
+00:21:35,050 --> 00:21:40,000
+formation and we have clear skies for
+
+488
+00:21:37,120 --> 00:21:42,250
+most of the days of the winter now
+
+489
+00:21:40,000 --> 00:21:43,690
+before we change the season let me just
+
+490
+00:21:42,250 --> 00:21:45,460
+point out that these are mid-latitude
+
+491
+00:21:43,690 --> 00:21:47,500
+cyclones that's what these guys are
+
+492
+00:21:45,460 --> 00:21:49,330
+right so those guys are going to come
+
+493
+00:21:47,500 --> 00:21:52,480
+ashore and they're going to slam into
+
+494
+00:21:49,330 --> 00:21:54,430
+the west coast north of the Pacific
+
+495
+00:21:52,480 --> 00:21:55,750
+subtropical high so you can kind of
+
+496
+00:21:54,430 --> 00:21:58,780
+think of it like the Pacific subtropical
+
+497
+00:21:55,750 --> 00:22:00,580
+high is kind of blocking the storms from
+
+498
+00:21:58,780 --> 00:22:03,070
+coming in and sometimes they'll talk
+
+499
+00:22:00,580 --> 00:22:05,350
+about that in in weather reports that
+
+500
+00:22:03,070 --> 00:22:06,940
+the high has blocking the low it's not
+
+501
+00:22:05,350 --> 00:22:10,090
+quite how it works but you can think of
+
+502
+00:22:06,940 --> 00:22:13,360
+it that way okay so now let's change
+
+503
+00:22:10,090 --> 00:22:14,680
+from a winter day to a summer day okay
+
+504
+00:22:13,360 --> 00:22:17,830
+so same thing I'm
+
+505
+00:22:14,680 --> 00:22:22,630
+going to change to see the level
+
+506
+00:22:17,830 --> 00:22:25,480
+pressure and now that big white blog
+
+507
+00:22:22,630 --> 00:22:27,250
+there is the Pacific subtropical high so
+
+508
+00:22:25,480 --> 00:22:31,450
+here we are down here notice how much
+
+509
+00:22:27,250 --> 00:22:33,610
+bigger it is zoom in a little bit so by
+
+510
+00:22:31,450 --> 00:22:36,250
+comparison the one we saw last time was
+
+511
+00:22:33,610 --> 00:22:39,130
+kind of like about that big this thing
+
+512
+00:22:36,250 --> 00:22:40,930
+is giant and so we saw that in the
+
+513
+00:22:39,130 --> 00:22:44,380
+animation that the Pacific Pacific
+
+514
+00:22:40,930 --> 00:22:46,630
+subtropical high gets larger in the
+
+515
+00:22:44,380 --> 00:22:48,940
+summer in our summer and it moves out
+
+516
+00:22:46,630 --> 00:22:52,240
+into the Pacific Ocean away from arc
+
+517
+00:22:48,940 --> 00:22:54,910
+where we live kind of far from the coast
+
+518
+00:22:52,240 --> 00:22:57,130
+but notice that these winds are coming
+
+519
+00:22:54,910 --> 00:23:00,730
+right down the west coast right here
+
+520
+00:22:57,130 --> 00:23:02,890
+alright so we are farther from it than
+
+521
+00:23:00,730 --> 00:23:05,650
+we were in the winter but these guys are
+
+522
+00:23:02,890 --> 00:23:08,170
+actually under a pretty strong influence
+
+523
+00:23:05,650 --> 00:23:10,750
+of the Pacific subtropical high so
+
+524
+00:23:08,170 --> 00:23:14,040
+they're getting sinking air all the way
+
+525
+00:23:10,750 --> 00:23:16,660
+up and down the coast so we call this
+
+526
+00:23:14,040 --> 00:23:18,370
+Mediterranean climate Mediterranean
+
+527
+00:23:16,660 --> 00:23:20,890
+climate name from the Mediterranean Sea
+
+528
+00:23:18,370 --> 00:23:24,280
+is a place where you typically have wet
+
+529
+00:23:20,890 --> 00:23:26,770
+winters and dry summers west coast of
+
+530
+00:23:24,280 --> 00:23:28,450
+the United States super dry summers if
+
+531
+00:23:26,770 --> 00:23:30,970
+you look at say rain records for like
+
+532
+00:23:28,450 --> 00:23:32,680
+San Francisco I mean there's like 30
+
+533
+00:23:30,970 --> 00:23:35,050
+year periods with no recorded
+
+534
+00:23:32,680 --> 00:23:37,330
+precipitation in the summer okay super
+
+535
+00:23:35,050 --> 00:23:43,000
+dry because of the specifics of tropical
+
+536
+00:23:37,330 --> 00:23:45,340
+high so if the ITCZ is moving and the
+
+537
+00:23:43,000 --> 00:23:47,710
+Headlee cells are moving and subtropical
+
+538
+00:23:45,340 --> 00:23:49,930
+hinds are moving and the polar fronts
+
+539
+00:23:47,710 --> 00:23:51,730
+are moving what we get are moving
+
+540
+00:23:49,930 --> 00:23:54,190
+patterns of precipitation throughout the
+
+541
+00:23:51,730 --> 00:23:58,090
+year so this animation is showing
+
+542
+00:23:54,190 --> 00:23:59,950
+monthly averages of precipitation so
+
+543
+00:23:58,090 --> 00:24:01,480
+what they what they've done is for each
+
+544
+00:23:59,950 --> 00:24:02,530
+one of these months they've gone back 30
+
+545
+00:24:01,480 --> 00:24:04,600
+years and looked at all the
+
+546
+00:24:02,530 --> 00:24:06,790
+precipitation that fell around the world
+
+547
+00:24:04,600 --> 00:24:10,170
+and plotted it and as you might expect
+
+548
+00:24:06,790 --> 00:24:12,100
+the darker blue colors mean more
+
+549
+00:24:10,170 --> 00:24:16,030
+precipitation so this one is in
+
+550
+00:24:12,100 --> 00:24:20,170
+millimeters so dark blue 400 millimeters
+
+551
+00:24:16,030 --> 00:24:22,060
+of precipitation for that month now one
+
+552
+00:24:20,170 --> 00:24:25,060
+of the things that you notice at first
+
+553
+00:24:22,060 --> 00:24:25,780
+is that you've got this dark blue right
+
+554
+00:24:25,060 --> 00:24:27,640
+through here
+
+555
+00:24:25,780 --> 00:24:31,030
+that's the
+
+556
+00:24:27,640 --> 00:24:34,420
+zone of most precipitation is following
+
+557
+00:24:31,030 --> 00:24:36,250
+pretty closely the ITCZ so as the ITCZ
+
+558
+00:24:34,420 --> 00:24:38,290
+migrates north and south
+
+559
+00:24:36,250 --> 00:24:41,620
+this blue stripe migrates north and
+
+560
+00:24:38,290 --> 00:24:43,540
+south with it okay so a lot of rain is
+
+561
+00:24:41,620 --> 00:24:46,690
+falling along the ITCZ they have these
+
+562
+00:24:43,540 --> 00:24:48,820
+gigantic cumulonimbus every day the
+
+563
+00:24:46,690 --> 00:24:51,190
+other thing you might notice is that we
+
+564
+00:24:48,820 --> 00:24:55,000
+have these white areas and white means
+
+565
+00:24:51,190 --> 00:24:57,280
+no precipitation so if we remember from
+
+566
+00:24:55,000 --> 00:25:00,240
+last lecture we talked about how the
+
+567
+00:24:57,280 --> 00:25:02,620
+subtropical highs in theory would form a
+
+568
+00:25:00,240 --> 00:25:05,080
+stripe all the way around you know a
+
+569
+00:25:02,620 --> 00:25:06,610
+band all the way around the earth if the
+
+570
+00:25:05,080 --> 00:25:08,680
+earth was all the same thing I could
+
+571
+00:25:06,610 --> 00:25:11,500
+pose all water but the fact that you
+
+572
+00:25:08,680 --> 00:25:13,330
+have continents breaks that up and you
+
+573
+00:25:11,500 --> 00:25:15,820
+can see that here so here's a
+
+574
+00:25:13,330 --> 00:25:19,450
+subtropical high here's a subtropical
+
+575
+00:25:15,820 --> 00:25:22,000
+high here's a subtropical high and in
+
+576
+00:25:19,450 --> 00:25:25,390
+between there are some wet zones right
+
+577
+00:25:22,000 --> 00:25:27,100
+so it doesn't really form this this
+
+578
+00:25:25,390 --> 00:25:29,680
+continuous band because of the
+
+579
+00:25:27,100 --> 00:25:32,170
+continents kind of miss this up but you
+
+580
+00:25:29,680 --> 00:25:33,940
+can definitely see the effect of the
+
+581
+00:25:32,170 --> 00:25:36,700
+subtropical highest these are areas
+
+582
+00:25:33,940 --> 00:25:41,650
+where it literally may not rain for
+
+583
+00:25:36,700 --> 00:25:43,680
+weeks and weeks at a time now this one
+
+584
+00:25:41,650 --> 00:25:46,540
+in particular is the one that we are
+
+585
+00:25:43,680 --> 00:25:49,660
+interested in this is the Pacific
+
+586
+00:25:46,540 --> 00:25:52,780
+subtropical high so notice that it grows
+
+587
+00:25:49,660 --> 00:25:56,140
+into the summer and then it shrinks
+
+588
+00:25:52,780 --> 00:25:58,420
+again in the winter and in migrants
+
+589
+00:25:56,140 --> 00:26:00,490
+north and south a little bit right so we
+
+590
+00:25:58,420 --> 00:26:02,950
+just saw this but here it is growing out
+
+591
+00:26:00,490 --> 00:26:05,800
+into the summer out into the ocean then
+
+592
+00:26:02,950 --> 00:26:08,650
+kind of shrinks back point is it's
+
+593
+00:26:05,800 --> 00:26:10,750
+closer to us in the winter even though
+
+594
+00:26:08,650 --> 00:26:13,960
+it's smaller another thing you might
+
+595
+00:26:10,750 --> 00:26:16,270
+notice overall most of the rain falls in
+
+596
+00:26:13,960 --> 00:26:18,430
+the ocean okay you mean I thought about
+
+597
+00:26:16,270 --> 00:26:20,440
+that before but there's a lot of white
+
+598
+00:26:18,430 --> 00:26:22,390
+out here in the continents because once
+
+599
+00:26:20,440 --> 00:26:25,030
+storms leave the ocean they don't have a
+
+600
+00:26:22,390 --> 00:26:26,860
+source of moisture so that rain out
+
+601
+00:26:25,030 --> 00:26:29,290
+effect rain shadow effect all happens
+
+602
+00:26:26,860 --> 00:26:31,390
+and you see big areas out here in the
+
+603
+00:26:29,290 --> 00:26:34,890
+continents you know I hear it as in the
+
+604
+00:26:31,390 --> 00:26:38,140
+winter really dry out there remember
+
+605
+00:26:34,890 --> 00:26:39,760
+cold air dry air so in the winter
+
+606
+00:26:38,140 --> 00:26:40,870
+evening you might have a really big
+
+607
+00:26:39,760 --> 00:26:43,809
+storm it doesn't have them
+
+608
+00:26:40,870 --> 00:26:46,690
+much moisture so you see really dry out
+
+609
+00:26:43,809 --> 00:26:49,930
+you know areas up here say in a little
+
+610
+00:26:46,690 --> 00:26:51,820
+sorry in Canada in Siberia in the winter
+
+611
+00:26:49,930 --> 00:26:55,300
+months it looks pretty white they get
+
+612
+00:26:51,820 --> 00:27:00,220
+very little precipitation so most of the
+
+613
+00:26:55,300 --> 00:27:03,160
+rainfall falls in the ocean so we're
+
+614
+00:27:00,220 --> 00:27:05,650
+gonna go through month by month what the
+
+615
+00:27:03,160 --> 00:27:08,200
+precipitation patterns are like in the
+
+616
+00:27:05,650 --> 00:27:10,390
+United States so each one of these maps
+
+617
+00:27:08,200 --> 00:27:12,850
+I'm going to show you is a 30 year
+
+618
+00:27:10,390 --> 00:27:15,280
+normal so again that means we've taken
+
+619
+00:27:12,850 --> 00:27:17,559
+records for 30 years and we're gonna use
+
+620
+00:27:15,280 --> 00:27:19,450
+that record to determine the averages
+
+621
+00:27:17,559 --> 00:27:21,700
+the colors represent how much
+
+622
+00:27:19,450 --> 00:27:24,090
+precipitation fell in this particular
+
+623
+00:27:21,700 --> 00:27:27,940
+months on this case this is the January
+
+624
+00:27:24,090 --> 00:27:29,380
+so let's look at this and we're going to
+
+625
+00:27:27,940 --> 00:27:32,410
+concentrate on different areas of the
+
+626
+00:27:29,380 --> 00:27:35,920
+country at a time in let's look at the
+
+627
+00:27:32,410 --> 00:27:38,290
+west coast here so we've got a lot of
+
+628
+00:27:35,920 --> 00:27:40,150
+precipitation hitting the west coast
+
+629
+00:27:38,290 --> 00:27:42,370
+those are those mid-latitude cyclones
+
+630
+00:27:40,150 --> 00:27:45,070
+coming in right if you can see once they
+
+631
+00:27:42,370 --> 00:27:47,470
+pass through now the colors indicate a
+
+632
+00:27:45,070 --> 00:27:49,510
+lot less precipitation that's our rain
+
+633
+00:27:47,470 --> 00:27:52,750
+shadow effect and then they pass over
+
+634
+00:27:49,510 --> 00:27:54,940
+here and really dry and we talked about
+
+635
+00:27:52,750 --> 00:27:56,260
+this last time how they have gone over
+
+636
+00:27:54,940 --> 00:27:58,420
+these mountains and they go through the
+
+637
+00:27:56,260 --> 00:28:00,400
+Rockies and then they come down this
+
+638
+00:27:58,420 --> 00:28:02,590
+eastern slope and there's not much
+
+639
+00:28:00,400 --> 00:28:05,130
+precipitation left and the air is going
+
+640
+00:28:02,590 --> 00:28:09,070
+downhill and all those things fight
+
+641
+00:28:05,130 --> 00:28:11,170
+storm formation so we also said last
+
+642
+00:28:09,070 --> 00:28:12,820
+time that once you get a low-pressure
+
+643
+00:28:11,170 --> 00:28:14,770
+Center out here the mid-latitude
+
+644
+00:28:12,820 --> 00:28:17,760
+cyclones come through this way they can
+
+645
+00:28:14,770 --> 00:28:19,840
+pick up more moisture and they're
+
+646
+00:28:17,760 --> 00:28:22,000
+re-energized and they produce more
+
+647
+00:28:19,840 --> 00:28:24,550
+precipitation so you see a lot of
+
+648
+00:28:22,000 --> 00:28:25,990
+precipitation down here also in January
+
+649
+00:28:24,550 --> 00:28:27,940
+and that's all mostly from these
+
+650
+00:28:25,990 --> 00:28:29,770
+mid-latitude cyclones that they run out
+
+651
+00:28:27,940 --> 00:28:32,260
+of gas down here but then they pick it
+
+652
+00:28:29,770 --> 00:28:34,420
+up again over there also significant
+
+653
+00:28:32,260 --> 00:28:37,390
+amount of precipitation up here in the
+
+654
+00:28:34,420 --> 00:28:38,650
+Northeast ok so we see a pattern that's
+
+655
+00:28:37,390 --> 00:28:41,410
+very similar to that we go to the
+
+656
+00:28:38,650 --> 00:28:44,230
+February and notice what happens as I
+
+657
+00:28:41,410 --> 00:28:48,040
+move into March and in April I start to
+
+658
+00:28:44,230 --> 00:28:50,320
+see that the wet area is shrinking
+
+659
+00:28:48,040 --> 00:28:52,870
+towards the north on the west coast and
+
+660
+00:28:50,320 --> 00:28:53,830
+that's because our mid-latitude cyclones
+
+661
+00:28:52,870 --> 00:28:55,419
+are
+
+662
+00:28:53,830 --> 00:28:58,750
+moving further and further to the north
+
+663
+00:28:55,419 --> 00:29:01,330
+until eventually we get to June and then
+
+664
+00:28:58,750 --> 00:29:04,029
+July and there's basically no
+
+665
+00:29:01,330 --> 00:29:05,909
+precipitation along the west coast and
+
+666
+00:29:04,029 --> 00:29:08,529
+the other thing that's happening is that
+
+667
+00:29:05,909 --> 00:29:10,960
+Pacific subtropical high that setup shop
+
+668
+00:29:08,529 --> 00:29:13,990
+out here and the sinking air is
+
+669
+00:29:10,960 --> 00:29:15,539
+providing it for a very dry coast along
+
+670
+00:29:13,990 --> 00:29:19,269
+on the west here
+
+671
+00:29:15,539 --> 00:29:20,799
+ok so let's back up and talk about
+
+672
+00:29:19,269 --> 00:29:24,610
+what's happening in our part of the
+
+673
+00:29:20,799 --> 00:29:28,049
+world so in our part of the world you
+
+674
+00:29:24,610 --> 00:29:29,950
+know we're we're down hid downstream
+
+675
+00:29:28,049 --> 00:29:32,380
+mid-latitude cyclones they come ashore
+
+676
+00:29:29,950 --> 00:29:33,639
+here and they come and land and maybe
+
+677
+00:29:32,380 --> 00:29:35,769
+maybe they dumped some more
+
+678
+00:29:33,639 --> 00:29:37,630
+precipitation but by the time they get
+
+679
+00:29:35,769 --> 00:29:39,250
+to us it's pretty dry right so learn
+
+680
+00:29:37,630 --> 00:29:42,429
+they're kind of the rainshadow of this
+
+681
+00:29:39,250 --> 00:29:46,360
+whole area and so we have a pretty dry
+
+682
+00:29:42,429 --> 00:29:48,639
+January in February and March in April
+
+683
+00:29:46,360 --> 00:29:50,289
+and we can see the effects of that
+
+684
+00:29:48,639 --> 00:29:54,190
+Pacific subtropical high keeping this
+
+685
+00:29:50,289 --> 00:29:57,309
+whole area pretty dry and then here we
+
+686
+00:29:54,190 --> 00:29:59,110
+are in May in the east half of New
+
+687
+00:29:57,309 --> 00:30:00,730
+Mexico is actually starting to get some
+
+688
+00:29:59,110 --> 00:30:04,389
+precipitation because we're starting to
+
+689
+00:30:00,730 --> 00:30:07,570
+set up that unstable air that we call
+
+690
+00:30:04,389 --> 00:30:10,480
+Tornado Alley we've got warm humid air
+
+691
+00:30:07,570 --> 00:30:12,279
+moving in from that Gulf of Mexico we
+
+692
+00:30:10,480 --> 00:30:14,500
+occasionally get cold dry air coming
+
+693
+00:30:12,279 --> 00:30:16,990
+down from Canada they mix it up over
+
+694
+00:30:14,500 --> 00:30:19,840
+here produce lots of thunderstorms we're
+
+695
+00:30:16,990 --> 00:30:21,309
+seeing that kick off here and eastern
+
+696
+00:30:19,840 --> 00:30:23,620
+New Mexico is getting a little bit of
+
+697
+00:30:21,309 --> 00:30:26,980
+that now the mountains right through
+
+698
+00:30:23,620 --> 00:30:30,970
+here block that moist air from coming in
+
+699
+00:30:26,980 --> 00:30:33,100
+so this pool of dry air is protected
+
+700
+00:30:30,970 --> 00:30:36,490
+from this humid air from the mountains
+
+701
+00:30:33,100 --> 00:30:37,000
+okay so that's May June kind of the same
+
+702
+00:30:36,490 --> 00:30:39,519
+story
+
+703
+00:30:37,000 --> 00:30:41,559
+and then boom July something changes
+
+704
+00:30:39,519 --> 00:30:44,019
+right and what happens is we get our
+
+705
+00:30:41,559 --> 00:30:45,880
+monsoon circulation that's the next
+
+706
+00:30:44,019 --> 00:30:47,950
+lecture ok so I'm gonna just punt on
+
+707
+00:30:45,880 --> 00:30:50,919
+that for now but we go through our
+
+708
+00:30:47,950 --> 00:30:53,590
+monsoon season and then the monsoon
+
+709
+00:30:50,919 --> 00:30:55,539
+season kind of comes to an end and we
+
+710
+00:30:53,590 --> 00:30:57,970
+start to see the rebuilding of that
+
+711
+00:30:55,539 --> 00:31:01,149
+Pacific subtropical high you know the
+
+712
+00:30:57,970 --> 00:31:05,130
+effects the dryness here and then we get
+
+713
+00:31:01,149 --> 00:31:07,510
+into the winter months so we're actually
+
+714
+00:31:05,130 --> 00:31:09,880
+finally getting into this book
+
+715
+00:31:07,510 --> 00:31:11,620
+bitte and we're gonna get more into this
+
+716
+00:31:09,880 --> 00:31:14,860
+book in a couple weeks but we there's a
+
+717
+00:31:11,620 --> 00:31:18,790
+few pages that apply to us now so in the
+
+718
+00:31:14,860 --> 00:31:21,280
+introduction pages 10 and 11 there's a
+
+719
+00:31:18,790 --> 00:31:23,020
+section here on the difference between
+
+720
+00:31:21,280 --> 00:31:25,630
+weather and climate okay so we kind of
+
+721
+00:31:23,020 --> 00:31:28,150
+talked about that they talk about
+
+722
+00:31:25,630 --> 00:31:30,310
+climate zones and there's a map of the
+
+723
+00:31:28,150 --> 00:31:32,500
+world the major climate zones of the
+
+724
+00:31:30,310 --> 00:31:36,700
+world so based on everything we've
+
+725
+00:31:32,500 --> 00:31:39,000
+talked about right the ITCZ subtropical
+
+726
+00:31:36,700 --> 00:31:41,980
+highs but polar front all that stuff
+
+727
+00:31:39,000 --> 00:31:44,650
+there are zones in the world that have
+
+728
+00:31:41,980 --> 00:31:46,060
+similar climates and they they get names
+
+729
+00:31:44,650 --> 00:31:48,940
+if we're into this we're not going to
+
+730
+00:31:46,060 --> 00:31:50,800
+dig that deep but this map kind of shows
+
+731
+00:31:48,940 --> 00:31:52,930
+some of the different climate zones that
+
+732
+00:31:50,800 --> 00:31:56,170
+are set up because of some of the things
+
+733
+00:31:52,930 --> 00:32:00,070
+we've been talking about on the next
+
+734
+00:31:56,170 --> 00:32:01,570
+page so here they talks about layers of
+
+735
+00:32:00,070 --> 00:32:04,270
+the atmosphere in composition we talked
+
+736
+00:32:01,570 --> 00:32:06,610
+about that in the past the last lecture
+
+737
+00:32:04,270 --> 00:32:08,440
+was on atmospheric circulation there is
+
+738
+00:32:06,610 --> 00:32:11,020
+a section here in the book that has a
+
+739
+00:32:08,440 --> 00:32:12,580
+break break away view of the
+
+740
+00:32:11,020 --> 00:32:15,160
+circulations that we were talking about
+
+741
+00:32:12,580 --> 00:32:16,810
+and some basic principles of circulation
+
+742
+00:32:15,160 --> 00:32:20,820
+over here so it's a good kind of review
+
+743
+00:32:16,810 --> 00:32:20,820
+of what we talked about last time
+
+744
+00:32:27,559 --> 00:32:29,620
+you
+

@@ -1,0 +1,4252 @@
+1
+00:00:06,919 --> 00:00:13,380
+hey this is Mel strong in this lecture
+
+2
+00:00:09,750 --> 00:00:17,180
+is on El Nino and La Nina also known as
+
+3
+00:00:13,380 --> 00:00:19,529
+the El Nino Southern Oscillation or ENSO
+
+4
+00:00:17,180 --> 00:00:22,650
+so we're going to start today looking at
+
+5
+00:00:19,529 --> 00:00:26,400
+Earth nautical net and right now I'm
+
+6
+00:00:22,650 --> 00:00:28,470
+looking at the surface winds and I've
+
+7
+00:00:26,400 --> 00:00:31,430
+got a date a day here in the summer in
+
+8
+00:00:28,470 --> 00:00:34,260
+July and so we can see a couple things
+
+9
+00:00:31,430 --> 00:00:36,750
+here's the big Pacific subtropical high
+
+10
+00:00:34,260 --> 00:00:40,050
+swirling around out in the ocean there's
+
+11
+00:00:36,750 --> 00:00:42,480
+another high over there and these little
+
+12
+00:00:40,050 --> 00:00:44,940
+guys here are tropical storms of some
+
+13
+00:00:42,480 --> 00:00:48,719
+kind maybe they are hurricanes or maybe
+
+14
+00:00:44,940 --> 00:00:52,469
+not not sure and if we look down here we
+
+15
+00:00:48,719 --> 00:00:55,680
+can also see this funny-looking thing
+
+16
+00:00:52,469 --> 00:00:57,600
+here is also another subtropical high
+
+17
+00:00:55,680 --> 00:01:01,320
+it's not very symmetrical it's a weird
+
+18
+00:00:57,600 --> 00:01:04,949
+shape today but ok so what I'm going to
+
+19
+00:01:01,320 --> 00:01:07,860
+do is I'm going to look at sea surface
+
+20
+00:01:04,949 --> 00:01:11,909
+temperature so to do that I click the
+
+21
+00:01:07,860 --> 00:01:16,200
+word earth mode is ocean animate
+
+22
+00:01:11,909 --> 00:01:20,220
+currents overlay SST for sea surface
+
+23
+00:01:16,200 --> 00:01:22,070
+temperature okay so the colors now
+
+24
+00:01:20,220 --> 00:01:25,470
+represent what we call the skin
+
+25
+00:01:22,070 --> 00:01:27,119
+temperature of the ocean so this is the
+
+26
+00:01:25,470 --> 00:01:29,310
+temperature of the ocean water right at
+
+27
+00:01:27,119 --> 00:01:31,590
+the surface and we can actually measure
+
+28
+00:01:29,310 --> 00:01:34,470
+this we've got satellites up that
+
+29
+00:01:31,590 --> 00:01:36,600
+measure this every day and so the colors
+
+30
+00:01:34,470 --> 00:01:39,119
+represent temperatures you might expect
+
+31
+00:01:36,600 --> 00:01:42,090
+and so a couple things we can see for
+
+32
+00:01:39,119 --> 00:01:45,240
+one thing we can see there's a band of
+
+33
+00:01:42,090 --> 00:01:46,680
+pretty warm temperatures not exactly at
+
+34
+00:01:45,240 --> 00:01:48,090
+the equator but kind of around the
+
+35
+00:01:46,680 --> 00:01:50,310
+equator so if I could just kind of zoom
+
+36
+00:01:48,090 --> 00:01:53,310
+out all right so we've got a band of
+
+37
+00:01:50,310 --> 00:01:55,530
+pretty warm temperatures near the
+
+38
+00:01:53,310 --> 00:02:00,030
+equatorial region but it's not very
+
+39
+00:01:55,530 --> 00:02:03,240
+symmetrical okay so for example over
+
+40
+00:02:00,030 --> 00:02:05,280
+here this purple that's even warmer than
+
+41
+00:02:03,240 --> 00:02:08,310
+the red so you've got this pool of
+
+42
+00:02:05,280 --> 00:02:10,800
+really warm water kind of over here in
+
+43
+00:02:08,310 --> 00:02:13,800
+the western part of the Pacific Basin
+
+44
+00:02:10,800 --> 00:02:17,490
+and then there's this weird thing where
+
+45
+00:02:13,800 --> 00:02:19,890
+right at the equator it's actually kind
+
+46
+00:02:17,490 --> 00:02:23,220
+of cooler than the water around it which
+
+47
+00:02:19,890 --> 00:02:26,130
+is maybe not what you would expect now
+
+48
+00:02:23,220 --> 00:02:31,080
+if I look around here let's look at the
+
+49
+00:02:26,130 --> 00:02:32,610
+Pacific Basin so notice that if I were
+
+50
+00:02:31,080 --> 00:02:35,760
+to pick say a certain line of latitude
+
+51
+00:02:32,610 --> 00:02:38,670
+and go straight across stick at this
+
+52
+00:02:35,760 --> 00:02:41,400
+line at latitude right here that over on
+
+53
+00:02:38,670 --> 00:02:44,490
+the eastern side of the Pacific Ocean
+
+54
+00:02:41,400 --> 00:02:47,400
+it's colder than it is on the western
+
+55
+00:02:44,490 --> 00:02:50,730
+side right so you can see this greenish
+
+56
+00:02:47,400 --> 00:02:52,470
+yellow color coming down here whereas if
+
+57
+00:02:50,730 --> 00:02:53,490
+I just pick one line of latitude like
+
+58
+00:02:52,470 --> 00:02:56,670
+that spot right there
+
+59
+00:02:53,490 --> 00:02:58,650
+and go all the way across it's much much
+
+60
+00:02:56,670 --> 00:03:01,380
+warmer on the western side than the
+
+61
+00:02:58,650 --> 00:03:04,440
+eastern side so something is causing the
+
+62
+00:03:01,380 --> 00:03:05,970
+ocean to be asymmetric in terms of
+
+63
+00:03:04,440 --> 00:03:09,180
+temperature that there's something
+
+64
+00:03:05,970 --> 00:03:12,510
+that's dragging colder water down from
+
+65
+00:03:09,180 --> 00:03:15,600
+the north and allowing this warm water
+
+66
+00:03:12,510 --> 00:03:21,140
+to kind of come up from the south okay
+
+67
+00:03:15,600 --> 00:03:23,370
+and if I look at the southern basin I
+
+68
+00:03:21,140 --> 00:03:26,940
+see kind of the same thing
+
+69
+00:03:23,370 --> 00:03:30,570
+I see cooler water that is being pulled
+
+70
+00:03:26,940 --> 00:03:33,360
+up here to the north and I see warmer
+
+71
+00:03:30,570 --> 00:03:34,410
+water over here to the west it's not
+
+72
+00:03:33,360 --> 00:03:37,980
+symmetrical
+
+73
+00:03:34,410 --> 00:03:38,910
+and if I move over to the Atlantic I see
+
+74
+00:03:37,980 --> 00:03:41,790
+something kind of similar
+
+75
+00:03:38,910 --> 00:03:44,850
+I've got cooler water up here or more
+
+76
+00:03:41,790 --> 00:03:47,700
+water down there and up here somewhere
+
+77
+00:03:44,850 --> 00:03:50,850
+again cooler water down there warmer
+
+78
+00:03:47,700 --> 00:03:52,860
+water up here so the ocean basins are
+
+79
+00:03:50,850 --> 00:03:55,850
+not symmetrical in their temperature so
+
+80
+00:03:52,860 --> 00:03:59,010
+the first question is why is that okay
+
+81
+00:03:55,850 --> 00:04:02,850
+why would it be colder over here and
+
+82
+00:03:59,010 --> 00:04:08,330
+warmer over here so the answer is that
+
+83
+00:04:02,850 --> 00:04:12,090
+just a minute ago we saw that there are
+
+84
+00:04:08,330 --> 00:04:13,739
+big clockwise winds out here in the
+
+85
+00:04:12,090 --> 00:04:18,060
+Pacific the Pacific is a subtropical
+
+86
+00:04:13,739 --> 00:04:21,390
+high and then over here in the Atlantic
+
+87
+00:04:18,060 --> 00:04:24,240
+another one big again it's not perfectly
+
+88
+00:04:21,390 --> 00:04:27,100
+shaped on on this particular day and of
+
+89
+00:04:24,240 --> 00:04:29,740
+course they go counterclockwise and
+
+90
+00:04:27,100 --> 00:04:32,770
+the Pacific I'm sorry in the in the
+
+91
+00:04:29,740 --> 00:04:34,900
+southern hemisphere so you've got the
+
+92
+00:04:32,770 --> 00:04:37,960
+subtropical highs that are just spinning
+
+93
+00:04:34,900 --> 00:04:41,710
+around and around and around all day
+
+94
+00:04:37,960 --> 00:04:44,920
+long every day out in the ocean and the
+
+95
+00:04:41,710 --> 00:04:47,290
+wind blows the ocean so the reason we
+
+96
+00:04:44,920 --> 00:04:51,040
+have ocean currents for the most part is
+
+97
+00:04:47,290 --> 00:04:53,280
+wind the reason we have waves is wind
+
+98
+00:04:51,040 --> 00:04:56,320
+wind is what's pushing the ocean around
+
+99
+00:04:53,280 --> 00:04:58,030
+and so when we look at this temperature
+
+100
+00:04:56,320 --> 00:05:03,070
+so I'll go again
+
+101
+00:04:58,030 --> 00:05:05,950
+ocean currents SST that is the result of
+
+102
+00:05:03,070 --> 00:05:08,170
+the Pacific subtropical high blowing the
+
+103
+00:05:05,950 --> 00:05:10,930
+ocean towards the south blowing this
+
+104
+00:05:08,170 --> 00:05:15,100
+colder water down towards the equator
+
+105
+00:05:10,930 --> 00:05:16,690
+and down here same thing except instead
+
+106
+00:05:15,100 --> 00:05:18,820
+of going clockwise it's going
+
+107
+00:05:16,690 --> 00:05:21,610
+counterclockwise so you've got winds
+
+108
+00:05:18,820 --> 00:05:24,250
+blowing cold water towards the north so
+
+109
+00:05:21,610 --> 00:05:28,390
+one of the things that these subtropical
+
+110
+00:05:24,250 --> 00:05:31,810
+highs do is they help bring cold water
+
+111
+00:05:28,390 --> 00:05:33,310
+from up here down towards the equator
+
+112
+00:05:31,810 --> 00:05:35,680
+and they take warm water from the
+
+113
+00:05:33,310 --> 00:05:36,940
+equator and bring it up towards the
+
+114
+00:05:35,680 --> 00:05:40,000
+poles and they do that in both
+
+115
+00:05:36,940 --> 00:05:45,490
+hemispheres so they help mix up colder
+
+116
+00:05:40,000 --> 00:05:49,510
+and warmer water okay so I've got a
+
+117
+00:05:45,490 --> 00:05:52,210
+little map here of the world and so in
+
+118
+00:05:49,510 --> 00:05:53,980
+general what we would notice is that so
+
+119
+00:05:52,210 --> 00:05:56,770
+so before I start this is I kind of
+
+120
+00:05:53,980 --> 00:06:00,250
+sketched in the equator here there's a
+
+121
+00:05:56,770 --> 00:06:03,430
+big loop that's out in the ocean
+
+122
+00:06:00,250 --> 00:06:08,410
+big circulation pattern and it kind of
+
+123
+00:06:03,430 --> 00:06:13,180
+looks like this and down here it looks
+
+124
+00:06:08,410 --> 00:06:16,390
+like this and those loops are being
+
+125
+00:06:13,180 --> 00:06:18,370
+caused by the subtropical highs and in
+
+126
+00:06:16,390 --> 00:06:19,780
+the you know it's swirling the ocean
+
+127
+00:06:18,370 --> 00:06:26,590
+around in the giant circle and that
+
+128
+00:06:19,780 --> 00:06:28,780
+giant circle is called a gyre so the the
+
+129
+00:06:26,590 --> 00:06:32,950
+big circulation pattern that we see in
+
+130
+00:06:28,780 --> 00:06:35,530
+the ocean basins is as big clockwise and
+
+131
+00:06:32,950 --> 00:06:37,660
+then counterclockwise rotation of the
+
+132
+00:06:35,530 --> 00:06:39,850
+ocean caused by the Pacific's or the
+
+133
+00:06:37,660 --> 00:06:40,570
+subtropical highs just spinning and
+
+134
+00:06:39,850 --> 00:06:43,120
+spanning and span
+
+135
+00:06:40,570 --> 00:06:46,540
+okay so that's a primary feature that we
+
+136
+00:06:43,120 --> 00:06:50,410
+see well let's add a few more things to
+
+137
+00:06:46,540 --> 00:06:53,290
+this now what we know is that near the
+
+138
+00:06:50,410 --> 00:06:55,660
+equator we have the ITCZ right if you
+
+139
+00:06:53,290 --> 00:06:58,630
+remember back to that what's happening
+
+140
+00:06:55,660 --> 00:07:00,910
+at the ITCZ we've got easterlies what
+
+141
+00:06:58,630 --> 00:07:03,580
+are they doing they're converging so I'm
+
+142
+00:07:00,910 --> 00:07:09,820
+gonna sketch that in a little bit so all
+
+143
+00:07:03,580 --> 00:07:11,980
+along here I have easterly's that are
+
+144
+00:07:09,820 --> 00:07:15,370
+coming together now remember we said in
+
+145
+00:07:11,980 --> 00:07:17,770
+a past or yeah in the past lecture that
+
+146
+00:07:15,370 --> 00:07:19,660
+the convergence isn't exactly at the
+
+147
+00:07:17,770 --> 00:07:21,220
+equator that it moves around with the
+
+148
+00:07:19,660 --> 00:07:24,130
+seasons okay so I'm drawing this to be
+
+149
+00:07:21,220 --> 00:07:26,080
+along the equator just to show it to
+
+150
+00:07:24,130 --> 00:07:29,710
+make a point here but remember this
+
+151
+00:07:26,080 --> 00:07:35,800
+exact spot changes with the seasons
+
+152
+00:07:29,710 --> 00:07:37,180
+okay so there's our easterly's okay so
+
+153
+00:07:35,800 --> 00:07:42,970
+let's just think about that for a minute
+
+154
+00:07:37,180 --> 00:07:47,110
+if you had wind blowing from from east
+
+155
+00:07:42,970 --> 00:07:48,970
+to west this direction and it's blowing
+
+156
+00:07:47,110 --> 00:07:50,290
+along the top of the ocean what it's
+
+157
+00:07:48,970 --> 00:07:53,080
+going to do is it's going to basically
+
+158
+00:07:50,290 --> 00:07:56,590
+skim the warmest part of the water and
+
+159
+00:07:53,080 --> 00:07:59,050
+push it towards the west so let's
+
+160
+00:07:56,590 --> 00:08:01,720
+imagine like if you're in a swimming
+
+161
+00:07:59,050 --> 00:08:03,910
+pool and you start doing this to the top
+
+162
+00:08:01,720 --> 00:08:05,950
+of the water with your hand you scoot
+
+163
+00:08:03,910 --> 00:08:08,790
+that water along the out of the surface
+
+164
+00:08:05,950 --> 00:08:12,640
+of the pool same things happening here
+
+165
+00:08:08,790 --> 00:08:14,560
+so as a result we end up taking this
+
+166
+00:08:12,640 --> 00:08:16,240
+warm water because this is near the
+
+167
+00:08:14,560 --> 00:08:18,100
+equator so it's going to be some of the
+
+168
+00:08:16,240 --> 00:08:21,280
+warmest water in the ocean at least it
+
+169
+00:08:18,100 --> 00:08:23,050
+should be and we're gonna shove it this
+
+170
+00:08:21,280 --> 00:08:26,290
+direction and what's going to happen is
+
+171
+00:08:23,050 --> 00:08:30,810
+that really warm water pools up over
+
+172
+00:08:26,290 --> 00:08:35,020
+here okay so that's what we're seeing
+
+173
+00:08:30,810 --> 00:08:37,599
+over here so this purple blob this is
+
+174
+00:08:35,020 --> 00:08:42,130
+all really warm water that's kind of
+
+175
+00:08:37,599 --> 00:08:44,200
+been shoved over from the from the east
+
+176
+00:08:42,130 --> 00:08:50,350
+it's blown across the ocean so if I look
+
+177
+00:08:44,200 --> 00:08:51,800
+at my easterlies let's look at my okay
+
+178
+00:08:50,350 --> 00:08:55,790
+so there's
+
+179
+00:08:51,800 --> 00:08:59,000
+there's my easterlies okay right there
+
+180
+00:08:55,790 --> 00:09:00,589
+so those are winds and the winds are
+
+181
+00:08:59,000 --> 00:09:03,709
+just kind of pushing that warm water
+
+182
+00:09:00,589 --> 00:09:06,200
+across the equal equatorial zone you see
+
+183
+00:09:03,709 --> 00:09:07,760
+they're going and today that's a little
+
+184
+00:09:06,200 --> 00:09:10,190
+curvy there but they're coming this
+
+185
+00:09:07,760 --> 00:09:11,690
+direction and they kind of die out on
+
+186
+00:09:10,190 --> 00:09:15,470
+this particular day but they're they're
+
+187
+00:09:11,690 --> 00:09:20,630
+pooling this really warm water over here
+
+188
+00:09:15,470 --> 00:09:22,940
+but I buy all these island nations go
+
+189
+00:09:20,630 --> 00:09:25,220
+back to this again okay so there it is
+
+190
+00:09:22,940 --> 00:09:27,350
+at purple water that's the warmest part
+
+191
+00:09:25,220 --> 00:09:29,990
+of the ocean there's always a pool of
+
+192
+00:09:27,350 --> 00:09:33,230
+just really warm and may feel like bath
+
+193
+00:09:29,990 --> 00:09:37,370
+water if you got into it okay so I'm
+
+194
+00:09:33,230 --> 00:09:38,810
+going to add that to my drawing and I'm
+
+195
+00:09:37,370 --> 00:09:47,779
+just going to kind of approximate that
+
+196
+00:09:38,810 --> 00:09:50,000
+out in here there's this pool of very
+
+197
+00:09:47,779 --> 00:09:51,380
+warm water right and the boundaries are
+
+198
+00:09:50,000 --> 00:09:56,720
+always changing but it's just kind of
+
+199
+00:09:51,380 --> 00:09:59,660
+over here okay so if you're if you're
+
+200
+00:09:56,720 --> 00:10:02,120
+removing water from this part of the
+
+201
+00:09:59,660 --> 00:10:04,270
+ocean then there has to be some other
+
+202
+00:10:02,120 --> 00:10:07,490
+water that comes up and takes its place
+
+203
+00:10:04,270 --> 00:10:10,520
+okay so that's part of the story here
+
+204
+00:10:07,490 --> 00:10:12,230
+that if I remove the warm water you're
+
+205
+00:10:10,520 --> 00:10:12,740
+gonna have to replace it with something
+
+206
+00:10:12,230 --> 00:10:16,100
+else
+
+207
+00:10:12,740 --> 00:10:17,990
+now the something else happens to
+
+208
+00:10:16,100 --> 00:10:19,579
+coincide with a place where there is
+
+209
+00:10:17,990 --> 00:10:26,740
+this big Bend
+
+210
+00:10:19,579 --> 00:10:29,630
+okay so right here where the where the
+
+211
+00:10:26,740 --> 00:10:32,300
+the gyre is making a turn by the
+
+212
+00:10:29,630 --> 00:10:35,240
+continent imagine it's like you're
+
+213
+00:10:32,300 --> 00:10:36,529
+pulling water away from the continent so
+
+214
+00:10:35,240 --> 00:10:38,930
+I'm just going to kind of draw some
+
+215
+00:10:36,529 --> 00:10:44,140
+arrows to show that I'm pulling water
+
+216
+00:10:38,930 --> 00:10:48,230
+away from the continent like this
+
+217
+00:10:44,140 --> 00:10:49,880
+alright so if I'm if I'm moving water
+
+218
+00:10:48,230 --> 00:10:52,850
+across the ocean here and then pulling
+
+219
+00:10:49,880 --> 00:10:54,770
+water away from the continent here we
+
+220
+00:10:52,850 --> 00:10:57,110
+need to produce more water to replace
+
+221
+00:10:54,770 --> 00:10:59,810
+the water that's being pulled away and
+
+222
+00:10:57,110 --> 00:11:01,970
+it turns out the water that that comes
+
+223
+00:10:59,810 --> 00:11:03,410
+in to replace it comes up from near the
+
+224
+00:11:01,970 --> 00:11:06,379
+bottom of the ocean
+
+225
+00:11:03,410 --> 00:11:14,319
+that's called upwelling so all along
+
+226
+00:11:06,379 --> 00:11:17,329
+here all along here and all along here
+
+227
+00:11:14,319 --> 00:11:18,529
+there is water that's coming up from the
+
+228
+00:11:17,329 --> 00:11:20,419
+bottom of the ocean
+
+229
+00:11:18,529 --> 00:11:25,459
+okay I'm gonna draw that in blue I'm
+
+230
+00:11:20,419 --> 00:11:27,289
+gonna call this up Welling so what's the
+
+231
+00:11:25,459 --> 00:11:29,539
+water at the bottom of the ocean like
+
+232
+00:11:27,289 --> 00:11:31,759
+it's very close to the freezing point
+
+233
+00:11:29,539 --> 00:11:34,249
+now because of all the pressure it
+
+234
+00:11:31,759 --> 00:11:35,479
+doesn't actually freeze down there but
+
+235
+00:11:34,249 --> 00:11:37,099
+there's places at the bottom of the
+
+236
+00:11:35,479 --> 00:11:39,529
+ocean that are actually at about zero
+
+237
+00:11:37,099 --> 00:11:40,970
+degrees Celsius or 32 Fahrenheit that's
+
+238
+00:11:39,529 --> 00:11:43,639
+at the freezing point it's just not
+
+239
+00:11:40,970 --> 00:11:47,119
+frozen so that water comes up to the
+
+240
+00:11:43,639 --> 00:11:49,970
+surface and is really really cold so
+
+241
+00:11:47,119 --> 00:11:51,889
+this is also a shock to anybody who has
+
+242
+00:11:49,970 --> 00:11:54,589
+tried to go swimming in Southern
+
+243
+00:11:51,889 --> 00:11:57,470
+California so right so for example la is
+
+244
+00:11:54,589 --> 00:11:59,839
+somewhere kind of like right in here and
+
+245
+00:11:57,470 --> 00:12:03,409
+if I go across and latitude you're
+
+246
+00:11:59,839 --> 00:12:06,999
+somewhere over here on the East Coast
+
+247
+00:12:03,409 --> 00:12:09,829
+right if you went swimming out here it's
+
+248
+00:12:06,999 --> 00:12:12,859
+pretty Pleasant it's nice and warm if
+
+249
+00:12:09,829 --> 00:12:15,019
+you go exact cold the same latitude and
+
+250
+00:12:12,859 --> 00:12:17,209
+come over here and go swimming off the
+
+251
+00:12:15,019 --> 00:12:20,449
+coast of let's say Los Angeles or San
+
+252
+00:12:17,209 --> 00:12:22,519
+Diego you find out it's actually really
+
+253
+00:12:20,449 --> 00:12:24,139
+cold and this shocks tourists because
+
+254
+00:12:22,519 --> 00:12:25,669
+they think about Southern California and
+
+255
+00:12:24,139 --> 00:12:27,529
+sunny and there's surfers and all this
+
+256
+00:12:25,669 --> 00:12:29,749
+and they get out in the ocean like holy
+
+257
+00:12:27,529 --> 00:12:31,609
+crap it's cold because that water was
+
+258
+00:12:29,749 --> 00:12:34,399
+actually just recently at the bottom of
+
+259
+00:12:31,609 --> 00:12:38,329
+the ocean and it's coming up to the
+
+260
+00:12:34,399 --> 00:12:41,929
+surface as is all along this part of
+
+261
+00:12:38,329 --> 00:12:44,779
+South America okay this is all deep cold
+
+262
+00:12:41,929 --> 00:12:48,409
+water coming to the surface okay
+
+263
+00:12:44,779 --> 00:12:50,600
+well it turns out that besides the water
+
+264
+00:12:48,409 --> 00:12:53,449
+being cold it has a lot of nutrients in
+
+265
+00:12:50,600 --> 00:12:55,309
+it things die out in the ocean and as a
+
+266
+00:12:53,449 --> 00:12:58,759
+little things die and they fall down
+
+267
+00:12:55,309 --> 00:13:00,229
+that kind of sets up a food chain when
+
+268
+00:12:58,759 --> 00:13:02,689
+that water comes back up to the surface
+
+269
+00:13:00,229 --> 00:13:04,699
+it's got nutrients in it little
+
+270
+00:13:02,689 --> 00:13:06,559
+microorganisms eat that and bigger
+
+271
+00:13:04,699 --> 00:13:08,239
+things eat the microorganism and so on
+
+272
+00:13:06,559 --> 00:13:12,249
+and so forth and tell you finally you
+
+273
+00:13:08,239 --> 00:13:15,289
+get to fish and so the fish actually
+
+274
+00:13:12,249 --> 00:13:16,240
+most of the fish in the ocean live near
+
+275
+00:13:15,289 --> 00:13:19,570
+the continents in
+
+276
+00:13:16,240 --> 00:13:22,390
+zones with the cold upwelling water the
+
+277
+00:13:19,570 --> 00:13:24,010
+fish like the cold water it has all the
+
+278
+00:13:22,390 --> 00:13:26,589
+things that they want to eat in it and
+
+279
+00:13:24,010 --> 00:13:29,740
+so most of the fish Fisheries in the
+
+280
+00:13:26,589 --> 00:13:31,740
+world are kind of up in here up here and
+
+281
+00:13:29,740 --> 00:13:36,430
+other places were where this happens
+
+282
+00:13:31,740 --> 00:13:39,130
+okay so go back a few thousand years and
+
+283
+00:13:36,430 --> 00:13:41,920
+you've got people that are living all up
+
+284
+00:13:39,130 --> 00:13:44,800
+and down South America okay so you have
+
+285
+00:13:41,920 --> 00:13:48,459
+to imagine in what's now modern-day
+
+286
+00:13:44,800 --> 00:13:51,370
+Chile and Peru people living up and down
+
+287
+00:13:48,459 --> 00:13:52,750
+the coasts now we didn't really talk
+
+288
+00:13:51,370 --> 00:13:56,529
+about this at the time but when we
+
+289
+00:13:52,750 --> 00:13:59,200
+talked about rainshadow the there are
+
+290
+00:13:56,529 --> 00:14:00,940
+the Andes that are right along in here
+
+291
+00:13:59,200 --> 00:14:05,080
+let me just sketch that out real quick
+
+292
+00:14:00,940 --> 00:14:07,120
+so the Andes are mountain chain right
+
+293
+00:14:05,080 --> 00:14:09,790
+through here and they're very you know
+
+294
+00:14:07,120 --> 00:14:13,330
+it's a tall chain of volcanoes and the
+
+295
+00:14:09,790 --> 00:14:17,709
+storms that come in come in this
+
+296
+00:14:13,330 --> 00:14:19,870
+direction so a storm that comes in dumps
+
+297
+00:14:17,709 --> 00:14:21,250
+its rain in the Amazon basin and goes up
+
+298
+00:14:19,870 --> 00:14:23,649
+and up and up and up and up and up and
+
+299
+00:14:21,250 --> 00:14:26,560
+then goes downhill on the other side and
+
+300
+00:14:23,649 --> 00:14:28,570
+this is a very extreme rain shadow
+
+301
+00:14:26,560 --> 00:14:30,610
+okay there's there are areas here it
+
+302
+00:14:28,570 --> 00:14:32,589
+literally has not rained in over ten
+
+303
+00:14:30,610 --> 00:14:34,089
+years okay some of it's called the
+
+304
+00:14:32,589 --> 00:14:34,300
+Atacama Desert you may have heard of
+
+305
+00:14:34,089 --> 00:14:37,839
+that
+
+306
+00:14:34,300 --> 00:14:41,260
+so these early people that lived along
+
+307
+00:14:37,839 --> 00:14:43,089
+the coast here if you want protein you
+
+308
+00:14:41,260 --> 00:14:44,860
+really only have one option and that's
+
+309
+00:14:43,089 --> 00:14:46,540
+to get fish because this so dry is
+
+310
+00:14:44,860 --> 00:14:50,410
+really hard to grow much of anything
+
+311
+00:14:46,540 --> 00:14:51,970
+so fishing became a livelihood for all
+
+312
+00:14:50,410 --> 00:14:54,670
+the people that lived here and they kept
+
+313
+00:14:51,970 --> 00:14:57,630
+records so for those people that lived
+
+314
+00:14:54,670 --> 00:14:59,500
+along this west coast of South America
+
+315
+00:14:57,630 --> 00:15:01,120
+you had to make your living as a
+
+316
+00:14:59,500 --> 00:15:04,360
+fisherman okay that was just the way it
+
+317
+00:15:01,120 --> 00:15:06,790
+was well they noticed once in a while
+
+318
+00:15:04,360 --> 00:15:10,029
+they would go out in their boats and
+
+319
+00:15:06,790 --> 00:15:12,339
+this would happen maybe kind of around
+
+320
+00:15:10,029 --> 00:15:13,690
+Christmastime near the end of the year
+
+321
+00:15:12,339 --> 00:15:18,940
+and they would go out and they would
+
+322
+00:15:13,690 --> 00:15:24,100
+notice that actually this zone right in
+
+323
+00:15:18,940 --> 00:15:27,610
+here the water was unusually warm right
+
+324
+00:15:24,100 --> 00:15:31,360
+through here and they would notice
+
+325
+00:15:27,610 --> 00:15:34,270
+the fish were gone and this was a
+
+326
+00:15:31,360 --> 00:15:37,510
+disaster because they depended on the
+
+327
+00:15:34,270 --> 00:15:40,890
+fish and the fish wanted the cold water
+
+328
+00:15:37,510 --> 00:15:43,270
+in the cold water had disappeared and
+
+329
+00:15:40,890 --> 00:15:45,190
+they didn't know what causes this but
+
+330
+00:15:43,270 --> 00:15:48,190
+they all they seemed to notice that this
+
+331
+00:15:45,190 --> 00:15:50,740
+often seemed to happen when he got close
+
+332
+00:15:48,190 --> 00:15:55,120
+to Christmas and they called this event
+
+333
+00:15:50,740 --> 00:15:57,940
+El Nino and El Nino for them bad news
+
+334
+00:15:55,120 --> 00:15:59,980
+because once they once they encountered
+
+335
+00:15:57,940 --> 00:16:03,160
+this warm water and the lack of fish
+
+336
+00:15:59,980 --> 00:16:04,840
+this was gonna last for months and as
+
+337
+00:16:03,160 --> 00:16:06,730
+possible people were going to starve
+
+338
+00:16:04,840 --> 00:16:09,610
+because he couldn't catch fish maybe for
+
+339
+00:16:06,730 --> 00:16:12,220
+six months or more this is where the
+
+340
+00:16:09,610 --> 00:16:15,400
+name El Nino comes from and they named
+
+341
+00:16:12,220 --> 00:16:17,620
+it that because of association with time
+
+342
+00:16:15,400 --> 00:16:19,750
+of year at Christmas and baby Jesus and
+
+343
+00:16:17,620 --> 00:16:25,540
+all that good stuff and so that's where
+
+344
+00:16:19,750 --> 00:16:29,620
+El Nino actually gets its name so what
+
+345
+00:16:25,540 --> 00:16:31,540
+caused that now what we now know today
+
+346
+00:16:29,620 --> 00:16:34,450
+and they did not know this back then is
+
+347
+00:16:31,540 --> 00:16:37,870
+that something is going to shut this
+
+348
+00:16:34,450 --> 00:16:40,330
+whole circulation system down the Easter
+
+349
+00:16:37,870 --> 00:16:43,240
+bees are gonna die the easterlies die
+
+350
+00:16:40,330 --> 00:16:46,030
+the warm water moves back across the
+
+351
+00:16:43,240 --> 00:16:48,820
+ocean as the mourn water moves back
+
+352
+00:16:46,030 --> 00:16:52,240
+across the ocean the upwelling dies when
+
+353
+00:16:48,820 --> 00:16:54,640
+the upwelling dies the cold water stops
+
+354
+00:16:52,240 --> 00:16:56,770
+coming to the surface when the cold
+
+355
+00:16:54,640 --> 00:16:58,210
+water stops coming to the surface the
+
+356
+00:16:56,770 --> 00:17:00,450
+fish go somewhere I don't know exactly
+
+357
+00:16:58,210 --> 00:17:05,050
+where they go but they but they leave
+
+358
+00:17:00,450 --> 00:17:06,870
+that's El Nino so to explain this I'm
+
+359
+00:17:05,050 --> 00:17:11,520
+going to show a couple animations that
+
+360
+00:17:06,870 --> 00:17:14,110
+explain what an El Nino event looks like
+
+361
+00:17:11,520 --> 00:17:17,199
+so this is a simple little animation
+
+362
+00:17:14,110 --> 00:17:19,089
+that just explains first we're going to
+
+363
+00:17:17,199 --> 00:17:22,660
+look at what I just talked about which
+
+364
+00:17:19,089 --> 00:17:26,050
+is not El Nino not Lenina but just a
+
+365
+00:17:22,660 --> 00:17:28,780
+normal condition so here is going to
+
+366
+00:17:26,050 --> 00:17:30,820
+show this is a cross-section through the
+
+367
+00:17:28,780 --> 00:17:34,710
+ocean and the warm part of the water is
+
+368
+00:17:30,820 --> 00:17:37,060
+this upper part and here's our
+
+369
+00:17:34,710 --> 00:17:40,600
+easterlies also known as the trades and
+
+370
+00:17:37,060 --> 00:17:43,059
+they're blowing from east to west
+
+371
+00:17:40,600 --> 00:17:45,730
+and they're gonna pull up the warm water
+
+372
+00:17:43,059 --> 00:17:47,350
+over here and you're going to get rising
+
+373
+00:17:45,730 --> 00:17:49,530
+air because you got this big pool of
+
+374
+00:17:47,350 --> 00:17:52,510
+warm water and that's going to create a
+
+375
+00:17:49,530 --> 00:17:53,650
+relatively low pressure and so that's
+
+376
+00:17:52,510 --> 00:17:55,330
+what they're showing here and a lot of
+
+377
+00:17:53,650 --> 00:17:58,630
+precipitation rains over here every day
+
+378
+00:17:55,330 --> 00:18:00,789
+and there is also air kind of sinking
+
+379
+00:17:58,630 --> 00:18:03,070
+back out here that's making it high and
+
+380
+00:18:00,789 --> 00:18:05,590
+this is called the Walker circulation
+
+381
+00:18:03,070 --> 00:18:08,919
+cell now what they're trying to show
+
+382
+00:18:05,590 --> 00:18:12,760
+here are those coastal winds from the
+
+383
+00:18:08,919 --> 00:18:15,039
+gyre coming up the coast and here's the
+
+384
+00:18:12,760 --> 00:18:17,289
+upwelling so they're trying to show the
+
+385
+00:18:15,039 --> 00:18:20,230
+here comes that cold water and it comes
+
+386
+00:18:17,289 --> 00:18:24,700
+up to the surface and then it gets
+
+387
+00:18:20,230 --> 00:18:26,650
+pushed along the equator here and then
+
+388
+00:18:24,700 --> 00:18:29,169
+you have this pool of relatively warm
+
+389
+00:18:26,650 --> 00:18:31,510
+water over here now the animator got
+
+390
+00:18:29,169 --> 00:18:33,490
+this wrong because you saw that the the
+
+391
+00:18:31,510 --> 00:18:37,360
+warm water it started creeping in from
+
+392
+00:18:33,490 --> 00:18:39,070
+the west over here which is not right we
+
+393
+00:18:37,360 --> 00:18:40,780
+said that the warm water was pushed
+
+394
+00:18:39,070 --> 00:18:43,419
+across the ocean this way so they got
+
+395
+00:18:40,780 --> 00:18:46,120
+that wrong but this is kind of to show
+
+396
+00:18:43,419 --> 00:18:49,000
+what I I just talked about there should
+
+397
+00:18:46,120 --> 00:18:52,000
+be not just cold water along the coast
+
+398
+00:18:49,000 --> 00:18:58,240
+but a little bit along the equator here
+
+399
+00:18:52,000 --> 00:19:01,179
+okay so we can see this I go back okay
+
+400
+00:18:58,240 --> 00:19:04,299
+so now we're back to what kind of sea
+
+401
+00:19:01,179 --> 00:19:07,480
+surface temperatures alright so notice
+
+402
+00:19:04,299 --> 00:19:10,630
+this you've got this yellow this cooler
+
+403
+00:19:07,480 --> 00:19:13,510
+water and there's this ribbon of yellow
+
+404
+00:19:10,630 --> 00:19:15,730
+kind of along the equator that's cooler
+
+405
+00:19:13,510 --> 00:19:17,230
+water that's being pulled up from the
+
+406
+00:19:15,730 --> 00:19:21,730
+upwelling the upwelling is happening
+
+407
+00:19:17,230 --> 00:19:23,950
+down here and then it's being kind of
+
+408
+00:19:21,730 --> 00:19:26,010
+pulled along with the easterlies you can
+
+409
+00:19:23,950 --> 00:19:29,409
+see the direction of the currents here
+
+410
+00:19:26,010 --> 00:19:32,830
+being essentially pushed pushed to the
+
+411
+00:19:29,409 --> 00:19:34,270
+to the west over here so that's why it's
+
+412
+00:19:32,830 --> 00:19:36,970
+weird that you've got some of the
+
+413
+00:19:34,270 --> 00:19:38,650
+coldest water around here is right along
+
+414
+00:19:36,970 --> 00:19:40,270
+the equator where you'd expect it to be
+
+415
+00:19:38,650 --> 00:19:43,480
+the warmest because the winds are
+
+416
+00:19:40,270 --> 00:19:44,919
+pushing this cold water along here okay
+
+417
+00:19:43,480 --> 00:19:49,650
+so that's our upwelling so I'm going to
+
+418
+00:19:44,919 --> 00:19:49,650
+add that to our diagram
+
+419
+00:19:50,049 --> 00:19:59,899
+so we've got this ribbon of cool water
+
+420
+00:19:56,559 --> 00:20:04,909
+kind of like in here which are just
+
+421
+00:19:59,899 --> 00:20:07,429
+shade so just to be clear we've got cool
+
+422
+00:20:04,909 --> 00:20:10,789
+water along the coast we got cool water
+
+423
+00:20:07,429 --> 00:20:13,789
+along the coast down here and the
+
+424
+00:20:10,789 --> 00:20:15,620
+easterlies are pushing that along the
+
+425
+00:20:13,789 --> 00:20:19,880
+equator so we have this ribbon a fairly
+
+426
+00:20:15,620 --> 00:20:23,389
+cold air okay so this is not El Nino
+
+427
+00:20:19,880 --> 00:20:24,409
+this is a normal year okay alright so
+
+428
+00:20:23,389 --> 00:20:28,549
+now we're going to go back to the
+
+429
+00:20:24,409 --> 00:20:30,740
+animation okay so this is where we left
+
+430
+00:20:28,549 --> 00:20:32,750
+off the animation so let's see what
+
+431
+00:20:30,740 --> 00:20:35,720
+happens in an El Nino so the El Nino
+
+432
+00:20:32,750 --> 00:20:38,510
+animation is gonna start from this point
+
+433
+00:20:35,720 --> 00:20:43,279
+which is a normal year okay so here we
+
+434
+00:20:38,510 --> 00:20:45,889
+are now what happens is those winds the
+
+435
+00:20:43,279 --> 00:20:49,549
+Tradewinds the easterlies they die down
+
+436
+00:20:45,889 --> 00:20:53,210
+for some reason and in fact they might
+
+437
+00:20:49,549 --> 00:20:55,399
+even reverse and so the ocean starts to
+
+438
+00:20:53,210 --> 00:20:57,980
+slosh back across the equator this big
+
+439
+00:20:55,399 --> 00:21:01,220
+pool of warm water works its way back
+
+440
+00:20:57,980 --> 00:21:04,970
+across the ocean that upwelling stops
+
+441
+00:21:01,220 --> 00:21:06,950
+and instead of having cold water here
+
+442
+00:21:04,970 --> 00:21:10,909
+and cold water along the equator you
+
+443
+00:21:06,950 --> 00:21:13,970
+have relatively warm water also that
+
+444
+00:21:10,909 --> 00:21:15,950
+these two pressure centers reversed so
+
+445
+00:21:13,970 --> 00:21:18,289
+now you've got more of a low pressure
+
+446
+00:21:15,950 --> 00:21:19,880
+over here and more of a high pressure
+
+447
+00:21:18,289 --> 00:21:23,149
+over here so these guys are now
+
+448
+00:21:19,880 --> 00:21:28,010
+relatively dry and these guys are
+
+449
+00:21:23,149 --> 00:21:32,870
+relatively wet so this whole system that
+
+450
+00:21:28,010 --> 00:21:35,960
+is now referred to as El Nino so trade
+
+451
+00:21:32,870 --> 00:21:38,809
+winds or easterly's die warm water
+
+452
+00:21:35,960 --> 00:21:40,700
+sloshes back across the ocean upwelling
+
+453
+00:21:38,809 --> 00:21:43,309
+stops you've got warm water along this
+
+454
+00:21:40,700 --> 00:21:46,090
+coast on this coast and along the
+
+455
+00:21:43,309 --> 00:21:47,899
+equator we didn't have it before that's
+
+456
+00:21:46,090 --> 00:21:53,779
+El Nino
+
+457
+00:21:47,899 --> 00:21:55,760
+now what's La Nina aw Nina we're gonna
+
+458
+00:21:53,779 --> 00:21:59,960
+start again from a normal year so this
+
+459
+00:21:55,760 --> 00:22:01,970
+is a normal year and what happens in a
+
+460
+00:21:59,960 --> 00:22:02,750
+La Nina is that the trade winds get
+
+461
+00:22:01,970 --> 00:22:04,580
+stronger
+
+462
+00:22:02,750 --> 00:22:07,820
+so this is their showing the arrows here
+
+463
+00:22:04,580 --> 00:22:10,460
+getting kind of fatter so the wind is
+
+464
+00:22:07,820 --> 00:22:13,220
+blowing the the easterlies I was blowing
+
+465
+00:22:10,460 --> 00:22:15,440
+harder than they were this makes more
+
+466
+00:22:13,220 --> 00:22:17,900
+upwelling than we used to have that
+
+467
+00:22:15,440 --> 00:22:20,360
+blows the cold water further along the
+
+468
+00:22:17,900 --> 00:22:22,670
+equator towards the west and you'll see
+
+469
+00:22:20,360 --> 00:22:24,860
+that this pool of warm water shrinks a
+
+470
+00:22:22,670 --> 00:22:27,950
+little bit and this pool of cold water
+
+471
+00:22:24,860 --> 00:22:31,040
+grows a little bit that's a long mean
+
+472
+00:22:27,950 --> 00:22:33,620
+iya condition now we know from these
+
+473
+00:22:31,040 --> 00:22:35,330
+from these chili and fishermen and they
+
+474
+00:22:33,620 --> 00:22:36,890
+kept records for I don't remember how
+
+475
+00:22:35,330 --> 00:22:39,410
+far back but several hundred years that
+
+476
+00:22:36,890 --> 00:22:40,820
+this is a naturally occurring thing so
+
+477
+00:22:39,410 --> 00:22:43,220
+this was happening on earth long before
+
+478
+00:22:40,820 --> 00:22:46,520
+humans were having any effect on the
+
+479
+00:22:43,220 --> 00:22:48,410
+climate and it would happen maybe every
+
+480
+00:22:46,520 --> 00:22:51,530
+five or six or seven years they would
+
+481
+00:22:48,410 --> 00:22:55,460
+have one of these El Nino events and so
+
+482
+00:22:51,530 --> 00:22:58,070
+it's a naturally occurring thing and for
+
+483
+00:22:55,460 --> 00:23:00,140
+the most part we can't really predict it
+
+484
+00:22:58,070 --> 00:23:03,710
+the way we predict it is we actually
+
+485
+00:23:00,140 --> 00:23:07,610
+have if I go back to my El Nino here so
+
+486
+00:23:03,710 --> 00:23:11,360
+I deposit so if an El Nino is coming and
+
+487
+00:23:07,610 --> 00:23:14,210
+we have some like ships out here our
+
+488
+00:23:11,360 --> 00:23:16,880
+buoys with thermometers in them or maybe
+
+489
+00:23:14,210 --> 00:23:19,520
+we can see this from satellites we can
+
+490
+00:23:16,880 --> 00:23:21,620
+watch we can notice that when this warm
+
+491
+00:23:19,520 --> 00:23:23,870
+water starts to creep across the ocean
+
+492
+00:23:21,620 --> 00:23:26,750
+right so if an El Nino is going to
+
+493
+00:23:23,870 --> 00:23:29,330
+happen we can we can detect this warm
+
+494
+00:23:26,750 --> 00:23:31,310
+water on the move before it actually
+
+495
+00:23:29,330 --> 00:23:33,800
+gets to the coast so we can predict it
+
+496
+00:23:31,310 --> 00:23:35,930
+that way but we have no way of saying oh
+
+497
+00:23:33,800 --> 00:23:37,820
+next years in El Nino or the year after
+
+498
+00:23:35,930 --> 00:23:39,490
+that as an El Nino we can't we can't do
+
+499
+00:23:37,820 --> 00:23:42,620
+that is this is not a predictable
+
+500
+00:23:39,490 --> 00:23:43,780
+process when an El Nino happens it
+
+501
+00:23:42,620 --> 00:23:46,400
+happens
+
+502
+00:23:43,780 --> 00:23:49,820
+several this condition lasts for several
+
+503
+00:23:46,400 --> 00:23:51,980
+months so it's not really weather and
+
+504
+00:23:49,820 --> 00:23:54,260
+it's not really climate it's kind of in
+
+505
+00:23:51,980 --> 00:23:56,330
+between right it's a little bit it kind
+
+506
+00:23:54,260 --> 00:23:58,670
+of bridges the gap between climate and
+
+507
+00:23:56,330 --> 00:24:00,440
+weather it's a process that occur that
+
+508
+00:23:58,670 --> 00:24:01,430
+will change the weather for several
+
+509
+00:24:00,440 --> 00:24:04,970
+months at a time
+
+510
+00:24:01,430 --> 00:24:07,910
+so El Nino is one of the two phases was
+
+511
+00:24:04,970 --> 00:24:10,250
+the other being Lonnie Nia we generally
+
+512
+00:24:07,910 --> 00:24:14,260
+refer to both of these two together as
+
+513
+00:24:10,250 --> 00:24:17,080
+ENSO El Nino Southern Oscillation
+
+514
+00:24:14,260 --> 00:24:20,169
+the Southern Oscillation refers to these
+
+515
+00:24:17,080 --> 00:24:23,020
+two pressure centers that swapped so
+
+516
+00:24:20,169 --> 00:24:25,809
+again this right here this is a well
+
+517
+00:24:23,020 --> 00:24:28,179
+we've a normal year not El Nino not La
+
+518
+00:24:25,809 --> 00:24:32,230
+Nina we've got a lo over here we've got
+
+519
+00:24:28,179 --> 00:24:34,360
+a hi over here and in the El Nino one of
+
+520
+00:24:32,230 --> 00:24:37,350
+the things that happened is that these
+
+521
+00:24:34,360 --> 00:24:39,790
+two pressure centers swapped places
+
+522
+00:24:37,350 --> 00:24:42,280
+that's what we call the Southern
+
+523
+00:24:39,790 --> 00:24:44,020
+Oscillation okay that's what it refers
+
+524
+00:24:42,280 --> 00:24:46,480
+to and we're not going to get too deep
+
+525
+00:24:44,020 --> 00:24:48,580
+in this class about what all that means
+
+526
+00:24:46,480 --> 00:24:50,200
+except to say that that's what the name
+
+527
+00:24:48,580 --> 00:24:53,110
+comes from so they'll hear this term and
+
+528
+00:24:50,200 --> 00:24:56,530
+so when you hear and so just think El
+
+529
+00:24:53,110 --> 00:24:58,570
+Nino and La Nina together like it
+
+530
+00:24:56,530 --> 00:25:00,760
+changes between one and the other from
+
+531
+00:24:58,570 --> 00:25:04,690
+year to year but collectively we just
+
+532
+00:25:00,760 --> 00:25:06,460
+called this thing in soul so before we
+
+533
+00:25:04,690 --> 00:25:08,230
+move on to the effects that El Nino has
+
+534
+00:25:06,460 --> 00:25:12,540
+on our weather I want to point out a
+
+535
+00:25:08,230 --> 00:25:14,799
+couple other things with the SST maps so
+
+536
+00:25:12,540 --> 00:25:18,340
+when we talk about El Nino La Nina
+
+537
+00:25:14,799 --> 00:25:21,220
+events is only happening in the Pacific
+
+538
+00:25:18,340 --> 00:25:23,950
+Ocean so apparently the Atlantic Ocean
+
+539
+00:25:21,220 --> 00:25:25,540
+is too small now it has there's
+
+540
+00:25:23,950 --> 00:25:28,360
+something similar going on here there's
+
+541
+00:25:25,540 --> 00:25:29,890
+some upwelling here there's you can see
+
+542
+00:25:28,360 --> 00:25:32,770
+this ribbon of cool water along the
+
+543
+00:25:29,890 --> 00:25:34,630
+equator here but when we talk about Long
+
+544
+00:25:32,770 --> 00:25:37,179
+Nina and El Nino events it doesn't
+
+545
+00:25:34,630 --> 00:25:39,160
+really seem to affect the Atlantic Ocean
+
+546
+00:25:37,179 --> 00:25:40,570
+it's only the Pacific Ocean where all
+
+547
+00:25:39,160 --> 00:25:44,890
+this stuff happens
+
+548
+00:25:40,570 --> 00:25:46,840
+yeah thing I want to point out is we
+
+549
+00:25:44,890 --> 00:25:50,140
+also have some interesting ocean
+
+550
+00:25:46,840 --> 00:25:52,720
+currents in our part of the world so
+
+551
+00:25:50,140 --> 00:25:54,190
+here's the Gulf of Mexico and again this
+
+552
+00:25:52,720 --> 00:25:56,440
+is a day in the summer so we have
+
+553
+00:25:54,190 --> 00:25:58,620
+especially warm water here in the Gulf
+
+554
+00:25:56,440 --> 00:26:03,309
+of Mexico and I want you to notice this
+
+555
+00:25:58,620 --> 00:26:05,710
+this stream this current coming out of
+
+556
+00:26:03,309 --> 00:26:08,980
+the Gulf that's called the Gulf Stream
+
+557
+00:26:05,710 --> 00:26:11,770
+and if we kind of fall or it goes
+
+558
+00:26:08,980 --> 00:26:13,570
+there's this ribbon of warm water that
+
+559
+00:26:11,770 --> 00:26:16,450
+there's a bunch of Eddie's and stuff and
+
+560
+00:26:13,570 --> 00:26:19,690
+it makes its way across the Atlantic
+
+561
+00:26:16,450 --> 00:26:24,580
+Ocean and if I kind of look at the big
+
+562
+00:26:19,690 --> 00:26:26,590
+scale here really warm water is coming
+
+563
+00:26:24,580 --> 00:26:27,590
+out of the Gulf of Mexico comes up the
+
+564
+00:26:26,590 --> 00:26:30,799
+East Coast
+
+565
+00:26:27,590 --> 00:26:35,419
+and it heads out to sea and it ends up
+
+566
+00:26:30,799 --> 00:26:37,400
+actually over here by Europe so this
+
+567
+00:26:35,419 --> 00:26:41,090
+part of the ocean right here it's see
+
+568
+00:26:37,400 --> 00:26:43,940
+it's relatively kind of yellow in color
+
+569
+00:26:41,090 --> 00:26:47,380
+compared to over here where you've got
+
+570
+00:26:43,940 --> 00:26:51,140
+this colder green and blue colors so
+
+571
+00:26:47,380 --> 00:26:54,850
+this part of the ocean is being kept
+
+572
+00:26:51,140 --> 00:26:57,830
+warmer because there is a current of
+
+573
+00:26:54,850 --> 00:26:59,600
+warm water that's basically stealing our
+
+574
+00:26:57,830 --> 00:27:02,330
+warm water from the Gulf of Mexico and
+
+575
+00:26:59,600 --> 00:27:04,610
+pumps it out here and dumps it out in
+
+576
+00:27:02,330 --> 00:27:07,250
+this part of the ocean now this is
+
+577
+00:27:04,610 --> 00:27:09,890
+important because for people that live
+
+578
+00:27:07,250 --> 00:27:12,380
+in Europe if you think about the related
+
+579
+00:27:09,890 --> 00:27:15,409
+to it here right right right here if you
+
+580
+00:27:12,380 --> 00:27:17,360
+follow this line of latitude across okay
+
+581
+00:27:15,409 --> 00:27:22,460
+you're in the that would be equivalent
+
+582
+00:27:17,360 --> 00:27:26,210
+to the middle of the United States what
+
+583
+00:27:22,460 --> 00:27:30,789
+if you went up say to this one
+
+584
+00:27:26,210 --> 00:27:34,429
+okay so there's UK and all that there
+
+585
+00:27:30,789 --> 00:27:39,830
+follow this one across and you're in
+
+586
+00:27:34,429 --> 00:27:41,630
+Canada right so what's what are the
+
+587
+00:27:39,830 --> 00:27:45,500
+winners like in this in the middle of
+
+588
+00:27:41,630 --> 00:27:48,409
+Canada well very very cold but they're
+
+589
+00:27:45,500 --> 00:27:51,370
+not nearly so cold over here in Europe
+
+590
+00:27:48,409 --> 00:27:54,320
+even though it's the same latitude why
+
+591
+00:27:51,370 --> 00:27:56,899
+because this body of water that this
+
+592
+00:27:54,320 --> 00:27:59,179
+part of the Atlantic Ocean is warmer
+
+593
+00:27:56,899 --> 00:28:01,549
+than it would be if it wasn't for the
+
+594
+00:27:59,179 --> 00:28:04,520
+Gulf Stream the Gulf Stream takes this
+
+595
+00:28:01,549 --> 00:28:07,880
+warm water brings it up dumps into this
+
+596
+00:28:04,520 --> 00:28:11,809
+part of the ocean keeps Europe warmer
+
+597
+00:28:07,880 --> 00:28:15,710
+than the normally would be in fact if
+
+598
+00:28:11,809 --> 00:28:18,350
+you shut this off somehow Europe would
+
+599
+00:28:15,710 --> 00:28:20,419
+be much much colder in fact it would it
+
+600
+00:28:18,350 --> 00:28:23,929
+would look similar to what it looked
+
+601
+00:28:20,419 --> 00:28:25,940
+like in the last ice age so when we get
+
+602
+00:28:23,929 --> 00:28:28,669
+to climate change which is a couple
+
+603
+00:28:25,940 --> 00:28:31,760
+weeks away one of the things we're going
+
+604
+00:28:28,669 --> 00:28:36,080
+to talk about is the possibility that
+
+605
+00:28:31,760 --> 00:28:38,780
+this stream might shut down and if it
+
+606
+00:28:36,080 --> 00:28:41,030
+shuts down that's going to make Europe a
+
+607
+00:28:38,780 --> 00:28:41,510
+whole lot colder okay so that's a little
+
+608
+00:28:41,030 --> 00:28:44,150
+counter
+
+609
+00:28:41,510 --> 00:28:45,920
+to ative when we talk about the worth
+
+610
+00:28:44,150 --> 00:28:48,140
+getting warmer why could why could
+
+611
+00:28:45,920 --> 00:28:49,400
+Europe suddenly get colder has to do
+
+612
+00:28:48,140 --> 00:28:51,380
+with this I just want to point it out
+
+613
+00:28:49,400 --> 00:28:53,990
+now because that's what we're talking
+
+614
+00:28:51,380 --> 00:28:56,480
+about so if we have an El Nino or La
+
+615
+00:28:53,990 --> 00:29:00,020
+Nina event we can get some really
+
+616
+00:28:56,480 --> 00:29:02,180
+radical changes in the weather and ocean
+
+617
+00:29:00,020 --> 00:29:05,120
+temperatures depending on where you live
+
+618
+00:29:02,180 --> 00:29:07,820
+so for example these guys are catching
+
+619
+00:29:05,120 --> 00:29:09,980
+tropical fish off the coast of Southern
+
+620
+00:29:07,820 --> 00:29:11,630
+California now we just said that the
+
+621
+00:29:09,980 --> 00:29:13,670
+water off the coast of California is
+
+622
+00:29:11,630 --> 00:29:16,640
+really cold because it's from the bottom
+
+623
+00:29:13,670 --> 00:29:19,220
+of the ocean but during it El Nino that
+
+624
+00:29:16,640 --> 00:29:22,790
+up whittling stops in that warm water
+
+625
+00:29:19,220 --> 00:29:24,830
+sloshes back across the ocean and the
+
+626
+00:29:22,790 --> 00:29:26,510
+tropical fish follow of that and so
+
+627
+00:29:24,830 --> 00:29:28,970
+these guys are catching tropical fish in
+
+628
+00:29:26,510 --> 00:29:32,240
+a place which normally really cold water
+
+629
+00:29:28,970 --> 00:29:34,100
+a lot of times animals just can't handle
+
+630
+00:29:32,240 --> 00:29:37,480
+the changes in water temperature so
+
+631
+00:29:34,100 --> 00:29:40,250
+these are zillions of dead crabs that
+
+632
+00:29:37,480 --> 00:29:42,260
+couldn't handle the warmer water of El
+
+633
+00:29:40,250 --> 00:29:45,850
+Nino and again we were in California
+
+634
+00:29:42,260 --> 00:29:48,890
+they washed ashore here by the millions
+
+635
+00:29:45,850 --> 00:29:51,800
+and you gotta wonder how bad this smells
+
+636
+00:29:48,890 --> 00:29:54,140
+after a few days of this but during an
+
+637
+00:29:51,800 --> 00:29:56,600
+El Nino that sudden change in
+
+638
+00:29:54,140 --> 00:29:58,310
+temperature can really kill a lot of
+
+639
+00:29:56,600 --> 00:30:01,880
+animals that are that have adapted to
+
+640
+00:29:58,310 --> 00:30:03,380
+growing in an environment with you know
+
+641
+00:30:01,880 --> 00:30:06,260
+pretty cold water like I said it's
+
+642
+00:30:03,380 --> 00:30:08,090
+usually not - not too much warmer than
+
+643
+00:30:06,260 --> 00:30:10,310
+freezing most of the time and suddenly
+
+644
+00:30:08,090 --> 00:30:13,070
+you have this warm tropical water and a
+
+645
+00:30:10,310 --> 00:30:17,480
+lot of animals can't handle that now
+
+646
+00:30:13,070 --> 00:30:20,420
+the El Nino event itself or La Nina is
+
+647
+00:30:17,480 --> 00:30:24,740
+affecting this area right near the ocean
+
+648
+00:30:20,420 --> 00:30:26,600
+or near the equator and you'd expect
+
+649
+00:30:24,740 --> 00:30:28,750
+well the the weather through here will
+
+650
+00:30:26,600 --> 00:30:32,420
+probably be different because of this
+
+651
+00:30:28,750 --> 00:30:35,960
+but what you may not expect is that this
+
+652
+00:30:32,420 --> 00:30:37,880
+a change in an event down here triggers
+
+653
+00:30:35,960 --> 00:30:41,330
+all kinds of changes of weather all over
+
+654
+00:30:37,880 --> 00:30:43,580
+the world so here's a map showing the
+
+655
+00:30:41,330 --> 00:30:47,750
+types of weather changes that occur
+
+656
+00:30:43,580 --> 00:30:51,350
+during an El Nino and in the winter so
+
+657
+00:30:47,750 --> 00:30:53,510
+December January February so just to
+
+658
+00:30:51,350 --> 00:30:55,389
+reiterate when we have an El Nino or La
+
+659
+00:30:53,510 --> 00:30:58,929
+Nina it lasts for several
+
+660
+00:30:55,389 --> 00:31:01,450
+okay so it may last six months or eight
+
+661
+00:30:58,929 --> 00:31:04,059
+months or four months and so during that
+
+662
+00:31:01,450 --> 00:31:07,479
+time it will have effects on the weather
+
+663
+00:31:04,059 --> 00:31:11,019
+so for example you may not be able to
+
+664
+00:31:07,479 --> 00:31:15,009
+quite quite read the key down here but
+
+665
+00:31:11,019 --> 00:31:16,929
+along the equator it says warm and wet
+
+666
+00:31:15,009 --> 00:31:18,729
+okay that makes sense in a nil ninu
+
+667
+00:31:16,929 --> 00:31:22,450
+you've got warm water sloshing across
+
+668
+00:31:18,729 --> 00:31:24,459
+that should make it warmer and give you
+
+669
+00:31:22,450 --> 00:31:28,119
+more precipitation but then for example
+
+670
+00:31:24,459 --> 00:31:32,969
+up here it says it's going to be warmer
+
+671
+00:31:28,119 --> 00:31:35,649
+or warmer and drier or places where the
+
+672
+00:31:32,969 --> 00:31:38,619
+precipitation increases and notice
+
+673
+00:31:35,649 --> 00:31:40,929
+what's happening over here we've got a
+
+674
+00:31:38,619 --> 00:31:43,059
+green zone that says wetter that we've
+
+675
+00:31:40,929 --> 00:31:48,389
+got a kind of a bluer zone that says
+
+676
+00:31:43,059 --> 00:31:50,919
+cool and wet so this change here is
+
+677
+00:31:48,389 --> 00:31:54,369
+affecting things all over the planet and
+
+678
+00:31:50,919 --> 00:31:55,809
+for us as in New Mexico wearing this
+
+679
+00:31:54,369 --> 00:31:58,049
+green blob so we're going to explain
+
+680
+00:31:55,809 --> 00:32:02,459
+that in a little bit
+
+681
+00:31:58,049 --> 00:32:05,709
+now here's El Nino June July August and
+
+682
+00:32:02,459 --> 00:32:07,539
+notice that we see some changes in
+
+683
+00:32:05,709 --> 00:32:09,369
+different parts of the world right so
+
+684
+00:32:07,539 --> 00:32:11,589
+down here it's cool and dry or
+
+685
+00:32:09,369 --> 00:32:15,909
+what-have-you but notice that for the
+
+686
+00:32:11,589 --> 00:32:17,799
+most part not much as changing in North
+
+687
+00:32:15,909 --> 00:32:21,159
+America in general and especially not in
+
+688
+00:32:17,799 --> 00:32:24,099
+the United States so for us if we have
+
+689
+00:32:21,159 --> 00:32:26,739
+an El Nino it affects our winter
+
+690
+00:32:24,099 --> 00:32:27,879
+precipitation in our winter temperatures
+
+691
+00:32:26,739 --> 00:32:30,579
+and we'll talk more about that in a
+
+692
+00:32:27,879 --> 00:32:33,369
+second does not seem to affect us in the
+
+693
+00:32:30,579 --> 00:32:37,089
+summer okay so keep that in mind that El
+
+694
+00:32:33,369 --> 00:32:41,229
+Nino really affects our winter time if
+
+695
+00:32:37,089 --> 00:32:43,839
+we have a log in yeah again that's gonna
+
+696
+00:32:41,229 --> 00:32:45,639
+make this you know the definition of La
+
+697
+00:32:43,839 --> 00:32:48,669
+Nina is the is the winds here or
+
+698
+00:32:45,639 --> 00:32:51,339
+blooming stronger from the east which
+
+699
+00:32:48,669 --> 00:32:53,109
+makes this colder okay so if it's colder
+
+700
+00:32:51,339 --> 00:32:55,929
+you'd expect to be cooler and drier that
+
+701
+00:32:53,109 --> 00:32:58,419
+makes sense but it also has effects all
+
+702
+00:32:55,929 --> 00:33:01,539
+over the world so for example up in here
+
+703
+00:32:58,419 --> 00:33:04,269
+it says it's making it wetter and down
+
+704
+00:33:01,539 --> 00:33:05,950
+here it's making it drier okay and so
+
+705
+00:33:04,269 --> 00:33:07,929
+we're also you know we're kind of
+
+706
+00:33:05,950 --> 00:33:09,190
+getting up here here in New Mexico or
+
+707
+00:33:07,929 --> 00:33:11,740
+it's gonna have some kind
+
+708
+00:33:09,190 --> 00:33:14,500
+for us to which we'll talk about in a
+
+709
+00:33:11,740 --> 00:33:16,690
+second so the point is you're only
+
+710
+00:33:14,500 --> 00:33:18,669
+changing this but somehow it's having
+
+711
+00:33:16,690 --> 00:33:22,000
+effects all over the planet
+
+712
+00:33:18,669 --> 00:33:24,299
+so why might this be the situation Owen
+
+713
+00:33:22,000 --> 00:33:29,230
+before I forget if I look at anemia
+
+714
+00:33:24,299 --> 00:33:31,179
+again in the summer we see really
+
+715
+00:33:29,230 --> 00:33:31,690
+nothing changing here in the United
+
+716
+00:33:31,179 --> 00:33:35,740
+States
+
+717
+00:33:31,690 --> 00:33:37,809
+okay so El Nino or La Nina doesn't
+
+718
+00:33:35,740 --> 00:33:38,890
+really affect our summer weather at
+
+719
+00:33:37,809 --> 00:33:44,100
+least not that we've been able to
+
+720
+00:33:38,890 --> 00:33:48,760
+determine does affect our winter weather
+
+721
+00:33:44,100 --> 00:33:50,440
+so how is it that the change in the
+
+722
+00:33:48,760 --> 00:33:53,380
+temperature along down here by the
+
+723
+00:33:50,440 --> 00:33:56,049
+equator can have effects all over the
+
+724
+00:33:53,380 --> 00:33:57,700
+planet short answer is it's really
+
+725
+00:33:56,049 --> 00:33:59,889
+complicated but there's one thing that
+
+726
+00:33:57,700 --> 00:34:02,559
+we can learn about in this class that
+
+727
+00:33:59,889 --> 00:34:04,899
+we've talked about before so we talked
+
+728
+00:34:02,559 --> 00:34:07,990
+about the polar front right so let's
+
+729
+00:34:04,899 --> 00:34:11,889
+imagine the polar front is going kind of
+
+730
+00:34:07,990 --> 00:34:13,359
+feel like this on a normal year so to
+
+731
+00:34:11,889 --> 00:34:14,349
+remind you the cold air is up here the
+
+732
+00:34:13,359 --> 00:34:16,960
+warmer is down here in the middle
+
+733
+00:34:14,349 --> 00:34:18,820
+latitude cyclones basically follow this
+
+734
+00:34:16,960 --> 00:34:20,859
+path and that's always changing right
+
+735
+00:34:18,820 --> 00:34:22,540
+there's these curves and the whole thing
+
+736
+00:34:20,859 --> 00:34:25,000
+we've talked about with the rows be
+
+737
+00:34:22,540 --> 00:34:27,639
+waves but in general the storms are kind
+
+738
+00:34:25,000 --> 00:34:30,669
+of coming in through this direction now
+
+739
+00:34:27,639 --> 00:34:35,169
+let's say we have an El Nino so an El
+
+740
+00:34:30,669 --> 00:34:39,220
+Nino means that we have warmer than
+
+741
+00:34:35,169 --> 00:34:43,379
+usual temperatures here and here and
+
+742
+00:34:39,220 --> 00:34:48,060
+here all right this is in an El Nino
+
+743
+00:34:43,379 --> 00:34:53,800
+warmer than normal
+
+744
+00:34:48,060 --> 00:34:56,830
+okay so I just write this out here okay
+
+745
+00:34:53,800 --> 00:35:01,720
+so in an El Nino event it's warmer than
+
+746
+00:34:56,830 --> 00:35:06,190
+normal now the the fact that there is a
+
+747
+00:35:01,720 --> 00:35:09,130
+pool of warmer water here will cause the
+
+748
+00:35:06,190 --> 00:35:14,320
+polar front to shift positions a little
+
+749
+00:35:09,130 --> 00:35:17,910
+bit and it will actually shift a little
+
+750
+00:35:14,320 --> 00:35:17,910
+further to the south
+
+751
+00:35:18,230 --> 00:35:22,110
+I'm exaggerating this greatly just to
+
+752
+00:35:21,270 --> 00:35:27,210
+make a point
+
+753
+00:35:22,110 --> 00:35:30,330
+so the polar front shifts a little
+
+754
+00:35:27,210 --> 00:35:33,780
+further south during an El Nino winter
+
+755
+00:35:30,330 --> 00:35:36,120
+than a normal winter so if we think
+
+756
+00:35:33,780 --> 00:35:39,260
+about mid latitude cyclones right the
+
+757
+00:35:36,120 --> 00:35:43,170
+mid-latitude cyclones are forming along
+
+758
+00:35:39,260 --> 00:35:46,710
+the polar front where are they going to
+
+759
+00:35:43,170 --> 00:35:50,090
+go well during an El Nino because the
+
+760
+00:35:46,710 --> 00:35:54,000
+polar front shifts further south then
+
+761
+00:35:50,090 --> 00:35:58,860
+the mid-latitude cyclones shift further
+
+762
+00:35:54,000 --> 00:36:02,280
+south so what that means is in a non El
+
+763
+00:35:58,860 --> 00:36:04,350
+Nino year just a normal year you'd
+
+764
+00:36:02,280 --> 00:36:06,750
+expect the mid-latitude cyclones to kind
+
+765
+00:36:04,350 --> 00:36:08,850
+of be following say the path of the
+
+766
+00:36:06,750 --> 00:36:12,360
+Green Line coming up into the Pacific
+
+767
+00:36:08,850 --> 00:36:14,430
+Northwest but an El Nino year this whole
+
+768
+00:36:12,360 --> 00:36:16,290
+thing will be shifted down and the
+
+769
+00:36:14,430 --> 00:36:19,110
+Pacific sub I'm sorry the mid-latitude
+
+770
+00:36:16,290 --> 00:36:22,110
+cyclones will be traveling further south
+
+771
+00:36:19,110 --> 00:36:26,850
+well what's further south of this Green
+
+772
+00:36:22,110 --> 00:36:29,670
+Line well we are so US as in New Mexico
+
+773
+00:36:26,850 --> 00:36:32,880
+we'll be in a position where we are more
+
+774
+00:36:29,670 --> 00:36:36,120
+likely to get mid-latitude cyclones than
+
+775
+00:36:32,880 --> 00:36:37,620
+in a normal non El Nino year okay so
+
+776
+00:36:36,120 --> 00:36:39,810
+this is gonna have an effect on our
+
+777
+00:36:37,620 --> 00:36:43,530
+weather because it's shifting the polar
+
+778
+00:36:39,810 --> 00:36:49,910
+front south okay so let's look at a
+
+779
+00:36:43,530 --> 00:36:49,910
+couple maps here so here is a couple of
+
+780
+00:36:50,900 --> 00:36:55,200
+cartoons to try to illustrate this and
+
+781
+00:36:54,120 --> 00:36:56,970
+they're using some slightly different
+
+782
+00:36:55,200 --> 00:37:00,750
+terminology than what we've been using
+
+783
+00:36:56,970 --> 00:37:04,350
+so so far we've been talking about the
+
+784
+00:37:00,750 --> 00:37:06,570
+Jetstream and one type of polar front is
+
+785
+00:37:04,350 --> 00:37:08,580
+actually it splits there's more than one
+
+786
+00:37:06,570 --> 00:37:10,380
+type of jet I don't want to get too deep
+
+787
+00:37:08,580 --> 00:37:13,290
+into this but what they're trying to
+
+788
+00:37:10,380 --> 00:37:16,020
+show here is in an El Nino this
+
+789
+00:37:13,290 --> 00:37:21,240
+Jetstream what I'm calling the polar
+
+790
+00:37:16,020 --> 00:37:23,190
+front is bringing in storms kind of
+
+791
+00:37:21,240 --> 00:37:25,850
+right through here within this orange
+
+792
+00:37:23,190 --> 00:37:30,090
+line which is going to make this area
+
+793
+00:37:25,850 --> 00:37:31,890
+wetter than normal in this area warmer
+
+794
+00:37:30,090 --> 00:37:33,720
+and drier than normal
+
+795
+00:37:31,890 --> 00:37:39,359
+so the storms that we're coming up here
+
+796
+00:37:33,720 --> 00:37:43,039
+are now coming further south in a La
+
+797
+00:37:39,359 --> 00:37:47,420
+Nina the opposite happens in a La Nina
+
+798
+00:37:43,039 --> 00:37:50,039
+the jet polar the polar front again is
+
+799
+00:37:47,420 --> 00:37:53,369
+shifted further to the north so it's
+
+800
+00:37:50,039 --> 00:37:56,700
+exactly the opposite and the storms tend
+
+801
+00:37:53,369 --> 00:38:01,400
+to go further to the north and skip us
+
+802
+00:37:56,700 --> 00:38:06,359
+more often so we end up to be drier and
+
+803
+00:38:01,400 --> 00:38:07,529
+they end up to be wetter okay so what
+
+804
+00:38:06,359 --> 00:38:09,210
+we're doing is we're shifting the
+
+805
+00:38:07,529 --> 00:38:12,720
+location of where those mid-latitude
+
+806
+00:38:09,210 --> 00:38:14,700
+cyclones come in in an El Nino they tend
+
+807
+00:38:12,720 --> 00:38:17,609
+to come further south they make us
+
+808
+00:38:14,700 --> 00:38:21,749
+wetter in a La Nina it's in to go
+
+809
+00:38:17,609 --> 00:38:23,670
+further north make us drier so that's
+
+810
+00:38:21,749 --> 00:38:27,029
+going to have an effect on our overall
+
+811
+00:38:23,670 --> 00:38:28,890
+winter weather so this is a new type of
+
+812
+00:38:27,029 --> 00:38:32,489
+map we haven't seen in this class yeah
+
+813
+00:38:28,890 --> 00:38:34,160
+it's called an anomaly map anomaly means
+
+814
+00:38:32,489 --> 00:38:38,489
+something that's different than normal
+
+815
+00:38:34,160 --> 00:38:42,029
+so these colors this is a says composite
+
+816
+00:38:38,489 --> 00:38:44,130
+precipitation anomalies and what they've
+
+817
+00:38:42,029 --> 00:38:46,769
+done is they've every time there was an
+
+818
+00:38:44,130 --> 00:38:48,839
+El Nino they looked at all the
+
+819
+00:38:46,769 --> 00:38:51,359
+precipitation records for that El Nino
+
+820
+00:38:48,839 --> 00:38:53,509
+event and they compared it to what the
+
+821
+00:38:51,359 --> 00:38:55,859
+average precipitation was in the past
+
+822
+00:38:53,509 --> 00:38:58,890
+okay so what they've noticed is that the
+
+823
+00:38:55,859 --> 00:39:01,579
+places that are blue so it says five
+
+824
+00:38:58,890 --> 00:39:04,980
+case what does that mean that means that
+
+825
+00:39:01,579 --> 00:39:08,369
+during the winter voices that are dark
+
+826
+00:39:04,980 --> 00:39:11,279
+blue on average got five inches of
+
+827
+00:39:08,369 --> 00:39:14,119
+precipitation more than they normally
+
+828
+00:39:11,279 --> 00:39:17,430
+would that's an anomaly
+
+829
+00:39:14,119 --> 00:39:22,369
+whereas places that are say yellow or
+
+830
+00:39:17,430 --> 00:39:27,029
+orange got - one - two - three inches
+
+831
+00:39:22,369 --> 00:39:29,309
+from normal so this isn't telling you
+
+832
+00:39:27,029 --> 00:39:32,880
+how much precipitation they received
+
+833
+00:39:29,309 --> 00:39:36,359
+it's telling you how much extra or how
+
+834
+00:39:32,880 --> 00:39:39,390
+much less they got than what they
+
+835
+00:39:36,359 --> 00:39:41,670
+normally expect right so everyone
+
+836
+00:39:39,390 --> 00:39:44,069
+everybody that's in on this side and
+
+837
+00:39:41,670 --> 00:39:45,480
+these green and aqua colors are getting
+
+838
+00:39:44,069 --> 00:39:48,420
+more precipitation
+
+839
+00:39:45,480 --> 00:39:52,200
+than a normal year you know see that New
+
+840
+00:39:48,420 --> 00:39:55,559
+Mexico is right in here so we get about
+
+841
+00:39:52,200 --> 00:39:57,059
+one inch more than normal during an El
+
+842
+00:39:55,559 --> 00:40:00,270
+Ninos again this is spread out
+
+843
+00:39:57,059 --> 00:40:02,160
+throughout the whole winter right why is
+
+844
+00:40:00,270 --> 00:40:04,140
+that because the mid-latitude cyclones
+
+845
+00:40:02,160 --> 00:40:06,059
+are being directed further south so they
+
+846
+00:40:04,140 --> 00:40:07,760
+come in they dumped a lot in California
+
+847
+00:40:06,059 --> 00:40:10,829
+then they kind of moved downstream
+
+848
+00:40:07,760 --> 00:40:14,630
+towards us and we pick up some of that
+
+849
+00:40:10,829 --> 00:40:18,780
+extra precipitation now these guys are
+
+850
+00:40:14,630 --> 00:40:21,839
+in the red you can see the - three -
+
+851
+00:40:18,780 --> 00:40:23,549
+four - five inches these guys are
+
+852
+00:40:21,839 --> 00:40:25,680
+getting less precipitation than they
+
+853
+00:40:23,549 --> 00:40:28,109
+normally would because the storms that
+
+854
+00:40:25,680 --> 00:40:31,950
+used to come in here are now shifted
+
+855
+00:40:28,109 --> 00:40:34,680
+further south so weather El Nino is good
+
+856
+00:40:31,950 --> 00:40:38,160
+or bad depends on where you live let's
+
+857
+00:40:34,680 --> 00:40:40,559
+say you're a skier right well if your
+
+858
+00:40:38,160 --> 00:40:42,900
+skier in New Mexico you're happy when
+
+859
+00:40:40,559 --> 00:40:45,210
+they'll Nino happens we get more snow if
+
+860
+00:40:42,900 --> 00:40:47,549
+you're a skier in Washington State
+
+861
+00:40:45,210 --> 00:40:50,790
+you're sad when El Nino happens because
+
+862
+00:40:47,549 --> 00:40:53,970
+you have less snow now this is an
+
+863
+00:40:50,790 --> 00:40:57,510
+anomaly map so this is different than
+
+864
+00:40:53,970 --> 00:40:59,880
+average so it does not mean the red does
+
+865
+00:40:57,510 --> 00:41:03,630
+not mean that they are drier than we are
+
+866
+00:40:59,880 --> 00:41:06,180
+this is Washington state right so we get
+
+867
+00:41:03,630 --> 00:41:08,940
+eight inches of precipitation a year in
+
+868
+00:41:06,180 --> 00:41:10,619
+Albuquerque they get like 120 something
+
+869
+00:41:08,940 --> 00:41:14,339
+like that this is saying that there's
+
+870
+00:41:10,619 --> 00:41:16,710
+five inches less than their normal but
+
+871
+00:41:14,339 --> 00:41:20,069
+their normal is way bigger than our no
+
+872
+00:41:16,710 --> 00:41:21,359
+more our normal so keep in mind this
+
+873
+00:41:20,069 --> 00:41:23,450
+doesn't mean that they're dry and we're
+
+874
+00:41:21,359 --> 00:41:26,490
+wet that means they're drier than normal
+
+875
+00:41:23,450 --> 00:41:30,559
+this means we're wetter than normal okay
+
+876
+00:41:26,490 --> 00:41:33,720
+so that's how you read an anomaly map so
+
+877
+00:41:30,559 --> 00:41:35,940
+temperature-wise there can be there is a
+
+878
+00:41:33,720 --> 00:41:38,250
+difference - so if this if the
+
+879
+00:41:35,940 --> 00:41:39,900
+mid-latitude cyclones are coming further
+
+880
+00:41:38,250 --> 00:41:42,960
+south and they're going across the
+
+881
+00:41:39,900 --> 00:41:45,000
+southern United States we're gonna have
+
+882
+00:41:42,960 --> 00:41:46,530
+more cloudy days and that's going to
+
+883
+00:41:45,000 --> 00:41:49,920
+lower the temperature a couple of
+
+884
+00:41:46,530 --> 00:41:52,020
+degrees these guys are gonna have more
+
+885
+00:41:49,920 --> 00:41:54,780
+sunny days and so they're gonna have
+
+886
+00:41:52,020 --> 00:41:56,400
+temperatures a couple degrees greater
+
+887
+00:41:54,780 --> 00:41:58,440
+than average right so in an El Nino
+
+888
+00:41:56,400 --> 00:41:59,400
+winter again all these maps are for
+
+889
+00:41:58,440 --> 00:42:01,770
+winter
+
+890
+00:41:59,400 --> 00:42:04,079
+does not seem to affect our summer we
+
+891
+00:42:01,770 --> 00:42:06,420
+have a wetter than normal winter we have
+
+892
+00:42:04,079 --> 00:42:09,359
+a cooler than normal winter these guys
+
+893
+00:42:06,420 --> 00:42:11,670
+have a drier than normal winter and a
+
+894
+00:42:09,359 --> 00:42:16,650
+warmer than normal winter for an El Nino
+
+895
+00:42:11,670 --> 00:42:19,109
+La Nina everything's flipped almost so
+
+896
+00:42:16,650 --> 00:42:21,210
+the storms are concentrated to come up
+
+897
+00:42:19,109 --> 00:42:24,990
+and here more than they do and they miss
+
+898
+00:42:21,210 --> 00:42:27,450
+us almost completely and so here we have
+
+899
+00:42:24,990 --> 00:42:31,400
+you know negative 1 negative 2 negative
+
+900
+00:42:27,450 --> 00:42:34,349
+3 inches again over the whole winter
+
+901
+00:42:31,400 --> 00:42:36,990
+that's that would be 1 2 or 3 inches
+
+902
+00:42:34,349 --> 00:42:39,960
+less than what we normally get
+
+903
+00:42:36,990 --> 00:42:42,059
+so if you notice so so Albuquerque is in
+
+904
+00:42:39,960 --> 00:42:44,190
+this one right here and that's somewhere
+
+905
+00:42:42,059 --> 00:42:46,710
+between negative 2 and negative 3 inches
+
+906
+00:42:44,190 --> 00:42:50,640
+so that means that during a lawn Nino
+
+907
+00:42:46,710 --> 00:42:52,980
+winter we expect 2 to 3 inches below
+
+908
+00:42:50,640 --> 00:42:55,230
+normal precipitation
+
+909
+00:42:52,980 --> 00:42:57,450
+well how much precipitation do we
+
+910
+00:42:55,230 --> 00:43:01,559
+normally get throughout the whole winter
+
+911
+00:42:57,450 --> 00:43:05,279
+in New Mexico maybe like two inches so
+
+912
+00:43:01,559 --> 00:43:08,760
+two inches minus two is zero so when we
+
+913
+00:43:05,279 --> 00:43:09,960
+have a long Nina it often often results
+
+914
+00:43:08,760 --> 00:43:15,930
+in the winter that's almost completely
+
+915
+00:43:09,960 --> 00:43:18,240
+dry so we in the southwest hate anaemia
+
+916
+00:43:15,930 --> 00:43:19,799
+because it means the area of the country
+
+917
+00:43:18,240 --> 00:43:21,900
+that's already really dry
+
+918
+00:43:19,799 --> 00:43:24,000
+remember that Pacific subtropical high
+
+919
+00:43:21,900 --> 00:43:27,210
+we've been talking about makes this
+
+920
+00:43:24,000 --> 00:43:29,730
+whole area desert well in a Lonnie Mia
+
+921
+00:43:27,210 --> 00:43:31,770
+winter it gets worse because now the
+
+922
+00:43:29,730 --> 00:43:33,809
+storms are missing us even more than
+
+923
+00:43:31,770 --> 00:43:35,700
+often they're going up here and we're
+
+924
+00:43:33,809 --> 00:43:37,500
+even drier again weaken it
+
+925
+00:43:35,700 --> 00:43:40,319
+there are winters on record where it
+
+926
+00:43:37,500 --> 00:43:43,770
+literally did not produce any measurable
+
+927
+00:43:40,319 --> 00:43:45,720
+precipitation during the la Nino on the
+
+928
+00:43:43,770 --> 00:43:47,190
+other hand these guys are getting footed
+
+929
+00:43:45,720 --> 00:43:49,319
+because now they're getting way more
+
+930
+00:43:47,190 --> 00:43:50,670
+storms and they normally get they're
+
+931
+00:43:49,319 --> 00:43:53,339
+already used to a lot of precipitation
+
+932
+00:43:50,670 --> 00:43:55,380
+because it's Pacific Northwest but now
+
+933
+00:43:53,339 --> 00:43:57,299
+they're getting even more so you can see
+
+934
+00:43:55,380 --> 00:44:00,029
+they're getting you know excess of 5
+
+935
+00:43:57,299 --> 00:44:04,770
+inches above what they normally expect
+
+936
+00:44:00,029 --> 00:44:06,829
+for their winter now there's a
+
+937
+00:44:04,770 --> 00:44:09,750
+temperature anomaly but it doesn't quite
+
+938
+00:44:06,829 --> 00:44:11,760
+match up like you might expect in
+
+939
+00:44:09,750 --> 00:44:12,520
+general this part of the country is
+
+940
+00:44:11,760 --> 00:44:15,580
+warmer than
+
+941
+00:44:12,520 --> 00:44:17,200
+in Oh anemia you might think we would be
+
+942
+00:44:15,580 --> 00:44:19,780
+too but for some reason it doesn't ever
+
+943
+00:44:17,200 --> 00:44:21,700
+seem to work out that way so most of New
+
+944
+00:44:19,780 --> 00:44:24,820
+Mexico's temperatures don't change that
+
+945
+00:44:21,700 --> 00:44:26,890
+much with a la anemia but up in the
+
+946
+00:44:24,820 --> 00:44:29,490
+Pacific Northwest and actually all these
+
+947
+00:44:26,890 --> 00:44:32,140
+northern states up here are usually
+
+948
+00:44:29,490 --> 00:44:34,780
+having cooler than normal winter
+
+949
+00:44:32,140 --> 00:44:39,010
+temperatures so we're going to look at
+
+950
+00:44:34,780 --> 00:44:41,170
+another use of the anomaly map and this
+
+951
+00:44:39,010 --> 00:44:43,330
+is says weekly average sea surface
+
+952
+00:44:41,170 --> 00:44:46,300
+temperature anomaly so what that means
+
+953
+00:44:43,330 --> 00:44:48,940
+is everywhere that's the yellow and
+
+954
+00:44:46,300 --> 00:44:52,030
+orange and red colors correspond the
+
+955
+00:44:48,940 --> 00:44:54,940
+places where the ocean is warmer than it
+
+956
+00:44:52,030 --> 00:44:56,410
+normally is so for this location it's
+
+957
+00:44:54,940 --> 00:44:59,830
+warmer than average
+
+958
+00:44:56,410 --> 00:45:02,290
+what's average usually 30 years places
+
+959
+00:44:59,830 --> 00:45:05,440
+that are blue are cooler than their
+
+960
+00:45:02,290 --> 00:45:08,410
+average so realize how you have to
+
+961
+00:45:05,440 --> 00:45:11,260
+interpret an anomaly map right here is a
+
+962
+00:45:08,410 --> 00:45:14,020
+blob of water that's warmer than their
+
+963
+00:45:11,260 --> 00:45:17,160
+average right here a blob of water
+
+964
+00:45:14,020 --> 00:45:19,660
+that's cooler than their average but
+
+965
+00:45:17,160 --> 00:45:22,450
+this is that part of the ocean I said
+
+966
+00:45:19,660 --> 00:45:24,460
+was always the warmest part right so the
+
+967
+00:45:22,450 --> 00:45:25,870
+pool of water right here is really
+
+968
+00:45:24,460 --> 00:45:28,690
+really warm all the time
+
+969
+00:45:25,870 --> 00:45:31,600
+it's always going to be warmer than
+
+970
+00:45:28,690 --> 00:45:32,890
+whatever is down here so you can't get
+
+971
+00:45:31,600 --> 00:45:35,050
+confused and think that oh this is
+
+972
+00:45:32,890 --> 00:45:37,390
+warmer because it's more orange no no
+
+973
+00:45:35,050 --> 00:45:40,840
+that means it's warmer than average and
+
+974
+00:45:37,390 --> 00:45:43,840
+this is cooler than average but their
+
+975
+00:45:40,840 --> 00:45:45,790
+average is still way warmer than theirs
+
+976
+00:45:43,840 --> 00:45:48,100
+okay so you can't compare direct
+
+977
+00:45:45,790 --> 00:45:50,410
+temperatures in an anomaly map you can
+
+978
+00:45:48,100 --> 00:45:54,010
+only look at differences from average
+
+979
+00:45:50,410 --> 00:45:56,290
+okay so we're in 1982 this was a El Nino
+
+980
+00:45:54,010 --> 00:45:57,970
+year and this is gonna become an
+
+981
+00:45:56,290 --> 00:46:01,080
+animation and you're gonna see the weeks
+
+982
+00:45:57,970 --> 00:46:05,020
+click by and what we're looking for are
+
+983
+00:46:01,080 --> 00:46:07,600
+colors around the equator here that show
+
+984
+00:46:05,020 --> 00:46:10,780
+that the ocean is warmer than average
+
+985
+00:46:07,600 --> 00:46:16,480
+and if we see that we know we have an El
+
+986
+00:46:10,780 --> 00:46:18,040
+Nino ok so watch right in here and you
+
+987
+00:46:16,480 --> 00:46:20,980
+see those orange colors come and go
+
+988
+00:46:18,040 --> 00:46:23,350
+right there that's the El Nino right
+
+989
+00:46:20,980 --> 00:46:25,550
+through here so that's a location in the
+
+990
+00:46:23,350 --> 00:46:28,220
+ocean that's far warmer
+
+991
+00:46:25,550 --> 00:46:31,090
+normal that's what happens during an El
+
+992
+00:46:28,220 --> 00:46:32,510
+Nino because the up lowing shuts off
+
+993
+00:46:31,090 --> 00:46:37,250
+okay
+
+994
+00:46:32,510 --> 00:46:39,560
+a similar situation now our 1999 this is
+
+995
+00:46:37,250 --> 00:46:42,800
+a La Nina and we can see the Von Nina
+
+996
+00:46:39,560 --> 00:46:44,480
+occurring already it's this dark blue
+
+997
+00:46:42,800 --> 00:46:46,520
+color so that's where places that's
+
+998
+00:46:44,480 --> 00:46:50,000
+where the ocean is colder than normal
+
+999
+00:46:46,520 --> 00:46:51,980
+and so in a La Nina we expect exactly
+
+1000
+00:46:50,000 --> 00:46:54,620
+the opposite that what we just saw we
+
+1001
+00:46:51,980 --> 00:46:56,150
+expect to see blue colors along here and
+
+1002
+00:46:54,620 --> 00:46:58,610
+you can watch when start the animation
+
+1003
+00:46:56,150 --> 00:47:02,770
+you can watch how it'll kind of grow
+
+1004
+00:46:58,610 --> 00:47:06,440
+back and forth here along the equator
+
+1005
+00:47:02,770 --> 00:47:09,200
+okay so there's the the blue goes away a
+
+1006
+00:47:06,440 --> 00:47:13,340
+little bit comes back a little bit so
+
+1007
+00:47:09,200 --> 00:47:17,630
+this is one La Nina event right through
+
+1008
+00:47:13,340 --> 00:47:20,660
+there okay so the ocean can go back and
+
+1009
+00:47:17,630 --> 00:47:23,600
+forth between El Nino and La Nina from
+
+1010
+00:47:20,660 --> 00:47:26,150
+year to year and a lot of years is not
+
+1011
+00:47:23,600 --> 00:47:28,550
+in either one and so there's been some
+
+1012
+00:47:26,150 --> 00:47:31,880
+attempts to try to describe how strong
+
+1013
+00:47:28,550 --> 00:47:33,560
+an El Nino or La Nina is and so here's
+
+1014
+00:47:31,880 --> 00:47:37,160
+one example it's called the ocean Nino
+
+1015
+00:47:33,560 --> 00:47:42,770
+index also known as the El Nino index or
+
+1016
+00:47:37,160 --> 00:47:45,500
+the ENSO index so here is so on the
+
+1017
+00:47:42,770 --> 00:47:49,130
+x-axis we have time right so this is
+
+1018
+00:47:45,500 --> 00:47:53,450
+January 2004 January 2005 each one of
+
+1019
+00:47:49,130 --> 00:47:56,900
+these marks is another year okay so if
+
+1020
+00:47:53,450 --> 00:48:00,140
+you have one of these Peaks that's on
+
+1021
+00:47:56,900 --> 00:48:03,200
+the the red part of the graph that was
+
+1022
+00:48:00,140 --> 00:48:04,670
+an El Nino if you have a peak in the
+
+1023
+00:48:03,200 --> 00:48:08,120
+blue part of the graph that's a La Nina
+
+1024
+00:48:04,670 --> 00:48:10,430
+and the higher the peak the stronger
+
+1025
+00:48:08,120 --> 00:48:13,100
+event so this is a very strong El Nino
+
+1026
+00:48:10,430 --> 00:48:15,770
+right here this is a very strong El Nino
+
+1027
+00:48:13,100 --> 00:48:18,710
+right here these would be considered El
+
+1028
+00:48:15,770 --> 00:48:21,470
+Ninos but they're pretty weak these are
+
+1029
+00:48:18,710 --> 00:48:24,830
+pretty strong long Nina's and these are
+
+1030
+00:48:21,470 --> 00:48:26,780
+pretty weak ones so a lot of years if
+
+1031
+00:48:24,830 --> 00:48:28,460
+you have a little peak like that one or
+
+1032
+00:48:26,780 --> 00:48:30,770
+that one or that one
+
+1033
+00:48:28,460 --> 00:48:33,170
+you'd be say this is an in so neutral
+
+1034
+00:48:30,770 --> 00:48:34,220
+year it's a little bit and the long mean
+
+1035
+00:48:33,170 --> 00:48:37,610
+they're a little bit in the El Nino
+
+1036
+00:48:34,220 --> 00:48:39,300
+direction but not enough to count in
+
+1037
+00:48:37,610 --> 00:48:41,520
+some way years you've got these weak
+
+1038
+00:48:39,300 --> 00:48:44,850
+Vence and then some years we have these
+
+1039
+00:48:41,520 --> 00:48:47,040
+strong events and some years we have a
+
+1040
+00:48:44,850 --> 00:48:50,720
+couple years in a row of the same thing
+
+1041
+00:48:47,040 --> 00:48:51,930
+so for example here there was one winter
+
+1042
+00:48:50,720 --> 00:48:54,060
+8687
+
+1043
+00:48:51,930 --> 00:48:57,300
+which was in El Nino and then the next
+
+1044
+00:48:54,060 --> 00:48:59,280
+year after that even stronger El Nino so
+
+1045
+00:48:57,300 --> 00:49:03,150
+think about what that would do for New
+
+1046
+00:48:59,280 --> 00:49:04,230
+Mexico's precipitation El Nino year wet
+
+1047
+00:49:03,150 --> 00:49:07,110
+winter right
+
+1048
+00:49:04,230 --> 00:49:09,140
+so we likely had two winners in a row
+
+1049
+00:49:07,110 --> 00:49:11,760
+that had an above average precipitation
+
+1050
+00:49:09,140 --> 00:49:13,520
+on the other hand look at what happened
+
+1051
+00:49:11,760 --> 00:49:17,060
+here La Nina
+
+1052
+00:49:13,520 --> 00:49:19,020
+anemia and then really wimpy La Nina
+
+1053
+00:49:17,060 --> 00:49:22,740
+followed after that but this whole time
+
+1054
+00:49:19,020 --> 00:49:26,790
+in here the ocean is in a La Nina State
+
+1055
+00:49:22,740 --> 00:49:29,280
+wanyan yeah dry winter so we're looking
+
+1056
+00:49:26,790 --> 00:49:32,040
+at two or three or maybe four years in a
+
+1057
+00:49:29,280 --> 00:49:33,360
+row where New Mexico would have had an a
+
+1058
+00:49:32,040 --> 00:49:36,150
+winter with below average precipitation
+
+1059
+00:49:33,360 --> 00:49:37,980
+and for us that's a big deal you got dry
+
+1060
+00:49:36,150 --> 00:49:40,800
+winter after dry winter after dry winter
+
+1061
+00:49:37,980 --> 00:49:44,630
+it adds up and you've got yourself you
+
+1062
+00:49:40,800 --> 00:49:44,630
+you're in a drought at that point
+
+1063
+00:49:51,300 --> 00:49:53,360
+you
+

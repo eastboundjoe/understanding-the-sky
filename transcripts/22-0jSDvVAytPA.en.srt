@@ -1,0 +1,1220 @@
+1
+00:00:00,469 --> 00:00:06,359
+so if we want to reduce our carbon
+
+2
+00:00:02,879 --> 00:00:10,019
+footprint then we can either not use
+
+3
+00:00:06,359 --> 00:00:11,880
+electricity as much as possible or we
+
+4
+00:00:10,019 --> 00:00:14,190
+can try to replace something that's
+
+5
+00:00:11,880 --> 00:00:15,990
+inefficient with something that's more
+
+6
+00:00:14,190 --> 00:00:19,199
+efficient that does the same job but
+
+7
+00:00:15,990 --> 00:00:21,710
+uses less electricity in the example
+
+8
+00:00:19,199 --> 00:00:25,470
+we're going to use in this class as with
+
+9
+00:00:21,710 --> 00:00:27,539
+lightbulbs so we're gonna we're going to
+
+10
+00:00:25,470 --> 00:00:29,460
+learn a little bit about different types
+
+11
+00:00:27,539 --> 00:00:31,289
+of types of light bulb technology and
+
+12
+00:00:29,460 --> 00:00:35,670
+then we'll do some math problems on how
+
+13
+00:00:31,289 --> 00:00:39,149
+to calculate how much carbon you would
+
+14
+00:00:35,670 --> 00:00:41,910
+save by swapping out different types of
+
+15
+00:00:39,149 --> 00:00:44,399
+light bulbs so right now on the market
+
+16
+00:00:41,910 --> 00:00:45,870
+for consumer there's three basic types
+
+17
+00:00:44,399 --> 00:00:48,420
+of light bulbs there's the incandescent
+
+18
+00:00:45,870 --> 00:00:50,690
+the compact fluorescent and the
+
+19
+00:00:48,420 --> 00:00:55,079
+light-emitting diode also known as LEDs
+
+20
+00:00:50,690 --> 00:00:57,270
+okay so incandescent these things have
+
+21
+00:00:55,079 --> 00:00:59,430
+been around since the late 1800s these
+
+22
+00:00:57,270 --> 00:01:02,219
+are the of all the things in your house
+
+23
+00:00:59,430 --> 00:01:04,110
+that use electricity if you have an
+
+24
+00:01:02,219 --> 00:01:08,040
+incandescent light bulb it is the most
+
+25
+00:01:04,110 --> 00:01:09,479
+obsolete by far okay and the way it
+
+26
+00:01:08,040 --> 00:01:11,280
+works is that there's this little wire
+
+27
+00:01:09,479 --> 00:01:13,409
+in here called the filament it's made of
+
+28
+00:01:11,280 --> 00:01:15,299
+tungsten and the electricity flows
+
+29
+00:01:13,409 --> 00:01:18,720
+through this wire and it gets so hot
+
+30
+00:01:15,299 --> 00:01:21,570
+that it glows now it turns out they're
+
+31
+00:01:18,720 --> 00:01:24,479
+very very inefficient and you can think
+
+32
+00:01:21,570 --> 00:01:26,490
+of it as like a heater that happens to
+
+33
+00:01:24,479 --> 00:01:27,900
+make some light so if you go up to a 60
+
+34
+00:01:26,490 --> 00:01:30,210
+watt or a hundred watt light bulb or
+
+35
+00:01:27,900 --> 00:01:31,829
+even a 40 watt light bulb and you you
+
+36
+00:01:30,210 --> 00:01:34,619
+try to put your hand on it you can't
+
+37
+00:01:31,829 --> 00:01:38,759
+it's just it's too hot it's mostly just
+
+38
+00:01:34,619 --> 00:01:40,140
+making heat instead of light so if you
+
+39
+00:01:38,759 --> 00:01:42,180
+did the math which we're not going to do
+
+40
+00:01:40,140 --> 00:01:44,130
+it's like about one percent efficient so
+
+41
+00:01:42,180 --> 00:01:46,770
+if you put a hundred Watts in you're
+
+42
+00:01:44,130 --> 00:01:51,750
+getting one watt of light out and all
+
+43
+00:01:46,770 --> 00:01:55,320
+the rest is heat now pros they're very
+
+44
+00:01:51,750 --> 00:01:57,270
+cheap to make so like I know 25 cents a
+
+45
+00:01:55,320 --> 00:01:58,860
+piece or something like that and there's
+
+46
+00:01:57,270 --> 00:02:01,229
+a lot of people who think this is the
+
+47
+00:01:58,860 --> 00:02:04,890
+way light bulbs should look they like
+
+48
+00:02:01,229 --> 00:02:08,729
+the look of this style light bulb okay
+
+49
+00:02:04,890 --> 00:02:12,480
+but cons very very inefficient so then
+
+50
+00:02:08,729 --> 00:02:13,930
+and starting in the 40s people started
+
+51
+00:02:12,480 --> 00:02:15,310
+making 4s
+
+52
+00:02:13,930 --> 00:02:18,010
+lights and at first enter these long
+
+53
+00:02:15,310 --> 00:02:19,659
+tubes about eight feet long and then
+
+54
+00:02:18,010 --> 00:02:21,400
+people figure out how to miniaturize it
+
+55
+00:02:19,659 --> 00:02:25,359
+so that you can fit them in a small
+
+56
+00:02:21,400 --> 00:02:28,269
+socket and inside this this is a glass
+
+57
+00:02:25,359 --> 00:02:30,010
+tube that has a little tiny amount of
+
+58
+00:02:28,269 --> 00:02:33,370
+mercury in it like a milligram of
+
+59
+00:02:30,010 --> 00:02:35,290
+mercury and this funny white plastic
+
+60
+00:02:33,370 --> 00:02:38,200
+base here has a high voltage power
+
+61
+00:02:35,290 --> 00:02:40,469
+supply and what it does is when the
+
+62
+00:02:38,200 --> 00:02:43,689
+light goes on it excites the mercury
+
+63
+00:02:40,469 --> 00:02:45,579
+atoms and the electrons the outer
+
+64
+00:02:43,689 --> 00:02:46,959
+electrons in the mercury as they jump
+
+65
+00:02:45,579 --> 00:02:49,079
+back and forth between their different
+
+66
+00:02:46,959 --> 00:02:51,819
+orbitals and that produces light and
+
+67
+00:02:49,079 --> 00:02:55,239
+it's much more efficient than it make an
+
+68
+00:02:51,819 --> 00:02:58,780
+incandescent light bulb so this is a big
+
+69
+00:02:55,239 --> 00:03:01,450
+improvement over the incandescent lights
+
+70
+00:02:58,780 --> 00:03:02,769
+but the problem the problem is is that
+
+71
+00:03:01,450 --> 00:03:04,599
+it has a little bit of mercury mercury
+
+72
+00:03:02,769 --> 00:03:07,540
+is very poisonous as we learned in an
+
+73
+00:03:04,599 --> 00:03:08,859
+earlier lecture so when this bulb is
+
+74
+00:03:07,540 --> 00:03:10,569
+burned out you're not supposed to just
+
+75
+00:03:08,859 --> 00:03:12,489
+throw it away because if it goes in the
+
+76
+00:03:10,569 --> 00:03:14,049
+landfill and then the glass breaks and
+
+77
+00:03:12,489 --> 00:03:14,950
+then the mercury gets out and gets into
+
+78
+00:03:14,049 --> 00:03:17,319
+the groundwater
+
+79
+00:03:14,950 --> 00:03:20,319
+so disposal is a big problem with
+
+80
+00:03:17,319 --> 00:03:23,400
+compact fluorescents but they are more
+
+81
+00:03:20,319 --> 00:03:26,889
+efficient they use less electricity so
+
+82
+00:03:23,400 --> 00:03:29,109
+and by the way another con these
+
+83
+00:03:26,889 --> 00:03:32,500
+compacts have been around since the 70s
+
+84
+00:03:29,109 --> 00:03:34,239
+in the last decade they got pretty good
+
+85
+00:03:32,500 --> 00:03:36,220
+to where it was hard for most people to
+
+86
+00:03:34,239 --> 00:03:38,590
+even tell if you had one or not but the
+
+87
+00:03:36,220 --> 00:03:40,060
+early models were really ugly to look at
+
+88
+00:03:38,590 --> 00:03:44,739
+the light just didn't quite look right
+
+89
+00:03:40,060 --> 00:03:46,650
+there's a weird color now within the
+
+90
+00:03:44,739 --> 00:03:49,269
+last few years we're in the era of
+
+91
+00:03:46,650 --> 00:03:52,689
+light-emitting diodes and this has been
+
+92
+00:03:49,269 --> 00:03:56,769
+a huge revolution in lighting so in an
+
+93
+00:03:52,689 --> 00:03:58,889
+LED there's actual silicon chip it's the
+
+94
+00:03:56,769 --> 00:04:02,530
+same technology as a computer chip and
+
+95
+00:03:58,889 --> 00:04:05,049
+when the electricity flows through it it
+
+96
+00:04:02,530 --> 00:04:06,310
+produces light and how that happens is
+
+97
+00:04:05,049 --> 00:04:09,729
+pretty complicated we're just going to
+
+98
+00:04:06,310 --> 00:04:10,989
+kind of skip that part but inside here
+
+99
+00:04:09,729 --> 00:04:13,329
+there's a bunch of chips and they're
+
+100
+00:04:10,989 --> 00:04:15,430
+flat and they're in this case they're
+
+101
+00:04:13,329 --> 00:04:18,449
+they're lined up horizontally and
+
+102
+00:04:15,430 --> 00:04:20,409
+they're shooting the light straight up
+
+103
+00:04:18,449 --> 00:04:22,779
+so then what they do is they put a
+
+104
+00:04:20,409 --> 00:04:25,870
+diffuser on top to scatter the light in
+
+105
+00:04:22,779 --> 00:04:27,430
+all directions so that chip is called a
+
+106
+00:04:25,870 --> 00:04:30,220
+light-emitting diode so this
+
+107
+00:04:27,430 --> 00:04:32,080
+called the LED light they last a very
+
+108
+00:04:30,220 --> 00:04:34,930
+long time you can make them any color
+
+109
+00:04:32,080 --> 00:04:36,850
+they're very efficient if you see an LED
+
+110
+00:04:34,930 --> 00:04:41,229
+you put your hand on it it's it's barely
+
+111
+00:04:36,850 --> 00:04:43,150
+warm and they have been traditionally
+
+112
+00:04:41,229 --> 00:04:45,580
+LEDs have been very expensive to make
+
+113
+00:04:43,150 --> 00:04:47,229
+just in the last few years that's really
+
+114
+00:04:45,580 --> 00:04:49,419
+radically changed and now there's really
+
+115
+00:04:47,229 --> 00:04:52,810
+no excuse not to switch your bulbs over
+
+116
+00:04:49,419 --> 00:04:55,360
+to LEDs I mean I have a catalog from
+
+117
+00:04:52,810 --> 00:04:57,460
+like 20 years ago when one single LED
+
+118
+00:04:55,360 --> 00:04:58,870
+bulb is over a hundred dollars and now
+
+119
+00:04:57,460 --> 00:05:01,030
+you can get like three of them for 10
+
+120
+00:04:58,870 --> 00:05:03,220
+bucks at Home Depot and there there's
+
+121
+00:05:01,030 --> 00:05:04,810
+just tons of them out now this is what
+
+122
+00:05:03,220 --> 00:05:07,150
+an LED looks like if you were to take it
+
+123
+00:05:04,810 --> 00:05:09,610
+apart here's the little chips and
+
+124
+00:05:07,150 --> 00:05:11,349
+they're oriented so that they fire the
+
+125
+00:05:09,610 --> 00:05:13,509
+light comes perpendicular from the
+
+126
+00:05:11,349 --> 00:05:15,310
+surface so this one would be like a
+
+127
+00:05:13,509 --> 00:05:17,380
+spotlight light only goes in one
+
+128
+00:05:15,310 --> 00:05:19,750
+direction which is why they have to put
+
+129
+00:05:17,380 --> 00:05:21,550
+a diffuser on it to scatter the light in
+
+130
+00:05:19,750 --> 00:05:23,320
+all directions but they're coming out
+
+131
+00:05:21,550 --> 00:05:25,900
+with all kinds of things so for example
+
+132
+00:05:23,320 --> 00:05:28,000
+there are now these bulbs that have this
+
+133
+00:05:25,900 --> 00:05:29,889
+old-school light bulb appearance with
+
+134
+00:05:28,000 --> 00:05:31,389
+the filaments but the filaments
+
+135
+00:05:29,889 --> 00:05:33,400
+themselves are actually a little tiny
+
+136
+00:05:31,389 --> 00:05:35,590
+silicon chips they are a little tiny
+
+137
+00:05:33,400 --> 00:05:37,750
+versions of this that light up and you
+
+138
+00:05:35,590 --> 00:05:39,430
+can't tell the difference when they're
+
+139
+00:05:37,750 --> 00:05:41,680
+lit up I mean most people can't tell the
+
+140
+00:05:39,430 --> 00:05:45,010
+difference between the modern LEDs and
+
+141
+00:05:41,680 --> 00:05:46,990
+the old old-style Bowl Edison bulbs so
+
+142
+00:05:45,010 --> 00:05:51,220
+this is really changing lighting
+
+143
+00:05:46,990 --> 00:05:52,990
+technology so there's there are similar
+
+144
+00:05:51,220 --> 00:05:55,389
+stories with with a lot of the
+
+145
+00:05:52,990 --> 00:05:58,570
+technology in are in their homes so for
+
+146
+00:05:55,389 --> 00:06:01,000
+example 10 years ago a plasma television
+
+147
+00:05:58,570 --> 00:06:04,900
+65 inch plasma television used close to
+
+148
+00:06:01,000 --> 00:06:08,380
+800 watts now the same size television
+
+149
+00:06:04,900 --> 00:06:12,340
+using LEDs for the lighting eighty-eight
+
+150
+00:06:08,380 --> 00:06:14,199
+Watts right huge difference and all the
+
+151
+00:06:12,340 --> 00:06:16,270
+computers used more electricity or
+
+152
+00:06:14,199 --> 00:06:18,220
+refrigerators use more electricity we
+
+153
+00:06:16,270 --> 00:06:20,650
+could go on and on through all kinds of
+
+154
+00:06:18,220 --> 00:06:21,759
+technology but in this class what we're
+
+155
+00:06:20,650 --> 00:06:24,940
+going to do is we're going to do some
+
+156
+00:06:21,759 --> 00:06:27,039
+math with bulb replacements and it's the
+
+157
+00:06:24,940 --> 00:06:29,380
+same math that we've done before but
+
+158
+00:06:27,039 --> 00:06:32,889
+this time it's we're gonna swap out one
+
+159
+00:06:29,380 --> 00:06:35,680
+bulb for another okay so I'm going to do
+
+160
+00:06:32,889 --> 00:06:37,750
+an example of a bulb replacement type
+
+161
+00:06:35,680 --> 00:06:39,430
+problem and they're pretty
+
+162
+00:06:37,750 --> 00:06:41,350
+straightforward is just kind of common
+
+163
+00:06:39,430 --> 00:06:42,520
+sense you're going to do the
+
+164
+00:06:41,350 --> 00:06:44,290
+you're going to do the math with the old
+
+165
+00:06:42,520 --> 00:06:46,450
+bulb you're going to do the math of the
+
+166
+00:06:44,290 --> 00:06:49,570
+new bulb and subtract the differences
+
+167
+00:06:46,450 --> 00:06:58,410
+okay so let's say I've got a hundred
+
+168
+00:06:49,570 --> 00:07:05,230
+watt porch light and this thing is on
+
+169
+00:06:58,410 --> 00:07:08,830
+for 12 hours a day okay and I'm going to
+
+170
+00:07:05,230 --> 00:07:10,180
+replace it so this is incandescent right
+
+171
+00:07:08,830 --> 00:07:16,180
+I should I should have said that
+
+172
+00:07:10,180 --> 00:07:23,140
+incandescent I'm gonna replace this with
+
+173
+00:07:16,180 --> 00:07:26,170
+a 12 watt LED okay and I'm gonna my
+
+174
+00:07:23,140 --> 00:07:28,360
+usage is not going to change I'm just
+
+175
+00:07:26,170 --> 00:07:29,410
+gonna leave it on 24 hours a day no I'm
+
+176
+00:07:28,360 --> 00:07:31,480
+sorry 12 hours a day
+
+177
+00:07:29,410 --> 00:07:35,020
+okay so 100 watt light bulb incandescent
+
+178
+00:07:31,480 --> 00:07:37,420
+for 12 hours a day I swap it out with a
+
+179
+00:07:35,020 --> 00:07:41,050
+12 watt LED that makes the same amount
+
+180
+00:07:37,420 --> 00:07:41,770
+of light but it only uses 12 Watts 12
+
+181
+00:07:41,050 --> 00:07:45,730
+hours a day
+
+182
+00:07:41,770 --> 00:07:54,400
+how much do I save in a year that's the
+
+183
+00:07:45,730 --> 00:07:58,300
+question right so how much do I save in
+
+184
+00:07:54,400 --> 00:08:00,970
+a year and we can ask this question
+
+185
+00:07:58,300 --> 00:08:04,740
+several ways we could that could be coal
+
+186
+00:08:00,970 --> 00:08:10,060
+that could be co2 that could be money
+
+187
+00:08:04,740 --> 00:08:11,920
+okay so solve for the old bulb solve for
+
+188
+00:08:10,060 --> 00:08:13,450
+the new bulb subtract the difference
+
+189
+00:08:11,920 --> 00:08:19,000
+that's the easiest way to think about
+
+190
+00:08:13,450 --> 00:08:22,750
+this all right so the old bulb I got now
+
+191
+00:08:19,000 --> 00:08:24,610
+remember on these problems we got to get
+
+192
+00:08:22,750 --> 00:08:28,440
+to kilowatt hours before we can do
+
+193
+00:08:24,610 --> 00:08:34,030
+anything else so I'm gonna use my
+
+194
+00:08:28,440 --> 00:08:35,979
+energies power times time and I need to
+
+195
+00:08:34,030 --> 00:08:39,969
+figure out how much energy the old bulb
+
+196
+00:08:35,979 --> 00:08:40,950
+is gonna use in a year okay so in one
+
+197
+00:08:39,969 --> 00:08:45,419
+year
+
+198
+00:08:40,950 --> 00:08:45,419
+oops one year
+
+199
+00:08:46,880 --> 00:08:57,630
+I've got the 100 watt light bulb 12
+
+200
+00:08:50,700 --> 00:08:59,550
+hours a day hours times 365 and I'm just
+
+201
+00:08:57,630 --> 00:09:03,500
+gonna go ahead and divide by a thousand
+
+202
+00:08:59,550 --> 00:09:12,840
+to get it into kilowatt hours right away
+
+203
+00:09:03,500 --> 00:09:18,350
+so I take 100 times 12 times 365 divided
+
+204
+00:09:12,840 --> 00:09:22,920
+by a thousand and that gets me 438
+
+205
+00:09:18,350 --> 00:09:24,360
+kilowatt hours all right now if you
+
+206
+00:09:22,920 --> 00:09:25,830
+wanted to do it separate steps you could
+
+207
+00:09:24,360 --> 00:09:30,450
+I just kind of did an all one thing
+
+208
+00:09:25,830 --> 00:09:39,560
+there now this is the old bulb all right
+
+209
+00:09:30,450 --> 00:09:42,480
+the new bulb is 12 Watts 12 hours a day
+
+210
+00:09:39,560 --> 00:09:44,010
+365 days in the year and when I go ahead
+
+211
+00:09:42,480 --> 00:09:49,080
+and divide by a thousand to convert it
+
+212
+00:09:44,010 --> 00:09:53,340
+to kilowatt hours and twelve times
+
+213
+00:09:49,080 --> 00:10:03,620
+twelve times 365 divided by a thousand
+
+214
+00:09:53,340 --> 00:10:03,620
+equals 52 0.56 kilowatt hours okay so
+
+215
+00:10:04,580 --> 00:10:13,740
+here's the old here's the new right so I
+
+216
+00:10:09,930 --> 00:10:15,840
+can do this I can do this next math one
+
+217
+00:10:13,740 --> 00:10:18,150
+of several ways I will do it the way
+
+218
+00:10:15,840 --> 00:10:20,280
+that I think makes the most sense but if
+
+219
+00:10:18,150 --> 00:10:24,450
+you know what's going on you can you can
+
+220
+00:10:20,280 --> 00:10:27,390
+you can alter this method what I would
+
+221
+00:10:24,450 --> 00:10:30,030
+do to just make this easy as possible
+
+222
+00:10:27,390 --> 00:10:34,520
+let's say we're going to calculate how
+
+223
+00:10:30,030 --> 00:10:38,910
+much money we save right let's calculate
+
+224
+00:10:34,520 --> 00:10:42,480
+the amount of money we save from doing
+
+225
+00:10:38,910 --> 00:10:43,770
+this right the way to do this again more
+
+226
+00:10:42,480 --> 00:10:47,460
+than one wait but the way I'm going to
+
+227
+00:10:43,770 --> 00:10:49,530
+do it is figure out the amount for the
+
+228
+00:10:47,460 --> 00:10:53,640
+old bulb figure out the amount for the
+
+229
+00:10:49,530 --> 00:10:54,780
+new bulb and then subtract all right I
+
+230
+00:10:53,640 --> 00:10:58,420
+think that's the most straightforward
+
+231
+00:10:54,780 --> 00:11:02,649
+way of thinking about this so
+
+232
+00:10:58,420 --> 00:11:05,620
+the old bulb let's say we're charged 13
+
+233
+00:11:02,649 --> 00:11:09,970
+cents a kilowatt-hour right if I use
+
+234
+00:11:05,620 --> 00:11:16,680
+that number the old bulb 438 kilowatt
+
+235
+00:11:09,970 --> 00:11:23,010
+hours times 13 cents and the new bulb is
+
+236
+00:11:16,680 --> 00:11:31,000
+52 0.56 kilowatt hours times 13 cents
+
+237
+00:11:23,010 --> 00:11:35,740
+right so let's 438 times point one three
+
+238
+00:11:31,000 --> 00:11:41,560
+is fifty six dollars and ninety four
+
+239
+00:11:35,740 --> 00:11:46,089
+cents and the new bulb point 56 times
+
+240
+00:11:41,560 --> 00:11:49,180
+point one three is six dollars and
+
+241
+00:11:46,089 --> 00:11:53,519
+eighty three cents and then I'm going to
+
+242
+00:11:49,180 --> 00:11:53,519
+subtract the two so the difference is
+
+243
+00:11:54,540 --> 00:12:05,140
+$56 94 cents - six dollars 83 cents so
+
+244
+00:12:01,899 --> 00:12:10,480
+56 point ninety four minus six point
+
+245
+00:12:05,140 --> 00:12:15,160
+eight three is fifty dollars eleven
+
+246
+00:12:10,480 --> 00:12:15,850
+cents okay so this is how much money I
+
+247
+00:12:15,160 --> 00:12:17,949
+saved
+
+248
+00:12:15,850 --> 00:12:19,630
+so I calculated the dollars for the old
+
+249
+00:12:17,949 --> 00:12:23,079
+bulb the dollars from the new bulb
+
+250
+00:12:19,630 --> 00:12:25,390
+subtract the two okay same technique to
+
+251
+00:12:23,079 --> 00:12:30,910
+solve any other question if I asked okay
+
+252
+00:12:25,390 --> 00:12:34,329
+well how much coal did I save from this
+
+253
+00:12:30,910 --> 00:12:43,720
+it'd be the same way so let's let's just
+
+254
+00:12:34,329 --> 00:12:50,170
+do that let's say I have coal saved for
+
+255
+00:12:43,720 --> 00:12:52,570
+example the old bulb I go back to the
+
+256
+00:12:50,170 --> 00:12:58,630
+kilowatt hours I had four hundred
+
+257
+00:12:52,570 --> 00:13:01,440
+thirty-eight kilowatt hours and what's
+
+258
+00:12:58,630 --> 00:13:01,440
+doing pounds
+
+259
+00:13:02,070 --> 00:13:10,900
+okay how many pounds of coal is that is
+
+260
+00:13:05,650 --> 00:13:23,430
+2.2 pounds per kilowatt-hour do that
+
+261
+00:13:10,900 --> 00:13:28,170
+math for 38 times 2.2 is 960 3.6 pounds
+
+262
+00:13:23,430 --> 00:13:40,060
+that's the old one and then the new one
+
+263
+00:13:28,170 --> 00:13:44,650
+is 50 2.56 kilowatt hours 2.2 pounds per
+
+264
+00:13:40,060 --> 00:13:49,060
+kilowatt hour so I take 52 point five
+
+265
+00:13:44,650 --> 00:13:52,470
+six times two point two and I get a
+
+266
+00:13:49,060 --> 00:13:56,020
+hundred and fifteen point six pounds
+
+267
+00:13:52,470 --> 00:13:58,000
+that's the old one and if I wanna know
+
+268
+00:13:56,020 --> 00:14:00,340
+how much coal did I save how much coal
+
+269
+00:13:58,000 --> 00:14:04,540
+do I not have to burn now because I
+
+270
+00:14:00,340 --> 00:14:07,690
+replaced that one light bulb the coal
+
+271
+00:14:04,540 --> 00:14:12,040
+saved is the difference between those
+
+272
+00:14:07,690 --> 00:14:15,990
+which is 960 3.6 pounds minus one
+
+273
+00:14:12,040 --> 00:14:15,990
+hundred fifteen point six pounds and
+
+274
+00:14:18,300 --> 00:14:25,330
+nine sixty three point six minus one one
+
+275
+00:14:22,540 --> 00:14:33,580
+five point six is eight hundred and
+
+276
+00:14:25,330 --> 00:14:37,090
+forty eight pounds saved so one of the
+
+277
+00:14:33,580 --> 00:14:39,520
+themes here notice all he did is I took
+
+278
+00:14:37,090 --> 00:14:42,700
+one single light bulb and I replaced it
+
+279
+00:14:39,520 --> 00:14:45,340
+right that's it nothing else changed
+
+280
+00:14:42,700 --> 00:14:48,220
+except that one light bulb and by me
+
+281
+00:14:45,340 --> 00:14:52,420
+doing that I save 850 pounds of coal
+
+282
+00:14:48,220 --> 00:14:55,360
+every year so now imagine I did that to
+
+283
+00:14:52,420 --> 00:14:57,490
+all the bulbs in my house and now
+
+284
+00:14:55,360 --> 00:15:00,280
+imagine everybody else in the United
+
+285
+00:14:57,490 --> 00:15:02,170
+States does the same thing and what
+
+286
+00:15:00,280 --> 00:15:03,820
+happens is we start to realize you could
+
+287
+00:15:02,170 --> 00:15:06,880
+save so much coal that we could actually
+
+288
+00:15:03,820 --> 00:15:09,130
+shut off mini coal fire power plants
+
+289
+00:15:06,880 --> 00:15:11,500
+would we want to even need them that's
+
+290
+00:15:09,130 --> 00:15:14,440
+how much coal you could save by just
+
+291
+00:15:11,500 --> 00:15:15,070
+swapping light bulbs so once in a while
+
+292
+00:15:14,440 --> 00:15:17,050
+you might
+
+293
+00:15:15,070 --> 00:15:18,280
+see a billboard there used to be some in
+
+294
+00:15:17,050 --> 00:15:21,550
+town I haven't seen them in the while
+
+295
+00:15:18,280 --> 00:15:23,530
+and it talks about you know if every
+
+296
+00:15:21,550 --> 00:15:25,840
+person just were to change one light
+
+297
+00:15:23,530 --> 00:15:28,150
+bulb in their house then you know X
+
+298
+00:15:25,840 --> 00:15:31,900
+would happen that's actually true
+
+299
+00:15:28,150 --> 00:15:33,550
+because if there's 350 million of us in
+
+300
+00:15:31,900 --> 00:15:36,400
+the United States alone and we all just
+
+301
+00:15:33,550 --> 00:15:38,650
+replaced one light bulb then take that
+
+302
+00:15:36,400 --> 00:15:41,500
+number multiply it by 350 million
+
+303
+00:15:38,650 --> 00:15:44,590
+and suddenly you've got lots of coal
+
+304
+00:15:41,500 --> 00:15:47,580
+that you're saving from getting burning
+
+305
+00:15:44,590 --> 00:15:47,580
+going into the atmosphere
+

@@ -1,0 +1,708 @@
+1
+00:00:00,030 --> 00:00:05,750
+everybody this is just a little extra
+
+2
+00:00:02,639 --> 00:00:10,559
+help on figuring out wind direction and
+
+3
+00:00:05,750 --> 00:00:12,540
+so if you're just given a let's say in
+
+4
+00:00:10,559 --> 00:00:15,630
+this case all I have is a high-pressure
+
+5
+00:00:12,540 --> 00:00:21,779
+Center and let's say I've got a city
+
+6
+00:00:15,630 --> 00:00:23,250
+here and I've got a city here now how do
+
+7
+00:00:21,779 --> 00:00:26,340
+I figure out the wind direction so I
+
+8
+00:00:23,250 --> 00:00:28,260
+have to know if it's northern hemisphere
+
+9
+00:00:26,340 --> 00:00:30,689
+or southern hemisphere so let's just say
+
+10
+00:00:28,260 --> 00:00:33,660
+this is northern hemisphere so I know
+
+11
+00:00:30,689 --> 00:00:36,989
+I've got clockwise rotation around a
+
+12
+00:00:33,660 --> 00:00:39,809
+high in the northern hemisphere so what
+
+13
+00:00:36,989 --> 00:00:42,739
+what you imagine is this circle that's
+
+14
+00:00:39,809 --> 00:00:46,739
+centered on the H that's coming around
+
+15
+00:00:42,739 --> 00:00:49,460
+passing right through say a and then
+
+16
+00:00:46,739 --> 00:00:54,410
+another circle that's coming around
+
+17
+00:00:49,460 --> 00:00:57,989
+that's passing right through B okay now
+
+18
+00:00:54,410 --> 00:01:00,629
+when we're figuring out wind ultimately
+
+19
+00:00:57,989 --> 00:01:03,059
+what we have to do is draw a straight
+
+20
+00:01:00,629 --> 00:01:05,189
+line segment because what we want the
+
+21
+00:01:03,059 --> 00:01:08,490
+goal is that is to say the wind is
+
+22
+00:01:05,189 --> 00:01:11,310
+blowing from the north west or south we
+
+23
+00:01:08,490 --> 00:01:12,990
+need a single direction so it's not good
+
+24
+00:01:11,310 --> 00:01:14,880
+enough to say that the the wind is
+
+25
+00:01:12,990 --> 00:01:18,000
+curved we want to know what is the
+
+26
+00:01:14,880 --> 00:01:20,520
+direction exactly at that point so this
+
+27
+00:01:18,000 --> 00:01:23,280
+is if you remember tangents from math
+
+28
+00:01:20,520 --> 00:01:27,060
+write a tangent of a circle this is what
+
+29
+00:01:23,280 --> 00:01:29,720
+we're drawing so here the tangent to
+
+30
+00:01:27,060 --> 00:01:33,900
+that circle at that point would be that
+
+31
+00:01:29,720 --> 00:01:35,880
+so it's clockwise winds I know the winds
+
+32
+00:01:33,900 --> 00:01:39,180
+come in this direction and it comes
+
+33
+00:01:35,880 --> 00:01:42,509
+around and passes through a you'll
+
+34
+00:01:39,180 --> 00:01:44,280
+become exactly from the north and wind
+
+35
+00:01:42,509 --> 00:01:46,409
+is always described in the direction is
+
+36
+00:01:44,280 --> 00:01:49,500
+coming from so this would be a north
+
+37
+00:01:46,409 --> 00:01:51,420
+wind so if I asked you what you know
+
+38
+00:01:49,500 --> 00:01:52,640
+describe the direction you would say
+
+39
+00:01:51,420 --> 00:01:56,670
+north
+
+40
+00:01:52,640 --> 00:01:59,610
+what would the direction be city B well
+
+41
+00:01:56,670 --> 00:02:01,500
+exactly the same thing because you still
+
+42
+00:01:59,610 --> 00:02:05,009
+have this cone around this is a tangent
+
+43
+00:02:01,500 --> 00:02:08,129
+to the circle at that point also north
+
+44
+00:02:05,009 --> 00:02:13,040
+and in fact any city I have here along
+
+45
+00:02:08,129 --> 00:02:15,379
+this line these would all be north winds
+
+46
+00:02:13,040 --> 00:02:17,000
+difference might be the speed but we're
+
+47
+00:02:15,379 --> 00:02:18,560
+not trying to figure out the speed all
+
+48
+00:02:17,000 --> 00:02:21,650
+we can do is figure out the direction
+
+49
+00:02:18,560 --> 00:02:23,480
+here so let's pick another one let's say
+
+50
+00:02:21,650 --> 00:02:27,310
+I said okay what's the wind direction
+
+51
+00:02:23,480 --> 00:02:32,150
+here okay and again northern hemisphere
+
+52
+00:02:27,310 --> 00:02:34,099
+so I figure okay this is I you know
+
+53
+00:02:32,150 --> 00:02:38,030
+again think of a circle centered in the
+
+54
+00:02:34,099 --> 00:02:43,159
+center of the H and I've got a clockwise
+
+55
+00:02:38,030 --> 00:02:46,389
+rotation around the H what's the tangent
+
+56
+00:02:43,159 --> 00:02:48,980
+at that point might look like this
+
+57
+00:02:46,389 --> 00:02:51,799
+where's that wind coming from it's
+
+58
+00:02:48,980 --> 00:02:55,189
+coming from the south west right it's
+
+59
+00:02:51,799 --> 00:03:01,370
+coming from this area down there so this
+
+60
+00:02:55,189 --> 00:03:03,319
+would be a south west wind so again when
+
+61
+00:03:01,370 --> 00:03:08,900
+we describe when it's the direction it's
+
+62
+00:03:03,319 --> 00:03:17,479
+coming from okay so let's do say another
+
+63
+00:03:08,900 --> 00:03:25,489
+example and let's say I've got a low and
+
+64
+00:03:17,479 --> 00:03:29,680
+I've got a high okay all right so let's
+
+65
+00:03:25,489 --> 00:03:30,919
+say I've got a city let's say right here
+
+66
+00:03:29,680 --> 00:03:33,889
+okay
+
+67
+00:03:30,919 --> 00:03:36,199
+so what do I do and again if this is
+
+68
+00:03:33,889 --> 00:03:38,449
+northern hemisphere counterclockwise
+
+69
+00:03:36,199 --> 00:03:40,519
+think of it think of a circle going
+
+70
+00:03:38,449 --> 00:03:43,790
+around the low and it's going to be
+
+71
+00:03:40,519 --> 00:03:46,790
+going counterclockwise so you'll be
+
+72
+00:03:43,790 --> 00:03:49,489
+coming to kind of right through here and
+
+73
+00:03:46,790 --> 00:03:54,169
+what's the tangent of that circle at
+
+74
+00:03:49,489 --> 00:03:55,159
+that point like this in which direction
+
+75
+00:03:54,169 --> 00:03:57,079
+is it coming from
+
+76
+00:03:55,159 --> 00:04:00,319
+it's coming from that it's coming from
+
+77
+00:03:57,079 --> 00:04:06,590
+this direction which is south east so
+
+78
+00:04:00,319 --> 00:04:10,280
+this is a south east wind now if you've
+
+79
+00:04:06,590 --> 00:04:12,889
+got multiple pressure centers like a
+
+80
+00:04:10,280 --> 00:04:16,280
+high and a low and I've got something in
+
+81
+00:04:12,889 --> 00:04:18,049
+the middle and I want to know well which
+
+82
+00:04:16,280 --> 00:04:23,180
+direction is it do I use the high or the
+
+83
+00:04:18,049 --> 00:04:25,730
+low if I use the low I imagine a circle
+
+84
+00:04:23,180 --> 00:04:30,070
+that's centered on the low
+
+85
+00:04:25,730 --> 00:04:30,070
+coming this way so I'm gonna draw that
+
+86
+00:04:30,220 --> 00:04:38,240
+okay and if I imagine the hi let me just
+
+87
+00:04:34,670 --> 00:04:42,310
+have a Harrow to that if I imagine it
+
+88
+00:04:38,240 --> 00:04:44,240
+coming around the hi I would have an arc
+
+89
+00:04:42,310 --> 00:04:46,630
+go in this direction
+
+90
+00:04:44,240 --> 00:04:49,820
+okay so clockwise are on the high
+
+91
+00:04:46,630 --> 00:04:53,450
+counterclockwise are on the low the
+
+92
+00:04:49,820 --> 00:04:56,600
+tangent to either one of those is the
+
+93
+00:04:53,450 --> 00:05:03,680
+same answer so in this case it's from
+
+94
+00:04:56,600 --> 00:05:05,090
+the south west so if you've got a high
+
+95
+00:05:03,680 --> 00:05:08,510
+and a low and you have a point in the
+
+96
+00:05:05,090 --> 00:05:11,450
+middle it doesn't matter how you think
+
+97
+00:05:08,510 --> 00:05:23,450
+of it you'll get the same answer now
+
+98
+00:05:11,450 --> 00:05:28,820
+what if I had a high and a high okay and
+
+99
+00:05:23,450 --> 00:05:32,510
+I got a point right here so if you've
+
+100
+00:05:28,820 --> 00:05:35,090
+got two of the same pressure go with the
+
+101
+00:05:32,510 --> 00:05:37,130
+one you're closest to I'm closest to
+
+102
+00:05:35,090 --> 00:05:42,160
+this one so I'm going to use the
+
+103
+00:05:37,130 --> 00:05:46,430
+clockwise move rotation around the high
+
+104
+00:05:42,160 --> 00:05:48,620
+draw my tangent okay and then I'd have
+
+105
+00:05:46,430 --> 00:05:53,270
+an answer that's from the north west
+
+106
+00:05:48,620 --> 00:05:54,650
+that's a northwest wind I will not give
+
+107
+00:05:53,270 --> 00:05:56,600
+you one that's exactly in the middle
+
+108
+00:05:54,650 --> 00:05:58,010
+because that one's actually you know
+
+109
+00:05:56,600 --> 00:05:59,570
+you'd have to have more information to
+
+110
+00:05:58,010 --> 00:06:02,150
+solve it because one of them would be
+
+111
+00:05:59,570 --> 00:06:03,470
+going clockwise and going from one way
+
+112
+00:06:02,150 --> 00:06:05,090
+and the other one would be coming around
+
+113
+00:06:03,470 --> 00:06:07,280
+clockwise the other way and they cancel
+
+114
+00:06:05,090 --> 00:06:08,870
+each other out so realistically what
+
+115
+00:06:07,280 --> 00:06:10,490
+happens is there's basically no wind in
+
+116
+00:06:08,870 --> 00:06:12,740
+the middle we didn't get into that
+
+117
+00:06:10,490 --> 00:06:15,020
+doesn't matter okay so if you've got
+
+118
+00:06:12,740 --> 00:06:16,400
+more than one pressure center go towards
+
+119
+00:06:15,020 --> 00:06:21,050
+the one that's closest that's usually
+
+120
+00:06:16,400 --> 00:06:22,670
+just the rule to remember okay so so
+
+121
+00:06:21,050 --> 00:06:25,160
+that's how you do it if you don't have
+
+122
+00:06:22,670 --> 00:06:27,430
+any contour lines if you do have contour
+
+123
+00:06:25,160 --> 00:06:27,430
+lines
+
+124
+00:06:28,760 --> 00:06:33,890
+the contour lines is the same thing
+
+125
+00:06:30,860 --> 00:06:36,170
+except you'd know more information
+
+126
+00:06:33,890 --> 00:06:40,940
+because the contour lines help you help
+
+127
+00:06:36,170 --> 00:06:43,250
+guide you so on this one let's see so
+
+128
+00:06:40,940 --> 00:06:45,470
+I've got a low right here in fact it's
+
+129
+00:06:43,250 --> 00:06:51,800
+kind of split into two here so I'll just
+
+130
+00:06:45,470 --> 00:06:55,160
+kind of put try this it's got it hello
+
+131
+00:06:51,800 --> 00:06:56,480
+it's really kind of it's one single low
+
+132
+00:06:55,160 --> 00:06:59,630
+but it's kind of broke it up into two
+
+133
+00:06:56,480 --> 00:07:02,030
+blobs but all you need to know is that
+
+134
+00:06:59,630 --> 00:07:02,870
+because this is a low and I'm in the
+
+135
+00:07:02,030 --> 00:07:04,420
+northern hemisphere
+
+136
+00:07:02,870 --> 00:07:07,390
+I've got counterclockwise circulation
+
+137
+00:07:04,420 --> 00:07:10,040
+and what we said in this class is that
+
+138
+00:07:07,390 --> 00:07:12,820
+we're gonna assume the wind was parallel
+
+139
+00:07:10,040 --> 00:07:16,820
+to the contour lines so I draw a little
+
+140
+00:07:12,820 --> 00:07:20,510
+wiggle straight segments again these are
+
+141
+00:07:16,820 --> 00:07:24,380
+like tangents to the contour lines going
+
+142
+00:07:20,510 --> 00:07:26,330
+around and then if I asked you say you
+
+143
+00:07:24,380 --> 00:07:29,240
+know what is the you know what is the
+
+144
+00:07:26,330 --> 00:07:33,080
+wind direction right here you would say
+
+145
+00:07:29,240 --> 00:07:37,790
+well it's from the North West right
+
+146
+00:07:33,080 --> 00:07:42,520
+that's a northwest wind and if you were
+
+147
+00:07:37,790 --> 00:07:44,810
+over here on the high so here I've got
+
+148
+00:07:42,520 --> 00:07:48,790
+these numbers are getting larger towards
+
+149
+00:07:44,810 --> 00:07:52,130
+the center so this is an H right there
+
+150
+00:07:48,790 --> 00:07:53,680
+and so I've got clockwise rotation
+
+151
+00:07:52,130 --> 00:07:57,430
+around a high in the northern hemisphere
+
+152
+00:07:53,680 --> 00:08:00,740
+so I know I've got wind coming this way
+
+153
+00:07:57,430 --> 00:08:06,560
+and I just draw on little straight
+
+154
+00:08:00,740 --> 00:08:09,410
+segments okay or if I was between
+
+155
+00:08:06,560 --> 00:08:16,520
+contours same thing just stay parallel
+
+156
+00:08:09,410 --> 00:08:18,110
+to the contours right so again if I
+
+157
+00:08:16,520 --> 00:08:20,180
+asked you you know what's the what's the
+
+158
+00:08:18,110 --> 00:08:22,430
+wind right here this one would be from
+
+159
+00:08:20,180 --> 00:08:24,410
+the south west
+
+160
+00:08:22,430 --> 00:08:25,460
+that's a southwest wind so the
+
+161
+00:08:24,410 --> 00:08:29,830
+difference the only difference between
+
+162
+00:08:25,460 --> 00:08:32,870
+these and the one that we just did is
+
+163
+00:08:29,830 --> 00:08:34,700
+that here you don't have any additional
+
+164
+00:08:32,870 --> 00:08:37,610
+information so you're assuming the winds
+
+165
+00:08:34,700 --> 00:08:40,250
+are going circular around them when we
+
+166
+00:08:37,610 --> 00:08:42,320
+have sea level pressure maps that
+
+167
+00:08:40,250 --> 00:08:45,650
+contours give us some more information
+
+168
+00:08:42,320 --> 00:08:48,200
+we can see that it's not perfectly a
+
+169
+00:08:45,650 --> 00:08:50,420
+perfectly circular circulation but it's
+
+170
+00:08:48,200 --> 00:08:55,550
+kind of this weird egg-shaped thing okay
+
+171
+00:08:50,420 --> 00:08:56,600
+so I hope that helped if we if you get
+
+172
+00:08:55,550 --> 00:08:58,880
+one that's in the southern hemisphere
+
+173
+00:08:56,600 --> 00:09:01,250
+just remember the rules are reversed
+
+174
+00:08:58,880 --> 00:09:03,950
+so around the hi in the southern
+
+175
+00:09:01,250 --> 00:09:06,670
+hemisphere counterclockwise around the
+
+176
+00:09:03,950 --> 00:09:09,820
+low in the southern hemisphere clockwise
+
+177
+00:09:06,670 --> 00:09:09,820
+all right
+

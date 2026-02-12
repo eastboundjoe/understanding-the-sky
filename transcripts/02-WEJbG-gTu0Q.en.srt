@@ -1,0 +1,3400 @@
+1
+00:00:02,830 --> 00:00:08,700
+[Music]
+
+2
+00:00:05,810 --> 00:00:10,980
+hey how you doing this is Mel strong and
+
+3
+00:00:08,700 --> 00:00:14,130
+this lecture is an introduction to
+
+4
+00:00:10,980 --> 00:00:15,120
+humidity now before we get into humidity
+
+5
+00:00:14,130 --> 00:00:17,850
+we're going to talk about the
+
+6
+00:00:15,120 --> 00:00:20,910
+composition of Earth's atmosphere so
+
+7
+00:00:17,850 --> 00:00:23,970
+this visual here represents the gases
+
+8
+00:00:20,910 --> 00:00:25,970
+that make up Earth's atmosphere and it
+
+9
+00:00:23,970 --> 00:00:28,170
+doesn't matter where you are the
+
+10
+00:00:25,970 --> 00:00:30,359
+composition of the Earth's atmosphere is
+
+11
+00:00:28,170 --> 00:00:33,510
+pretty much the same no matter where you
+
+12
+00:00:30,359 --> 00:00:37,620
+go so the atmosphere is about 78%
+
+13
+00:00:33,510 --> 00:00:41,010
+nitrogen in about 21% oxygen and about
+
+14
+00:00:37,620 --> 00:00:44,879
+1% argon and right there
+
+15
+00:00:41,010 --> 00:00:46,410
+you're about 99.9% of all the gases in
+
+16
+00:00:44,879 --> 00:00:48,450
+the atmosphere there's a little bit of
+
+17
+00:00:46,410 --> 00:00:51,390
+co2 in a little tiny amount of
+
+18
+00:00:48,450 --> 00:00:53,430
+everything else so before we go on let's
+
+19
+00:00:51,390 --> 00:00:55,379
+talk a little bit about these gases
+
+20
+00:00:53,430 --> 00:01:00,960
+because it's worth knowing a few things
+
+21
+00:00:55,379 --> 00:01:03,300
+about them so with nitrogen what this
+
+22
+00:01:00,960 --> 00:01:06,479
+what this visual is is saying is that
+
+23
+00:01:03,300 --> 00:01:08,490
+right now you've got more nitrogen going
+
+24
+00:01:06,479 --> 00:01:11,640
+in and out of your lungs than any other
+
+25
+00:01:08,490 --> 00:01:14,210
+gas so my question is what is it doing
+
+26
+00:01:11,640 --> 00:01:17,159
+for you and an answer is absolutely
+
+27
+00:01:14,210 --> 00:01:20,820
+nothing because nitrogen is what we call
+
+28
+00:01:17,159 --> 00:01:22,920
+an inert gas what that means is that it
+
+29
+00:01:20,820 --> 00:01:25,320
+really doesn't react with anything and
+
+30
+00:01:22,920 --> 00:01:28,530
+in order to get nitrogen to react with
+
+31
+00:01:25,320 --> 00:01:30,840
+something you've got to have really
+
+32
+00:01:28,530 --> 00:01:33,000
+really high temperatures before any kind
+
+33
+00:01:30,840 --> 00:01:36,030
+of reactions occur so as it goes in and
+
+34
+00:01:33,000 --> 00:01:38,070
+out of your lungs you basically your
+
+35
+00:01:36,030 --> 00:01:41,220
+body just ignores it now it turns out
+
+36
+00:01:38,070 --> 00:01:43,200
+your body needs nitrogen but it can't
+
+37
+00:01:41,220 --> 00:01:47,630
+get it this way and that'll come up
+
+38
+00:01:43,200 --> 00:01:51,240
+later in future lectures so oxygen is
+
+39
+00:01:47,630 --> 00:01:53,670
+that an inert gas oh no this is very
+
+40
+00:01:51,240 --> 00:01:59,119
+reactive right and this is why we need
+
+41
+00:01:53,670 --> 00:02:03,000
+it because it what we call oxidizes and
+
+42
+00:01:59,119 --> 00:02:06,270
+so we need that for our respiration
+
+43
+00:02:03,000 --> 00:02:08,729
+process the oxygen accepts electrons and
+
+44
+00:02:06,270 --> 00:02:13,290
+gets converted in our body from oxygen
+
+45
+00:02:08,729 --> 00:02:14,010
+to carbon dioxide argon is another inert
+
+46
+00:02:13,290 --> 00:02:18,870
+gas
+
+47
+00:02:14,010 --> 00:02:21,660
+and also very heavy so in other words
+
+48
+00:02:18,870 --> 00:02:24,240
+it's a very dense gas maybe this is one
+
+49
+00:02:21,660 --> 00:02:26,910
+you haven't heard of before but if you
+
+50
+00:02:24,240 --> 00:02:29,880
+have seen thermal windows like double
+
+51
+00:02:26,910 --> 00:02:32,010
+pane windows that are built to insulate
+
+52
+00:02:29,880 --> 00:02:34,500
+in between the gas they usually put
+
+53
+00:02:32,010 --> 00:02:37,110
+argon and the reason for that is because
+
+54
+00:02:34,500 --> 00:02:39,150
+the gas molecules are so heavy they're
+
+55
+00:02:37,110 --> 00:02:41,550
+really slow and they bump into each
+
+56
+00:02:39,150 --> 00:02:45,270
+other very slowly and that's how heat is
+
+57
+00:02:41,550 --> 00:02:47,610
+transferred so they argon gas makes
+
+58
+00:02:45,270 --> 00:02:51,000
+pretty good insulation then we've got
+
+59
+00:02:47,610 --> 00:02:53,370
+carbon dioxide and we're gonna talk all
+
+60
+00:02:51,000 --> 00:02:56,720
+about carbon dioxide much later in the
+
+61
+00:02:53,370 --> 00:03:00,300
+semester but this is a greenhouse gas so
+
+62
+00:02:56,720 --> 00:03:04,650
+those gases right there make up
+
+63
+00:03:00,300 --> 00:03:06,690
+I guess at 99.9% of all of the gases in
+
+64
+00:03:04,650 --> 00:03:08,100
+the atmosphere so here's another way to
+
+65
+00:03:06,690 --> 00:03:12,600
+look at that we could break this down
+
+66
+00:03:08,100 --> 00:03:15,090
+and again you can see that there's
+
+67
+00:03:12,600 --> 00:03:17,850
+nitrogen at seventy-eight percent oxygen
+
+68
+00:03:15,090 --> 00:03:22,560
+about 21% argon a point nine percent add
+
+69
+00:03:17,850 --> 00:03:23,970
+those three together you got 99.9% fact
+
+70
+00:03:22,560 --> 00:03:27,210
+that's ninety nine point nine five
+
+71
+00:03:23,970 --> 00:03:29,430
+percent or so and then all these little
+
+72
+00:03:27,210 --> 00:03:31,290
+traces of gases and some of these you've
+
+73
+00:03:29,430 --> 00:03:32,610
+heard of maybe some you have it all add
+
+74
+00:03:31,290 --> 00:03:34,740
+up together so there's a little bit of
+
+75
+00:03:32,610 --> 00:03:37,380
+other things in the atmosphere however
+
+76
+00:03:34,740 --> 00:03:40,770
+of all the gases that are shown here
+
+77
+00:03:37,380 --> 00:03:41,670
+there's one gas that you are breathing
+
+78
+00:03:40,770 --> 00:03:43,830
+right now
+
+79
+00:03:41,670 --> 00:03:47,070
+that's in the atmosphere right now and
+
+80
+00:03:43,830 --> 00:03:50,880
+it's not on this list and that gas is
+
+81
+00:03:47,070 --> 00:03:53,880
+water water has never shown in a graph
+
+82
+00:03:50,880 --> 00:03:57,600
+like this or in a list of atmospheric
+
+83
+00:03:53,880 --> 00:04:00,450
+gases and the reason is water vapor is
+
+84
+00:03:57,600 --> 00:04:02,990
+considered a variable gas so that means
+
+85
+00:04:00,450 --> 00:04:06,240
+that it could range from close to zero
+
+86
+00:04:02,990 --> 00:04:08,160
+all the way up to maybe four percent in
+
+87
+00:04:06,240 --> 00:04:10,380
+certain parts of the world if you're in
+
+88
+00:04:08,160 --> 00:04:13,920
+New Mexico it usually ranges from about
+
+89
+00:04:10,380 --> 00:04:17,250
+zero to maybe close to one percent of
+
+90
+00:04:13,920 --> 00:04:20,580
+all the gases in the atmosphere so the
+
+91
+00:04:17,250 --> 00:04:22,230
+reason it's not shown in the graphs that
+
+92
+00:04:20,580 --> 00:04:24,750
+we've been looking at or the tables you
+
+93
+00:04:22,230 --> 00:04:26,050
+might find is because all those numbers
+
+94
+00:04:24,750 --> 00:04:28,540
+have to add up to
+
+95
+00:04:26,050 --> 00:04:31,840
+and so if I go back to the previous
+
+96
+00:04:28,540 --> 00:04:34,330
+graph I was just looking at here so all
+
+97
+00:04:31,840 --> 00:04:37,030
+these numbers add up to exactly 100 so
+
+98
+00:04:34,330 --> 00:04:38,470
+if I had 2 percent water those numbers
+
+99
+00:04:37,030 --> 00:04:40,360
+wouldn't add up to a hundred I have to
+
+100
+00:04:38,470 --> 00:04:42,280
+adjust them all or if I had one percent
+
+101
+00:04:40,360 --> 00:04:44,650
+water then they wouldn't add up to 100
+
+102
+00:04:42,280 --> 00:04:46,210
+again and I have to adjust them all so
+
+103
+00:04:44,650 --> 00:04:48,640
+what they do in all text books and all
+
+104
+00:04:46,210 --> 00:04:52,120
+references with atmospheric gases as
+
+105
+00:04:48,640 --> 00:04:53,740
+they call this the dry composition so
+
+106
+00:04:52,120 --> 00:04:55,900
+dry gas composition of the atmosphere
+
+107
+00:04:53,740 --> 00:04:57,520
+this is what all the gases of the
+
+108
+00:04:55,900 --> 00:05:00,250
+composite of the atmosphere would look
+
+109
+00:04:57,520 --> 00:05:01,870
+like if there were no water but there is
+
+110
+00:05:00,250 --> 00:05:03,850
+water so you got to take that into
+
+111
+00:05:01,870 --> 00:05:06,220
+account so that's why they never list
+
+112
+00:05:03,850 --> 00:05:07,990
+water on these on these tables because
+
+113
+00:05:06,220 --> 00:05:10,480
+it's always different from day to day
+
+114
+00:05:07,990 --> 00:05:12,940
+and depends on where you live so
+
+115
+00:05:10,480 --> 00:05:15,220
+humidity is a way that we describe how
+
+116
+00:05:12,940 --> 00:05:17,320
+much water vapor is in the atmosphere
+
+117
+00:05:15,220 --> 00:05:19,090
+and there's several ways to do it
+
+118
+00:05:17,320 --> 00:05:21,160
+in this lecture we're going to learn two
+
+119
+00:05:19,090 --> 00:05:22,780
+different ways to describe humidity in
+
+120
+00:05:21,160 --> 00:05:25,780
+the next lecture we're going to learn
+
+121
+00:05:22,780 --> 00:05:27,850
+2/3 now the way that would probably make
+
+122
+00:05:25,780 --> 00:05:29,890
+the most sense to you right now is to
+
+123
+00:05:27,850 --> 00:05:31,870
+talk about the percentage of gases in
+
+124
+00:05:29,890 --> 00:05:33,130
+the atmosphere that's water so we just
+
+125
+00:05:31,870 --> 00:05:35,980
+talked about this how you could have
+
+126
+00:05:33,130 --> 00:05:38,560
+zero to four percent of the gases in the
+
+127
+00:05:35,980 --> 00:05:40,990
+atmosphere be water vapor turns out
+
+128
+00:05:38,560 --> 00:05:43,270
+though that's actually not the way we
+
+129
+00:05:40,990 --> 00:05:44,500
+usually do it the first method that
+
+130
+00:05:43,270 --> 00:05:46,930
+we're really going to get into is
+
+131
+00:05:44,500 --> 00:05:48,940
+something called mixing ratio and mixing
+
+132
+00:05:46,930 --> 00:05:52,570
+ratio describes how many grams of water
+
+133
+00:05:48,940 --> 00:05:55,450
+vapor there are in every kilogram of air
+
+134
+00:05:52,570 --> 00:05:59,140
+and it's often written as a fraction so
+
+135
+00:05:55,450 --> 00:06:02,380
+here we have mixing ratio equals grams
+
+136
+00:05:59,140 --> 00:06:05,860
+of water vapor on as a numerator and
+
+137
+00:06:02,380 --> 00:06:08,170
+kilograms of air as a denominator now
+
+138
+00:06:05,860 --> 00:06:11,470
+the conventional way to do this is to
+
+139
+00:06:08,170 --> 00:06:14,680
+think about a single kilogram of air so
+
+140
+00:06:11,470 --> 00:06:17,290
+I box up some air enough that I have one
+
+141
+00:06:14,680 --> 00:06:20,500
+kilogram and I want to know in that box
+
+142
+00:06:17,290 --> 00:06:23,200
+how many grams of water vapor do I have
+
+143
+00:06:20,500 --> 00:06:25,720
+so that's kind of the way we're going to
+
+144
+00:06:23,200 --> 00:06:28,990
+think about this so you might see mixing
+
+145
+00:06:25,720 --> 00:06:31,020
+ratio written something like this mixing
+
+146
+00:06:28,990 --> 00:06:33,880
+ratio is three grams per kilogram or
+
+147
+00:06:31,020 --> 00:06:35,979
+three grams per kilogram and the
+
+148
+00:06:33,880 --> 00:06:39,190
+Assumption here is that you know that
+
+149
+00:06:35,979 --> 00:06:42,460
+grams means grams of water vapor
+
+150
+00:06:39,190 --> 00:06:45,820
+kilogramme means kilograms of air okay
+
+151
+00:06:42,460 --> 00:06:47,740
+now the thing is before we get any
+
+152
+00:06:45,820 --> 00:06:50,350
+further I want to make sure that we can
+
+153
+00:06:47,740 --> 00:06:52,360
+visualize what this means what does it
+
+154
+00:06:50,350 --> 00:06:54,190
+actually like what does a gram of water
+
+155
+00:06:52,360 --> 00:06:58,480
+vapor look like and what does a kilogram
+
+156
+00:06:54,190 --> 00:07:01,390
+of air actually look like okay so we're
+
+157
+00:06:58,480 --> 00:07:06,810
+gonna talk a little bit first about the
+
+158
+00:07:01,390 --> 00:07:09,490
+metric system so in the metric system
+
+159
+00:07:06,810 --> 00:07:13,240
+when they were inventing it they said if
+
+160
+00:07:09,490 --> 00:07:16,180
+you have a cube and the cube is exactly
+
+161
+00:07:13,240 --> 00:07:18,700
+one centimeter on each side one
+
+162
+00:07:16,180 --> 00:07:20,350
+centimeter on each side okay one
+
+163
+00:07:18,700 --> 00:07:23,610
+centimeter by 1 centimeter by 1
+
+164
+00:07:20,350 --> 00:07:27,520
+centimeter the volume of that is one
+
+165
+00:07:23,610 --> 00:07:30,880
+cubic centimeter okay and it turns out
+
+166
+00:07:27,520 --> 00:07:36,790
+if I fill this cube with water that I
+
+167
+00:07:30,880 --> 00:07:40,900
+will have a mass of exactly one gram so
+
+168
+00:07:36,790 --> 00:07:42,790
+one gram of water would look like AK you
+
+169
+00:07:40,900 --> 00:07:45,520
+could fill up a cube that's one
+
+170
+00:07:42,790 --> 00:07:47,470
+centimeter on each side so what is a
+
+171
+00:07:45,520 --> 00:07:49,990
+physical object that you can think of
+
+172
+00:07:47,470 --> 00:07:51,730
+that's about this big so there's a
+
+173
+00:07:49,990 --> 00:07:55,750
+couple of them I can think of one would
+
+174
+00:07:51,730 --> 00:07:59,440
+be like a sugar cube what I usually show
+
+175
+00:07:55,750 --> 00:08:03,370
+everybody or dice so a standard die is
+
+176
+00:07:59,440 --> 00:08:06,040
+about one centimeter on each side so one
+
+177
+00:08:03,370 --> 00:08:07,600
+gram of water would look like what
+
+178
+00:08:06,040 --> 00:08:09,700
+machen if these were little ice cubes
+
+179
+00:08:07,600 --> 00:08:12,840
+right each one of these would be about
+
+180
+00:08:09,700 --> 00:08:15,720
+one gram of water so when we talk about
+
+181
+00:08:12,840 --> 00:08:17,950
+say back to this three grams
+
+182
+00:08:15,720 --> 00:08:20,380
+the mixing ratios three grams per
+
+183
+00:08:17,950 --> 00:08:24,610
+kilogram that three grams means three
+
+184
+00:08:20,380 --> 00:08:26,050
+grams of water vapor think about okay
+
+185
+00:08:24,610 --> 00:08:28,510
+I'm gonna take water vapor that's in the
+
+186
+00:08:26,050 --> 00:08:32,260
+air I'm going to condense it down to a
+
+187
+00:08:28,510 --> 00:08:34,930
+blob and that blob in this case I would
+
+188
+00:08:32,260 --> 00:08:37,690
+have three of these guys I could fill up
+
+189
+00:08:34,930 --> 00:08:40,210
+three of these little cubes with water
+
+190
+00:08:37,690 --> 00:08:45,250
+that way that's what three grams of
+
+191
+00:08:40,210 --> 00:08:47,200
+water looks like all right so before we
+
+192
+00:08:45,250 --> 00:08:49,390
+move on to the kilogram of air let's
+
+193
+00:08:47,200 --> 00:08:52,870
+just talk a little bit more about the
+
+194
+00:08:49,390 --> 00:08:55,180
+metric system because also when
+
+195
+00:08:52,870 --> 00:08:57,790
+they came up with a system one cubics in
+
+196
+00:08:55,180 --> 00:09:06,490
+the centimeter has another name it's
+
+197
+00:08:57,790 --> 00:09:11,350
+called the milliliter our ml and the end
+
+198
+00:09:06,490 --> 00:09:14,520
+if you have a thousand milliliters that
+
+199
+00:09:11,350 --> 00:09:16,930
+equals one liter
+
+200
+00:09:14,520 --> 00:09:19,870
+okay so that's going to come up here in
+
+201
+00:09:16,930 --> 00:09:21,550
+a little bit okay so back to our initial
+
+202
+00:09:19,870 --> 00:09:24,010
+problem I wanted you to be able to
+
+203
+00:09:21,550 --> 00:09:27,040
+visualize what does this mean this three
+
+204
+00:09:24,010 --> 00:09:33,640
+grams per kilogram what does that mean
+
+205
+00:09:27,040 --> 00:09:36,670
+and the top so we've said the top is
+
+206
+00:09:33,640 --> 00:09:41,740
+three with all ice cubes each the size
+
+207
+00:09:36,670 --> 00:09:50,200
+of a of a die the bottom I want you to
+
+208
+00:09:41,740 --> 00:09:52,510
+visualize a box and the box has one
+
+209
+00:09:50,200 --> 00:09:55,750
+kilogram of air in it and the question
+
+210
+00:09:52,510 --> 00:09:57,700
+is how big would that box be because we
+
+211
+00:09:55,750 --> 00:09:59,670
+don't think about air as having much
+
+212
+00:09:57,700 --> 00:10:02,529
+mass like we we don't even think about
+
+213
+00:09:59,670 --> 00:10:06,310
+the weight of the air above us but it
+
+214
+00:10:02,529 --> 00:10:08,440
+has some and so it turns out at our
+
+215
+00:10:06,310 --> 00:10:11,890
+altitude so here in Albuquerque were
+
+216
+00:10:08,440 --> 00:10:13,420
+about a mile mile above sea level it
+
+217
+00:10:11,890 --> 00:10:18,010
+turns out that if you had a box it's
+
+218
+00:10:13,420 --> 00:10:21,250
+about a meter by meter by a meter that
+
+219
+00:10:18,010 --> 00:10:22,930
+would be about one kilogram of air okay
+
+220
+00:10:21,250 --> 00:10:24,490
+see so you fill this up
+
+221
+00:10:22,930 --> 00:10:26,980
+one meter by one meter by one meter
+
+222
+00:10:24,490 --> 00:10:30,610
+that's one cubic meter so how big is a
+
+223
+00:10:26,980 --> 00:10:32,800
+meter think about a doorknob you reach
+
+224
+00:10:30,610 --> 00:10:36,190
+out to grab a doorknob and the doorknob
+
+225
+00:10:32,800 --> 00:10:39,010
+is about one meter above the ground okay
+
+226
+00:10:36,190 --> 00:10:41,890
+so that's a meter so imagine a box that
+
+227
+00:10:39,010 --> 00:10:45,490
+big on each side that's a kilogram of
+
+228
+00:10:41,890 --> 00:10:48,970
+air okay so now imagine this box is now
+
+229
+00:10:45,490 --> 00:10:50,140
+made of plexiglass and so it's plastic
+
+230
+00:10:48,970 --> 00:10:52,630
+you can see through it and there's a
+
+231
+00:10:50,140 --> 00:10:56,920
+little door in it okay and we have
+
+232
+00:10:52,630 --> 00:10:59,260
+filled our box with perfectly dry air
+
+233
+00:10:56,920 --> 00:11:03,130
+but I'm going to open up the little door
+
+234
+00:10:59,260 --> 00:11:06,310
+and I'm going to throw in three little
+
+235
+00:11:03,130 --> 00:11:06,850
+ice cubes okay so I got three grams of
+
+236
+00:11:06,310 --> 00:11:09,220
+water
+
+237
+00:11:06,850 --> 00:11:11,170
+I got one kilogram of air I'm gonna open
+
+238
+00:11:09,220 --> 00:11:13,480
+up the door I'm gonna throw my three
+
+239
+00:11:11,170 --> 00:11:15,970
+grams of ice in there and close the door
+
+240
+00:11:13,480 --> 00:11:17,560
+and so my little ice cubes fall to the
+
+241
+00:11:15,970 --> 00:11:19,930
+bottom of the box and let's say the box
+
+242
+00:11:17,560 --> 00:11:21,850
+is perfectly sealed and then they melt
+
+243
+00:11:19,930 --> 00:11:23,230
+so I got for you all the puddles right I
+
+244
+00:11:21,850 --> 00:11:26,970
+got through though the puddles sitting
+
+245
+00:11:23,230 --> 00:11:30,250
+here at the bottom of water and then
+
+246
+00:11:26,970 --> 00:11:32,440
+they evaporate so I come back later and
+
+247
+00:11:30,250 --> 00:11:35,560
+the these three little puddles have
+
+248
+00:11:32,440 --> 00:11:38,530
+completely evaporated so the air that's
+
+249
+00:11:35,560 --> 00:11:41,860
+in there has a mixing ratio of three
+
+250
+00:11:38,530 --> 00:11:43,600
+grams per kilogram we just made it right
+
+251
+00:11:41,860 --> 00:11:45,790
+we took a kilogram of air we took three
+
+252
+00:11:43,600 --> 00:11:48,070
+grams of water we stuck it in there we
+
+253
+00:11:45,790 --> 00:11:49,630
+let it melt and evaporate and it's
+
+254
+00:11:48,070 --> 00:11:52,630
+floating around in there and water
+
+255
+00:11:49,630 --> 00:11:54,280
+molecules by the way the oxygen is
+
+256
+00:11:52,630 --> 00:11:56,470
+pretty big compared to the hydrogen's
+
+257
+00:11:54,280 --> 00:11:58,870
+and the hydrogens stick on one side of
+
+258
+00:11:56,470 --> 00:12:00,970
+it so they look like these Mickey Mouse
+
+259
+00:11:58,870 --> 00:12:03,580
+heads so you have to kind of imagine
+
+260
+00:12:00,970 --> 00:12:05,620
+you've got this box now with these
+
+261
+00:12:03,580 --> 00:12:07,030
+Mickey Mouse heads floating around in
+
+262
+00:12:05,620 --> 00:12:09,010
+there these all the water molecules
+
+263
+00:12:07,030 --> 00:12:14,110
+right we'll see more of this in a little
+
+264
+00:12:09,010 --> 00:12:16,180
+bit okay so imagine I open up the little
+
+265
+00:12:14,110 --> 00:12:18,550
+door now and let's say I've got a little
+
+266
+00:12:16,180 --> 00:12:20,800
+cup like a little coffee cup and I reach
+
+267
+00:12:18,550 --> 00:12:24,160
+in there and a scoop out and I pull out
+
+268
+00:12:20,800 --> 00:12:28,980
+some of that air what's the mixing ratio
+
+269
+00:12:24,160 --> 00:12:33,460
+of the air inside my cup it turns out
+
+270
+00:12:28,980 --> 00:12:36,010
+ratios stay the same they're independent
+
+271
+00:12:33,460 --> 00:12:37,870
+of size okay so if I take a little bit
+
+272
+00:12:36,010 --> 00:12:39,430
+of that air the mixing ratio of the
+
+273
+00:12:37,870 --> 00:12:42,600
+little bit of air that I got out of that
+
+274
+00:12:39,430 --> 00:12:46,680
+box is still three grams per kilogram
+
+275
+00:12:42,600 --> 00:12:49,390
+okay so you've got to separate out the
+
+276
+00:12:46,680 --> 00:12:53,410
+ratios from the absolute amounts of
+
+277
+00:12:49,390 --> 00:12:55,150
+water so with mixing ratio there's a
+
+278
+00:12:53,410 --> 00:12:57,430
+number of problems that we can do with
+
+279
+00:12:55,150 --> 00:13:00,220
+this and I'm gonna work out a couple of
+
+280
+00:12:57,430 --> 00:13:03,450
+examples here so here's one it says
+
+281
+00:13:00,220 --> 00:13:07,270
+mixing ratio is four grams per kilogram
+
+282
+00:13:03,450 --> 00:13:11,890
+how much water do we have total in five
+
+283
+00:13:07,270 --> 00:13:13,870
+kilograms of air okay so if I show this
+
+284
+00:13:11,890 --> 00:13:15,640
+problem the people generally half the
+
+285
+00:13:13,870 --> 00:13:17,920
+people I show this to think that they
+
+286
+00:13:15,640 --> 00:13:19,930
+should multiply these two numbers and
+
+287
+00:13:17,920 --> 00:13:20,710
+the other half think they should divide
+
+288
+00:13:19,930 --> 00:13:23,649
+these two numbers
+
+289
+00:13:20,710 --> 00:13:27,399
+and neither one can usually give me a
+
+290
+00:13:23,649 --> 00:13:30,040
+very good reason why so the problems
+
+291
+00:13:27,399 --> 00:13:32,560
+like this I want you to visualize go
+
+292
+00:13:30,040 --> 00:13:36,430
+back to thinking about a kilogram of air
+
+293
+00:13:32,560 --> 00:13:40,959
+as a box a box of air right so I've got
+
+294
+00:13:36,430 --> 00:13:44,730
+one kilogram of air is a box that we
+
+295
+00:13:40,959 --> 00:13:50,589
+said was a meter on each side all right
+
+296
+00:13:44,730 --> 00:13:52,870
+okay so if I one box and the mixing
+
+297
+00:13:50,589 --> 00:13:53,850
+ratio is four grams per kilogram I have
+
+298
+00:13:52,870 --> 00:13:59,050
+four grams
+
+299
+00:13:53,850 --> 00:14:03,240
+inside that box right now if I have five
+
+300
+00:13:59,050 --> 00:14:07,060
+kilograms I essentially have five boxes
+
+301
+00:14:03,240 --> 00:14:10,690
+so think about okay so that's one box
+
+302
+00:14:07,060 --> 00:14:13,149
+but then I got another one right and
+
+303
+00:14:10,690 --> 00:14:15,970
+then I got another one and so on and so
+
+304
+00:14:13,149 --> 00:14:19,410
+forth each one of these has four grams
+
+305
+00:14:15,970 --> 00:14:23,020
+in it so if I've got five of them total
+
+306
+00:14:19,410 --> 00:14:25,260
+then I can multiply it should make sense
+
+307
+00:14:23,020 --> 00:14:29,589
+to you that can multiply four times five
+
+308
+00:14:25,260 --> 00:14:31,709
+for the total amount of water so I'll
+
+309
+00:14:29,589 --> 00:14:34,779
+write this out with just the unit's here
+
+310
+00:14:31,709 --> 00:14:38,709
+so I would take my mixing ratio for
+
+311
+00:14:34,779 --> 00:14:40,690
+grams per kilogram multiply that by the
+
+312
+00:14:38,709 --> 00:14:45,510
+number of kilograms I have in this case
+
+313
+00:14:40,690 --> 00:14:48,070
+I have five I'll put that over one and
+
+314
+00:14:45,510 --> 00:14:51,100
+if I do it if I write it out this way
+
+315
+00:14:48,070 --> 00:14:54,940
+that unit kilogram cancels that unit
+
+316
+00:14:51,100 --> 00:15:00,160
+kilogram four times five is 20 and grams
+
+317
+00:14:54,940 --> 00:15:02,170
+are the units that I have left so by
+
+318
+00:15:00,160 --> 00:15:04,240
+writing out this way I can see which you
+
+319
+00:15:02,170 --> 00:15:06,670
+know what I hope is that the unit's that
+
+320
+00:15:04,240 --> 00:15:08,680
+I don't want to cancel leaving mean the
+
+321
+00:15:06,670 --> 00:15:11,100
+unit's that I do want that's an
+
+322
+00:15:08,680 --> 00:15:13,740
+indication that I probably did it right
+
+323
+00:15:11,100 --> 00:15:16,690
+so I'll do another one
+
+324
+00:15:13,740 --> 00:15:19,120
+so when this one says the mixing ratio
+
+325
+00:15:16,690 --> 00:15:20,860
+is 12 grams per kilogram so that might
+
+326
+00:15:19,120 --> 00:15:23,890
+be a value that we would have here in
+
+327
+00:15:20,860 --> 00:15:25,839
+the summer during our monsoon season how
+
+328
+00:15:23,890 --> 00:15:27,430
+much water is in this room okay so let's
+
+329
+00:15:25,839 --> 00:15:29,140
+just imagine we're in a room and here's
+
+330
+00:15:27,430 --> 00:15:33,370
+the dimensions of the room five meters
+
+331
+00:15:29,140 --> 00:15:35,920
+by three meters by 12 meters so what I
+
+332
+00:15:33,370 --> 00:15:39,120
+need to know to answer this is how many
+
+333
+00:15:35,920 --> 00:15:42,640
+kilograms of air do I have and I know
+
+334
+00:15:39,120 --> 00:15:45,310
+that at our altitude here at Albuquerque
+
+335
+00:15:42,640 --> 00:15:47,950
+one kilogram of air is about one cubic
+
+336
+00:15:45,310 --> 00:15:50,740
+meter so in order to answer this I need
+
+337
+00:15:47,950 --> 00:15:52,390
+to know how many cubic meters I have
+
+338
+00:15:50,740 --> 00:15:57,279
+therefore that will tell me how many
+
+339
+00:15:52,390 --> 00:16:00,400
+kilograms I have okay so this is a
+
+340
+00:15:57,279 --> 00:16:02,440
+volume problem and volume is length
+
+341
+00:16:00,400 --> 00:16:04,600
+times width times height so I'm gonna
+
+342
+00:16:02,440 --> 00:16:08,980
+take five meters times three meters
+
+343
+00:16:04,600 --> 00:16:13,060
+times 12 meters and I do that
+
+344
+00:16:08,980 --> 00:16:19,680
+calculation five times three times 12
+
+345
+00:16:13,060 --> 00:16:24,730
+I get a hundred and 80 cubic meters okay
+
+346
+00:16:19,680 --> 00:16:27,459
+so that tells me because one cubic meter
+
+347
+00:16:24,730 --> 00:16:31,990
+of air is one kilogram that I have a
+
+348
+00:16:27,459 --> 00:16:35,560
+hundred and eighty kilograms of air in
+
+349
+00:16:31,990 --> 00:16:37,540
+that room so now it's just like the last
+
+350
+00:16:35,560 --> 00:16:41,290
+problem I have a hundred and eighty
+
+351
+00:16:37,540 --> 00:16:43,660
+boxes of air each box has 12 grams of
+
+352
+00:16:41,290 --> 00:16:52,120
+water vapor in it so to get the total
+
+353
+00:16:43,660 --> 00:16:56,440
+water I take my mixing ratio and
+
+354
+00:16:52,120 --> 00:16:58,900
+multiply it by the number of kilograms
+
+355
+00:16:56,440 --> 00:17:01,630
+of air that I have so again it's like
+
+356
+00:16:58,900 --> 00:17:05,439
+180 boxes of air each box has 12 grams
+
+357
+00:17:01,630 --> 00:17:07,419
+in it write it up this way you should
+
+358
+00:17:05,439 --> 00:17:10,000
+see that units you don't want go away
+
+359
+00:17:07,419 --> 00:17:15,100
+and they in the unit's you do want are
+
+360
+00:17:10,000 --> 00:17:19,089
+left so I end up with 12 times 80 I'm
+
+361
+00:17:15,100 --> 00:17:23,130
+sorry 12 times 180 and that gives me two
+
+362
+00:17:19,089 --> 00:17:26,559
+thousand one hundred and sixty grams
+
+363
+00:17:23,130 --> 00:17:29,050
+okay so I want I want you to be able to
+
+364
+00:17:26,559 --> 00:17:31,000
+visualize what this means okay so this
+
+365
+00:17:29,050 --> 00:17:33,010
+is the total amount of water so if we
+
+366
+00:17:31,000 --> 00:17:35,500
+condensed all the water out of the room
+
+367
+00:17:33,010 --> 00:17:37,630
+right though all the water molecules in
+
+368
+00:17:35,500 --> 00:17:39,550
+this room we condense it out we would
+
+369
+00:17:37,630 --> 00:17:42,400
+have two thousand one hundred and sixty
+
+370
+00:17:39,550 --> 00:17:45,120
+grams well just a minute ago I told you
+
+371
+00:17:42,400 --> 00:17:49,559
+that so a gram
+
+372
+00:17:45,120 --> 00:17:51,480
+of water equals one milliliter or one
+
+373
+00:17:49,559 --> 00:17:53,010
+cubic centimeter right so that's the
+
+374
+00:17:51,480 --> 00:17:57,059
+same thing as saying two thousand one
+
+375
+00:17:53,010 --> 00:18:00,120
+hundred and sixty milliliters of water
+
+376
+00:17:57,059 --> 00:18:01,500
+that's the same thing and can you
+
+377
+00:18:00,120 --> 00:18:03,809
+visualize what that is
+
+378
+00:18:01,500 --> 00:18:07,169
+well a thousand milliliters are in a
+
+379
+00:18:03,809 --> 00:18:09,840
+wieder so two thousand milliliters is
+
+380
+00:18:07,169 --> 00:18:14,570
+two liters so if I divide this by a
+
+381
+00:18:09,840 --> 00:18:18,450
+thousand I get two point one six liters
+
+382
+00:18:14,570 --> 00:18:20,669
+so think of a two liter bottle right we
+
+383
+00:18:18,450 --> 00:18:22,649
+have filled up a two liter bottle and
+
+384
+00:18:20,669 --> 00:18:24,419
+we've got a little bit left over that's
+
+385
+00:18:22,649 --> 00:18:26,070
+how much water we would have if we were
+
+386
+00:18:24,419 --> 00:18:30,450
+to condense all the water out of this
+
+387
+00:18:26,070 --> 00:18:33,090
+room on this particular day so let's go
+
+388
+00:18:30,450 --> 00:18:37,409
+back to this idea of a big plastic box
+
+389
+00:18:33,090 --> 00:18:39,360
+that we put little ice cubes in and at
+
+390
+00:18:37,409 --> 00:18:41,850
+the time what I said was we had a little
+
+391
+00:18:39,360 --> 00:18:43,590
+door on it we could put little these
+
+392
+00:18:41,850 --> 00:18:45,929
+little ice cubes in there they would
+
+393
+00:18:43,590 --> 00:18:48,059
+melt then they would evaporate and we'd
+
+394
+00:18:45,929 --> 00:18:50,940
+have air with some certain kind of
+
+395
+00:18:48,059 --> 00:18:53,549
+mixing ratio let's imagine we go back to
+
+396
+00:18:50,940 --> 00:18:56,669
+this box and opened the door and I put
+
+397
+00:18:53,549 --> 00:18:59,850
+in three more ice cubes and to close it
+
+398
+00:18:56,669 --> 00:19:02,039
+and they melt and they evaporate and
+
+399
+00:18:59,850 --> 00:19:04,200
+then I go back and open the door and I
+
+400
+00:19:02,039 --> 00:19:05,880
+put three more ice cubes and they melt
+
+401
+00:19:04,200 --> 00:19:08,399
+and they evaporate I could keep going
+
+402
+00:19:05,880 --> 00:19:11,279
+back and I could keep putting ice cubes
+
+403
+00:19:08,399 --> 00:19:16,169
+into the door but there comes a point
+
+404
+00:19:11,279 --> 00:19:18,690
+where if I put too many in there they'll
+
+405
+00:19:16,169 --> 00:19:22,049
+follow the bottom they'll melt but they
+
+406
+00:19:18,690 --> 00:19:24,630
+will no longer evaporate because air has
+
+407
+00:19:22,049 --> 00:19:27,720
+a limit as to how much water vapor can
+
+408
+00:19:24,630 --> 00:19:29,399
+exist in it in any given time and so we
+
+409
+00:19:27,720 --> 00:19:34,679
+have a term for this it's called
+
+410
+00:19:29,399 --> 00:19:38,190
+saturation so what that means if we talk
+
+411
+00:19:34,679 --> 00:19:40,460
+about the air is reached saturation or
+
+412
+00:19:38,190 --> 00:19:47,279
+maybe we might say the air is saturated
+
+413
+00:19:40,460 --> 00:19:58,649
+what that means is that the air can no
+
+414
+00:19:47,279 --> 00:20:00,480
+longer hold any more water vapor so this
+
+415
+00:19:58,649 --> 00:20:02,610
+is critical because what this means is
+
+416
+00:20:00,480 --> 00:20:05,700
+that there's a limit is a limit as to
+
+417
+00:20:02,610 --> 00:20:09,870
+how much water can be in the air at any
+
+418
+00:20:05,700 --> 00:20:11,159
+given time now on learn or again if
+
+419
+00:20:09,870 --> 00:20:15,090
+you're coming here from somewhere else
+
+420
+00:20:11,159 --> 00:20:17,909
+on my website there is a graph that I
+
+421
+00:20:15,090 --> 00:20:21,000
+want you now to look at so go ahead and
+
+422
+00:20:17,909 --> 00:20:23,159
+download that and we're gonna look at
+
+423
+00:20:21,000 --> 00:20:27,440
+this graph together it's a it's a table
+
+424
+00:20:23,159 --> 00:20:32,580
+of numbers with a curve looks like this
+
+425
+00:20:27,440 --> 00:20:34,740
+so this table on the left so the very
+
+426
+00:20:32,580 --> 00:20:37,320
+left-hand column says air temperature
+
+427
+00:20:34,740 --> 00:20:39,570
+and fahrenheit in this column here says
+
+428
+00:20:37,320 --> 00:20:42,929
+maximum possible mixing ratio at this
+
+429
+00:20:39,570 --> 00:20:46,350
+temperature so what it's showing is that
+
+430
+00:20:42,929 --> 00:20:48,539
+if it let's say it's 70 degrees and
+
+431
+00:20:46,350 --> 00:20:53,039
+we've got our plastic box idea right
+
+432
+00:20:48,539 --> 00:20:56,159
+it's 70 degrees in one kilogram of air
+
+433
+00:20:53,039 --> 00:20:58,080
+the absolute most water vapor that you
+
+434
+00:20:56,159 --> 00:21:03,390
+could evaporate into one kilogram of
+
+435
+00:20:58,080 --> 00:21:05,730
+bear is 19 point 12 grams so this is 19
+
+436
+00:21:03,390 --> 00:21:08,909
+point 12 grams per kilogram so in one
+
+437
+00:21:05,730 --> 00:21:11,549
+box of air one kilogram box the this is
+
+438
+00:21:08,909 --> 00:21:14,130
+the limit as to how much water that air
+
+439
+00:21:11,549 --> 00:21:17,280
+could hold and you'll notice that as I
+
+440
+00:21:14,130 --> 00:21:22,139
+increase the temperature the numbers get
+
+441
+00:21:17,280 --> 00:21:26,580
+higher lower temperatures numbers get
+
+442
+00:21:22,139 --> 00:21:28,139
+lower and in fact this graph is what you
+
+443
+00:21:26,580 --> 00:21:29,940
+would get if you were to graph these
+
+444
+00:21:28,139 --> 00:21:32,330
+numbers it would look like this we got
+
+445
+00:21:29,940 --> 00:21:37,320
+temperature on the x-axis we've gotten
+
+446
+00:21:32,330 --> 00:21:40,559
+maximum mixing ratio on the y-axis so
+
+447
+00:21:37,320 --> 00:21:43,169
+what this is telling us this is actually
+
+448
+00:21:40,559 --> 00:21:46,200
+one of the most fundamental laws in
+
+449
+00:21:43,169 --> 00:21:49,320
+weather this idea that temperature
+
+450
+00:21:46,200 --> 00:21:52,950
+controls how much water could be in the
+
+451
+00:21:49,320 --> 00:21:54,929
+air at any given time what this is
+
+452
+00:21:52,950 --> 00:21:59,580
+saying is that if you increase the
+
+453
+00:21:54,929 --> 00:22:02,789
+temperature you the air could have more
+
+454
+00:21:59,580 --> 00:22:04,480
+and more water vapor in it it doesn't
+
+455
+00:22:02,789 --> 00:22:08,400
+mean it has to have that
+
+456
+00:22:04,480 --> 00:22:15,190
+this is a maximum possible mixing ratio
+
+457
+00:22:08,400 --> 00:22:19,419
+so let's say it's 80 degrees right so 80
+
+458
+00:22:15,190 --> 00:22:22,750
+degrees the maximum I could have is 27
+
+459
+00:22:19,419 --> 00:22:23,980
+grams per kilogram could I have less
+
+460
+00:22:22,750 --> 00:22:26,590
+than that yes
+
+461
+00:22:23,980 --> 00:22:28,720
+how much less could I have zero sure I
+
+462
+00:22:26,590 --> 00:22:31,809
+could have zero but I can't have more
+
+463
+00:22:28,720 --> 00:22:34,870
+that's what this means notice as you go
+
+464
+00:22:31,809 --> 00:22:37,210
+down into colder and colder temperatures
+
+465
+00:22:34,870 --> 00:22:38,830
+the numbers get smaller and smaller or
+
+466
+00:22:37,210 --> 00:22:41,470
+we get down into this graph let's say
+
+467
+00:22:38,830 --> 00:22:46,090
+it's zero degrees Fahrenheit here zero
+
+468
+00:22:41,470 --> 00:22:49,630
+right so at zero the maximum I could
+
+469
+00:22:46,090 --> 00:22:53,590
+have is about a little over one gram per
+
+470
+00:22:49,630 --> 00:22:56,110
+kilogram so even if the air saturated
+
+471
+00:22:53,590 --> 00:22:58,900
+even if it's completely maxed out the
+
+472
+00:22:56,110 --> 00:23:03,040
+most I could have is a little bit more
+
+473
+00:22:58,900 --> 00:23:05,650
+than one gram per kilogram so this is
+
+474
+00:23:03,040 --> 00:23:11,559
+critical because what this means is that
+
+475
+00:23:05,650 --> 00:23:13,750
+cold air is always dry air even if it's
+
+476
+00:23:11,559 --> 00:23:18,540
+saturated even if it's completely maxed
+
+477
+00:23:13,750 --> 00:23:21,820
+out it's still dry I look down here
+
+478
+00:23:18,540 --> 00:23:23,320
+temperature is a minus 20 minus 40 right
+
+479
+00:23:21,820 --> 00:23:25,720
+or on this table
+
+480
+00:23:23,320 --> 00:23:29,590
+you've got really tiny mixing ratios
+
+481
+00:23:25,720 --> 00:23:32,590
+that are possible so one of the rules
+
+482
+00:23:29,590 --> 00:23:35,710
+and weather and climate is we're going
+
+483
+00:23:32,590 --> 00:23:39,360
+to get into is cold air always dry air
+
+484
+00:23:35,710 --> 00:23:45,280
+always no there's no way around that
+
+485
+00:23:39,360 --> 00:23:47,559
+however hot air could be humid it could
+
+486
+00:23:45,280 --> 00:23:50,260
+have high mixing ratios but it doesn't
+
+487
+00:23:47,559 --> 00:23:53,620
+have to all right so it could be very
+
+488
+00:23:50,260 --> 00:23:55,870
+low or it could be very high but cold
+
+489
+00:23:53,620 --> 00:24:00,700
+air absolutely has to be dry air no
+
+490
+00:23:55,870 --> 00:24:02,679
+matter what all right so we can see the
+
+491
+00:24:00,700 --> 00:24:05,380
+effects that temperature has on humidity
+
+492
+00:24:02,679 --> 00:24:07,799
+if we look at the earth as a whole so
+
+493
+00:24:05,380 --> 00:24:11,350
+I've gone to the site earth null
+
+494
+00:24:07,799 --> 00:24:13,530
+Schoolnet and this is a visualization
+
+495
+00:24:11,350 --> 00:24:15,520
+tool that shows us the current weather
+
+496
+00:24:13,530 --> 00:24:18,070
+all over
+
+497
+00:24:15,520 --> 00:24:20,860
+and I'm gonna click the word earth and
+
+498
+00:24:18,070 --> 00:24:24,309
+I'm gonna pick an overlay it says tpw
+
+499
+00:24:20,860 --> 00:24:25,929
+that's for total precipitable water and
+
+500
+00:24:24,309 --> 00:24:28,510
+what this is going to show us is it's
+
+501
+00:24:25,929 --> 00:24:30,490
+going to show us that the how much water
+
+502
+00:24:28,510 --> 00:24:34,570
+is in the atmosphere mm-hmm and there's
+
+503
+00:24:30,490 --> 00:24:37,210
+no numbers here but to the left on the
+
+504
+00:24:34,570 --> 00:24:41,410
+scale the brown that's very very dry air
+
+505
+00:24:37,210 --> 00:24:43,540
+and then as you get more humidity more
+
+506
+00:24:41,410 --> 00:24:45,370
+water vapor it turns more blue than
+
+507
+00:24:43,540 --> 00:24:48,010
+light blue and then kind of this white
+
+508
+00:24:45,370 --> 00:24:52,300
+color I'm gonna click the word earth to
+
+509
+00:24:48,010 --> 00:24:54,490
+make that disappear and so I can rotate
+
+510
+00:24:52,300 --> 00:24:57,100
+the earth around and look at where most
+
+511
+00:24:54,490 --> 00:24:59,500
+of the water vapor is on the planet and
+
+512
+00:24:57,100 --> 00:25:03,910
+what I see is that there's this big band
+
+513
+00:24:59,500 --> 00:25:08,320
+of really high humidity air that that's
+
+514
+00:25:03,910 --> 00:25:11,559
+typically found around the equator so as
+
+515
+00:25:08,320 --> 00:25:13,660
+you probably know it's usually pretty
+
+516
+00:25:11,559 --> 00:25:18,040
+hot at the equator and it's sitting over
+
+517
+00:25:13,660 --> 00:25:20,380
+this open body of warm water and because
+
+518
+00:25:18,040 --> 00:25:24,970
+of that the mixing ratios there are
+
+519
+00:25:20,380 --> 00:25:27,550
+usually very high on the other hand if I
+
+520
+00:25:24,970 --> 00:25:32,320
+turn this around say we could look at
+
+521
+00:25:27,550 --> 00:25:35,710
+Arctica and and Arctica is very dry
+
+522
+00:25:32,320 --> 00:25:37,270
+because it is very cold right and so
+
+523
+00:25:35,710 --> 00:25:40,420
+both of the poles of the earth are
+
+524
+00:25:37,270 --> 00:25:42,520
+pretty cold but Antarctica is even more
+
+525
+00:25:40,420 --> 00:25:44,740
+cold because not only is that the South
+
+526
+00:25:42,520 --> 00:25:47,410
+Pole the South Pole is about a mile
+
+527
+00:25:44,740 --> 00:25:49,660
+above sea level so it's much colder than
+
+528
+00:25:47,410 --> 00:25:53,080
+North Pole and we see it's very Brown
+
+529
+00:25:49,660 --> 00:25:55,870
+very dry air here but we can also see
+
+530
+00:25:53,080 --> 00:25:59,320
+some other effects like if I go to let's
+
+531
+00:25:55,870 --> 00:26:02,830
+go over here to South America and you'll
+
+532
+00:25:59,320 --> 00:26:05,770
+see that there's this brown blob right
+
+533
+00:26:02,830 --> 00:26:08,800
+here so I'll zoom in a little bit there
+
+534
+00:26:05,770 --> 00:26:11,830
+so this is all the amazon basin here so
+
+535
+00:26:08,800 --> 00:26:14,920
+think about tropical rainforest right so
+
+536
+00:26:11,830 --> 00:26:18,580
+pretty humid here but what's this why is
+
+537
+00:26:14,920 --> 00:26:20,860
+this so dry right here so that's a very
+
+538
+00:26:18,580 --> 00:26:24,820
+tall mountain chain called the Andes and
+
+539
+00:26:20,860 --> 00:26:26,919
+so high elevation is usually colder
+
+540
+00:26:24,820 --> 00:26:29,540
+temperatures colder temperatures mean
+
+541
+00:26:26,919 --> 00:26:31,820
+drier air so we've got
+
+542
+00:26:29,540 --> 00:26:35,000
+well the really dry air here next to
+
+543
+00:26:31,820 --> 00:26:36,560
+pretty humid air and we can see this in
+
+544
+00:26:35,000 --> 00:26:38,930
+several other places in the world and
+
+545
+00:26:36,560 --> 00:26:40,820
+again if you do this yourself you'll see
+
+546
+00:26:38,930 --> 00:26:42,470
+slightly different patterns than I'm
+
+547
+00:26:40,820 --> 00:26:44,600
+seen depending on what time of year
+
+548
+00:26:42,470 --> 00:26:46,550
+you're looking it's winter in the
+
+549
+00:26:44,600 --> 00:26:51,590
+northern hemisphere right now so we see
+
+550
+00:26:46,550 --> 00:26:53,030
+a lot of dry air over the continents the
+
+551
+00:26:51,590 --> 00:26:56,000
+cold air that's coming down from near
+
+552
+00:26:53,030 --> 00:26:58,790
+the North Pole so look at someone closer
+
+553
+00:26:56,000 --> 00:27:03,680
+to home here yeah we're all still pretty
+
+554
+00:26:58,790 --> 00:27:05,240
+dry here so overall if you just kind of
+
+555
+00:27:03,680 --> 00:27:08,210
+look at the earth as a whole you will
+
+556
+00:27:05,240 --> 00:27:10,970
+see that we've got a band of pretty
+
+557
+00:27:08,210 --> 00:27:16,790
+humid air around the equator and pretty
+
+558
+00:27:10,970 --> 00:27:18,350
+dry on the north and south poles okay
+
+559
+00:27:16,790 --> 00:27:20,240
+we're going to do a little thought
+
+560
+00:27:18,350 --> 00:27:23,450
+experiment here so let's go back to this
+
+561
+00:27:20,240 --> 00:27:25,610
+idea of having a box of air I got one
+
+562
+00:27:23,450 --> 00:27:29,480
+kilogram of air and there's water
+
+563
+00:27:25,610 --> 00:27:31,610
+molecules floating around inside the air
+
+564
+00:27:29,480 --> 00:27:34,100
+in this box and I happen to know that
+
+565
+00:27:31,610 --> 00:27:37,400
+the mixing ratio is nine point two four
+
+566
+00:27:34,100 --> 00:27:39,710
+grams per kilogram okay I also happen to
+
+567
+00:27:37,400 --> 00:27:43,340
+know that the temperature of the air in
+
+568
+00:27:39,710 --> 00:27:45,710
+this box is 70 degrees so one question I
+
+569
+00:27:43,340 --> 00:27:49,220
+could ask could I add more water
+
+570
+00:27:45,710 --> 00:27:52,820
+molecules to the air inside the box so
+
+571
+00:27:49,220 --> 00:27:54,950
+if I go to this table and I look at 70
+
+572
+00:27:52,820 --> 00:27:58,850
+degrees it says the maximum possible
+
+573
+00:27:54,950 --> 00:28:03,290
+mixing ratio at 17 degrees is 19 point
+
+574
+00:27:58,850 --> 00:28:05,930
+12 I'm only at nine point two four so I
+
+575
+00:28:03,290 --> 00:28:08,810
+could definitely add more water to the
+
+576
+00:28:05,930 --> 00:28:10,520
+air inside this box okay but we're going
+
+577
+00:28:08,810 --> 00:28:12,770
+to do something different actually we're
+
+578
+00:28:10,520 --> 00:28:16,070
+gonna cool it down so let's imagine that
+
+579
+00:28:12,770 --> 00:28:21,820
+I start to cool this box down so it's at
+
+580
+00:28:16,070 --> 00:28:27,370
+70 and I start to cool down to 65 to 60
+
+581
+00:28:21,820 --> 00:28:31,790
+to 55 and notice what happens on our
+
+582
+00:28:27,370 --> 00:28:35,450
+list of numbers here as I go down from
+
+583
+00:28:31,790 --> 00:28:38,690
+72 65 to 60 to 55 the maximum possible
+
+584
+00:28:35,450 --> 00:28:42,350
+mixing ratio is also going down right so
+
+585
+00:28:38,690 --> 00:28:45,440
+if I get down to 50
+
+586
+00:28:42,350 --> 00:28:48,260
+while 50 the maximum possible mixing
+
+587
+00:28:45,440 --> 00:28:52,100
+ratio is nine point two four grams per
+
+588
+00:28:48,260 --> 00:28:55,190
+kilogram which is exactly what I have so
+
+589
+00:28:52,100 --> 00:28:59,630
+if I cool this down from 70 to 50 when I
+
+590
+00:28:55,190 --> 00:29:02,030
+get to 50 at that point the air is
+
+591
+00:28:59,630 --> 00:29:06,950
+saturated it can't hold any more water
+
+592
+00:29:02,030 --> 00:29:09,260
+vapor okay now let's say I cool it
+
+593
+00:29:06,950 --> 00:29:13,940
+further so I'm gonna cool it all the way
+
+594
+00:29:09,260 --> 00:29:16,400
+down to 45 let's say well the maximum
+
+595
+00:29:13,940 --> 00:29:18,610
+possible mixing wish' at forty five is
+
+596
+00:29:16,400 --> 00:29:22,429
+seven point six four grams per kilogram
+
+597
+00:29:18,610 --> 00:29:25,400
+but I'm at nine point two four so as I
+
+598
+00:29:22,429 --> 00:29:28,190
+cool it down to forty five I've got to
+
+599
+00:29:25,400 --> 00:29:31,700
+lose about two and a half or so grams of
+
+600
+00:29:28,190 --> 00:29:34,010
+water so as soon as I get down to 50 in
+
+601
+00:29:31,700 --> 00:29:39,440
+the air becomes saturated as I COO it
+
+602
+00:29:34,010 --> 00:29:43,309
+further water molecules have to come out
+
+603
+00:29:39,440 --> 00:29:46,669
+of the vapor state out of the air and
+
+604
+00:29:43,309 --> 00:29:48,260
+they will collect on the bottom or the
+
+605
+00:29:46,669 --> 00:29:52,309
+size of this box
+
+606
+00:29:48,260 --> 00:29:55,940
+so whether nature requires that all my
+
+607
+00:29:52,309 --> 00:29:58,039
+little water molecules the extras have
+
+608
+00:29:55,940 --> 00:30:02,809
+to come out and they will start to
+
+609
+00:29:58,039 --> 00:30:07,880
+collect in these clusters on the inside
+
+610
+00:30:02,809 --> 00:30:11,120
+of the box and the transition from the
+
+611
+00:30:07,880 --> 00:30:19,210
+vapor state to these clusters of liquid
+
+612
+00:30:11,120 --> 00:30:23,360
+we call that condensation right okay so
+
+613
+00:30:19,210 --> 00:30:25,220
+condensation occurs at 50 degrees and as
+
+614
+00:30:23,360 --> 00:30:28,520
+we cool it further and further and
+
+615
+00:30:25,220 --> 00:30:30,919
+further we will continue to pull water
+
+616
+00:30:28,520 --> 00:30:36,020
+out of the air as required by the
+
+617
+00:30:30,919 --> 00:30:37,549
+numbers that are in this table so let me
+
+618
+00:30:36,020 --> 00:30:42,049
+show this to you a slightly different
+
+619
+00:30:37,549 --> 00:30:45,380
+way and imagine here I've got just an
+
+620
+00:30:42,049 --> 00:30:47,059
+image of water molecules here floating
+
+621
+00:30:45,380 --> 00:30:52,520
+around we don't know how many there are
+
+622
+00:30:47,059 --> 00:30:55,370
+and it's 80 degrees outside right so I
+
+623
+00:30:52,520 --> 00:30:55,910
+start to cool it say Sun Goes Down this
+
+624
+00:30:55,370 --> 00:30:58,690
+is air
+
+625
+00:30:55,910 --> 00:31:02,150
+outside Sun Goes Down starts to cool and
+
+626
+00:30:58,690 --> 00:31:05,060
+cools and it cools and it cools and if
+
+627
+00:31:02,150 --> 00:31:07,910
+it cools enough eventually we're gonna
+
+628
+00:31:05,060 --> 00:31:11,780
+reach the saturation point and when we
+
+629
+00:31:07,910 --> 00:31:14,380
+do when we reach that saturation point
+
+630
+00:31:11,780 --> 00:31:19,910
+and then we continue to COO it further
+
+631
+00:31:14,380 --> 00:31:22,130
+we would start making condensation so
+
+632
+00:31:19,910 --> 00:31:25,310
+right here we've got the 65 degrees
+
+633
+00:31:22,130 --> 00:31:27,800
+we're making condensation this is not
+
+634
+00:31:25,310 --> 00:31:31,400
+rain this is water that's coming out as
+
+635
+00:31:27,800 --> 00:31:33,770
+drops on the surface and at that point
+
+636
+00:31:31,400 --> 00:31:37,370
+they are saturated and what we have just
+
+637
+00:31:33,770 --> 00:31:40,190
+made is something called do right so
+
+638
+00:31:37,370 --> 00:31:41,600
+these droplets and I have to show
+
+639
+00:31:40,190 --> 00:31:43,490
+pictures of this to people that live in
+
+640
+00:31:41,600 --> 00:31:45,830
+New Mexico because our air is so dry
+
+641
+00:31:43,490 --> 00:31:49,370
+that this only happens a few times a
+
+642
+00:31:45,830 --> 00:31:52,670
+year but when it does happen the dew
+
+643
+00:31:49,370 --> 00:31:54,980
+droplets typically form on the grass and
+
+644
+00:31:52,670 --> 00:31:59,140
+the reason is because the grass is very
+
+645
+00:31:54,980 --> 00:32:02,240
+thin and thin things cool off first so
+
+646
+00:31:59,140 --> 00:32:04,700
+these are do droplets that form one that
+
+647
+00:32:02,240 --> 00:32:07,490
+when the air was cooled down to the
+
+648
+00:32:04,700 --> 00:32:11,480
+point that saturation occurs and cooled
+
+649
+00:32:07,490 --> 00:32:15,020
+even further below that so if we go back
+
+650
+00:32:11,480 --> 00:32:18,380
+to this idea this temperature at which
+
+651
+00:32:15,020 --> 00:32:27,760
+this happened in our box this has a name
+
+652
+00:32:18,380 --> 00:32:27,760
+this is called the dew point temperature
+
+653
+00:32:30,130 --> 00:32:41,780
+or sometimes because we're lazy we just
+
+654
+00:32:34,430 --> 00:32:44,240
+call it the dew point so you've actually
+
+655
+00:32:41,780 --> 00:32:46,790
+done this experiment yourself you've
+
+656
+00:32:44,240 --> 00:32:48,890
+taken at some point probably leftovers
+
+657
+00:32:46,790 --> 00:32:50,720
+leftover food you put it in the
+
+658
+00:32:48,890 --> 00:32:53,180
+Tupperware you put the Tupperware in the
+
+659
+00:32:50,720 --> 00:32:56,000
+refrigerator and you come back the next
+
+660
+00:32:53,180 --> 00:32:57,410
+day and you pull it out and when you
+
+661
+00:32:56,000 --> 00:33:00,020
+take the lid off you'll notice there's a
+
+662
+00:32:57,410 --> 00:33:02,600
+bunch of little drops on the inside of
+
+663
+00:33:00,020 --> 00:33:04,910
+the lid that weren't there when you put
+
+664
+00:33:02,600 --> 00:33:07,440
+the food in the refrigerator so what
+
+665
+00:33:04,910 --> 00:33:09,030
+happened there is you
+
+666
+00:33:07,440 --> 00:33:11,940
+when you put it into the refrigerator
+
+667
+00:33:09,030 --> 00:33:14,070
+the air that was in that container had a
+
+668
+00:33:11,940 --> 00:33:16,560
+higher mixing ratio than it was allowed
+
+669
+00:33:14,070 --> 00:33:21,300
+by the temperature of the refrigerator
+
+670
+00:33:16,560 --> 00:33:23,700
+so you actually may do in that box in
+
+671
+00:33:21,300 --> 00:33:32,220
+the refrigerator now if we go back to
+
+672
+00:33:23,700 --> 00:33:35,970
+this case this example here here because
+
+673
+00:33:32,220 --> 00:33:38,730
+our we notice the condensation occurred
+
+674
+00:33:35,970 --> 00:33:42,060
+at 65 degrees on this particular night
+
+675
+00:33:38,730 --> 00:33:44,190
+we could conclude from that that the dew
+
+676
+00:33:42,060 --> 00:33:46,680
+point temperature was 65 that's when we
+
+677
+00:33:44,190 --> 00:33:48,810
+still saw condensation first start to
+
+678
+00:33:46,680 --> 00:33:52,260
+form now let's say I do this another
+
+679
+00:33:48,810 --> 00:33:54,540
+night and I've got less water vapor to
+
+680
+00:33:52,260 --> 00:33:56,670
+start with right so there's less water
+
+681
+00:33:54,540 --> 00:33:59,100
+molecules in the air than there was in
+
+682
+00:33:56,670 --> 00:34:01,890
+this first example it's 80 degrees again
+
+683
+00:33:59,100 --> 00:34:04,500
+and I cool it down and I cool it down
+
+684
+00:34:01,890 --> 00:34:06,810
+and I cool it down the last time we hit
+
+685
+00:34:04,500 --> 00:34:09,390
+the dew point here but we've got less
+
+686
+00:34:06,810 --> 00:34:12,000
+water now so that means I can cool it
+
+687
+00:34:09,390 --> 00:34:15,060
+further before I actually reach
+
+688
+00:34:12,000 --> 00:34:16,980
+saturation so in this case I cool it all
+
+689
+00:34:15,060 --> 00:34:19,590
+the way down the 50 degrees until I
+
+690
+00:34:16,980 --> 00:34:23,340
+finally see that the water molecules
+
+691
+00:34:19,590 --> 00:34:26,340
+start to condensate out as do so from
+
+692
+00:34:23,340 --> 00:34:28,800
+here what we could can conclude is that
+
+693
+00:34:26,340 --> 00:34:34,640
+the dew point is 50 degrees because
+
+694
+00:34:28,800 --> 00:34:37,440
+that's when condensation occurs so
+
+695
+00:34:34,640 --> 00:34:41,730
+mixing ratio is one way that humidity is
+
+696
+00:34:37,440 --> 00:34:43,530
+reported the other way is dew point so
+
+697
+00:34:41,730 --> 00:34:46,620
+in a weather report they'll often give
+
+698
+00:34:43,530 --> 00:34:50,370
+the dew point as a way to represent the
+
+699
+00:34:46,620 --> 00:34:52,740
+humidity in the way that works low dew
+
+700
+00:34:50,370 --> 00:34:54,660
+point means there's less water vapor in
+
+701
+00:34:52,740 --> 00:34:57,330
+the air which means the air is pretty
+
+702
+00:34:54,660 --> 00:34:59,790
+dry high dew point means there's more
+
+703
+00:34:57,330 --> 00:35:04,910
+water vapor in the air which means that
+
+704
+00:34:59,790 --> 00:35:07,320
+air has is more generally more humid so
+
+705
+00:35:04,910 --> 00:35:09,810
+the other way to think about dew point
+
+706
+00:35:07,320 --> 00:35:11,430
+is that it describes the temperature at
+
+707
+00:35:09,810 --> 00:35:14,100
+which the atmosphere becomes saturated
+
+708
+00:35:11,430 --> 00:35:15,930
+so if I tell you let's say tonight I say
+
+709
+00:35:14,100 --> 00:35:18,200
+we check the weather and the weather
+
+710
+00:35:15,930 --> 00:35:20,340
+report says the dew point is 45 degrees
+
+711
+00:35:18,200 --> 00:35:21,210
+one of the bits of information that
+
+712
+00:35:20,340 --> 00:35:24,240
+tells us
+
+713
+00:35:21,210 --> 00:35:26,580
+is that if we cool it down the 45
+
+714
+00:35:24,240 --> 00:35:30,270
+tonight we will get do right we'll we'll
+
+715
+00:35:26,580 --> 00:35:33,060
+get saturation so here's an example of
+
+716
+00:35:30,270 --> 00:35:37,140
+how we might use dewpoint so this is a
+
+717
+00:35:33,060 --> 00:35:40,020
+map and this map has temperatures of dew
+
+718
+00:35:37,140 --> 00:35:41,580
+points in degrees Fahrenheit and you can
+
+719
+00:35:40,020 --> 00:35:43,349
+see that over here in the southeast
+
+720
+00:35:41,580 --> 00:35:46,230
+they've got dew points that are in the
+
+721
+00:35:43,349 --> 00:35:47,970
+60s and 70s over here in our neck of the
+
+722
+00:35:46,230 --> 00:35:51,359
+woods we have dew points that are in the
+
+723
+00:35:47,970 --> 00:35:54,839
+20s so that tells you there's a lot more
+
+724
+00:35:51,359 --> 00:35:58,050
+water vapor in the air over here then
+
+725
+00:35:54,839 --> 00:36:01,500
+there is where we live another way to
+
+726
+00:35:58,050 --> 00:36:06,510
+think about this so if you lived say in
+
+727
+00:36:01,500 --> 00:36:08,640
+Florida if it got down to the 60s at
+
+728
+00:36:06,510 --> 00:36:11,520
+night you would get do right because the
+
+729
+00:36:08,640 --> 00:36:14,310
+dew point here is like 65 here it's 70
+
+730
+00:36:11,520 --> 00:36:17,760
+if you lived over here you'd have to
+
+731
+00:36:14,310 --> 00:36:20,310
+have temperatures down below 25 if
+
+732
+00:36:17,760 --> 00:36:23,720
+you're in the red zone or below 20 if
+
+733
+00:36:20,310 --> 00:36:26,790
+you're in the yellow zone by the way
+
+734
+00:36:23,720 --> 00:36:28,740
+what happens when you get dew points
+
+735
+00:36:26,790 --> 00:36:31,320
+below freezing
+
+736
+00:36:28,740 --> 00:36:33,260
+if the dew point is below 32 degrees
+
+737
+00:36:31,320 --> 00:36:35,940
+Fahrenheit or zero degrees centigrade
+
+738
+00:36:33,260 --> 00:36:38,880
+then that means that in order to get do
+
+739
+00:36:35,940 --> 00:36:40,470
+you've got to get it below freezing but
+
+740
+00:36:38,880 --> 00:36:43,020
+you're not going to get liquid what
+
+741
+00:36:40,470 --> 00:36:45,570
+you'll get is frost and frost looks the
+
+742
+00:36:43,020 --> 00:36:47,430
+same it's little sparkles on the grass
+
+743
+00:36:45,570 --> 00:36:49,710
+at night that's when the dew point is
+
+744
+00:36:47,430 --> 00:36:51,390
+below freezing and you manage to cool it
+
+745
+00:36:49,710 --> 00:36:53,640
+below freezing but it's the same idea
+
+746
+00:36:51,390 --> 00:36:56,099
+and in the winter this is a lot more
+
+747
+00:36:53,640 --> 00:36:58,619
+common you may have scraped ice off your
+
+748
+00:36:56,099 --> 00:37:01,080
+windshield that's what's happening
+
+749
+00:36:58,619 --> 00:37:02,970
+it's you've reached saturation but the
+
+750
+00:37:01,080 --> 00:37:06,990
+saturation point was below freezing and
+
+751
+00:37:02,970 --> 00:37:12,240
+your windshield is thin you know cools
+
+752
+00:37:06,990 --> 00:37:14,910
+off first another way that we actually
+
+753
+00:37:12,240 --> 00:37:16,859
+use dew point a lot in New Mexico is to
+
+754
+00:37:14,910 --> 00:37:19,560
+monitor the monsoon and we'll talk about
+
+755
+00:37:16,859 --> 00:37:21,150
+the monsoon in later lectures but this
+
+756
+00:37:19,560 --> 00:37:23,430
+is something called the dew point
+
+757
+00:37:21,150 --> 00:37:26,280
+tracker and so if you look at this on
+
+758
+00:37:23,430 --> 00:37:31,500
+the x-axis these are dates there's June
+
+759
+00:37:26,280 --> 00:37:33,630
+first and then there's July 1st and the
+
+760
+00:37:31,500 --> 00:37:34,230
+ignore everything except the blue line
+
+761
+00:37:33,630 --> 00:37:36,839
+for
+
+762
+00:37:34,230 --> 00:37:39,599
+the blue line is the dew point as
+
+763
+00:37:36,839 --> 00:37:43,800
+recorded at the airport here in
+
+764
+00:37:39,599 --> 00:37:46,440
+Albuquerque so when the blue numbers are
+
+765
+00:37:43,800 --> 00:37:48,599
+higher you have more water vapor in the
+
+766
+00:37:46,440 --> 00:37:51,300
+air you have higher dew points then
+
+767
+00:37:48,599 --> 00:37:53,280
+you'll see them drop that's low dew
+
+768
+00:37:51,300 --> 00:37:55,500
+points dew dew points are over here on
+
+769
+00:37:53,280 --> 00:37:56,970
+the on the y axis so here we got dew
+
+770
+00:37:55,500 --> 00:37:58,470
+points of like maybe five degrees
+
+771
+00:37:56,970 --> 00:38:01,740
+Fahrenheit they don't have units but
+
+772
+00:37:58,470 --> 00:38:04,200
+these are units of Fahrenheit so we had
+
+773
+00:38:01,740 --> 00:38:06,839
+really dry air right through here then
+
+774
+00:38:04,200 --> 00:38:08,849
+it got more humid then they got a little
+
+775
+00:38:06,839 --> 00:38:10,560
+bit drier then they got more humid again
+
+776
+00:38:08,849 --> 00:38:14,070
+and goes back and forth back and forth
+
+777
+00:38:10,560 --> 00:38:16,830
+but notice that once we get into July we
+
+778
+00:38:14,070 --> 00:38:17,990
+have pretty high dew points for almost
+
+779
+00:38:16,830 --> 00:38:21,089
+the entire summer
+
+780
+00:38:17,990 --> 00:38:24,960
+now this graph stops in August 22nd
+
+781
+00:38:21,089 --> 00:38:27,390
+which is when they made this one look
+
+782
+00:38:24,960 --> 00:38:30,080
+for a minute at the red curve the red
+
+783
+00:38:27,390 --> 00:38:33,359
+curve is what you get if you were to
+
+784
+00:38:30,080 --> 00:38:36,330
+average out all of the monsoons that
+
+785
+00:38:33,359 --> 00:38:40,589
+have happened in the past 30 years and
+
+786
+00:38:36,330 --> 00:38:42,720
+if you do so on average in Albuquerque
+
+787
+00:38:40,589 --> 00:38:46,680
+what happens is the dew point starts to
+
+788
+00:38:42,720 --> 00:38:49,080
+rise in the spring and once it rises
+
+789
+00:38:46,680 --> 00:38:54,210
+past this Green Line this Green Line is
+
+790
+00:38:49,080 --> 00:38:56,790
+47 degrees it rises past this this Green
+
+791
+00:38:54,210 --> 00:38:58,890
+Line for three consecutive days we
+
+792
+00:38:56,790 --> 00:39:02,250
+declare that the monsoon has officially
+
+793
+00:38:58,890 --> 00:39:04,589
+started and then on average again we're
+
+794
+00:39:02,250 --> 00:39:07,560
+looking at the red one on average the
+
+795
+00:39:04,589 --> 00:39:09,660
+red line stays above this green line and
+
+796
+00:39:07,560 --> 00:39:12,390
+it starts to dip back below the Green
+
+797
+00:39:09,660 --> 00:39:16,080
+Line in the middle of September and then
+
+798
+00:39:12,390 --> 00:39:18,119
+we go into the fall so dew point is one
+
+799
+00:39:16,080 --> 00:39:20,760
+of the things that we use to monitor the
+
+800
+00:39:18,119 --> 00:39:24,119
+monsoon activity when we have high dew
+
+801
+00:39:20,760 --> 00:39:26,250
+points that's usually coincides with
+
+802
+00:39:24,119 --> 00:39:28,230
+what we call monsoon bursts we have a
+
+803
+00:39:26,250 --> 00:39:30,480
+lot of there's a lot of humidity in the
+
+804
+00:39:28,230 --> 00:39:32,520
+air a lot of water in the air and so
+
+805
+00:39:30,480 --> 00:39:34,920
+that's more conducive to precipitation
+
+806
+00:39:32,520 --> 00:39:37,619
+formation so when you see these spikes
+
+807
+00:39:34,920 --> 00:39:40,770
+here those are times when we probably
+
+808
+00:39:37,619 --> 00:39:43,920
+had more thunderstorms and more chances
+
+809
+00:39:40,770 --> 00:39:45,750
+of precipitation or sometimes we go into
+
+810
+00:39:43,920 --> 00:39:47,760
+what are called monsoon breaks and
+
+811
+00:39:45,750 --> 00:39:50,430
+that's what this is
+
+812
+00:39:47,760 --> 00:39:53,130
+so this dip here is a period where we
+
+813
+00:39:50,430 --> 00:39:56,250
+were in a very dry spell ative ly dry
+
+814
+00:39:53,130 --> 00:39:58,680
+air for the monsoon period and during
+
+815
+00:39:56,250 --> 00:40:01,650
+that time we probably saw very few of
+
+816
+00:39:58,680 --> 00:40:04,200
+any cumulonimbus very few thunderstorms
+
+817
+00:40:01,650 --> 00:40:06,869
+during that time so dew point is pretty
+
+818
+00:40:04,200 --> 00:40:13,140
+important here in New Mexico especially
+
+819
+00:40:06,869 --> 00:40:16,230
+during the monsoon season so dew point
+
+820
+00:40:13,140 --> 00:40:19,109
+is reported at pretty much all weather
+
+821
+00:40:16,230 --> 00:40:22,109
+stations report dew point it changes
+
+822
+00:40:19,109 --> 00:40:24,210
+throughout the year so in New Mexico
+
+823
+00:40:22,109 --> 00:40:27,869
+it's typically higher in the summer and
+
+824
+00:40:24,210 --> 00:40:30,109
+lower in the winter and one of the other
+
+825
+00:40:27,869 --> 00:40:33,150
+things that can change dew point
+
+826
+00:40:30,109 --> 00:40:38,010
+especially where we live is the wind
+
+827
+00:40:33,150 --> 00:40:41,190
+direction so we happen to live between
+
+828
+00:40:38,010 --> 00:40:44,490
+you know New Mexico's here and we've got
+
+829
+00:40:41,190 --> 00:40:46,710
+a pretty warm body of water down here
+
+830
+00:40:44,490 --> 00:40:48,720
+and we have a pretty cold body of water
+
+831
+00:40:46,710 --> 00:40:52,770
+over here right so let's say we've got
+
+832
+00:40:48,720 --> 00:40:54,510
+wind coming from the northwest where did
+
+833
+00:40:52,770 --> 00:40:56,070
+that wind come from well it came from
+
+834
+00:40:54,510 --> 00:40:58,560
+somewhere to the north where was
+
+835
+00:40:56,070 --> 00:41:02,820
+probably cold and cold air is always dry
+
+836
+00:40:58,560 --> 00:41:04,740
+air dry air low dew point so we have
+
+837
+00:41:02,820 --> 00:41:07,560
+wind's coming out of the West or the
+
+838
+00:41:04,740 --> 00:41:12,000
+north of the Northwest usually that
+
+839
+00:41:07,560 --> 00:41:13,950
+coincides with times of low dew point on
+
+840
+00:41:12,000 --> 00:41:16,020
+the other hand if the wind comes out of
+
+841
+00:41:13,950 --> 00:41:18,660
+the east or the southeast that's coming
+
+842
+00:41:16,020 --> 00:41:21,330
+from a location that was pretty warm big
+
+843
+00:41:18,660 --> 00:41:24,540
+warm body of water that's usually
+
+844
+00:41:21,330 --> 00:41:27,540
+conducive to high amounts of water vapor
+
+845
+00:41:24,540 --> 00:41:29,310
+in the air so usually for us if we have
+
+846
+00:41:27,540 --> 00:41:32,220
+wind that comes out of the East or the
+
+847
+00:41:29,310 --> 00:41:34,590
+southeast we usually get higher dew
+
+848
+00:41:32,220 --> 00:41:36,770
+points because we have more water in the
+
+849
+00:41:34,590 --> 00:41:36,770
+air
+
+850
+00:41:43,089 --> 00:41:45,150
+you
+

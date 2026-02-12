@@ -1,0 +1,5788 @@
+1
+00:00:06,080 --> 00:00:11,670
+hey guys this is Mel and this is our
+
+2
+00:00:09,480 --> 00:00:14,460
+last lecture in which I'm going to
+
+3
+00:00:11,670 --> 00:00:16,949
+review some of the things out of your
+
+4
+00:00:14,460 --> 00:00:20,250
+book that are going to be on the last
+
+5
+00:00:16,949 --> 00:00:22,350
+exam so we're gonna kind of skip around
+
+6
+00:00:20,250 --> 00:00:23,609
+on a few topics that I think might have
+
+7
+00:00:22,350 --> 00:00:25,949
+been a little bit confusing
+
+8
+00:00:23,609 --> 00:00:29,519
+all of this pertains a climate change
+
+9
+00:00:25,949 --> 00:00:31,380
+one way or the other so one of the
+
+10
+00:00:29,519 --> 00:00:35,160
+topics that they talked about in your
+
+11
+00:00:31,380 --> 00:00:38,520
+book was this idea of a climate model so
+
+12
+00:00:35,160 --> 00:00:41,280
+a climate model is really a computer
+
+13
+00:00:38,520 --> 00:00:43,829
+program a very complicated one in the
+
+14
+00:00:41,280 --> 00:00:48,059
+way that we think about it is imagine if
+
+15
+00:00:43,829 --> 00:00:50,730
+we took all of the ocean and broke it up
+
+16
+00:00:48,059 --> 00:00:52,500
+into little cubes and then we took the
+
+17
+00:00:50,730 --> 00:00:55,230
+surface of the land and broke it up into
+
+18
+00:00:52,500 --> 00:00:57,360
+little squares and then we took all of
+
+19
+00:00:55,230 --> 00:01:02,070
+the atmosphere and you broke those up
+
+20
+00:00:57,360 --> 00:01:05,369
+into cubes now we know all of the
+
+21
+00:01:02,070 --> 00:01:07,409
+physics that goes on inside each one of
+
+22
+00:01:05,369 --> 00:01:10,040
+these cubes in the atmosphere and inside
+
+23
+00:01:07,409 --> 00:01:13,020
+each one of the cubes in the ocean and
+
+24
+00:01:10,040 --> 00:01:14,970
+what the process is going on inside each
+
+25
+00:01:13,020 --> 00:01:17,580
+square over the land
+
+26
+00:01:14,970 --> 00:01:21,210
+so for each cube in the atmosphere for
+
+27
+00:01:17,580 --> 00:01:23,189
+example we know all the physics all the
+
+28
+00:01:21,210 --> 00:01:27,990
+thermodynamics all the fluid dynamics
+
+29
+00:01:23,189 --> 00:01:31,170
+etc that happens in each box and so what
+
+30
+00:01:27,990 --> 00:01:34,939
+we do is we make a computer program that
+
+31
+00:01:31,170 --> 00:01:38,310
+does the math that occurs within each
+
+32
+00:01:34,939 --> 00:01:40,829
+cube in the atmosphere and also each
+
+33
+00:01:38,310 --> 00:01:43,500
+cube in the ocean and then calculates
+
+34
+00:01:40,829 --> 00:01:46,500
+what's happening between the squares on
+
+35
+00:01:43,500 --> 00:01:48,390
+the continents and the cubes in the
+
+36
+00:01:46,500 --> 00:01:51,270
+atmosphere so it's doing exchange
+
+37
+00:01:48,390 --> 00:01:53,159
+calculation so here's an example I would
+
+38
+00:01:51,270 --> 00:01:57,630
+not expect you to know what any of this
+
+39
+00:01:53,159 --> 00:02:00,390
+math means that each cube of the
+
+40
+00:01:57,630 --> 00:02:03,240
+atmosphere we can solve all these
+
+41
+00:02:00,390 --> 00:02:07,140
+different things for each each single
+
+42
+00:02:03,240 --> 00:02:08,970
+cube now if we did this by hand if we
+
+43
+00:02:07,140 --> 00:02:10,830
+had enough time we could calculate all
+
+44
+00:02:08,970 --> 00:02:13,410
+the conditions and all the physics that
+
+45
+00:02:10,830 --> 00:02:13,830
+are going on inside one cube but we're
+
+46
+00:02:13,410 --> 00:02:16,050
+trying to
+
+47
+00:02:13,830 --> 00:02:18,120
+do this for the whole atmosphere so what
+
+48
+00:02:16,050 --> 00:02:20,790
+we do is we break the atmosphere up into
+
+49
+00:02:18,120 --> 00:02:22,620
+a bazillion little cubes and then we
+
+50
+00:02:20,790 --> 00:02:25,410
+have a really really fast computer
+
+51
+00:02:22,620 --> 00:02:28,560
+generally one that has many processors
+
+52
+00:02:25,410 --> 00:02:30,990
+and we assign one processor to each cube
+
+53
+00:02:28,560 --> 00:02:33,540
+so in other words it's like each cube
+
+54
+00:02:30,990 --> 00:02:38,760
+gets its own little computer that's part
+
+55
+00:02:33,540 --> 00:02:41,730
+of this big supercomputer so let's skip
+
+56
+00:02:38,760 --> 00:02:44,730
+that one here the biggest computers the
+
+57
+00:02:41,730 --> 00:02:47,730
+fastest computers in the world look
+
+58
+00:02:44,730 --> 00:02:50,550
+something like this and this this one
+
+59
+00:02:47,730 --> 00:02:53,100
+for a while was the fastest computer in
+
+60
+00:02:50,550 --> 00:02:54,750
+the world it's has not been that for for
+
+61
+00:02:53,100 --> 00:02:59,250
+some time now it was called the earth
+
+62
+00:02:54,750 --> 00:03:02,580
+simulator and all it did was run what we
+
+63
+00:02:59,250 --> 00:03:04,620
+call climate model so you program in all
+
+64
+00:03:02,580 --> 00:03:06,570
+of those equations for all those boxes
+
+65
+00:03:04,620 --> 00:03:10,650
+in the atmosphere and the ocean in the
+
+66
+00:03:06,570 --> 00:03:12,270
+land and then you essentially you know a
+
+67
+00:03:10,650 --> 00:03:15,060
+computer like this might have a couple
+
+68
+00:03:12,270 --> 00:03:17,850
+hundred thousand processors and you sign
+
+69
+00:03:15,060 --> 00:03:21,060
+a processor to each box and they're all
+
+70
+00:03:17,850 --> 00:03:23,700
+solving these equations simultaneously
+
+71
+00:03:21,060 --> 00:03:27,270
+so it takes a lot of computer power to
+
+72
+00:03:23,700 --> 00:03:29,100
+do this and so early computer models
+
+73
+00:03:27,270 --> 00:03:31,260
+back then they actually started this in
+
+74
+00:03:29,100 --> 00:03:34,620
+the 70s when computers were pretty slow
+
+75
+00:03:31,260 --> 00:03:36,989
+and then as the computers got faster our
+
+76
+00:03:34,620 --> 00:03:38,430
+climate models got better so one of the
+
+77
+00:03:36,989 --> 00:03:42,660
+things that has made our climate models
+
+78
+00:03:38,430 --> 00:03:44,280
+better is the size of the boxes has
+
+79
+00:03:42,660 --> 00:03:47,820
+gotten smaller so if you're trying to
+
+80
+00:03:44,280 --> 00:03:50,070
+simulate the atmosphere if you had were
+
+81
+00:03:47,820 --> 00:03:52,170
+giant boxes like if you subdivide the
+
+82
+00:03:50,070 --> 00:03:53,850
+the Earth's atmosphere into like 12
+
+83
+00:03:52,170 --> 00:03:57,060
+giant boxes that's not a very good
+
+84
+00:03:53,850 --> 00:03:59,220
+simulation they're smaller and smaller
+
+85
+00:03:57,060 --> 00:04:01,560
+you make the boxes the more realistic it
+
+86
+00:03:59,220 --> 00:04:04,020
+becomes but the more calculations are
+
+87
+00:04:01,560 --> 00:04:06,630
+required and the faster computer you
+
+88
+00:04:04,020 --> 00:04:07,950
+need to do this and so as our computers
+
+89
+00:04:06,630 --> 00:04:10,170
+have gotten faster our climate models
+
+90
+00:04:07,950 --> 00:04:16,260
+have gotten better so here's an example
+
+91
+00:04:10,170 --> 00:04:19,470
+of 1990s climate model so each Q was 270
+
+92
+00:04:16,260 --> 00:04:22,350
+by 270 kilometers well that's a pretty
+
+93
+00:04:19,470 --> 00:04:23,640
+big box and that's a that's the best
+
+94
+00:04:22,350 --> 00:04:26,070
+they could do of the computers at the
+
+95
+00:04:23,640 --> 00:04:27,660
+time but there could be a lot of things
+
+96
+00:04:26,070 --> 00:04:29,580
+going on inside that box
+
+97
+00:04:27,660 --> 00:04:31,200
+in the atmosphere that you would not be
+
+98
+00:04:29,580 --> 00:04:34,110
+able to simulate because your box is
+
+99
+00:04:31,200 --> 00:04:37,340
+simply too big so it when this slide was
+
+100
+00:04:34,110 --> 00:04:41,070
+made it says present day 135 by 135
+
+101
+00:04:37,340 --> 00:04:43,950
+today we have climate models that can do
+
+102
+00:04:41,070 --> 00:04:47,040
+30 kilometer by 30 kilometer boxes and
+
+103
+00:04:43,950 --> 00:04:49,620
+so today with today's fastest
+
+104
+00:04:47,040 --> 00:04:52,800
+supercomputers we can simulate the
+
+105
+00:04:49,620 --> 00:04:54,600
+atmosphere pretty well like we we are
+
+106
+00:04:52,800 --> 00:04:57,210
+box the boxes are small enough and the
+
+107
+00:04:54,600 --> 00:05:00,120
+math is tight enough that we do pretty
+
+108
+00:04:57,210 --> 00:05:03,690
+good simulations so once you have a
+
+109
+00:05:00,120 --> 00:05:06,300
+really good climate model that works you
+
+110
+00:05:03,690 --> 00:05:08,430
+can do different experiments with it and
+
+111
+00:05:06,300 --> 00:05:11,130
+this is there you have a diagram like
+
+112
+00:05:08,430 --> 00:05:13,710
+this in your book so let me try to
+
+113
+00:05:11,130 --> 00:05:16,230
+explain what this is a one of the IPCC
+
+114
+00:05:13,710 --> 00:05:20,580
+diagrams so let me try to explain what
+
+115
+00:05:16,230 --> 00:05:24,180
+they're doing here so imagine if you
+
+116
+00:05:20,580 --> 00:05:28,140
+went back to say the early 1900's and
+
+117
+00:05:24,180 --> 00:05:30,810
+you said ok we're going to change
+
+118
+00:05:28,140 --> 00:05:32,850
+history and humans are not going to add
+
+119
+00:05:30,810 --> 00:05:35,730
+any more greenhouse gases to the
+
+120
+00:05:32,850 --> 00:05:37,050
+atmosphere ok so what you would do in
+
+121
+00:05:35,730 --> 00:05:39,180
+your climate model is you would go
+
+122
+00:05:37,050 --> 00:05:41,220
+essentially back in time and say what
+
+123
+00:05:39,180 --> 00:05:45,060
+was the Earth's atmosphere look like
+
+124
+00:05:41,220 --> 00:05:47,880
+today modern time if we went back to the
+
+125
+00:05:45,060 --> 00:05:49,440
+early 1900's and we decided not to emit
+
+126
+00:05:47,880 --> 00:05:52,830
+greenhouse gases like what would have
+
+127
+00:05:49,440 --> 00:05:54,930
+happened and so the climate model cranks
+
+128
+00:05:52,830 --> 00:05:57,840
+away at the math and all those cubes and
+
+129
+00:05:54,930 --> 00:06:00,750
+it spits out an answer and then you can
+
+130
+00:05:57,840 --> 00:06:04,290
+go back and say ok what would the
+
+131
+00:06:00,750 --> 00:06:06,720
+climate be like today if we did put in
+
+132
+00:06:04,290 --> 00:06:08,190
+greenhouse gases and the computer cranks
+
+133
+00:06:06,720 --> 00:06:10,230
+it out and cranks out and spits out an
+
+134
+00:06:08,190 --> 00:06:11,820
+answer and we can compare those two
+
+135
+00:06:10,230 --> 00:06:15,900
+answers so this is kind of what they've
+
+136
+00:06:11,820 --> 00:06:18,810
+done here so let's look at this one here
+
+137
+00:06:15,900 --> 00:06:21,840
+that says global ok so there's a blue
+
+138
+00:06:18,810 --> 00:06:24,150
+envelope and the blue is kind of behind
+
+139
+00:06:21,840 --> 00:06:26,280
+the pink here from here to here and then
+
+140
+00:06:24,150 --> 00:06:29,040
+there's this pink and then there's this
+
+141
+00:06:26,280 --> 00:06:31,140
+black coin all right so they went back
+
+142
+00:06:29,040 --> 00:06:33,750
+to the early 1900's they asked the
+
+143
+00:06:31,140 --> 00:06:36,390
+supercomputer let's take out greenhouse
+
+144
+00:06:33,750 --> 00:06:38,910
+gasses that humans have added called
+
+145
+00:06:36,390 --> 00:06:40,520
+anthropogenic forcings that's what
+
+146
+00:06:38,910 --> 00:06:42,650
+they're calling it here
+
+147
+00:06:40,520 --> 00:06:44,780
+and let's just run this climate model
+
+148
+00:06:42,650 --> 00:06:46,460
+and see what it does and it spits out
+
+149
+00:06:44,780 --> 00:06:48,889
+now this is on the y-axis this is
+
+150
+00:06:46,460 --> 00:06:50,810
+temperature anomaly and here it says
+
+151
+00:06:48,889 --> 00:06:52,430
+zero so zero Degree temperature not only
+
+152
+00:06:50,810 --> 00:06:55,580
+means normal right
+
+153
+00:06:52,430 --> 00:06:57,530
+so what it says is that cranks out to
+
+154
+00:06:55,580 --> 00:06:59,690
+the year 2000 when this this one was
+
+155
+00:06:57,530 --> 00:07:01,879
+made and it says that worldwide
+
+156
+00:06:59,690 --> 00:07:05,030
+temperatures should have followed sort
+
+157
+00:07:01,879 --> 00:07:06,949
+of this blue envelope right here now the
+
+158
+00:07:05,030 --> 00:07:09,259
+reason is not a single line is that
+
+159
+00:07:06,949 --> 00:07:11,330
+there's multiple computer models that
+
+160
+00:07:09,259 --> 00:07:13,280
+are run by multiple research groups on
+
+161
+00:07:11,330 --> 00:07:14,990
+multiple computers and they all give a
+
+162
+00:07:13,280 --> 00:07:17,120
+slightly different answer but the
+
+163
+00:07:14,990 --> 00:07:19,460
+answers converge in this blue envelope
+
+164
+00:07:17,120 --> 00:07:21,409
+here okay or you could break it out by
+
+165
+00:07:19,460 --> 00:07:26,000
+continent like they did here in South
+
+166
+00:07:21,409 --> 00:07:27,380
+America or Africa or whatever okay so
+
+167
+00:07:26,000 --> 00:07:30,440
+then they run it again they say alright
+
+168
+00:07:27,380 --> 00:07:32,449
+can supercomputer let's throw in some
+
+169
+00:07:30,440 --> 00:07:34,370
+greenhouse gases and run it again and
+
+170
+00:07:32,449 --> 00:07:37,789
+see what you get so they do that again
+
+171
+00:07:34,370 --> 00:07:39,110
+and that's what this pink envelope is
+
+172
+00:07:37,789 --> 00:07:41,150
+here now you can see that the
+
+173
+00:07:39,110 --> 00:07:43,729
+temperatures would go up as we get close
+
+174
+00:07:41,150 --> 00:07:47,569
+to the year 2000 or if we look at South
+
+175
+00:07:43,729 --> 00:07:49,759
+America or if you look at Africa etc so
+
+176
+00:07:47,569 --> 00:07:53,330
+then so the so the supercomputer is
+
+177
+00:07:49,759 --> 00:07:55,669
+saying no green no anthropogenic
+
+178
+00:07:53,330 --> 00:07:57,740
+greenhouse gases the human the ones that
+
+179
+00:07:55,669 --> 00:07:59,389
+humans make no extra greenhouse gases
+
+180
+00:07:57,740 --> 00:08:01,460
+temperatures should have done what the
+
+181
+00:07:59,389 --> 00:08:03,319
+blue is showing with the greenhouse
+
+182
+00:08:01,460 --> 00:08:05,990
+gases temperatures would do what the
+
+183
+00:08:03,319 --> 00:08:08,180
+pink is showing the black is the
+
+184
+00:08:05,990 --> 00:08:09,860
+temperatures we actually measured so
+
+185
+00:08:08,180 --> 00:08:12,080
+these are real life temperatures that
+
+186
+00:08:09,860 --> 00:08:14,120
+people measured with thermometers over
+
+187
+00:08:12,080 --> 00:08:16,099
+time so what this is saying is that
+
+188
+00:08:14,120 --> 00:08:20,389
+temperatures that we actually measured
+
+189
+00:08:16,099 --> 00:08:23,029
+the black line correspond to the climate
+
+190
+00:08:20,389 --> 00:08:25,789
+model outputs that predicted this map
+
+191
+00:08:23,029 --> 00:08:28,130
+amount of warming with those extra
+
+192
+00:08:25,789 --> 00:08:30,560
+greenhouse gases so the other way to
+
+193
+00:08:28,130 --> 00:08:32,209
+think about is that if humans did not do
+
+194
+00:08:30,560 --> 00:08:34,520
+what we did if we didn't burn fossil
+
+195
+00:08:32,209 --> 00:08:36,500
+fuels we didn't add greenhouse gases to
+
+196
+00:08:34,520 --> 00:08:39,709
+the atmosphere the temperatures on earth
+
+197
+00:08:36,500 --> 00:08:41,450
+should be following the blue but instead
+
+198
+00:08:39,709 --> 00:08:43,789
+we follow we see that they're following
+
+199
+00:08:41,450 --> 00:08:46,399
+the pink now in a previous lecture we
+
+200
+00:08:43,789 --> 00:08:49,790
+went through some of the reasons why we
+
+201
+00:08:46,399 --> 00:08:50,930
+eliminated why sunspots are not the
+
+202
+00:08:49,790 --> 00:08:52,550
+source of global warming
+
+203
+00:08:50,930 --> 00:08:54,070
+why volcanoes are not the source of
+
+204
+00:08:52,550 --> 00:08:55,900
+global warming what
+
+205
+00:08:54,070 --> 00:08:57,970
+is this as sort of another piece of
+
+206
+00:08:55,900 --> 00:08:59,950
+evidence that says the math actually
+
+207
+00:08:57,970 --> 00:09:02,710
+checks out that the extra greenhouse
+
+208
+00:08:59,950 --> 00:09:06,070
+gases do provide the amount of extra
+
+209
+00:09:02,710 --> 00:09:09,730
+warming that we notice now for some
+
+210
+00:09:06,070 --> 00:09:12,100
+reason in in the in climate change world
+
+211
+00:09:09,730 --> 00:09:13,360
+the scientists use this term forcings
+
+212
+00:09:12,100 --> 00:09:15,670
+and you may have read that a bunch in
+
+213
+00:09:13,360 --> 00:09:18,070
+your book I don't like that term but
+
+214
+00:09:15,670 --> 00:09:20,200
+it's very popular so forcing means
+
+215
+00:09:18,070 --> 00:09:22,030
+you're going to add something to the
+
+216
+00:09:20,200 --> 00:09:24,250
+atmosphere that's going to force the
+
+217
+00:09:22,030 --> 00:09:26,530
+temperature to change okay that's what
+
+218
+00:09:24,250 --> 00:09:29,380
+it means so if I add more co2 to the
+
+219
+00:09:26,530 --> 00:09:32,170
+atmosphere that is a forcing it's going
+
+220
+00:09:29,380 --> 00:09:34,150
+to force the the warming to occur if I
+
+221
+00:09:32,170 --> 00:09:35,800
+have more sunspots that's another type
+
+222
+00:09:34,150 --> 00:09:37,960
+of forcing it's going to force the
+
+223
+00:09:35,800 --> 00:09:40,750
+climate to change so down here it says
+
+224
+00:09:37,960 --> 00:09:42,760
+models only using natural forcings what
+
+225
+00:09:40,750 --> 00:09:44,890
+that means is naturally occurring things
+
+226
+00:09:42,760 --> 00:09:47,710
+sunspots volcanoes naturally-occurring
+
+227
+00:09:44,890 --> 00:09:50,320
+greenhouse gases models using both
+
+228
+00:09:47,710 --> 00:09:52,480
+natural and anthropogenic forcings means
+
+229
+00:09:50,320 --> 00:09:54,820
+take all the folk a nose and sunspots
+
+230
+00:09:52,480 --> 00:09:56,590
+and all that and then also add the
+
+231
+00:09:54,820 --> 00:09:58,450
+greenhouse gases that humans are putting
+
+232
+00:09:56,590 --> 00:10:00,400
+in that's what they mean that's what
+
+233
+00:09:58,450 --> 00:10:03,150
+forcings mean it's I don't again it's a
+
+234
+00:10:00,400 --> 00:10:07,420
+word that I think it's kind of confusing
+
+235
+00:10:03,150 --> 00:10:09,340
+so recap here the blue line computer
+
+236
+00:10:07,420 --> 00:10:11,860
+model outputs without anthropogenic
+
+237
+00:10:09,340 --> 00:10:13,540
+greenhouse gases red computer model
+
+238
+00:10:11,860 --> 00:10:16,020
+outputs with anthropogenic greenhouse
+
+239
+00:10:13,540 --> 00:10:18,940
+gases black is the observed temperature
+
+240
+00:10:16,020 --> 00:10:20,710
+so what we can say is it's very likely
+
+241
+00:10:18,940 --> 00:10:23,740
+that the warming we're seeing is doing
+
+242
+00:10:20,710 --> 00:10:25,270
+is due to anthropogenic greenhouse gases
+
+243
+00:10:23,740 --> 00:10:27,400
+another way that we think about this is
+
+244
+00:10:25,270 --> 00:10:29,680
+we've kind of eliminated all other
+
+245
+00:10:27,400 --> 00:10:31,240
+possibilities right I mean we talked in
+
+246
+00:10:29,680 --> 00:10:34,750
+this class about sunspots and we talked
+
+247
+00:10:31,240 --> 00:10:37,510
+about volcanoes the Earth's orbit does
+
+248
+00:10:34,750 --> 00:10:39,820
+change but not nearly as fast as well to
+
+249
+00:10:37,510 --> 00:10:41,710
+explain the warming that we have so the
+
+250
+00:10:39,820 --> 00:10:43,840
+cut only thing we're really left with
+
+251
+00:10:41,710 --> 00:10:45,790
+are the greenhouse gases that we as
+
+252
+00:10:43,840 --> 00:10:47,950
+humans have added to the atmosphere and
+
+253
+00:10:45,790 --> 00:10:49,300
+the computer math basically says yeah
+
+254
+00:10:47,950 --> 00:10:52,300
+that looks like the most likely
+
+255
+00:10:49,300 --> 00:10:54,400
+explanation so the other thing that we
+
+256
+00:10:52,300 --> 00:10:57,060
+can do with climate models is we can use
+
+257
+00:10:54,400 --> 00:10:59,230
+them to try to predict the future so
+
+258
+00:10:57,060 --> 00:11:02,440
+once you have a really good simulation
+
+259
+00:10:59,230 --> 00:11:05,230
+of the atmosphere then you can ask it
+
+260
+00:11:02,440 --> 00:11:06,850
+questions like well how is that how is
+
+261
+00:11:05,230 --> 00:11:07,930
+the climate going to be different say a
+
+262
+00:11:06,850 --> 00:11:12,340
+hundred years from now
+
+263
+00:11:07,930 --> 00:11:15,390
+so we've got the math down and we have
+
+264
+00:11:12,340 --> 00:11:17,800
+the programming in the COS software down
+
+265
+00:11:15,390 --> 00:11:20,110
+but there's still one big uncertainty
+
+266
+00:11:17,800 --> 00:11:21,790
+and the big uncertainty is we don't know
+
+267
+00:11:20,110 --> 00:11:24,520
+what the future of greenhouse gas
+
+268
+00:11:21,790 --> 00:11:27,460
+emissions is going to be so there's a
+
+269
+00:11:24,520 --> 00:11:32,020
+part of your book early kind of part to
+
+270
+00:11:27,460 --> 00:11:33,880
+it mostly where it talks about how there
+
+271
+00:11:32,020 --> 00:11:37,420
+are these different scenarios that the
+
+272
+00:11:33,880 --> 00:11:41,950
+IPCC has put together and they have
+
+273
+00:11:37,420 --> 00:11:44,830
+these goofy names like RCP 8.5 and RCP
+
+274
+00:11:41,950 --> 00:11:45,880
+6.0 and so what they did is they got
+
+275
+00:11:44,830 --> 00:11:48,250
+together and they said look we don't
+
+276
+00:11:45,880 --> 00:11:51,190
+know what the future is gonna be like
+
+277
+00:11:48,250 --> 00:11:52,660
+but let's say what would happen if we
+
+278
+00:11:51,190 --> 00:11:54,910
+continue on the current path we are
+
+279
+00:11:52,660 --> 00:11:57,460
+right now right or burning a certain
+
+280
+00:11:54,910 --> 00:11:59,170
+amount of fossil fuels each year a
+
+281
+00:11:57,460 --> 00:12:02,050
+little bit more each year a little bit
+
+282
+00:11:59,170 --> 00:12:05,200
+more and let's just imagine that keeps
+
+283
+00:12:02,050 --> 00:12:07,660
+on going into the future or what would
+
+284
+00:12:05,200 --> 00:12:09,910
+happen if the countries got together and
+
+285
+00:12:07,660 --> 00:12:11,410
+they had some kind of treaty and they
+
+286
+00:12:09,910 --> 00:12:13,960
+said we're gonna cut greenhouse gas
+
+287
+00:12:11,410 --> 00:12:16,900
+emissions down right and so they come up
+
+288
+00:12:13,960 --> 00:12:20,470
+with another possible scenario like well
+
+289
+00:12:16,900 --> 00:12:23,080
+maybe one one of these and so the best
+
+290
+00:12:20,470 --> 00:12:25,180
+they can do is they come up with these
+
+291
+00:12:23,080 --> 00:12:27,370
+different scenarios and they put them
+
+292
+00:12:25,180 --> 00:12:30,070
+into the climate models and they
+
+293
+00:12:27,370 --> 00:12:31,750
+calculate what the result would be if we
+
+294
+00:12:30,070 --> 00:12:32,830
+went down these different paths but we
+
+295
+00:12:31,750 --> 00:12:37,270
+don't know what path we're going to go
+
+296
+00:12:32,830 --> 00:12:41,190
+down so that's what these emissions
+
+297
+00:12:37,270 --> 00:12:46,330
+pathways are all about so in your book
+
+298
+00:12:41,190 --> 00:12:50,670
+so here I am on page 92 and so here's a
+
+299
+00:12:46,330 --> 00:12:54,220
+graph that says global co2 emissions in
+
+300
+00:12:50,670 --> 00:12:57,780
+Giga tons of carbon per year and this is
+
+301
+00:12:54,220 --> 00:13:00,730
+time so the black is our historical
+
+302
+00:12:57,780 --> 00:13:03,220
+that's what we have humans have already
+
+303
+00:13:00,730 --> 00:13:05,680
+done how much co2 we put into the
+
+304
+00:13:03,220 --> 00:13:07,900
+atmosphere how much carbon and then here
+
+305
+00:13:05,680 --> 00:13:09,910
+it breaks into yellow at the time that
+
+306
+00:13:07,900 --> 00:13:12,400
+this graph was made it was a year 2000
+
+307
+00:13:09,910 --> 00:13:16,630
+and they were doing projections into the
+
+308
+00:13:12,400 --> 00:13:18,310
+future so you know depending on what you
+
+309
+00:13:16,630 --> 00:13:20,470
+know if the if the economy continues to
+
+310
+00:13:18,310 --> 00:13:21,340
+boom and there's no regulations well we
+
+311
+00:13:20,470 --> 00:13:23,500
+might go up
+
+312
+00:13:21,340 --> 00:13:25,480
+red curve and then if countries get
+
+313
+00:13:23,500 --> 00:13:26,950
+together and decided hey we should you
+
+314
+00:13:25,480 --> 00:13:29,140
+know save the earth well maybe that's
+
+315
+00:13:26,950 --> 00:13:31,380
+going to be the blue curve and so forth
+
+316
+00:13:29,140 --> 00:13:34,180
+so these are the different scenarios and
+
+317
+00:13:31,380 --> 00:13:35,140
+how the different projections played out
+
+318
+00:13:34,180 --> 00:13:38,050
+into the future
+
+319
+00:13:35,140 --> 00:13:41,380
+okay so then they asked the
+
+320
+00:13:38,050 --> 00:13:42,790
+supercomputers - okay well if if we did
+
+321
+00:13:41,380 --> 00:13:44,650
+say the orange curve
+
+322
+00:13:42,790 --> 00:13:46,660
+what would the temperature of the earth
+
+323
+00:13:44,650 --> 00:13:52,770
+be like by the time we get to the year
+
+324
+00:13:46,660 --> 00:13:52,770
+2100 right okay so a couple pages later
+
+325
+00:13:54,150 --> 00:13:59,470
+here's an example of what one of these
+
+326
+00:13:56,620 --> 00:14:02,460
+looks like so now the y-axis saw on page
+
+327
+00:13:59,470 --> 00:14:06,910
+98 global surface temperature change
+
+328
+00:14:02,460 --> 00:14:09,250
+alright so up to here this is - mm like
+
+329
+00:14:06,910 --> 00:14:15,190
+2005 which is the time that they made
+
+330
+00:14:09,250 --> 00:14:17,080
+this particular graph and RCP 8.5 that's
+
+331
+00:14:15,190 --> 00:14:20,050
+that was the red curve on the previous
+
+332
+00:14:17,080 --> 00:14:24,580
+one now it's this red with the pink
+
+333
+00:14:20,050 --> 00:14:27,700
+envelope around it saying okay if the
+
+334
+00:14:24,580 --> 00:14:29,860
+world follows the red path of that RCP
+
+335
+00:14:27,700 --> 00:14:32,140
+8.5 in the in the in the previous
+
+336
+00:14:29,860 --> 00:14:35,770
+diagram how will the temperature change
+
+337
+00:14:32,140 --> 00:14:37,330
+well it will change like this that's
+
+338
+00:14:35,770 --> 00:14:39,970
+what the computers are telling us and
+
+339
+00:14:37,330 --> 00:14:42,610
+the further out we go you can think of
+
+340
+00:14:39,970 --> 00:14:44,380
+it this is like the the red line is sort
+
+341
+00:14:42,610 --> 00:14:48,040
+of the center and this this is the range
+
+342
+00:14:44,380 --> 00:14:49,420
+of uncertainty around and the more the
+
+343
+00:14:48,040 --> 00:14:50,830
+further out you go in the future the
+
+344
+00:14:49,420 --> 00:14:52,450
+more uncertainty you get in your
+
+345
+00:14:50,830 --> 00:14:58,090
+prediction but what they're saying is if
+
+346
+00:14:52,450 --> 00:15:00,670
+we follow the red path the 8.5 path then
+
+347
+00:14:58,090 --> 00:15:04,450
+we will we will see temperatures
+
+348
+00:15:00,670 --> 00:15:05,920
+increase well in this pink zone which if
+
+349
+00:15:04,450 --> 00:15:10,050
+you look across here is somewhere
+
+350
+00:15:05,920 --> 00:15:14,040
+between 3 degrees and maybe 5 degrees
+
+351
+00:15:10,050 --> 00:15:17,230
+centigrade above where it should be
+
+352
+00:15:14,040 --> 00:15:19,030
+which in Fahrenheit is five and a half
+
+353
+00:15:17,230 --> 00:15:20,710
+degrees at night versus nine degrees and
+
+354
+00:15:19,030 --> 00:15:21,070
+nine degrees Fahrenheit above what it
+
+355
+00:15:20,710 --> 00:15:25,510
+should be
+
+356
+00:15:21,070 --> 00:15:28,180
+whereas if we picked the blue one right
+
+357
+00:15:25,510 --> 00:15:31,380
+this is the RCP 2.6 now what did what
+
+358
+00:15:28,180 --> 00:15:31,380
+was that that was the
+
+359
+00:15:32,420 --> 00:15:36,350
+okay that's kind of the best case
+
+360
+00:15:34,490 --> 00:15:38,840
+scenario this is the one where we all
+
+361
+00:15:36,350 --> 00:15:41,420
+get together as a world and we say we
+
+362
+00:15:38,840 --> 00:15:44,600
+gotta cut co2 emissions and we actually
+
+363
+00:15:41,420 --> 00:15:46,280
+make big measures probably like this
+
+364
+00:15:44,600 --> 00:15:47,900
+would be the best possible scenario like
+
+365
+00:15:46,280 --> 00:15:50,630
+if we all got together and we started
+
+366
+00:15:47,900 --> 00:15:55,250
+cutting our fossil fuel consumption a
+
+367
+00:15:50,630 --> 00:15:56,780
+lot well then that is this curve so it's
+
+368
+00:15:55,250 --> 00:15:58,340
+gonna it predicts that temperatures will
+
+369
+00:15:56,780 --> 00:16:01,040
+still going to increase a little bit
+
+370
+00:15:58,340 --> 00:16:03,050
+because we already have so much co2 in
+
+371
+00:16:01,040 --> 00:16:05,450
+the atmosphere already and they're going
+
+372
+00:16:03,050 --> 00:16:09,710
+to kind of stabilize along this purple
+
+373
+00:16:05,450 --> 00:16:11,630
+line so the computer models the climate
+
+374
+00:16:09,710 --> 00:16:14,420
+models are predicting that the climate
+
+375
+00:16:11,630 --> 00:16:15,620
+is going to change somewhere between you
+
+376
+00:16:14,420 --> 00:16:18,290
+can think of this is like best-case
+
+377
+00:16:15,620 --> 00:16:19,790
+scenario and maybe worst-case scenario
+
+378
+00:16:18,290 --> 00:16:21,500
+although it could be even a little bit
+
+379
+00:16:19,790 --> 00:16:22,940
+worse than this but realistically it's
+
+380
+00:16:21,500 --> 00:16:26,210
+probably going to be between these two
+
+381
+00:16:22,940 --> 00:16:28,880
+curves which means that by the year 2100
+
+382
+00:16:26,210 --> 00:16:32,030
+we're expecting temperatures to be about
+
+383
+00:16:28,880 --> 00:16:33,470
+one degree centigrade which is close to
+
+384
+00:16:32,030 --> 00:16:36,200
+two degrees Fahrenheit warmer than
+
+385
+00:16:33,470 --> 00:16:38,210
+normal up to maybe five degrees
+
+386
+00:16:36,200 --> 00:16:43,190
+centigrade or nine degrees Fahrenheit
+
+387
+00:16:38,210 --> 00:16:45,440
+warmer than normal so point being our
+
+388
+00:16:43,190 --> 00:16:50,360
+climate prediction models are only as
+
+389
+00:16:45,440 --> 00:16:53,480
+good as the as a prediction that we can
+
+390
+00:16:50,360 --> 00:16:55,970
+make to our greenhouse gas emissions so
+
+391
+00:16:53,480 --> 00:16:58,550
+what I've been doing in the in my
+
+392
+00:16:55,970 --> 00:17:01,460
+face-to-face classes is talk about some
+
+393
+00:16:58,550 --> 00:17:03,200
+of the history behind some of the
+
+394
+00:17:01,460 --> 00:17:04,610
+attempts that the world you know that
+
+395
+00:17:03,200 --> 00:17:07,490
+the world has seen that try to do
+
+396
+00:17:04,610 --> 00:17:09,170
+something about greenhouse gases so one
+
+397
+00:17:07,490 --> 00:17:12,650
+of the one of the things that comes out
+
+398
+00:17:09,170 --> 00:17:15,290
+of that modeling is that if we want
+
+399
+00:17:12,650 --> 00:17:17,750
+greenhouse gases to kind of be flat and
+
+400
+00:17:15,290 --> 00:17:20,540
+stop increasing we actually have to
+
+401
+00:17:17,750 --> 00:17:23,209
+start decreasing our greenhouse gas
+
+402
+00:17:20,540 --> 00:17:24,350
+emissions because there's so much
+
+403
+00:17:23,209 --> 00:17:26,959
+greenhouse gas emissions that are
+
+404
+00:17:24,350 --> 00:17:28,400
+already up into the atmosphere so one
+
+405
+00:17:26,959 --> 00:17:31,330
+day the big attempts was something
+
+406
+00:17:28,400 --> 00:17:35,960
+called the Kyoto Protocol and this was
+
+407
+00:17:31,330 --> 00:17:37,220
+adopted in 97 and then countries started
+
+408
+00:17:35,960 --> 00:17:38,660
+to follow it and you think of it like a
+
+409
+00:17:37,220 --> 00:17:40,760
+treaty when two countries getting
+
+410
+00:17:38,660 --> 00:17:42,710
+together signing a treaty to say we're
+
+411
+00:17:40,760 --> 00:17:45,920
+gonna start lowering our co2 emissions
+
+412
+00:17:42,710 --> 00:17:48,980
+and originally had
+
+413
+00:17:45,920 --> 00:17:51,110
+hundred ninety-two countries everybody
+
+414
+00:17:48,980 --> 00:17:53,690
+signing on thinking about how they're
+
+415
+00:17:51,110 --> 00:17:56,660
+gonna cut greenhouse gases but then in
+
+416
+00:17:53,690 --> 00:18:01,610
+2001 the u.s. drops out says well we're
+
+417
+00:17:56,660 --> 00:18:05,120
+not signing on to this and so we dropped
+
+418
+00:18:01,610 --> 00:18:07,160
+out of this particular treaty and then
+
+419
+00:18:05,120 --> 00:18:09,860
+more recently there was another attempt
+
+420
+00:18:07,160 --> 00:18:12,350
+called the climb espera de Paris climate
+
+421
+00:18:09,860 --> 00:18:13,730
+Accord and they were trying to limit the
+
+422
+00:18:12,350 --> 00:18:15,710
+future
+
+423
+00:18:13,730 --> 00:18:17,120
+temperature increases to about one and a
+
+424
+00:18:15,710 --> 00:18:19,430
+half degrees centigrade which again
+
+425
+00:18:17,120 --> 00:18:24,080
+means you gotta cut down those co2
+
+426
+00:18:19,430 --> 00:18:27,530
+emissions 195 countries signed on as of
+
+427
+00:18:24,080 --> 00:18:29,000
+2015 and as soon as Trump got in office
+
+428
+00:18:27,530 --> 00:18:31,640
+that was kind of one the first things he
+
+429
+00:18:29,000 --> 00:18:34,040
+did is he said we're out of the Paris
+
+430
+00:18:31,640 --> 00:18:35,480
+climate Accord and so now we've dropped
+
+431
+00:18:34,040 --> 00:18:37,550
+out so the problem with these treaties
+
+432
+00:18:35,480 --> 00:18:39,890
+is it's kind of a volunteer thing
+
+433
+00:18:37,550 --> 00:18:43,010
+countries get together they sign on but
+
+434
+00:18:39,890 --> 00:18:47,030
+no one's forcing you to stay so the u.s.
+
+435
+00:18:43,010 --> 00:18:49,190
+just left and in the problem with that
+
+436
+00:18:47,030 --> 00:18:51,530
+is historically the US has been the
+
+437
+00:18:49,190 --> 00:18:54,290
+number one contributor in greenhouse gas
+
+438
+00:18:51,530 --> 00:18:58,820
+emissions now today we're actually
+
+439
+00:18:54,290 --> 00:19:02,750
+number two China has taken the world as
+
+440
+00:18:58,820 --> 00:19:04,070
+the number one co2 emitter now if you
+
+441
+00:19:02,750 --> 00:19:06,710
+add up a whole bunch of other countries
+
+442
+00:19:04,070 --> 00:19:10,430
+together you get a big chunk too but the
+
+443
+00:19:06,710 --> 00:19:12,650
+three Biggie's are China US and the
+
+444
+00:19:10,430 --> 00:19:14,750
+European Union and enfold you know by a
+
+445
+00:19:12,650 --> 00:19:16,670
+bunch of other countries so you know
+
+446
+00:19:14,750 --> 00:19:20,060
+when we drop out we're like a major
+
+447
+00:19:16,670 --> 00:19:21,620
+major contributor to these to the
+
+448
+00:19:20,060 --> 00:19:23,210
+greenhouse gas emissions and then once
+
+449
+00:19:21,620 --> 00:19:25,280
+we drop out then the other countries are
+
+450
+00:19:23,210 --> 00:19:27,350
+saying well why are we gonna do this if
+
+451
+00:19:25,280 --> 00:19:29,840
+the u.s. is not going to do it if you
+
+452
+00:19:27,350 --> 00:19:33,560
+look at keywords have co2 emissions in
+
+453
+00:19:29,840 --> 00:19:35,480
+the past 150 years so this is not the
+
+454
+00:19:33,560 --> 00:19:38,510
+amount that we're emitting today this is
+
+455
+00:19:35,480 --> 00:19:42,290
+like all the co2 we've emitted since you
+
+456
+00:19:38,510 --> 00:19:45,890
+know late 1800s you see that the number
+
+457
+00:19:42,290 --> 00:19:47,960
+one by far is the United States and then
+
+458
+00:19:45,890 --> 00:19:49,790
+surprisingly number two is Germany and
+
+459
+00:19:47,960 --> 00:19:52,580
+the number three is China
+
+460
+00:19:49,790 --> 00:19:54,650
+okay so historically we've been the
+
+461
+00:19:52,580 --> 00:19:56,840
+biggest emitter and so when we drop out
+
+462
+00:19:54,650 --> 00:20:00,220
+of these treaties that kind of looks bad
+
+463
+00:19:56,840 --> 00:20:00,220
+for the United States
+
+464
+00:20:01,500 --> 00:20:07,150
+and then of course without going
+
+465
+00:20:05,740 --> 00:20:08,950
+political we have to talk about the
+
+466
+00:20:07,150 --> 00:20:10,600
+current political climate which is that
+
+467
+00:20:08,950 --> 00:20:13,660
+we currently have an administration that
+
+468
+00:20:10,600 --> 00:20:16,600
+thinks that global warming is not even
+
+469
+00:20:13,660 --> 00:20:19,900
+real so this is a famous tweet from
+
+470
+00:20:16,600 --> 00:20:22,450
+Donald Trump concept the global warming
+
+471
+00:20:19,900 --> 00:20:23,980
+was created by and for the Chinese in
+
+472
+00:20:22,450 --> 00:20:27,220
+order to make the US manufacturing
+
+473
+00:20:23,980 --> 00:20:29,230
+non-competitive so he's famously as has
+
+474
+00:20:27,220 --> 00:20:31,270
+said that he thinks everything I've been
+
+475
+00:20:29,230 --> 00:20:35,530
+telling you is is a hoax that the
+
+476
+00:20:31,270 --> 00:20:38,680
+Chinese government made up so with that
+
+477
+00:20:35,530 --> 00:20:43,240
+and with the fact that we have the head
+
+478
+00:20:38,680 --> 00:20:46,750
+of the EPA Scott Pruett also is a firm
+
+479
+00:20:43,240 --> 00:20:48,160
+non believer in climate changed that it
+
+480
+00:20:46,750 --> 00:20:51,220
+doesn't look like we're going to be
+
+481
+00:20:48,160 --> 00:20:51,850
+signing on any co2 treaties in the near
+
+482
+00:20:51,220 --> 00:20:54,100
+future
+
+483
+00:20:51,850 --> 00:20:55,120
+so the reason I'm bringing this up is
+
+484
+00:20:54,100 --> 00:20:58,420
+when we're trying to make these
+
+485
+00:20:55,120 --> 00:21:01,090
+predictions these types of curves right
+
+486
+00:20:58,420 --> 00:21:04,000
+now based on the current political
+
+487
+00:21:01,090 --> 00:21:05,560
+climate we're headed up this curve right
+
+488
+00:21:04,000 --> 00:21:08,590
+this is this is the one we're headed up
+
+489
+00:21:05,560 --> 00:21:11,290
+right now now let's say in a couple
+
+490
+00:21:08,590 --> 00:21:14,050
+years all the current administration is
+
+491
+00:21:11,290 --> 00:21:15,580
+thrown out of office and a new group
+
+492
+00:21:14,050 --> 00:21:17,530
+comes in and they say you know what
+
+493
+00:21:15,580 --> 00:21:20,590
+we're all about solar energy we're all
+
+494
+00:21:17,530 --> 00:21:22,270
+about wind power we're gonna we're going
+
+495
+00:21:20,590 --> 00:21:24,460
+to tax the fossil fuels whatever you
+
+496
+00:21:22,270 --> 00:21:26,080
+know whatever the scenario is maybe
+
+497
+00:21:24,460 --> 00:21:29,320
+that'll suddenly shift us and we'll be
+
+498
+00:21:26,080 --> 00:21:30,820
+on the blue path and maybe we'll be on
+
+499
+00:21:29,320 --> 00:21:32,440
+the blue path for four years and then
+
+500
+00:21:30,820 --> 00:21:35,110
+they get kicked out of office and then
+
+501
+00:21:32,440 --> 00:21:37,090
+another bunch of fossil fuel proponents
+
+502
+00:21:35,110 --> 00:21:39,490
+come in then we're shifting back to the
+
+503
+00:21:37,090 --> 00:21:42,220
+to the the black curve again so this is
+
+504
+00:21:39,490 --> 00:21:44,740
+why it's so hard to predict right over
+
+505
+00:21:42,220 --> 00:21:47,290
+the last few years we've been headed up
+
+506
+00:21:44,740 --> 00:21:49,690
+the black curve maybe it'll change maybe
+
+507
+00:21:47,290 --> 00:21:52,360
+it won't or what if there's a big
+
+508
+00:21:49,690 --> 00:21:55,000
+worldwide economic crash so we had one
+
+509
+00:21:52,360 --> 00:21:56,440
+in 2008 the amount of greenhouse gas has
+
+510
+00:21:55,000 --> 00:21:58,150
+started to go down because there was
+
+511
+00:21:56,440 --> 00:21:59,590
+less manufacturing because people were
+
+512
+00:21:58,150 --> 00:22:03,190
+buying less because we had less money
+
+513
+00:21:59,590 --> 00:22:04,450
+that could happen again right so so it's
+
+514
+00:22:03,190 --> 00:22:06,820
+really hard to predict the features so
+
+515
+00:22:04,450 --> 00:22:08,320
+this is why it's hard to predict the
+
+516
+00:22:06,820 --> 00:22:12,490
+climate change that's actually going to
+
+517
+00:22:08,320 --> 00:22:15,679
+occur in the next a hundred years or so
+
+518
+00:22:12,490 --> 00:22:18,169
+so let's look at a couple examples of
+
+519
+00:22:15,679 --> 00:22:20,330
+one of these climate model predictions
+
+520
+00:22:18,169 --> 00:22:23,840
+so the first one we're going to look at
+
+521
+00:22:20,330 --> 00:22:27,020
+is our CP 2.6 all right so from your
+
+522
+00:22:23,840 --> 00:22:30,500
+book this is the one where the country's
+
+523
+00:22:27,020 --> 00:22:32,350
+the whole world gets together realizes
+
+524
+00:22:30,500 --> 00:22:34,909
+the error of their ways and
+
+525
+00:22:32,350 --> 00:22:37,370
+significantly restricts greenhouse gas
+
+526
+00:22:34,909 --> 00:22:41,900
+emissions right I mean it's really not
+
+527
+00:22:37,370 --> 00:22:44,900
+realistic but let's just say that the
+
+528
+00:22:41,900 --> 00:22:47,120
+co2 emission curve looks like this it
+
+529
+00:22:44,900 --> 00:22:49,510
+goes down into the future and so the
+
+530
+00:22:47,120 --> 00:22:52,130
+year 2100 all right
+
+531
+00:22:49,510 --> 00:22:54,289
+what would the temperatures look like on
+
+532
+00:22:52,130 --> 00:22:57,340
+earth so this is the what we're gonna
+
+533
+00:22:54,289 --> 00:23:01,100
+look at here is the output of a model
+
+534
+00:22:57,340 --> 00:23:03,350
+where were we are looking at the globe
+
+535
+00:23:01,100 --> 00:23:05,659
+of the earth and we're gonna know this
+
+536
+00:23:03,350 --> 00:23:09,289
+one was run you know almost 10 years ago
+
+537
+00:23:05,659 --> 00:23:13,240
+2009 and it did a prediction is that if
+
+538
+00:23:09,289 --> 00:23:17,600
+the world follows this RCP 2.6 emissions
+
+539
+00:23:13,240 --> 00:23:20,390
+curve what do we get and the colors tell
+
+540
+00:23:17,600 --> 00:23:23,659
+us the temperature change in in this
+
+541
+00:23:20,390 --> 00:23:27,740
+case it's in Fahrenheit in the future
+
+542
+00:23:23,659 --> 00:23:31,220
+okay so we'll play this and so as years
+
+543
+00:23:27,740 --> 00:23:33,470
+go by here you can see that most of the
+
+544
+00:23:31,220 --> 00:23:35,480
+warming is occurring in the northern
+
+545
+00:23:33,470 --> 00:23:38,630
+hemisphere and over the continents which
+
+546
+00:23:35,480 --> 00:23:42,700
+is what we've seen before and I'm gonna
+
+547
+00:23:38,630 --> 00:23:42,700
+stop it when we get to the year 2100 ooh
+
+548
+00:23:45,130 --> 00:23:52,220
+so if I go back a little bit there so
+
+549
+00:23:48,789 --> 00:23:55,010
+most of the warming is occurring up near
+
+550
+00:23:52,220 --> 00:23:57,140
+the Arctic right and if you think back a
+
+551
+00:23:55,010 --> 00:23:59,450
+few lectures when we looked at the maps
+
+552
+00:23:57,140 --> 00:24:01,850
+of current warming the warming that
+
+553
+00:23:59,450 --> 00:24:04,549
+we've seen in the last hundred years we
+
+554
+00:24:01,850 --> 00:24:06,260
+see the most warming up here and what
+
+555
+00:24:04,549 --> 00:24:08,419
+this model is saying is that in the
+
+556
+00:24:06,260 --> 00:24:10,880
+future that's going to continue now
+
+557
+00:24:08,419 --> 00:24:13,700
+remember this is like an unrealistic
+
+558
+00:24:10,880 --> 00:24:15,559
+best-case scenario that that all you
+
+559
+00:24:13,700 --> 00:24:17,480
+know all the countries get together big
+
+560
+00:24:15,559 --> 00:24:20,750
+kumbaya we're gonna save the world we're
+
+561
+00:24:17,480 --> 00:24:24,320
+gonna cut co2 emissions and yet still we
+
+562
+00:24:20,750 --> 00:24:24,650
+see temperature increases up here kind
+
+563
+00:24:24,320 --> 00:24:28,450
+of
+
+564
+00:24:24,650 --> 00:24:31,130
+around seven to ten degree Fahrenheit
+
+565
+00:24:28,450 --> 00:24:33,830
+mark so that means seven to ten degrees
+
+566
+00:24:31,130 --> 00:24:38,030
+Fahrenheit above what it's supposed to
+
+567
+00:24:33,830 --> 00:24:41,080
+be okay so now let's compare that to
+
+568
+00:24:38,030 --> 00:24:44,690
+another one of the curves
+
+569
+00:24:41,080 --> 00:24:49,340
+okay so let's compare that so we just
+
+570
+00:24:44,690 --> 00:24:53,600
+saw the result the model output of this
+
+571
+00:24:49,340 --> 00:24:56,350
+future RCP 2.6 well let's go to the
+
+572
+00:24:53,600 --> 00:24:59,120
+other extreme let's look at the 8.5
+
+573
+00:24:56,350 --> 00:25:02,420
+which in a previous slide was the black
+
+574
+00:24:59,120 --> 00:25:04,220
+curve and in your book it's red but this
+
+575
+00:25:02,420 --> 00:25:06,530
+is the scenario that basically we're
+
+576
+00:25:04,220 --> 00:25:08,840
+currently on right we're headed up this
+
+577
+00:25:06,530 --> 00:25:11,300
+red curve if nothing else changes
+
+578
+00:25:08,840 --> 00:25:13,640
+alright so we're gonna play another one
+
+579
+00:25:11,300 --> 00:25:16,160
+of those movies and it's just like the
+
+580
+00:25:13,640 --> 00:25:19,480
+previous one except now we have
+
+581
+00:25:16,160 --> 00:25:19,480
+different emission scenario
+
+582
+00:25:19,570 --> 00:25:26,150
+so first the pattern looks pretty
+
+583
+00:25:23,870 --> 00:25:28,520
+similar we're seeing more warming over
+
+584
+00:25:26,150 --> 00:25:30,710
+the continents than the oceans more
+
+585
+00:25:28,520 --> 00:25:33,470
+warming over the northern hemisphere
+
+586
+00:25:30,710 --> 00:25:36,260
+than the rest but notice how much redder
+
+587
+00:25:33,470 --> 00:25:38,570
+these colors are right how much darker
+
+588
+00:25:36,260 --> 00:25:43,310
+they are so I'm gonna try to pause this
+
+589
+00:25:38,570 --> 00:25:46,760
+one and notice the reddest part up here
+
+590
+00:25:43,310 --> 00:25:49,880
+in the Arctic that's 25 degrees
+
+591
+00:25:46,760 --> 00:25:51,350
+Fahrenheit above normal and this is the
+
+592
+00:25:49,880 --> 00:25:54,080
+thing that you've got to keep in mind
+
+593
+00:25:51,350 --> 00:25:56,150
+when we do climate predictions climate
+
+594
+00:25:54,080 --> 00:25:58,370
+model predictions in the future it's
+
+595
+00:25:56,150 --> 00:26:00,410
+always given as a global so in other
+
+596
+00:25:58,370 --> 00:26:03,140
+words people say well the earth is going
+
+597
+00:26:00,410 --> 00:26:05,210
+to warm by two degrees or three degrees
+
+598
+00:26:03,140 --> 00:26:07,820
+you think what's two or three degrees
+
+599
+00:26:05,210 --> 00:26:09,950
+who cares but that's a global average
+
+600
+00:26:07,820 --> 00:26:12,530
+and remember that a lot of the earth
+
+601
+00:26:09,950 --> 00:26:15,890
+like out in the ocean along the equator
+
+602
+00:26:12,530 --> 00:26:18,620
+is not changing that much but in this
+
+603
+00:26:15,890 --> 00:26:22,040
+scenario they again the eight point five
+
+604
+00:26:18,620 --> 00:26:23,780
+scenario you've got areas up here in the
+
+605
+00:26:22,040 --> 00:26:27,770
+Arctic that have increased by twenty
+
+606
+00:26:23,780 --> 00:26:30,200
+five degrees Fahrenheit above average so
+
+607
+00:26:27,770 --> 00:26:32,480
+that's huge and we also see big
+
+608
+00:26:30,200 --> 00:26:34,670
+increases over land masses in the
+
+609
+00:26:32,480 --> 00:26:35,840
+northern hemisphere too right so up here
+
+610
+00:26:34,670 --> 00:26:38,090
+in northern Siberia
+
+611
+00:26:35,840 --> 00:26:39,860
+you know increases of
+
+612
+00:26:38,090 --> 00:26:44,600
+degrees Farenheit so these are crazy
+
+613
+00:26:39,860 --> 00:26:46,880
+numbers so the patterns that the climate
+
+614
+00:26:44,600 --> 00:26:48,740
+models are showing are the same kinds of
+
+615
+00:26:46,880 --> 00:26:51,110
+patterns that we've been seeing in the
+
+616
+00:26:48,740 --> 00:26:54,110
+previous maps of climate change today
+
+617
+00:26:51,110 --> 00:26:56,059
+more climate warming in the in the
+
+618
+00:26:54,110 --> 00:26:58,610
+northern hemisphere and more over the
+
+619
+00:26:56,059 --> 00:27:00,830
+continents and the oceans it's just kind
+
+620
+00:26:58,610 --> 00:27:02,390
+of a matter of degree right so this
+
+621
+00:27:00,830 --> 00:27:05,090
+scenario here the eight-point-five
+
+622
+00:27:02,390 --> 00:27:06,950
+scenario again that's business what they
+
+623
+00:27:05,090 --> 00:27:10,039
+call business as usual it's sort of the
+
+624
+00:27:06,950 --> 00:27:12,529
+path that we're on is the one that has
+
+625
+00:27:10,039 --> 00:27:15,440
+the the most warming the first one I
+
+626
+00:27:12,529 --> 00:27:17,690
+showed you which was the 2.6 that's like
+
+627
+00:27:15,440 --> 00:27:20,149
+best-case scenario and they're still
+
+628
+00:27:17,690 --> 00:27:24,580
+predicted to be some warming in the
+
+629
+00:27:20,149 --> 00:27:24,580
+northern hemisphere and over the oceans
+
+630
+00:27:26,749 --> 00:27:33,059
+so a major misconception that people
+
+631
+00:27:29,789 --> 00:27:35,070
+have about global warming on both sides
+
+632
+00:27:33,059 --> 00:27:37,169
+those that actually believe that it's
+
+633
+00:27:35,070 --> 00:27:38,399
+happening and those that deny that it's
+
+634
+00:27:37,169 --> 00:27:41,249
+happening or don't believe that it's
+
+635
+00:27:38,399 --> 00:27:44,429
+happening is as follows
+
+636
+00:27:41,249 --> 00:27:47,129
+so we talked about in the past lecture
+
+637
+00:27:44,429 --> 00:27:48,809
+about the roz be waivers right so here
+
+638
+00:27:47,129 --> 00:27:50,789
+what I'm looking at is I'm looking at
+
+639
+00:27:48,809 --> 00:27:53,210
+temperatures at the 700 million bar
+
+640
+00:27:50,789 --> 00:27:56,190
+level which is about 10,000 feet above
+
+641
+00:27:53,210 --> 00:27:58,559
+sea level and we talked about how
+
+642
+00:27:56,190 --> 00:28:02,190
+there's a very distinct boundary between
+
+643
+00:27:58,559 --> 00:28:05,279
+the warmest air and the much colder air
+
+644
+00:28:02,190 --> 00:28:08,879
+and that boundary is wavy those are the
+
+645
+00:28:05,279 --> 00:28:10,710
+rows B waves and they move right okay so
+
+646
+00:28:08,879 --> 00:28:14,730
+let's say I assume this is just from
+
+647
+00:28:10,710 --> 00:28:16,980
+today and if you remember back till we
+
+648
+00:28:14,730 --> 00:28:19,350
+talked about mid latitude cyclones and
+
+649
+00:28:16,980 --> 00:28:21,889
+fronts what we were saying is that these
+
+650
+00:28:19,350 --> 00:28:25,080
+two different air masses mix up together
+
+651
+00:28:21,889 --> 00:28:27,779
+so right now you've got a blob a pretty
+
+652
+00:28:25,080 --> 00:28:30,809
+cold air moving down south here and
+
+653
+00:28:27,779 --> 00:28:34,710
+you've got warm air that's moving up to
+
+654
+00:28:30,809 --> 00:28:36,990
+the north and here and up in here okay
+
+655
+00:28:34,710 --> 00:28:38,639
+so let's think about what two people two
+
+656
+00:28:36,990 --> 00:28:42,950
+different people might be experiencing
+
+657
+00:28:38,639 --> 00:28:45,389
+right now if you live here you you are
+
+658
+00:28:42,950 --> 00:28:47,909
+experiencing below normal temperatures
+
+659
+00:28:45,389 --> 00:28:51,450
+today because this cold air from the
+
+660
+00:28:47,909 --> 00:28:54,119
+north is coming down if you have here
+
+661
+00:28:51,450 --> 00:28:56,490
+you are experiencing warmer temperatures
+
+662
+00:28:54,119 --> 00:28:59,399
+than normal because this warm air is
+
+663
+00:28:56,490 --> 00:29:01,049
+moving up to the north right so we got
+
+664
+00:28:59,399 --> 00:29:05,190
+cold fronts and warm fronts we talked
+
+665
+00:29:01,049 --> 00:29:06,210
+about this in past lectures if you
+
+666
+00:29:05,190 --> 00:29:09,450
+didn't know anything about the weather
+
+667
+00:29:06,210 --> 00:29:11,879
+and you lived right here you might be
+
+668
+00:29:09,450 --> 00:29:13,529
+thinking oh where we are above normal
+
+669
+00:29:11,879 --> 00:29:15,179
+temperatures and if you live it over
+
+670
+00:29:13,529 --> 00:29:17,490
+here you're below normal temperatures
+
+671
+00:29:15,179 --> 00:29:20,879
+and if you wanted to you might try to
+
+672
+00:29:17,490 --> 00:29:22,980
+attribute that to global warming or not
+
+673
+00:29:20,879 --> 00:29:25,619
+so in other words the person that's
+
+674
+00:29:22,980 --> 00:29:29,009
+right here might be saying oh this
+
+675
+00:29:25,619 --> 00:29:32,190
+global warming it's so warm today right
+
+676
+00:29:29,009 --> 00:29:33,990
+but the reason it's warm today has
+
+677
+00:29:32,190 --> 00:29:36,240
+nothing to do with global warming it's
+
+678
+00:29:33,990 --> 00:29:38,399
+because they are in this warm air mass
+
+679
+00:29:36,240 --> 00:29:40,290
+that's moving to the north and these
+
+680
+00:29:38,399 --> 00:29:42,360
+people here might be thinking ah
+
+681
+00:29:40,290 --> 00:29:44,940
+global warming is a hoax because think
+
+682
+00:29:42,360 --> 00:29:46,740
+look how cold it is today but it has
+
+683
+00:29:44,940 --> 00:29:49,140
+nothing to do with global warming or not
+
+684
+00:29:46,740 --> 00:29:51,870
+it's just that they are in this pool of
+
+685
+00:29:49,140 --> 00:29:54,930
+cold air sinking down from the from the
+
+686
+00:29:51,870 --> 00:29:58,940
+north this is what happens over and over
+
+687
+00:29:54,930 --> 00:30:01,110
+in the discussion about global warming
+
+688
+00:29:58,940 --> 00:30:02,790
+every day around the world there are
+
+689
+00:30:01,110 --> 00:30:04,710
+places that are below average
+
+690
+00:30:02,790 --> 00:30:07,310
+temperature and there are places that
+
+691
+00:30:04,710 --> 00:30:09,780
+are above average temperature it's all
+
+692
+00:30:07,310 --> 00:30:11,970
+happens all the time and if we look
+
+693
+00:30:09,780 --> 00:30:13,860
+around the you know if I look just
+
+694
+00:30:11,970 --> 00:30:15,660
+what's happening today here's a place
+
+695
+00:30:13,860 --> 00:30:18,450
+where this cold air coming down
+
+696
+00:30:15,660 --> 00:30:20,760
+warm air going up so again if you lived
+
+697
+00:30:18,450 --> 00:30:22,860
+over here you are below average
+
+698
+00:30:20,760 --> 00:30:24,510
+temperatures if you lived here you're
+
+699
+00:30:22,860 --> 00:30:27,150
+above average right if I go over here
+
+700
+00:30:24,510 --> 00:30:29,310
+here's another one this is a blob of
+
+701
+00:30:27,150 --> 00:30:32,190
+cold air they're below average this
+
+702
+00:30:29,310 --> 00:30:33,960
+right here is above average over here
+
+703
+00:30:32,190 --> 00:30:37,680
+these guys are above average
+
+704
+00:30:33,960 --> 00:30:39,600
+these guys are below average so normally
+
+705
+00:30:37,680 --> 00:30:41,010
+when you go around the world you see a
+
+706
+00:30:39,600 --> 00:30:42,870
+bunch of zones that are above average
+
+707
+00:30:41,010 --> 00:30:47,100
+and you see a bunch of zones that are
+
+708
+00:30:42,870 --> 00:30:49,770
+below average and they even out like
+
+709
+00:30:47,100 --> 00:30:51,990
+mathematically all of this should kind
+
+710
+00:30:49,770 --> 00:30:56,430
+of equal itself out and you should have
+
+711
+00:30:51,990 --> 00:30:58,530
+an earth that's just average with global
+
+712
+00:30:56,430 --> 00:31:01,230
+warming what we're talking about is that
+
+713
+00:30:58,530 --> 00:31:03,840
+average is very slowly creeping up and
+
+714
+00:31:01,230 --> 00:31:05,610
+up but I bring this up because it comes
+
+715
+00:31:03,840 --> 00:31:08,610
+up in the news a lot where people will
+
+716
+00:31:05,610 --> 00:31:10,980
+say oh it's so hot today it's that
+
+717
+00:31:08,610 --> 00:31:12,750
+global warming no that's not vogel
+
+718
+00:31:10,980 --> 00:31:14,340
+warming means it's not a day-to-day
+
+719
+00:31:12,750 --> 00:31:18,030
+thing that you can recognize it's a
+
+720
+00:31:14,340 --> 00:31:19,770
+long-term trend or politicians will say
+
+721
+00:31:18,030 --> 00:31:21,720
+oh it's cold and it's snowing out here
+
+722
+00:31:19,770 --> 00:31:22,200
+and it's May global warming must be a
+
+723
+00:31:21,720 --> 00:31:24,270
+hoax
+
+724
+00:31:22,200 --> 00:31:26,100
+no you're mixing up two different air
+
+725
+00:31:24,270 --> 00:31:29,130
+masses has nothing to do with global
+
+726
+00:31:26,100 --> 00:31:30,900
+warming so people that are both believe
+
+727
+00:31:29,130 --> 00:31:33,960
+in it and that people that don't believe
+
+728
+00:31:30,900 --> 00:31:37,650
+in it still use this erroneously as an
+
+729
+00:31:33,960 --> 00:31:40,200
+argument on either side so one way to
+
+730
+00:31:37,650 --> 00:31:42,450
+think about global warming is to think
+
+731
+00:31:40,200 --> 00:31:44,640
+about a bell curve most places where you
+
+732
+00:31:42,450 --> 00:31:46,800
+live on earth especially once you get
+
+733
+00:31:44,640 --> 00:31:50,100
+away from the equator and you're up in
+
+734
+00:31:46,800 --> 00:31:52,230
+higher latitudes is that for any
+
+735
+00:31:50,100 --> 00:31:53,690
+particular place we have a number of
+
+736
+00:31:52,230 --> 00:31:57,289
+days you
+
+737
+00:31:53,690 --> 00:31:59,870
+we've got a few hot super hot days we've
+
+738
+00:31:57,289 --> 00:32:02,799
+got a few super cold days and everything
+
+739
+00:31:59,870 --> 00:32:05,389
+else kind of fits into a bell curve and
+
+740
+00:32:02,799 --> 00:32:06,919
+the bell curve might be extra fat it
+
+741
+00:32:05,389 --> 00:32:08,929
+might be extra narrow just depends on
+
+742
+00:32:06,919 --> 00:32:11,299
+the climate of where you live but the
+
+743
+00:32:08,929 --> 00:32:14,090
+point is most of our days kind of fall
+
+744
+00:32:11,299 --> 00:32:16,549
+in here with a few extremes over here
+
+745
+00:32:14,090 --> 00:32:18,769
+and a few extremes over here so I'm
+
+746
+00:32:16,549 --> 00:32:22,850
+gonna draw a little line here to
+
+747
+00:32:18,769 --> 00:32:26,149
+represent hot outliers and cold outliers
+
+748
+00:32:22,850 --> 00:32:32,990
+right so so this zone right here you
+
+749
+00:32:26,149 --> 00:32:35,659
+might consider this like your heat waves
+
+750
+00:32:32,990 --> 00:32:38,419
+right these are your you're really hot
+
+751
+00:32:35,659 --> 00:32:42,519
+events where you know some people die
+
+752
+00:32:38,419 --> 00:32:47,330
+from exposure to heat makes the news etc
+
+753
+00:32:42,519 --> 00:32:49,100
+okay so you expect that there's there's
+
+754
+00:32:47,330 --> 00:32:51,139
+gonna be a few maybe record-breaking
+
+755
+00:32:49,100 --> 00:32:52,789
+cold events a few record-breaking hot
+
+756
+00:32:51,139 --> 00:32:57,289
+events but most days are kind of in the
+
+757
+00:32:52,789 --> 00:33:00,049
+middle now let's say I shift the climate
+
+758
+00:32:57,289 --> 00:33:02,690
+just a couple of degrees right it's the
+
+759
+00:33:00,049 --> 00:33:04,970
+earth gets warmer three degrees what's
+
+760
+00:33:02,690 --> 00:33:06,620
+the big deal three degrees it might be
+
+761
+00:33:04,970 --> 00:33:08,299
+warmer three degrees tomorrow might be
+
+762
+00:33:06,620 --> 00:33:10,850
+colder three degrees tomorrow nobody
+
+763
+00:33:08,299 --> 00:33:13,039
+knows the difference who cares what that
+
+764
+00:33:10,850 --> 00:33:15,100
+really means first of all it's a global
+
+765
+00:33:13,039 --> 00:33:18,440
+average so as we saw in the previous
+
+766
+00:33:15,100 --> 00:33:20,299
+section parts of the earth are going to
+
+767
+00:33:18,440 --> 00:33:22,100
+get much much much warmer than that that
+
+768
+00:33:20,299 --> 00:33:23,720
+three degrees whereas a lot of it may be
+
+769
+00:33:22,100 --> 00:33:25,399
+around the equator doesn't change at all
+
+770
+00:33:23,720 --> 00:33:27,529
+but let's just say for this particular
+
+771
+00:33:25,399 --> 00:33:31,100
+location I increase the temperature
+
+772
+00:33:27,529 --> 00:33:33,970
+three degrees what that means is that
+
+773
+00:33:31,100 --> 00:33:36,590
+this whole curve is being shifted over
+
+774
+00:33:33,970 --> 00:33:39,710
+three degrees okay so I'm going to
+
+775
+00:33:36,590 --> 00:33:42,669
+redraw this but as a dotted line now or
+
+776
+00:33:39,710 --> 00:33:42,669
+it's been shifted over
+
+777
+00:33:50,340 --> 00:34:02,679
+okay so this right here that's our three
+
+778
+00:33:57,580 --> 00:34:06,309
+degree increase okay so we've shifted
+
+779
+00:34:02,679 --> 00:34:09,520
+the average over three degrees what does
+
+780
+00:34:06,309 --> 00:34:14,530
+that do to these extremes though these
+
+781
+00:34:09,520 --> 00:34:18,399
+tails notice what happens to our tail of
+
+782
+00:34:14,530 --> 00:34:20,049
+cold events on this new dashed line we
+
+783
+00:34:18,399 --> 00:34:23,200
+basically don't have them anymore
+
+784
+00:34:20,049 --> 00:34:25,450
+we're losing those cold events the
+
+785
+00:34:23,200 --> 00:34:27,429
+record-breaking cold events when you did
+
+786
+00:34:25,450 --> 00:34:29,530
+your climate change assignment where you
+
+787
+00:34:27,429 --> 00:34:30,879
+you went and you look one of the things
+
+788
+00:34:29,530 --> 00:34:33,579
+that we saw when we go back like a
+
+789
+00:34:30,879 --> 00:34:36,429
+hundred years is that starting like in
+
+790
+00:34:33,579 --> 00:34:38,669
+the 90s we start losing those colder
+
+791
+00:34:36,429 --> 00:34:42,280
+winters right well this is this is why
+
+792
+00:34:38,669 --> 00:34:44,859
+now the other thing that happens is how
+
+793
+00:34:42,280 --> 00:34:47,889
+many of these hot events do we now have
+
+794
+00:34:44,859 --> 00:34:55,000
+so if I shifted this curve over I now
+
+795
+00:34:47,889 --> 00:34:57,700
+have a much broader area of these hot
+
+796
+00:34:55,000 --> 00:35:00,549
+events so by just shifting this over a
+
+797
+00:34:57,700 --> 00:35:03,640
+little bit I increase the area under the
+
+798
+00:35:00,549 --> 00:35:06,730
+curve for this tail and I decrease the
+
+799
+00:35:03,640 --> 00:35:09,579
+area under the curve for this tail so as
+
+800
+00:35:06,730 --> 00:35:12,640
+humans what this means is we get a lot
+
+801
+00:35:09,579 --> 00:35:15,010
+more of these dangerous hot events a lot
+
+802
+00:35:12,640 --> 00:35:16,829
+more of these heat waves so this is why
+
+803
+00:35:15,010 --> 00:35:18,849
+it's a little deceptive when people say
+
+804
+00:35:16,829 --> 00:35:22,240
+temperature's increases three degrees
+
+805
+00:35:18,849 --> 00:35:24,970
+Fahrenheit natural reaction is big deal
+
+806
+00:35:22,240 --> 00:35:27,190
+but it's the whole average that's
+
+807
+00:35:24,970 --> 00:35:30,220
+shifting three degrees and it's this
+
+808
+00:35:27,190 --> 00:35:32,109
+tail that we worry about because now
+
+809
+00:35:30,220 --> 00:35:35,140
+we've got more of these hot de Vence
+
+810
+00:35:32,109 --> 00:35:37,480
+than we used to have so we can already
+
+811
+00:35:35,140 --> 00:35:39,400
+see the consequence of these additional
+
+812
+00:35:37,480 --> 00:35:41,520
+heat events around the world and one
+
+813
+00:35:39,400 --> 00:35:44,559
+thing to keep in mind when we talk about
+
+814
+00:35:41,520 --> 00:35:47,559
+climate change is that the people who
+
+815
+00:35:44,559 --> 00:35:49,990
+are the most affected are not us here in
+
+816
+00:35:47,559 --> 00:35:51,670
+the United States and we have this we're
+
+817
+00:35:49,990 --> 00:35:54,790
+kind of spoiled with our infrastructure
+
+818
+00:35:51,670 --> 00:35:56,410
+right if so if it's extra hot we just
+
+819
+00:35:54,790 --> 00:35:58,450
+turn on our air conditioners on but a
+
+820
+00:35:56,410 --> 00:36:00,250
+lot of the world can't do that and it's
+
+821
+00:35:58,450 --> 00:36:03,880
+kind of astonishing how many people die
+
+822
+00:36:00,250 --> 00:36:05,259
+from these extreme heat events so these
+
+823
+00:36:03,880 --> 00:36:08,890
+slides I'm going to show you or just
+
+824
+00:36:05,259 --> 00:36:10,900
+some stories from 2015 I could update
+
+825
+00:36:08,890 --> 00:36:12,400
+them and give you some more stories for
+
+826
+00:36:10,900 --> 00:36:16,119
+this year but these are the slides that
+
+827
+00:36:12,400 --> 00:36:18,369
+I had and so for example in 2015
+
+828
+00:36:16,119 --> 00:36:21,250
+you know heatwave in India kills over
+
+829
+00:36:18,369 --> 00:36:23,170
+2,000 people right like that's nuts we
+
+830
+00:36:21,250 --> 00:36:27,460
+would never see something like that here
+
+831
+00:36:23,170 --> 00:36:32,529
+in the US Pakistan heatwave that same
+
+832
+00:36:27,460 --> 00:36:34,779
+year kills 1200 people you know that we
+
+833
+00:36:32,529 --> 00:36:38,799
+didn't get into heat index in this
+
+834
+00:36:34,779 --> 00:36:41,440
+country or in this class but if you have
+
+835
+00:36:38,799 --> 00:36:44,069
+high relative humidities and you add to
+
+836
+00:36:41,440 --> 00:36:46,269
+that high temperatures you can produce
+
+837
+00:36:44,069 --> 00:36:48,309
+you know it feels like it's hotter than
+
+838
+00:36:46,269 --> 00:36:55,960
+it really is and we call that heat index
+
+839
+00:36:48,309 --> 00:36:57,819
+so that year Iran hit 163 degrees heat
+
+840
+00:36:55,960 --> 00:36:58,990
+index so what that means it is it felt
+
+841
+00:36:57,819 --> 00:37:01,539
+like there's a hundred sixty-three
+
+842
+00:36:58,990 --> 00:37:03,039
+degrees outside so that was a
+
+843
+00:37:01,539 --> 00:37:06,849
+combination of the high temperatures and
+
+844
+00:37:03,039 --> 00:37:09,309
+high humidity that they had heat wave
+
+845
+00:37:06,849 --> 00:37:10,779
+hit Europe people died again but not in
+
+846
+00:37:09,309 --> 00:37:14,529
+the numbers that we saw in some of those
+
+847
+00:37:10,779 --> 00:37:16,869
+other countries hits Japan when this
+
+848
+00:37:14,529 --> 00:37:21,369
+story was run that 55 people died
+
+849
+00:37:16,869 --> 00:37:23,670
+eventually that would become 90 so heat
+
+850
+00:37:21,369 --> 00:37:26,349
+waves are you know have real-world
+
+851
+00:37:23,670 --> 00:37:30,329
+consequences and thousands of people
+
+852
+00:37:26,349 --> 00:37:33,430
+actually died from these each year also
+
+853
+00:37:30,329 --> 00:37:34,990
+another consequence of climate change is
+
+854
+00:37:33,430 --> 00:37:37,329
+that you're getting flooding in places
+
+855
+00:37:34,990 --> 00:37:38,859
+that aren't used to it you're also to be
+
+856
+00:37:37,329 --> 00:37:40,539
+fair getting droughts in place that
+
+857
+00:37:38,859 --> 00:37:42,910
+aren't places that aren't used to it as
+
+858
+00:37:40,539 --> 00:37:44,559
+we kind of briefly talked about in the
+
+859
+00:37:42,910 --> 00:37:47,140
+past we're shifting weather patterns
+
+860
+00:37:44,559 --> 00:37:49,480
+around a little bit as we change the
+
+861
+00:37:47,140 --> 00:37:52,059
+climate and so there's human
+
+862
+00:37:49,480 --> 00:37:54,789
+consequences for these flooding events
+
+863
+00:37:52,059 --> 00:37:57,279
+where you know millions of people are
+
+864
+00:37:54,789 --> 00:37:59,640
+having to leave their homes and there
+
+865
+00:37:57,279 --> 00:38:02,789
+are death tolls and in the hundreds
+
+866
+00:37:59,640 --> 00:38:06,309
+often or these places flood and again
+
+867
+00:38:02,789 --> 00:38:08,950
+we're not really used to this I mean how
+
+868
+00:38:06,309 --> 00:38:10,269
+far back do you have to go to find you
+
+869
+00:38:08,950 --> 00:38:12,039
+know a hundred people in the United
+
+870
+00:38:10,269 --> 00:38:14,109
+States died from the flood doesn't
+
+871
+00:38:12,039 --> 00:38:16,990
+happen very often but in other parts of
+
+872
+00:38:14,109 --> 00:38:19,030
+the world you're not nearly as lucky all
+
+873
+00:38:16,990 --> 00:38:21,580
+so getting flooding in places that you'd
+
+874
+00:38:19,030 --> 00:38:23,650
+never expect much rain at all so again
+
+875
+00:38:21,580 --> 00:38:29,530
+this is the all these stories worth from
+
+876
+00:38:23,650 --> 00:38:32,140
+2015 and in Egypt Alexandria so the
+
+877
+00:38:29,530 --> 00:38:34,360
+caption says Alexandria would usually
+
+878
+00:38:32,140 --> 00:38:37,119
+only expect to see five millimeters of
+
+879
+00:38:34,360 --> 00:38:39,250
+rain during the entire month right and
+
+880
+00:38:37,119 --> 00:38:40,890
+this one event they got you know what
+
+881
+00:38:39,250 --> 00:38:43,330
+equivalent of several inches of rain
+
+882
+00:38:40,890 --> 00:38:47,080
+that flooded this area so many
+
+883
+00:38:43,330 --> 00:38:50,410
+centimeters of rain now we saw this
+
+884
+00:38:47,080 --> 00:38:53,500
+image once before which is a record of
+
+885
+00:38:50,410 --> 00:38:55,180
+number of hours of flooding per year in
+
+886
+00:38:53,500 --> 00:38:57,250
+a neighborhood near the coast and we
+
+887
+00:38:55,180 --> 00:39:01,480
+talked about how this is partly due to
+
+888
+00:38:57,250 --> 00:39:03,490
+rising sea levels you know there are
+
+889
+00:39:01,480 --> 00:39:05,830
+several places in the world where the
+
+890
+00:39:03,490 --> 00:39:09,910
+land is pretty close to sea level and
+
+891
+00:39:05,830 --> 00:39:14,260
+Bangladesh is one of them and we
+
+892
+00:39:09,910 --> 00:39:16,690
+expected 17% of the landmass of
+
+893
+00:39:14,260 --> 00:39:18,190
+Bangladesh will be underwater in the
+
+894
+00:39:16,690 --> 00:39:20,920
+next 40 years and that's going to
+
+895
+00:39:18,190 --> 00:39:22,240
+displace 18 million people all right so
+
+896
+00:39:20,920 --> 00:39:24,400
+this is a country that's you know it's
+
+897
+00:39:22,240 --> 00:39:27,160
+built on a delta it's very flat very
+
+898
+00:39:24,400 --> 00:39:30,130
+near sea level so the sea goes up just a
+
+899
+00:39:27,160 --> 00:39:32,560
+little bit - floods a very broad area 40
+
+900
+00:39:30,130 --> 00:39:34,000
+I mean 18 million people that's a lot of
+
+901
+00:39:32,560 --> 00:39:35,980
+people are gonna have to go somewhere
+
+902
+00:39:34,000 --> 00:39:39,270
+this woman is standing where her house
+
+903
+00:39:35,980 --> 00:39:41,710
+used to be before it got washed away
+
+904
+00:39:39,270 --> 00:39:43,480
+another consequence of climate change
+
+905
+00:39:41,710 --> 00:39:44,980
+and by the way we're just going through
+
+906
+00:39:43,480 --> 00:39:47,380
+you know these are things that are in
+
+907
+00:39:44,980 --> 00:39:49,660
+your book that your book talks about and
+
+908
+00:39:47,380 --> 00:39:53,310
+in like the first half of your book or
+
+909
+00:39:49,660 --> 00:39:56,260
+whatever more wildfire so the warmer you
+
+910
+00:39:53,310 --> 00:39:58,270
+make the earth the lower the relative
+
+911
+00:39:56,260 --> 00:40:01,930
+humidity the lower the relative humidity
+
+912
+00:39:58,270 --> 00:40:04,510
+the more chance of fires and so again
+
+913
+00:40:01,930 --> 00:40:06,850
+this is I went through is these slides
+
+914
+00:40:04,510 --> 00:40:09,520
+this one in particular year 2015 and
+
+915
+00:40:06,850 --> 00:40:12,070
+just got all the stories about the
+
+916
+00:40:09,520 --> 00:40:13,780
+record-breaking wildfires and I could do
+
+917
+00:40:12,070 --> 00:40:15,340
+this the year after the year after the
+
+918
+00:40:13,780 --> 00:40:19,510
+year after and you still get the same
+
+919
+00:40:15,340 --> 00:40:22,330
+stories so this on this particular year
+
+920
+00:40:19,510 --> 00:40:25,660
+we had record-breaking wildfires burning
+
+921
+00:40:22,330 --> 00:40:29,050
+eight million acres northwest wildfire
+
+922
+00:40:25,660 --> 00:40:30,910
+fires northwestern us that is break
+
+923
+00:40:29,050 --> 00:40:34,210
+records for size and cost
+
+924
+00:40:30,910 --> 00:40:38,799
+The Australian's battle the worst bush
+
+925
+00:40:34,210 --> 00:40:40,750
+fires for last 30 years and so again
+
+926
+00:40:38,799 --> 00:40:42,460
+pretty much every year it's the same
+
+927
+00:40:40,750 --> 00:40:48,490
+cycle and news stories that are coming
+
+928
+00:40:42,460 --> 00:40:51,250
+out here's kind of a strange graph is
+
+929
+00:40:48,490 --> 00:40:52,510
+this is from Australia and it says
+
+930
+00:40:51,250 --> 00:40:56,230
+number of days
+
+931
+00:40:52,510 --> 00:40:58,690
+hotter than 99% of all days ever
+
+932
+00:40:56,230 --> 00:41:01,960
+recorded right so if we go back to the
+
+933
+00:40:58,690 --> 00:41:05,140
+40's right so like this year right here
+
+934
+00:41:01,960 --> 00:41:09,010
+on what that is 1936 they had five days
+
+935
+00:41:05,140 --> 00:41:12,640
+that year that were hotter than 99% of
+
+936
+00:41:09,010 --> 00:41:16,150
+all days ever recorded and then compared
+
+937
+00:41:12,640 --> 00:41:17,980
+and again remember long-term changes is
+
+938
+00:41:16,150 --> 00:41:20,500
+what we're looking for in for climate
+
+939
+00:41:17,980 --> 00:41:21,940
+change there's you know years that are
+
+940
+00:41:20,500 --> 00:41:24,549
+clearly hotter and years that are
+
+941
+00:41:21,940 --> 00:41:26,200
+clearly colder but the overall trend is
+
+942
+00:41:24,549 --> 00:41:28,960
+that they're seeing more and more of
+
+943
+00:41:26,200 --> 00:41:31,900
+these years where they have more and
+
+944
+00:41:28,960 --> 00:41:33,849
+more record-breaking hot days right so
+
+945
+00:41:31,900 --> 00:41:35,529
+this last one on this graph you know
+
+946
+00:41:33,849 --> 00:41:38,829
+they looks like they've got about 27
+
+947
+00:41:35,529 --> 00:41:43,240
+days that were hotter than 99% of all
+
+948
+00:41:38,829 --> 00:41:45,520
+days ever recorded so sometimes people
+
+949
+00:41:43,240 --> 00:41:47,799
+use this term extreme weather I don't
+
+950
+00:41:45,520 --> 00:41:50,410
+like that term because who knows exactly
+
+951
+00:41:47,799 --> 00:41:52,420
+what you consider extreme but I know
+
+952
+00:41:50,410 --> 00:41:54,279
+this gets in the news a lot and I think
+
+953
+00:41:52,420 --> 00:41:57,460
+your book refers to it so I throw this
+
+954
+00:41:54,279 --> 00:42:00,400
+in here the number of extreme weather
+
+955
+00:41:57,460 --> 00:42:02,529
+events has been going up and up this is
+
+956
+00:42:00,400 --> 00:42:04,329
+again usually attributed to climate
+
+957
+00:42:02,529 --> 00:42:06,520
+change but it's a little fuzzy as to
+
+958
+00:42:04,329 --> 00:42:08,799
+exactly what's going on here and what
+
+959
+00:42:06,520 --> 00:42:10,450
+counts as extreme weather so I don't
+
+960
+00:42:08,799 --> 00:42:12,460
+really like to get into that too much
+
+961
+00:42:10,450 --> 00:42:16,690
+but I thought I would throw that in
+
+962
+00:42:12,460 --> 00:42:20,079
+there so a more important idea is the
+
+963
+00:42:16,690 --> 00:42:21,910
+threats to agriculture and the world's
+
+964
+00:42:20,079 --> 00:42:24,640
+food supply and one of the things we've
+
+965
+00:42:21,910 --> 00:42:26,410
+got to realize here is that here in the
+
+966
+00:42:24,640 --> 00:42:28,660
+United States we've got this factory
+
+967
+00:42:26,410 --> 00:42:31,119
+farming system we're making more food
+
+968
+00:42:28,660 --> 00:42:34,779
+than we can use and we export a lot of
+
+969
+00:42:31,119 --> 00:42:37,960
+it but a lot of the world does not have
+
+970
+00:42:34,779 --> 00:42:39,910
+that and in fact the the farmers that
+
+971
+00:42:37,960 --> 00:42:41,710
+are going to experience you know the
+
+972
+00:42:39,910 --> 00:42:44,290
+worst consequences from climate change
+
+973
+00:42:41,710 --> 00:42:46,240
+are the little farmers so here
+
+974
+00:42:44,290 --> 00:42:48,090
+stars as small farmers in Africa will
+
+975
+00:42:46,240 --> 00:42:50,950
+experience the worst of climate change
+
+976
+00:42:48,090 --> 00:42:53,500
+small holders with less than five acres
+
+977
+00:42:50,950 --> 00:42:59,470
+produce much of the world Lord's food
+
+978
+00:42:53,500 --> 00:43:01,540
+and and so when you have a shifting you
+
+979
+00:42:59,470 --> 00:43:03,280
+know shifting precipitation patterns or
+
+980
+00:43:01,540 --> 00:43:05,830
+it's now it's getting warm more of these
+
+981
+00:43:03,280 --> 00:43:09,100
+warm events you're gonna see a lot of
+
+982
+00:43:05,830 --> 00:43:11,020
+crop failure ah on a small scale so in
+
+983
+00:43:09,100 --> 00:43:12,880
+other words here in the United States if
+
+984
+00:43:11,020 --> 00:43:15,400
+we go into a drought well we could drill
+
+985
+00:43:12,880 --> 00:43:18,160
+a well we could pump water right I mean
+
+986
+00:43:15,400 --> 00:43:19,660
+there's things that we can do but a lot
+
+987
+00:43:18,160 --> 00:43:22,270
+of the world can't do that they don't
+
+988
+00:43:19,660 --> 00:43:24,130
+have the infrastructure to do that so so
+
+989
+00:43:22,270 --> 00:43:27,610
+we're gonna see a lot of crop failure
+
+990
+00:43:24,130 --> 00:43:29,560
+and the places that can't afford it the
+
+991
+00:43:27,610 --> 00:43:31,450
+most and it's worth pointing out that
+
+992
+00:43:29,560 --> 00:43:34,120
+the world is not necessarily getting as
+
+993
+00:43:31,450 --> 00:43:35,440
+much to eat as they would like and this
+
+994
+00:43:34,120 --> 00:43:38,620
+is again something that we don't think
+
+995
+00:43:35,440 --> 00:43:41,950
+about a lot in our country this is a map
+
+996
+00:43:38,620 --> 00:43:43,930
+of hunger so white means you got plenty
+
+997
+00:43:41,950 --> 00:43:46,660
+to eat no problem
+
+998
+00:43:43,930 --> 00:43:49,210
+the dark green means that maybe there's
+
+999
+00:43:46,660 --> 00:43:51,580
+a few you know maybe five percent or so
+
+1000
+00:43:49,210 --> 00:43:54,460
+or less of the population that's not
+
+1001
+00:43:51,580 --> 00:43:56,860
+getting enough to eat and then as you
+
+1002
+00:43:54,460 --> 00:43:58,600
+start to get into these other colors you
+
+1003
+00:43:56,860 --> 00:44:01,530
+start to get I come into the red where
+
+1004
+00:43:58,600 --> 00:44:05,140
+over 20 percent of the population is
+
+1005
+00:44:01,530 --> 00:44:07,360
+basically starving and you so you see a
+
+1006
+00:44:05,140 --> 00:44:09,820
+lot of hunger say in central Africa well
+
+1007
+00:44:07,360 --> 00:44:12,010
+we just said that that's the part of the
+
+1008
+00:44:09,820 --> 00:44:15,880
+world that's going to be the meal the
+
+1009
+00:44:12,010 --> 00:44:18,190
+most danger most at risk for crop
+
+1010
+00:44:15,880 --> 00:44:20,800
+failure as climate change starts to set
+
+1011
+00:44:18,190 --> 00:44:22,360
+in so you're taking us an area of the
+
+1012
+00:44:20,800 --> 00:44:24,490
+world that's already hurting for a food
+
+1013
+00:44:22,360 --> 00:44:26,560
+supply and you're gonna make it worse
+
+1014
+00:44:24,490 --> 00:44:28,000
+once you start changing precipitation
+
+1015
+00:44:26,560 --> 00:44:34,510
+patterns and adding these additional
+
+1016
+00:44:28,000 --> 00:44:36,970
+heat events number 6 on our list would
+
+1017
+00:44:34,510 --> 00:44:39,940
+be threats to livelihood and so we saw
+
+1018
+00:44:36,970 --> 00:44:41,740
+in those previous climate animate
+
+1019
+00:44:39,940 --> 00:44:45,070
+climate change animations that the
+
+1020
+00:44:41,740 --> 00:44:47,500
+predictions that the northern you know
+
+1021
+00:44:45,070 --> 00:44:50,620
+up in the Arctic that that part is going
+
+1022
+00:44:47,500 --> 00:44:52,770
+to be affected the most most of all by
+
+1023
+00:44:50,620 --> 00:44:56,620
+future climate change has already
+
+1024
+00:44:52,770 --> 00:44:57,530
+received the most change up till now and
+
+1025
+00:44:56,620 --> 00:44:59,810
+it's going to contain
+
+1026
+00:44:57,530 --> 00:45:02,090
+that way in the future so there's a lot
+
+1027
+00:44:59,810 --> 00:45:05,060
+of coaches like the Inuit that their
+
+1028
+00:45:02,090 --> 00:45:07,760
+livelihood depends on the present say of
+
+1029
+00:45:05,060 --> 00:45:09,380
+ice and they're gonna have to do
+
+1030
+00:45:07,760 --> 00:45:11,660
+something different because that ice is
+
+1031
+00:45:09,380 --> 00:45:13,580
+no longer gonna be there and we saw in
+
+1032
+00:45:11,660 --> 00:45:15,230
+that one prediction that it was going to
+
+1033
+00:45:13,580 --> 00:45:19,310
+you know this area was gonna increase by
+
+1034
+00:45:15,230 --> 00:45:21,680
+25 degrees Fahrenheit by the year 2100
+
+1035
+00:45:19,310 --> 00:45:24,050
+so something's gonna have to really
+
+1036
+00:45:21,680 --> 00:45:27,100
+change here in the in their livelihood
+
+1037
+00:45:24,050 --> 00:45:29,030
+in the okay last on our list of
+
+1038
+00:45:27,100 --> 00:45:32,780
+consequences of climate change are
+
+1039
+00:45:29,030 --> 00:45:34,730
+threats to ecosystems and this diagram
+
+1040
+00:45:32,780 --> 00:45:36,680
+was in your book and it's kind of
+
+1041
+00:45:34,730 --> 00:45:39,380
+confusing I want to go over this a
+
+1042
+00:45:36,680 --> 00:45:43,760
+little bit so the idea is that groups of
+
+1043
+00:45:39,380 --> 00:45:45,530
+organisms can migrate and part of this
+
+1044
+00:45:43,760 --> 00:45:48,410
+is common sense that if you're a big
+
+1045
+00:45:45,530 --> 00:45:50,870
+animal and you need to move you just get
+
+1046
+00:45:48,410 --> 00:45:55,040
+up and go but other groups of organisms
+
+1047
+00:45:50,870 --> 00:45:58,670
+can also migrate at a much lower rate so
+
+1048
+00:45:55,040 --> 00:45:59,390
+for example trees can migrate now how
+
+1049
+00:45:58,670 --> 00:46:02,960
+would they do that
+
+1050
+00:45:59,390 --> 00:46:05,750
+well tree grows up propagate seeds the
+
+1051
+00:46:02,960 --> 00:46:07,580
+seeds then start a new tree which then
+
+1052
+00:46:05,750 --> 00:46:10,040
+propagates seeds which in start a new
+
+1053
+00:46:07,580 --> 00:46:12,080
+tree in that forest as a whole could
+
+1054
+00:46:10,040 --> 00:46:16,780
+move in one direction or the other if it
+
+1055
+00:46:12,080 --> 00:46:22,100
+had to and so if you look at a range on
+
+1056
+00:46:16,780 --> 00:46:24,650
+this graph of all trees the slowest
+
+1057
+00:46:22,100 --> 00:46:26,840
+trees could propagate so on the waxes
+
+1058
+00:46:24,650 --> 00:46:29,540
+that says maximum speed at which species
+
+1059
+00:46:26,840 --> 00:46:32,510
+can move in kilometers per decade right
+
+1060
+00:46:29,540 --> 00:46:35,450
+so this is 20 so right in the middle of
+
+1061
+00:46:32,510 --> 00:46:38,390
+be about 10 so this bar represents all
+
+1062
+00:46:35,450 --> 00:46:40,400
+trees in the world and the speediest
+
+1063
+00:46:38,390 --> 00:46:43,880
+trees looks like they could propagate it
+
+1064
+00:46:40,400 --> 00:46:45,950
+maybe 15 kilometers per decade slows
+
+1065
+00:46:43,880 --> 00:46:47,600
+trees maybe I don't know half a
+
+1066
+00:46:45,950 --> 00:46:50,480
+kilometer per decade something like that
+
+1067
+00:46:47,600 --> 00:46:51,620
+the black bar is what is the median so
+
+1068
+00:46:50,480 --> 00:46:54,140
+you can think like that's where most
+
+1069
+00:46:51,620 --> 00:46:55,700
+trees are so it looks like most trees
+
+1070
+00:46:54,140 --> 00:46:58,820
+might be able to propagate about a
+
+1071
+00:46:55,700 --> 00:47:00,890
+kilometer per decade right so if you got
+
+1072
+00:46:58,820 --> 00:47:03,410
+a compa trees and they've got to stay in
+
+1073
+00:47:00,890 --> 00:47:06,170
+a certain temperature range to survive
+
+1074
+00:47:03,410 --> 00:47:09,680
+and then the climate is going to change
+
+1075
+00:47:06,170 --> 00:47:11,450
+could the trees move fast enough to get
+
+1076
+00:47:09,680 --> 00:47:14,320
+to a cooler area
+
+1077
+00:47:11,450 --> 00:47:16,550
+to survive or any of these other
+
+1078
+00:47:14,320 --> 00:47:20,780
+organisms right so if you think of like
+
+1079
+00:47:16,550 --> 00:47:24,140
+a squirrel so a squirrel could get up
+
+1080
+00:47:20,780 --> 00:47:27,890
+and and go except it has to stay within
+
+1081
+00:47:24,140 --> 00:47:29,810
+its habitat in order to survive right so
+
+1082
+00:47:27,890 --> 00:47:31,790
+let's say you got a compa trees and
+
+1083
+00:47:29,810 --> 00:47:34,340
+surrounding the clump of trees is I
+
+1084
+00:47:31,790 --> 00:47:36,170
+don't know a prairie and for whatever
+
+1085
+00:47:34,340 --> 00:47:39,140
+reason the squirrels have to live in the
+
+1086
+00:47:36,170 --> 00:47:40,880
+trees well the squirrels cannot migrate
+
+1087
+00:47:39,140 --> 00:47:43,160
+any faster than the trees so the trees
+
+1088
+00:47:40,880 --> 00:47:45,980
+are slowly propagating in one direction
+
+1089
+00:47:43,160 --> 00:47:48,620
+then the squirrels are propagating at
+
+1090
+00:47:45,980 --> 00:47:50,300
+the same speed as the trees right they
+
+1091
+00:47:48,620 --> 00:47:53,210
+can't go any faster than the trees or
+
+1092
+00:47:50,300 --> 00:47:55,310
+they will run out of habitat so let's
+
+1093
+00:47:53,210 --> 00:47:57,440
+imagine I have two clumps of trees here
+
+1094
+00:47:55,310 --> 00:48:00,590
+I've got one clump that's on a pretty
+
+1095
+00:47:57,440 --> 00:48:03,850
+flat you know pretty flat ground I get
+
+1096
+00:48:00,590 --> 00:48:08,000
+another clump that's near some pretty
+
+1097
+00:48:03,850 --> 00:48:12,680
+steep terrain so if I change the
+
+1098
+00:48:08,000 --> 00:48:14,420
+temperature I make things warmer so if
+
+1099
+00:48:12,680 --> 00:48:17,090
+these trees are going to survive they
+
+1100
+00:48:14,420 --> 00:48:20,960
+need to get to a higher elevation okay
+
+1101
+00:48:17,090 --> 00:48:23,600
+so these guys don't have to maybe they
+
+1102
+00:48:20,960 --> 00:48:26,330
+only have to go up just a little bit
+
+1103
+00:48:23,600 --> 00:48:27,650
+maybe to here to get to the cooler
+
+1104
+00:48:26,330 --> 00:48:32,600
+temperature and then there would be fine
+
+1105
+00:48:27,650 --> 00:48:37,160
+right so maybe this this batch only has
+
+1106
+00:48:32,600 --> 00:48:38,960
+to migrate up to here let's say and
+
+1107
+00:48:37,160 --> 00:48:39,880
+they'll be in cooler temperatures and
+
+1108
+00:48:38,960 --> 00:48:44,330
+they'll be fine
+
+1109
+00:48:39,880 --> 00:48:46,520
+this group has to go up you know to get
+
+1110
+00:48:44,330 --> 00:48:48,980
+this change in elevation let's say it's
+
+1111
+00:48:46,520 --> 00:48:50,660
+a centimeter on my map maybe that means
+
+1112
+00:48:48,980 --> 00:48:55,580
+that this group has got to get to about
+
+1113
+00:48:50,660 --> 00:48:58,850
+here to be the same distance you know
+
+1114
+00:48:55,580 --> 00:49:02,030
+that same increase in elevation to get
+
+1115
+00:48:58,850 --> 00:49:05,210
+to here so that they can survive but of
+
+1116
+00:49:02,030 --> 00:49:07,640
+course this is a very long area for them
+
+1117
+00:49:05,210 --> 00:49:10,060
+to migrate so the point is is if you
+
+1118
+00:49:07,640 --> 00:49:13,460
+have a group of organisms or forest
+
+1119
+00:49:10,060 --> 00:49:15,590
+that's on flat land they're going to
+
+1120
+00:49:13,460 --> 00:49:17,540
+have to travel a much longer distance to
+
+1121
+00:49:15,590 --> 00:49:19,100
+get to a cooler temperature then if you
+
+1122
+00:49:17,540 --> 00:49:21,080
+had a group of organisms that would say
+
+1123
+00:49:19,100 --> 00:49:24,630
+on the side of the hill these guys don't
+
+1124
+00:49:21,080 --> 00:49:25,980
+have to go very far to get to higher to
+
+1125
+00:49:24,630 --> 00:49:28,050
+to get to higher elevation for the
+
+1126
+00:49:25,980 --> 00:49:31,280
+cooler temperatures this groups got to
+
+1127
+00:49:28,050 --> 00:49:35,280
+go much farther to get to an equivalent
+
+1128
+00:49:31,280 --> 00:49:38,370
+elevation gain okay so with that idea
+
+1129
+00:49:35,280 --> 00:49:41,370
+let's go back to this graph so we're
+
+1130
+00:49:38,370 --> 00:49:43,440
+going back to these our CP predictions
+
+1131
+00:49:41,370 --> 00:49:50,100
+right the scenarios the emission
+
+1132
+00:49:43,440 --> 00:49:51,690
+scenarios so if I had a our CP 2.6
+
+1133
+00:49:50,100 --> 00:49:53,640
+remember that's the best possible
+
+1134
+00:49:51,690 --> 00:49:57,780
+scenario that's this in your book it's
+
+1135
+00:49:53,640 --> 00:50:00,210
+the purple one on here what it says is
+
+1136
+00:49:57,780 --> 00:50:03,150
+if we had our CP 2.6 it says fought
+
+1137
+00:50:00,210 --> 00:50:05,910
+areas in global average this is the rate
+
+1138
+00:50:03,150 --> 00:50:09,330
+at which the earth is going to warm and
+
+1139
+00:50:05,910 --> 00:50:12,000
+what we see is pretty much most of the
+
+1140
+00:50:09,330 --> 00:50:15,390
+organisms on this graph can migrate
+
+1141
+00:50:12,000 --> 00:50:17,250
+faster than that so that's good news the
+
+1142
+00:50:15,390 --> 00:50:19,860
+earth is going to warm a little bit but
+
+1143
+00:50:17,250 --> 00:50:22,470
+most most organisms including those on
+
+1144
+00:50:19,860 --> 00:50:26,100
+flat areas will be able to go faster
+
+1145
+00:50:22,470 --> 00:50:30,270
+than the warming and will survive but
+
+1146
+00:50:26,100 --> 00:50:34,380
+let's say we have our CP 6.0 so back on
+
+1147
+00:50:30,270 --> 00:50:37,380
+here our CP 6.0 that is the orange one
+
+1148
+00:50:34,380 --> 00:50:40,380
+okay and so this is not as Extreme as
+
+1149
+00:50:37,380 --> 00:50:43,950
+the sort of business as usual scenario
+
+1150
+00:50:40,380 --> 00:50:46,770
+8.5 it's somewhere in between so let's
+
+1151
+00:50:43,950 --> 00:50:49,860
+just say that this is the future our CP
+
+1152
+00:50:46,770 --> 00:50:53,340
+6.0 that's the emission scenario that
+
+1153
+00:50:49,860 --> 00:50:56,060
+happens and the earth warms up
+
+1154
+00:50:53,340 --> 00:51:00,030
+accordingly and so what this is saying
+
+1155
+00:50:56,060 --> 00:51:03,330
+it says our CP 6.0 global average this
+
+1156
+00:51:00,030 --> 00:51:08,040
+is the rate at which the earth will warm
+
+1157
+00:51:03,330 --> 00:51:11,220
+and organisms that are below this line
+
+1158
+00:51:08,040 --> 00:51:13,950
+will not be able to move fast enough to
+
+1159
+00:51:11,220 --> 00:51:16,200
+escape the warming organisms that are
+
+1160
+00:51:13,950 --> 00:51:19,200
+above this line will be able to go fast
+
+1161
+00:51:16,200 --> 00:51:21,750
+enough to get to to cooler areas so of
+
+1162
+00:51:19,200 --> 00:51:23,910
+all the trees in the world the trees
+
+1163
+00:51:21,750 --> 00:51:27,540
+that fall up in this zone will be able
+
+1164
+00:51:23,910 --> 00:51:29,970
+to accelerate fast enough to go beat you
+
+1165
+00:51:27,540 --> 00:51:32,700
+know to get to higher elevations to
+
+1166
+00:51:29,970 --> 00:51:34,740
+cooler temperatures the the trees that
+
+1167
+00:51:32,700 --> 00:51:36,930
+are below us all the species below here
+
+1168
+00:51:34,740 --> 00:51:41,190
+won't be able to do that and will
+
+1169
+00:51:36,930 --> 00:51:44,160
+we go extinct up here says RCP 6.0 flat
+
+1170
+00:51:41,190 --> 00:51:47,730
+areas so any organisms that are stuck
+
+1171
+00:51:44,160 --> 00:51:49,500
+out in the in the flat areas there
+
+1172
+00:51:47,730 --> 00:51:51,480
+they're in trouble because they're not
+
+1173
+00:51:49,500 --> 00:51:54,600
+going to be able to accelerate the the
+
+1174
+00:51:51,480 --> 00:51:56,670
+warming fast enough so all these guys
+
+1175
+00:51:54,600 --> 00:51:58,530
+would go extinct in that scenario if
+
+1176
+00:51:56,670 --> 00:52:01,050
+they were stuck out in the flattens in
+
+1177
+00:51:58,530 --> 00:52:02,690
+the flat areas these types of organisms
+
+1178
+00:52:01,050 --> 00:52:06,750
+would be okay because they could
+
+1179
+00:52:02,690 --> 00:52:09,210
+conceivably move faster than this amount
+
+1180
+00:52:06,750 --> 00:52:11,340
+of warming or if you go to the 8.5
+
+1181
+00:52:09,210 --> 00:52:12,570
+remember the 8.5 that's the worst case
+
+1182
+00:52:11,340 --> 00:52:14,190
+scenario that's the business-as-usual
+
+1183
+00:52:12,570 --> 00:52:18,000
+that's the one we're probably on right
+
+1184
+00:52:14,190 --> 00:52:21,390
+now so we move from this line to this
+
+1185
+00:52:18,000 --> 00:52:24,450
+line so again any organisms that fall
+
+1186
+00:52:21,390 --> 00:52:26,550
+below this red line means that they were
+
+1187
+00:52:24,450 --> 00:52:29,550
+not going to move fast enough to outpace
+
+1188
+00:52:26,550 --> 00:52:31,410
+the warming and then here's the flat
+
+1189
+00:52:29,550 --> 00:52:34,620
+area so any organisms that's out on the
+
+1190
+00:52:31,410 --> 00:52:37,290
+flat area below this line will not
+
+1191
+00:52:34,620 --> 00:52:40,800
+survive so that's I think is kind of a
+
+1192
+00:52:37,290 --> 00:52:42,680
+confusing diagram to explain this but
+
+1193
+00:52:40,800 --> 00:52:44,670
+all you got to know here is that
+
+1194
+00:52:42,680 --> 00:52:47,010
+different groups of organisms can
+
+1195
+00:52:44,670 --> 00:52:48,660
+migrate at different speeds sometimes
+
+1196
+00:52:47,010 --> 00:52:50,460
+it's just the speed of the organism
+
+1197
+00:52:48,660 --> 00:52:53,430
+itself it can just pick up and walk off
+
+1198
+00:52:50,460 --> 00:52:54,840
+sometimes it's the speed of the habitat
+
+1199
+00:52:53,430 --> 00:52:56,700
+in which the organism lives
+
+1200
+00:52:54,840 --> 00:52:58,620
+so again if you're a squirrel and you
+
+1201
+00:52:56,700 --> 00:53:00,690
+live in the trees you can oil migrate as
+
+1202
+00:52:58,620 --> 00:53:03,720
+fast as the trees at the forest itself
+
+1203
+00:53:00,690 --> 00:53:05,940
+is migrating and in these different
+
+1204
+00:53:03,720 --> 00:53:08,070
+emission scenarios the earth is going to
+
+1205
+00:53:05,940 --> 00:53:10,800
+warm at different rates and so the
+
+1206
+00:53:08,070 --> 00:53:13,770
+question is as a group of organisms can
+
+1207
+00:53:10,800 --> 00:53:16,350
+you outpace the warming and to get to a
+
+1208
+00:53:13,770 --> 00:53:19,290
+cooler area in time if you live near a
+
+1209
+00:53:16,350 --> 00:53:21,870
+hill high elevation it doesn't take as
+
+1210
+00:53:19,290 --> 00:53:24,210
+long to get to up to a cooler spot if
+
+1211
+00:53:21,870 --> 00:53:26,550
+you live where it's flat you got a long
+
+1212
+00:53:24,210 --> 00:53:28,650
+long ways to go to finally get to say a
+
+1213
+00:53:26,550 --> 00:53:31,820
+higher latitude or something you have a
+
+1214
+00:53:28,650 --> 00:53:34,650
+much much lower chance of surviving
+
+1215
+00:53:31,820 --> 00:53:38,370
+there's one graph on your book on page
+
+1216
+00:53:34,650 --> 00:53:41,640
+50 that is pretty important but I don't
+
+1217
+00:53:38,370 --> 00:53:43,950
+think they quite point out how important
+
+1218
+00:53:41,640 --> 00:53:46,260
+it is so what it's showing is that's
+
+1219
+00:53:43,950 --> 00:53:49,380
+showing global average temperatures back
+
+1220
+00:53:46,260 --> 00:53:50,340
+to 20,000 BC and you see that they rise
+
+1221
+00:53:49,380 --> 00:53:53,160
+up we're coming out
+
+1222
+00:53:50,340 --> 00:53:54,750
+an ice age and then and by the way the
+
+1223
+00:53:53,160 --> 00:53:56,580
+ice age was due to changes in the
+
+1224
+00:53:54,750 --> 00:54:00,000
+Earth's orbit right but that happens
+
+1225
+00:53:56,580 --> 00:54:02,550
+very slowly and then there's this thing
+
+1226
+00:54:00,000 --> 00:54:04,110
+it says the Holocene maximum and you see
+
+1227
+00:54:02,550 --> 00:54:07,370
+it kind of dive down a little bit and
+
+1228
+00:54:04,110 --> 00:54:10,610
+all of a sudden it takes off and this is
+
+1229
+00:54:07,370 --> 00:54:13,320
+you know the trajectory that we're on
+
+1230
+00:54:10,610 --> 00:54:14,940
+okay so the point of this is that the
+
+1231
+00:54:13,320 --> 00:54:18,090
+amount of warming that we're seeing
+
+1232
+00:54:14,940 --> 00:54:20,010
+right now is very rapid compared to what
+
+1233
+00:54:18,090 --> 00:54:22,470
+we've seen in the past but I want to
+
+1234
+00:54:20,010 --> 00:54:24,510
+talk about this part of the graph and in
+
+1235
+00:54:22,470 --> 00:54:28,230
+in I'm going to show you a different
+
+1236
+00:54:24,510 --> 00:54:31,490
+version of this and this is the graph
+
+1237
+00:54:28,230 --> 00:54:33,600
+that I generally show my class and
+
+1238
+00:54:31,490 --> 00:54:36,750
+there's some confusing things here so
+
+1239
+00:54:33,600 --> 00:54:38,610
+let's just simplify on the y-axis think
+
+1240
+00:54:36,750 --> 00:54:39,810
+of this is temperature okay something
+
+1241
+00:54:38,610 --> 00:54:44,240
+called Delta o-18
+
+1242
+00:54:39,810 --> 00:54:47,970
+in it's something that's chemically
+
+1243
+00:54:44,240 --> 00:54:50,180
+removed from shells to reconstruct
+
+1244
+00:54:47,970 --> 00:54:54,780
+temperatures does not worry about that
+
+1245
+00:54:50,180 --> 00:54:56,730
+point is if you go back these are this
+
+1246
+00:54:54,780 --> 00:54:59,430
+is a hundred thousand years ago right 80
+
+1247
+00:54:56,730 --> 00:55:02,400
+thousand years ago we see some pretty
+
+1248
+00:54:59,430 --> 00:55:04,620
+crazy changes in the Earth's climate
+
+1249
+00:55:02,400 --> 00:55:07,200
+right we've got warm periods we got cold
+
+1250
+00:55:04,620 --> 00:55:08,880
+periods we got back to warm periods so
+
+1251
+00:55:07,200 --> 00:55:13,830
+what you might say is that we're kind of
+
+1252
+00:55:08,880 --> 00:55:16,350
+in these you know ice ages or in between
+
+1253
+00:55:13,830 --> 00:55:18,780
+ice ages and there's a lot of craziness
+
+1254
+00:55:16,350 --> 00:55:20,580
+right a lot of wild swings in the
+
+1255
+00:55:18,780 --> 00:55:23,430
+Earth's or in the Earth's climate and we
+
+1256
+00:55:20,580 --> 00:55:26,130
+don't necessarily all agree on what's
+
+1257
+00:55:23,430 --> 00:55:28,380
+causing these big swings in the Earth's
+
+1258
+00:55:26,130 --> 00:55:31,380
+climate some of its orbit some of it may
+
+1259
+00:55:28,380 --> 00:55:35,040
+not be but here's the strange thing
+
+1260
+00:55:31,380 --> 00:55:39,180
+about 10,000 years ago the climate
+
+1261
+00:55:35,040 --> 00:55:43,500
+suddenly gets really calm and it gets
+
+1262
+00:55:39,180 --> 00:55:47,220
+and it turns flat okay and we are living
+
+1263
+00:55:43,500 --> 00:55:51,750
+at the end of this flat zone now as
+
+1264
+00:55:47,220 --> 00:55:55,020
+humans we need agriculture to survive
+
+1265
+00:55:51,750 --> 00:55:57,540
+and it turns out that the beginning of
+
+1266
+00:55:55,020 --> 00:56:01,560
+Agriculture was about 10,000 years ago
+
+1267
+00:55:57,540 --> 00:56:03,480
+and there's a hypothesis that humans
+
+1268
+00:56:01,560 --> 00:56:06,540
+could not develop
+
+1269
+00:56:03,480 --> 00:56:09,030
+culture until the climate kind of
+
+1270
+00:56:06,540 --> 00:56:11,690
+settled down so we went so the earth
+
+1271
+00:56:09,030 --> 00:56:14,280
+ghost is pretty crazy period and then
+
+1272
+00:56:11,690 --> 00:56:16,710
+for whatever reason tends to calm down
+
+1273
+00:56:14,280 --> 00:56:19,230
+and again climate scientists are not a
+
+1274
+00:56:16,710 --> 00:56:21,030
+hundred percent certain why why this
+
+1275
+00:56:19,230 --> 00:56:23,369
+actually happened why did we go creek
+
+1276
+00:56:21,030 --> 00:56:28,890
+from crazy town to this kind of nice
+
+1277
+00:56:23,369 --> 00:56:31,740
+calm period but here's the fear the fear
+
+1278
+00:56:28,890 --> 00:56:34,200
+is as we talked about in the previous
+
+1279
+00:56:31,740 --> 00:56:36,000
+lecture about greenhouse gases that
+
+1280
+00:56:34,200 --> 00:56:38,030
+we've suddenly just injected a ton of
+
+1281
+00:56:36,000 --> 00:56:40,770
+greenhouse gases into the atmosphere
+
+1282
+00:56:38,030 --> 00:56:42,540
+that aren't supposed to be there and
+
+1283
+00:56:40,770 --> 00:56:44,280
+we've put more greenhouse gases into the
+
+1284
+00:56:42,540 --> 00:56:48,119
+atmosphere now than the earth has seen
+
+1285
+00:56:44,280 --> 00:56:50,970
+in the last million years so the analogy
+
+1286
+00:56:48,119 --> 00:56:53,790
+is often that we're poking a sleeping
+
+1287
+00:56:50,970 --> 00:56:56,040
+bear right the atmosphere was going
+
+1288
+00:56:53,790 --> 00:56:59,130
+along just fine climate was nice and
+
+1289
+00:56:56,040 --> 00:57:01,350
+kind of flat no crazy stuff and then the
+
+1290
+00:56:59,130 --> 00:57:04,109
+humans come along and they start adding
+
+1291
+00:57:01,350 --> 00:57:08,010
+all this co2 and other greenhouse gases
+
+1292
+00:57:04,109 --> 00:57:10,200
+and one of the big big questions that we
+
+1293
+00:57:08,010 --> 00:57:12,540
+have is climate scientists and the
+
+1294
+00:57:10,200 --> 00:57:15,890
+public doesn't really ever this has
+
+1295
+00:57:12,540 --> 00:57:19,440
+really never discussed is we don't know
+
+1296
+00:57:15,890 --> 00:57:21,930
+what's keeping the climate that constant
+
+1297
+00:57:19,440 --> 00:57:23,880
+over the past 10,000 years and we
+
+1298
+00:57:21,930 --> 00:57:26,220
+especially don't know how it's going to
+
+1299
+00:57:23,880 --> 00:57:28,710
+react to all of this extra greenhouse
+
+1300
+00:57:26,220 --> 00:57:31,200
+gases when we poke the bear what is
+
+1301
+00:57:28,710 --> 00:57:34,320
+going to happen and it's quite possible
+
+1302
+00:57:31,200 --> 00:57:37,410
+that the climate system could return to
+
+1303
+00:57:34,320 --> 00:57:39,750
+crazytown over here again and we just
+
+1304
+00:57:37,410 --> 00:57:43,560
+don't know in our climate models that
+
+1305
+00:57:39,750 --> 00:57:45,119
+we've we've been talking about we you
+
+1306
+00:57:43,560 --> 00:57:47,010
+know and all the tools that we have as
+
+1307
+00:57:45,119 --> 00:57:49,980
+climate scientists there's still a level
+
+1308
+00:57:47,010 --> 00:57:52,350
+uncertainty of what is actually going to
+
+1309
+00:57:49,980 --> 00:57:54,630
+happen in the future it's pretty easy to
+
+1310
+00:57:52,350 --> 00:57:56,490
+predict that things will get warmer what
+
+1311
+00:57:54,630 --> 00:57:58,800
+we don't know is whether things will
+
+1312
+00:57:56,490 --> 00:58:03,359
+come crashing down soon after like it
+
+1313
+00:57:58,800 --> 00:58:05,070
+did in the past so the biggest fear
+
+1314
+00:58:03,359 --> 00:58:06,450
+about climate change and again this is
+
+1315
+00:58:05,070 --> 00:58:08,520
+not really something that most people
+
+1316
+00:58:06,450 --> 00:58:10,410
+you know that the public doesn't know
+
+1317
+00:58:08,520 --> 00:58:12,240
+about this too much that's not really in
+
+1318
+00:58:10,410 --> 00:58:16,620
+the news it's not even that much in your
+
+1319
+00:58:12,240 --> 00:58:19,170
+book is that we don't know how
+
+1320
+00:58:16,620 --> 00:58:22,500
+along this calm period this last 10,000
+
+1321
+00:58:19,170 --> 00:58:24,990
+year long calm period we don't know how
+
+1322
+00:58:22,500 --> 00:58:26,970
+long this is gonna last and we don't
+
+1323
+00:58:24,990 --> 00:58:29,490
+know what its gonna happen after that
+
+1324
+00:58:26,970 --> 00:58:31,320
+but we're pretty sure that if we keep
+
+1325
+00:58:29,490 --> 00:58:33,810
+adding greenhouse gases to the
+
+1326
+00:58:31,320 --> 00:58:36,480
+atmosphere that something is probably
+
+1327
+00:58:33,810 --> 00:58:40,230
+going to change we just don't know how
+
+1328
+00:58:36,480 --> 00:58:43,110
+it's going to change so I've talked from
+
+1329
+00:58:40,230 --> 00:58:45,960
+time to time about how climate change is
+
+1330
+00:58:43,110 --> 00:58:47,790
+very politicized and I thought I'd in
+
+1331
+00:58:45,960 --> 00:58:49,530
+this class talking a little bit more
+
+1332
+00:58:47,790 --> 00:58:54,150
+about that because you may not realize
+
+1333
+00:58:49,530 --> 00:58:55,800
+quite what's what's been going on so I I
+
+1334
+00:58:54,150 --> 00:58:58,440
+work with a lot of teachers in New
+
+1335
+00:58:55,800 --> 00:58:59,910
+Mexico like K through 12 teachers and in
+
+1336
+00:58:58,440 --> 00:59:01,920
+K through 12 they're supposed to teach
+
+1337
+00:58:59,910 --> 00:59:04,920
+weather and climate that's part of the
+
+1338
+00:59:01,920 --> 00:59:06,300
+new science standards and I work with
+
+1339
+00:59:04,920 --> 00:59:08,040
+some teachers to try to help them
+
+1340
+00:59:06,300 --> 00:59:11,280
+understand weather and climate better so
+
+1341
+00:59:08,040 --> 00:59:14,550
+that they can teach it so this is a book
+
+1342
+00:59:11,280 --> 00:59:16,830
+that many of my teachers have received
+
+1343
+00:59:14,550 --> 00:59:20,250
+in the mail and it says why scientists
+
+1344
+00:59:16,830 --> 00:59:24,260
+disagree about global warming so the
+
+1345
+00:59:20,250 --> 00:59:27,600
+title by itself is a huge lie because
+
+1346
+00:59:24,260 --> 00:59:30,270
+I'm a client climate scientist I've gone
+
+1347
+00:59:27,600 --> 00:59:33,300
+to many climate scientist meetings where
+
+1348
+00:59:30,270 --> 00:59:36,660
+there might be thousands of scientists
+
+1349
+00:59:33,300 --> 00:59:38,970
+present nobody's disagreeing that global
+
+1350
+00:59:36,660 --> 00:59:40,920
+warming is happening what we disagree
+
+1351
+00:59:38,970 --> 00:59:43,080
+about are they are the minut details
+
+1352
+00:59:40,920 --> 00:59:45,990
+especially like projections into the
+
+1353
+00:59:43,080 --> 00:59:47,520
+future so by the year 2100 how much is
+
+1354
+00:59:45,990 --> 00:59:49,740
+it how much is the temperature going to
+
+1355
+00:59:47,520 --> 00:59:52,440
+change that's where the disagreement
+
+1356
+00:59:49,740 --> 00:59:54,240
+lies or maybe when we look at paleo
+
+1357
+00:59:52,440 --> 00:59:56,130
+climate and we see shifts in the climate
+
+1358
+00:59:54,240 --> 00:59:57,510
+like a hundred thousand years ago you
+
+1359
+00:59:56,130 --> 00:59:59,520
+know we disagree about the reasons for
+
+1360
+00:59:57,510 --> 01:00:02,400
+that no one's disagreeing about what's
+
+1361
+00:59:59,520 --> 01:00:03,120
+happening today okay so the title is an
+
+1362
+01:00:02,400 --> 01:00:06,480
+outright lie
+
+1363
+01:00:03,120 --> 01:00:09,270
+and you'll also see that this second
+
+1364
+01:00:06,480 --> 01:00:12,420
+sentence is there's a little trickery
+
+1365
+01:00:09,270 --> 01:00:15,300
+afoot here it says the nipcc report on
+
+1366
+01:00:12,420 --> 01:00:17,940
+scientific consensus remember the IPCC
+
+1367
+01:00:15,300 --> 01:00:22,740
+we learned who they were so this is the
+
+1368
+01:00:17,940 --> 01:00:25,260
+n IPCC the not the IPCC but this book
+
+1369
+01:00:22,740 --> 01:00:27,600
+was printed up by a conservative group
+
+1370
+01:00:25,260 --> 01:00:28,770
+and distributed to they printed up over
+
+1371
+01:00:27,600 --> 01:00:30,329
+a hundred thousand of them and they
+
+1372
+01:00:28,770 --> 01:00:33,679
+tried to mail into every teach
+
+1373
+01:00:30,329 --> 01:00:36,299
+in the country and the whole point is to
+
+1374
+01:00:33,679 --> 01:00:39,660
+generate misinformation about climate
+
+1375
+01:00:36,299 --> 01:00:41,339
+change and to tried to produce doubt in
+
+1376
+01:00:39,660 --> 01:00:42,779
+the teachers that are actually supposed
+
+1377
+01:00:41,339 --> 01:00:45,390
+to be teaching the students about
+
+1378
+01:00:42,779 --> 01:00:49,170
+weather and climate so this is an
+
+1379
+01:00:45,390 --> 01:00:51,689
+example of some of the misinformation
+
+1380
+01:00:49,170 --> 01:00:53,309
+that's going on there's a lot of money
+
+1381
+01:00:51,689 --> 01:00:56,849
+in the fossil fuel industry that are
+
+1382
+01:00:53,309 --> 01:00:58,410
+trying to fight the the scientists that
+
+1383
+01:00:56,849 --> 01:01:02,039
+are trying to get the message out about
+
+1384
+01:00:58,410 --> 01:01:03,299
+climate change this is one example so a
+
+1385
+01:01:02,039 --> 01:01:06,539
+lot of the things that are going on for
+
+1386
+01:01:03,299 --> 01:01:09,179
+example they hired a lot of the same
+
+1387
+01:01:06,539 --> 01:01:11,459
+people that were represented tobacco
+
+1388
+01:01:09,179 --> 01:01:14,729
+companies in the 1980s so in the 1980s
+
+1389
+01:01:11,459 --> 01:01:16,229
+is kind of when people finally realized
+
+1390
+01:01:14,729 --> 01:01:19,079
+that smoking was really bad for you and
+
+1391
+01:01:16,229 --> 01:01:22,049
+they had all these scientists from the
+
+1392
+01:01:19,079 --> 01:01:23,969
+tobacco companies that were saying no no
+
+1393
+01:01:22,049 --> 01:01:25,559
+smoking's fine for you fine for you and
+
+1394
+01:01:23,969 --> 01:01:27,569
+there was a lot of misinformation that
+
+1395
+01:01:25,559 --> 01:01:29,670
+was generated to try to convince people
+
+1396
+01:01:27,569 --> 01:01:31,650
+that maybe smoking really wasn't bad for
+
+1397
+01:01:29,670 --> 01:01:34,890
+you a lot of those same people are
+
+1398
+01:01:31,650 --> 01:01:38,249
+actually now being hired to do this kind
+
+1399
+01:01:34,890 --> 01:01:41,429
+of work trying to refute climate change
+
+1400
+01:01:38,249 --> 01:01:43,439
+research you know all of the lectures
+
+1401
+01:01:41,429 --> 01:01:47,279
+that you've watched here have been
+
+1402
+01:01:43,439 --> 01:01:50,099
+posted on YouTube and usually I post one
+
+1403
+01:01:47,279 --> 01:01:51,749
+up and you guys watch it and maybe a few
+
+1404
+01:01:50,099 --> 01:01:54,479
+other people watch it and maybe there's
+
+1405
+01:01:51,749 --> 01:01:56,640
+a comment or two or usually there's no
+
+1406
+01:01:54,479 --> 01:01:58,650
+comments at all because I mean who cares
+
+1407
+01:01:56,640 --> 01:02:01,349
+right it's some guy in this cat talking
+
+1408
+01:01:58,650 --> 01:02:04,829
+about humidity nobody cares but as soon
+
+1409
+01:02:01,349 --> 01:02:07,259
+as I put the word climate change in the
+
+1410
+01:02:04,829 --> 01:02:09,989
+lecture title everything changed
+
+1411
+01:02:07,259 --> 01:02:12,599
+and so a couple of lectures ago we had I
+
+1412
+01:02:09,989 --> 01:02:15,420
+had a lecture up about that just kind of
+
+1413
+01:02:12,599 --> 01:02:18,439
+reviewing stuff out of your book and had
+
+1414
+01:02:15,420 --> 01:02:21,299
+the word climate change in the title and
+
+1415
+01:02:18,439 --> 01:02:23,549
+all of a sudden this army of trolls just
+
+1416
+01:02:21,299 --> 01:02:28,589
+came out of the woodwork and started
+
+1417
+01:02:23,549 --> 01:02:31,529
+making comments on my my lecture and all
+
+1418
+01:02:28,589 --> 01:02:35,009
+of my other videos and started sending
+
+1419
+01:02:31,529 --> 01:02:38,699
+harassing emails messages to me and
+
+1420
+01:02:35,009 --> 01:02:40,650
+finally I had to actually hide a lot of
+
+1421
+01:02:38,699 --> 01:02:42,269
+our videos from in this class so that
+
+1422
+01:02:40,650 --> 01:02:44,130
+they couldn't comment on them and then
+
+1423
+01:02:42,269 --> 01:02:48,570
+also lay down with me
+
+1424
+01:02:44,130 --> 01:02:51,150
+and then also prevent them from leaving
+
+1425
+01:02:48,570 --> 01:02:53,370
+comments and just everything changed
+
+1426
+01:02:51,150 --> 01:02:54,810
+like as soon as I used as soon as I put
+
+1427
+01:02:53,370 --> 01:02:57,360
+in the words climate change or global
+
+1428
+01:02:54,810 --> 01:02:59,610
+warming then all these people came out
+
+1429
+01:02:57,360 --> 01:03:01,800
+that this whole army trolls came out to
+
+1430
+01:02:59,610 --> 01:03:04,410
+to attack me and attack this class so
+
+1431
+01:03:01,800 --> 01:03:07,380
+that's that's the world we're currently
+
+1432
+01:03:04,410 --> 01:03:09,650
+living in and maybe in a different
+
+1433
+01:03:07,380 --> 01:03:12,000
+administration that might change I
+
+1434
+01:03:09,650 --> 01:03:15,390
+suspect that it probably won't change
+
+1435
+01:03:12,000 --> 01:03:17,580
+for a long time but realize that this is
+
+1436
+01:03:15,390 --> 01:03:19,410
+a this is a topic that's highly
+
+1437
+01:03:17,580 --> 01:03:22,110
+politically charged and there's a lot of
+
+1438
+01:03:19,410 --> 01:03:24,060
+money to try to convince you that global
+
+1439
+01:03:22,110 --> 01:03:27,740
+warming isn't real and that burning
+
+1440
+01:03:24,060 --> 01:03:30,720
+fossil fuels is not a problem
+
+1441
+01:03:27,740 --> 01:03:33,030
+Romy's getting irritated so I guess
+
+1442
+01:03:30,720 --> 01:03:34,860
+we're done with this class and thank you
+
+1443
+01:03:33,030 --> 01:03:37,230
+for for listening and watching all these
+
+1444
+01:03:34,860 --> 01:03:40,080
+videos and I hope you got something out
+
+1445
+01:03:37,230 --> 01:03:42,650
+of it and I think we're done Rumi I
+
+1446
+01:03:40,080 --> 01:03:42,650
+think we're done
+
+1447
+01:03:51,089 --> 01:03:53,150
+you
+

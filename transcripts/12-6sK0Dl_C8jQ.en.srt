@@ -1,0 +1,4824 @@
+1
+00:00:03,070 --> 00:00:10,230
+[Music]
+
+2
+00:00:07,610 --> 00:00:12,540
+hey this is Mel strong and this lecture
+
+3
+00:00:10,230 --> 00:00:15,030
+is on fronts and mid-latitude cyclones
+
+4
+00:00:12,540 --> 00:00:17,369
+now in previous lectures we've been
+
+5
+00:00:15,030 --> 00:00:20,160
+talking about how we can create clouds
+
+6
+00:00:17,369 --> 00:00:22,109
+and precipitation through convection so
+
+7
+00:00:20,160 --> 00:00:24,390
+in that story we've got a little parcel
+
+8
+00:00:22,109 --> 00:00:27,420
+of air it's warmer than its environment
+
+9
+00:00:24,390 --> 00:00:30,240
+and it wants to rise and as it rises it
+
+10
+00:00:27,420 --> 00:00:32,969
+expands and as it expands it cools and
+
+11
+00:00:30,240 --> 00:00:34,950
+eventually it will reach its dew point
+
+12
+00:00:32,969 --> 00:00:36,630
+and form a cloud if it keeps on going
+
+13
+00:00:34,950 --> 00:00:39,540
+then eventually you can get
+
+14
+00:00:36,630 --> 00:00:41,610
+precipitation ok there's a whole
+
+15
+00:00:39,540 --> 00:00:43,559
+completely different way to make clouds
+
+16
+00:00:41,610 --> 00:00:45,899
+and precipitation and it comes from the
+
+17
+00:00:43,559 --> 00:00:49,289
+collision of these large what we call
+
+18
+00:00:45,899 --> 00:00:51,239
+air masses so here's a map that you
+
+19
+00:00:49,289 --> 00:00:54,090
+often see in our textbook of air masses
+
+20
+00:00:51,239 --> 00:00:56,399
+and what they're trying to show here is
+
+21
+00:00:54,090 --> 00:00:58,530
+that air that sits over a particular
+
+22
+00:00:56,399 --> 00:01:00,359
+region will take on certain
+
+23
+00:00:58,530 --> 00:01:03,059
+characteristics and we talked about this
+
+24
+00:01:00,359 --> 00:01:04,949
+a little bit when we were back talking
+
+25
+00:01:03,059 --> 00:01:07,049
+about humidity that if you had a blob of
+
+26
+00:01:04,949 --> 00:01:08,340
+air sitting over the continent it's
+
+27
+00:01:07,049 --> 00:01:10,320
+probably very dry
+
+28
+00:01:08,340 --> 00:01:12,869
+whereas a blob of air that's sitting
+
+29
+00:01:10,320 --> 00:01:16,710
+over the ocean can pick up a lot of
+
+30
+00:01:12,869 --> 00:01:18,869
+water from evaporation well not only is
+
+31
+00:01:16,710 --> 00:01:21,420
+there that variable but it's also
+
+32
+00:01:18,869 --> 00:01:24,659
+depends on the temperature and where it
+
+33
+00:01:21,420 --> 00:01:28,350
+is so for example up here MP stands for
+
+34
+00:01:24,659 --> 00:01:31,740
+maritime polar this is maritime tropical
+
+35
+00:01:28,350 --> 00:01:33,689
+this is maritime equatorial so these are
+
+36
+00:01:31,740 --> 00:01:37,020
+all blobs of air that are sitting over
+
+37
+00:01:33,689 --> 00:01:39,600
+the ocean but as we learned when we in
+
+38
+00:01:37,020 --> 00:01:41,310
+the lecture on the evaporation if you're
+
+39
+00:01:39,600 --> 00:01:45,869
+sitting over warmer water there's a
+
+40
+00:01:41,310 --> 00:01:48,360
+higher evaporation rate into the air
+
+41
+00:01:45,869 --> 00:01:49,680
+mass so the air mass this air mass is
+
+42
+00:01:48,360 --> 00:01:53,220
+going to have a higher dew point than
+
+43
+00:01:49,680 --> 00:01:55,409
+say this air mass and we have for
+
+44
+00:01:53,220 --> 00:01:57,540
+example CPS continental polar CAS
+
+45
+00:01:55,409 --> 00:02:00,750
+continental Arctic we're not really
+
+46
+00:01:57,540 --> 00:02:04,200
+going to get into the the names too much
+
+47
+00:02:00,750 --> 00:02:06,329
+in this class but the point is is air
+
+48
+00:02:04,200 --> 00:02:08,690
+that's sitting over say this region
+
+49
+00:02:06,329 --> 00:02:11,310
+which is going to be cold and dry may
+
+50
+00:02:08,690 --> 00:02:12,880
+mingle with air that's sitting over this
+
+51
+00:02:11,310 --> 00:02:14,740
+region which is warmer
+
+52
+00:02:12,880 --> 00:02:17,350
+and more humid and when these two things
+
+53
+00:02:14,740 --> 00:02:18,790
+interact with each other you're going to
+
+54
+00:02:17,350 --> 00:02:23,110
+get some very interesting weather as a
+
+55
+00:02:18,790 --> 00:02:25,360
+result now it's a little misleading I
+
+56
+00:02:23,110 --> 00:02:26,920
+think this this diagram because a lot of
+
+57
+00:02:25,360 --> 00:02:28,750
+people might walk away thinking if there
+
+58
+00:02:26,920 --> 00:02:31,090
+is a blob of air sitting over here all
+
+59
+00:02:28,750 --> 00:02:34,450
+the time called Mt from air time
+
+60
+00:02:31,090 --> 00:02:36,370
+tropical but this is just represents
+
+61
+00:02:34,450 --> 00:02:38,320
+sort of average conditions and these air
+
+62
+00:02:36,370 --> 00:02:40,390
+masses are always moving around all the
+
+63
+00:02:38,320 --> 00:02:42,910
+time it's this is just trying to show
+
+64
+00:02:40,390 --> 00:02:45,190
+that air that sits over here typically
+
+65
+00:02:42,910 --> 00:02:47,710
+has certain characteristics that are
+
+66
+00:02:45,190 --> 00:02:50,190
+different than air that say sits over
+
+67
+00:02:47,710 --> 00:02:52,690
+here okay that's all that really means
+
+68
+00:02:50,190 --> 00:02:56,830
+so we're going to start today at Earth
+
+69
+00:02:52,690 --> 00:02:59,410
+will scold net and I'm going to change
+
+70
+00:02:56,830 --> 00:03:00,850
+the overlay to temperature and when I'm
+
+71
+00:02:59,410 --> 00:03:03,610
+looking at right now is surface
+
+72
+00:03:00,850 --> 00:03:05,170
+temperature and I'm doing this on a day
+
+73
+00:03:03,610 --> 00:03:10,300
+that's in the winter in the northern
+
+74
+00:03:05,170 --> 00:03:13,420
+hemisphere so what I see these this blue
+
+75
+00:03:10,300 --> 00:03:16,240
+and purple this is really cold air right
+
+76
+00:03:13,420 --> 00:03:18,010
+here and so we've got cold air that's
+
+77
+00:03:16,240 --> 00:03:20,320
+sitting over the continents looks like
+
+78
+00:03:18,010 --> 00:03:23,320
+right that's kind of what we would
+
+79
+00:03:20,320 --> 00:03:28,420
+expect we got cold air over Siberia and
+
+80
+00:03:23,320 --> 00:03:30,880
+Alaska and notice the pretty sharp
+
+81
+00:03:28,420 --> 00:03:32,290
+change in temperature the contrast in
+
+82
+00:03:30,880 --> 00:03:35,320
+temperature between the air over the
+
+83
+00:03:32,290 --> 00:03:38,190
+continent and the air over the ocean so
+
+84
+00:03:35,320 --> 00:03:40,900
+right now in Northern Hemisphere winter
+
+85
+00:03:38,190 --> 00:03:43,480
+the ocean is much warmer than the
+
+86
+00:03:40,900 --> 00:03:45,250
+continent okay now if we did this in the
+
+87
+00:03:43,480 --> 00:03:47,200
+summer we would see it's probably going
+
+88
+00:03:45,250 --> 00:03:49,150
+to need to be the opposite the continent
+
+89
+00:03:47,200 --> 00:03:50,470
+will be much warmer than the ocean and
+
+90
+00:03:49,150 --> 00:03:52,690
+the reason for this is that the ocean
+
+91
+00:03:50,470 --> 00:03:55,300
+has a very high what we call heat
+
+92
+00:03:52,690 --> 00:03:57,250
+capacity so what that means is it takes
+
+93
+00:03:55,300 --> 00:03:59,140
+a lot of energy to change the
+
+94
+00:03:57,250 --> 00:04:00,700
+temperature of the ocean so it takes a
+
+95
+00:03:59,140 --> 00:04:02,410
+long time for the ocean to warm up and
+
+96
+00:04:00,700 --> 00:04:05,050
+then once it's warm it takes a long time
+
+97
+00:04:02,410 --> 00:04:06,700
+for the ocean to cool down so the oceans
+
+98
+00:04:05,050 --> 00:04:08,350
+temperature is always out of sync with
+
+99
+00:04:06,700 --> 00:04:12,459
+the continents and that's what we're
+
+100
+00:04:08,350 --> 00:04:14,290
+seeing here okay so what I'm going to do
+
+101
+00:04:12,459 --> 00:04:16,330
+though is that so this is all surface
+
+102
+00:04:14,290 --> 00:04:18,520
+temperature and I'm interested in
+
+103
+00:04:16,330 --> 00:04:21,090
+showing you what the temperature is like
+
+104
+00:04:18,520 --> 00:04:23,470
+up in the upper parts of the atmosphere
+
+105
+00:04:21,090 --> 00:04:25,840
+so I'm going to click the word earth and
+
+106
+00:04:23,470 --> 00:04:26,710
+over here where it says height there are
+
+107
+00:04:25,840 --> 00:04:30,819
+these numbers
+
+108
+00:04:26,710 --> 00:04:32,680
+I need 5700 the units are HPA so that's
+
+109
+00:04:30,819 --> 00:04:34,509
+a unit of air pressure and we learned
+
+110
+00:04:32,680 --> 00:04:39,069
+this one back in the lecture on air
+
+111
+00:04:34,509 --> 00:04:41,830
+pressure I only change it to 700 HPA so
+
+112
+00:04:39,069 --> 00:04:43,900
+what that means is if you end up in the
+
+113
+00:04:41,830 --> 00:04:45,729
+in the atmosphere and a balloon till you
+
+114
+00:04:43,900 --> 00:04:47,229
+reached a level where the air pressure
+
+115
+00:04:45,729 --> 00:04:49,240
+was 700 millibars
+
+116
+00:04:47,229 --> 00:04:52,690
+what would the temperature up there be
+
+117
+00:04:49,240 --> 00:04:54,910
+like now how high is that give or take
+
+118
+00:04:52,690 --> 00:04:56,410
+about about ten thousand feet above the
+
+119
+00:04:54,910 --> 00:04:59,320
+ground just kind of think of that right
+
+120
+00:04:56,410 --> 00:05:01,270
+so we're just kind of looking at what
+
+121
+00:04:59,320 --> 00:05:03,669
+the temperature is like 10,000 feet
+
+122
+00:05:01,270 --> 00:05:05,770
+above the ground or so and you'll notice
+
+123
+00:05:03,669 --> 00:05:07,990
+how different the pattern looks compared
+
+124
+00:05:05,770 --> 00:05:10,210
+to what we just saw for one thing we
+
+125
+00:05:07,990 --> 00:05:14,169
+don't see the big contrast between the
+
+126
+00:05:10,210 --> 00:05:16,330
+oceans and the continents anymore and we
+
+127
+00:05:14,169 --> 00:05:18,610
+see that for the most part if i zoom out
+
+128
+00:05:16,330 --> 00:05:21,340
+a little bit if why I kind of look
+
+129
+00:05:18,610 --> 00:05:24,400
+around the middle of the earth I see
+
+130
+00:05:21,340 --> 00:05:27,849
+that the temperatures around here don't
+
+131
+00:05:24,400 --> 00:05:29,770
+change that much and then when you get
+
+132
+00:05:27,849 --> 00:05:34,810
+further to the north of the South you
+
+133
+00:05:29,770 --> 00:05:37,060
+suddenly hit this much colder blob of
+
+134
+00:05:34,810 --> 00:05:39,190
+air up there and it's a pretty sharp
+
+135
+00:05:37,060 --> 00:05:41,470
+contrast so in other words it should not
+
+136
+00:05:39,190 --> 00:05:43,690
+be surprising that the equator is hot
+
+137
+00:05:41,470 --> 00:05:46,240
+and the poles are cold but what you
+
+138
+00:05:43,690 --> 00:05:48,909
+might expect to see is that from the
+
+139
+00:05:46,240 --> 00:05:51,250
+hottest point on earth it gradually gets
+
+140
+00:05:48,909 --> 00:05:53,469
+colder as you move to the north or gets
+
+141
+00:05:51,250 --> 00:05:54,639
+colder with gradually gets colder as you
+
+142
+00:05:53,469 --> 00:05:58,210
+move to the south but what does this
+
+143
+00:05:54,639 --> 00:06:00,370
+showing us is actually this very little
+
+144
+00:05:58,210 --> 00:06:02,320
+change in temperature again remember
+
+145
+00:06:00,370 --> 00:06:04,120
+we're at least 10,000 feet above the
+
+146
+00:06:02,320 --> 00:06:05,860
+ground here or looking at this so
+
+147
+00:06:04,120 --> 00:06:09,759
+there's very little change in
+
+148
+00:06:05,860 --> 00:06:12,669
+temperature and then all of a sudden we
+
+149
+00:06:09,759 --> 00:06:14,289
+hit this boundary as pretty sharp where
+
+150
+00:06:12,669 --> 00:06:17,190
+we go from the warm air to the cold air
+
+151
+00:06:14,289 --> 00:06:19,800
+very abruptly so there's not a gradation
+
+152
+00:06:17,190 --> 00:06:22,330
+okay so that's the first observation
+
+153
+00:06:19,800 --> 00:06:24,780
+second observation is the boundary
+
+154
+00:06:22,330 --> 00:06:27,639
+between the cold air and the warm air is
+
+155
+00:06:24,780 --> 00:06:29,979
+curvy right so if I look at the North
+
+156
+00:06:27,639 --> 00:06:32,979
+Pole I can see it's got these waves in
+
+157
+00:06:29,979 --> 00:06:34,539
+it and I'm gonna turn around and look at
+
+158
+00:06:32,979 --> 00:06:36,460
+the South Pole because there's another
+
+159
+00:06:34,539 --> 00:06:38,730
+one down there it's a little bit easier
+
+160
+00:06:36,460 --> 00:06:41,940
+to see this time of year
+
+161
+00:06:38,730 --> 00:06:43,680
+okay so this boundary between the warm
+
+162
+00:06:41,940 --> 00:06:46,800
+air and the cold air it's called the
+
+163
+00:06:43,680 --> 00:06:49,680
+polar front okay it's always there it's
+
+164
+00:06:46,800 --> 00:06:52,620
+always there in summer in the winter but
+
+165
+00:06:49,680 --> 00:06:54,450
+right now it's there summer down in the
+
+166
+00:06:52,620 --> 00:06:58,230
+southern hemisphere so their pool of
+
+167
+00:06:54,450 --> 00:06:59,820
+cold air is smaller and it's winter up
+
+168
+00:06:58,230 --> 00:07:03,330
+here in the northern hemisphere so our
+
+169
+00:06:59,820 --> 00:07:04,950
+pool of cool there is is larger and if
+
+170
+00:07:03,330 --> 00:07:06,290
+we did this in the summer those two
+
+171
+00:07:04,950 --> 00:07:09,960
+things would be reversed
+
+172
+00:07:06,290 --> 00:07:11,190
+so what I'm gonna do here is let me go
+
+173
+00:07:09,960 --> 00:07:13,200
+back to the southern hemisphere because
+
+174
+00:07:11,190 --> 00:07:15,870
+it's easier to see okay so I'm gonna go
+
+175
+00:07:13,200 --> 00:07:20,610
+forward in time a little bit here so day
+
+176
+00:07:15,870 --> 00:07:22,140
+later one day later one day later one
+
+177
+00:07:20,610 --> 00:07:26,040
+day later each one of these is one day
+
+178
+00:07:22,140 --> 00:07:28,410
+later and you'll notice that this cult
+
+179
+00:07:26,040 --> 00:07:31,260
+this blob of cold air is slowly rotating
+
+180
+00:07:28,410 --> 00:07:34,140
+around the earth so every 24 hours
+
+181
+00:07:31,260 --> 00:07:35,760
+it's changing its shape and there are
+
+182
+00:07:34,140 --> 00:07:40,650
+these you know there's parts that kind
+
+183
+00:07:35,760 --> 00:07:42,870
+of break off a little bit and overall
+
+184
+00:07:40,650 --> 00:07:45,990
+it's still kind of you know keeps this
+
+185
+00:07:42,870 --> 00:07:48,990
+it's staying in the same area but the
+
+186
+00:07:45,990 --> 00:07:52,290
+actual outline of it is changing slowly
+
+187
+00:07:48,990 --> 00:07:54,780
+day to day okay and these waves that we
+
+188
+00:07:52,290 --> 00:07:58,740
+see that are in this blob of cold air
+
+189
+00:07:54,780 --> 00:07:59,760
+are called Roz B waves so you can see
+
+190
+00:07:58,740 --> 00:08:04,620
+especially in the northern hemisphere
+
+191
+00:07:59,760 --> 00:08:06,150
+here I've got these waves okay and let
+
+192
+00:08:04,620 --> 00:08:09,030
+me go back in time a couple of days if I
+
+193
+00:08:06,150 --> 00:08:10,260
+go back in time a day a day you can see
+
+194
+00:08:09,030 --> 00:08:13,820
+these waves are changing their shape
+
+195
+00:08:10,260 --> 00:08:19,200
+okay so the point is we've got this blob
+
+196
+00:08:13,820 --> 00:08:22,290
+of cold air that is slowly moving around
+
+197
+00:08:19,200 --> 00:08:24,240
+the poles of the planet and so the the
+
+198
+00:08:22,290 --> 00:08:27,390
+planets rotating 24 hours a day but and
+
+199
+00:08:24,240 --> 00:08:29,550
+this blob of cold air takes you know ten
+
+200
+00:08:27,390 --> 00:08:33,300
+or so days to make a full revolution all
+
+201
+00:08:29,550 --> 00:08:36,780
+the way around the earth now right here
+
+202
+00:08:33,300 --> 00:08:40,290
+at this boundary between the the warm
+
+203
+00:08:36,780 --> 00:08:42,330
+air and the cold air this is where we're
+
+204
+00:08:40,290 --> 00:08:45,900
+mixing up two completely different kinds
+
+205
+00:08:42,330 --> 00:08:48,960
+of air masses this is cold dry air this
+
+206
+00:08:45,900 --> 00:08:52,050
+is warmer more humid air and that
+
+207
+00:08:48,960 --> 00:08:54,120
+boundary is is what we're talking about
+
+208
+00:08:52,050 --> 00:08:57,240
+today that front where we're calling the
+
+209
+00:08:54,120 --> 00:08:58,800
+polar front where these two air masses
+
+210
+00:08:57,240 --> 00:09:02,940
+meet we're going to get some interesting
+
+211
+00:08:58,800 --> 00:09:09,930
+types of weather now if I find a zone
+
+212
+00:09:02,940 --> 00:09:15,810
+here okay so now I've changed it back to
+
+213
+00:09:09,930 --> 00:09:18,540
+today with winds and I'm looking at out
+
+214
+00:09:15,810 --> 00:09:23,220
+here in the Pacific and I notice for
+
+215
+00:09:18,540 --> 00:09:24,980
+example this spot right here so the
+
+216
+00:09:23,220 --> 00:09:27,660
+winds are spinning counterclockwise
+
+217
+00:09:24,980 --> 00:09:30,149
+right here or in the northern hemisphere
+
+218
+00:09:27,660 --> 00:09:32,550
+so that tells you that I must have a
+
+219
+00:09:30,149 --> 00:09:35,190
+center of low pressure right there okay
+
+220
+00:09:32,550 --> 00:09:36,930
+now if I'm gonna zoom out a little bit
+
+221
+00:09:35,190 --> 00:09:39,180
+here you can kind of make out the fact
+
+222
+00:09:36,930 --> 00:09:41,730
+that we're taking air that's from the
+
+223
+00:09:39,180 --> 00:09:44,370
+north and it's cold and it's coming down
+
+224
+00:09:41,730 --> 00:09:46,620
+and then we're taking air that's warmer
+
+225
+00:09:44,370 --> 00:09:48,600
+and more humid from the south and it's
+
+226
+00:09:46,620 --> 00:09:51,360
+coming up and these two things are
+
+227
+00:09:48,600 --> 00:09:54,240
+mixing up together in this big spiral
+
+228
+00:09:51,360 --> 00:09:56,579
+pattern okay this is what we mean when
+
+229
+00:09:54,240 --> 00:09:58,470
+we talk about air masses colliding we
+
+230
+00:09:56,579 --> 00:10:00,870
+have two very different air masses and
+
+231
+00:09:58,470 --> 00:10:03,270
+this low-pressure center is mixing them
+
+232
+00:10:00,870 --> 00:10:05,790
+up with them up together now I'm going
+
+233
+00:10:03,270 --> 00:10:07,950
+to change this instead of temperature
+
+234
+00:10:05,790 --> 00:10:10,620
+I'm going to change it to look at
+
+235
+00:10:07,950 --> 00:10:12,870
+moisture so tpw means total precipitable
+
+236
+00:10:10,620 --> 00:10:15,240
+water and this just looks at all the
+
+237
+00:10:12,870 --> 00:10:16,410
+water that's in the atmosphere now it's
+
+238
+00:10:15,240 --> 00:10:19,770
+a little bit more evident that we're
+
+239
+00:10:16,410 --> 00:10:21,720
+mixing up different types of air so very
+
+240
+00:10:19,770 --> 00:10:24,120
+cold very dry air coming off the
+
+241
+00:10:21,720 --> 00:10:26,100
+continent warmer more humid air coming
+
+242
+00:10:24,120 --> 00:10:29,220
+from the south and we're mixing these
+
+243
+00:10:26,100 --> 00:10:30,990
+two things together I can turn off the
+
+244
+00:10:29,220 --> 00:10:33,750
+wind here a little bit so you can see
+
+245
+00:10:30,990 --> 00:10:35,279
+that right there we're mixing it up we
+
+246
+00:10:33,750 --> 00:10:37,860
+get a little Center little pressure
+
+247
+00:10:35,279 --> 00:10:39,720
+right there here's another one or mixing
+
+248
+00:10:37,860 --> 00:10:42,029
+up again warm humid air with cold dry
+
+249
+00:10:39,720 --> 00:10:44,279
+air and this is what happens along the
+
+250
+00:10:42,029 --> 00:10:47,339
+polar front we're mixing up two very
+
+251
+00:10:44,279 --> 00:10:49,920
+different air masses and right through
+
+252
+00:10:47,339 --> 00:10:51,300
+here we've got the invasion if you kind
+
+253
+00:10:49,920 --> 00:10:53,640
+of imagine what's happening here I've
+
+254
+00:10:51,300 --> 00:10:56,310
+got cold air coming down invading the
+
+255
+00:10:53,640 --> 00:10:58,589
+warm air and then I've got the warm air
+
+256
+00:10:56,310 --> 00:11:02,279
+coming up and invading the cold air
+
+257
+00:10:58,589 --> 00:11:04,920
+right and so these two things are two
+
+258
+00:11:02,279 --> 00:11:05,290
+different kinds of fronts overall the
+
+259
+00:11:04,920 --> 00:11:07,570
+pole
+
+260
+00:11:05,290 --> 00:11:09,759
+front is the name we gave to those that
+
+261
+00:11:07,570 --> 00:11:13,089
+wavy blob but we can break it down
+
+262
+00:11:09,759 --> 00:11:15,790
+further because here we got cold dry air
+
+263
+00:11:13,089 --> 00:11:18,820
+invading warm human air and then up here
+
+264
+00:11:15,790 --> 00:11:20,350
+we've got warm humid air invading cold
+
+265
+00:11:18,820 --> 00:11:23,649
+dry air so we turn the winds back on
+
+266
+00:11:20,350 --> 00:11:25,389
+here so here's you here's where the cold
+
+267
+00:11:23,649 --> 00:11:28,300
+dry air is invading the warm where they
+
+268
+00:11:25,389 --> 00:11:31,420
+meet and then this is where that warm
+
+269
+00:11:28,300 --> 00:11:33,310
+humid air meets the cold dry air ok so
+
+270
+00:11:31,420 --> 00:11:36,910
+these are going to form two different
+
+271
+00:11:33,310 --> 00:11:39,610
+kinds of fronts so we're going to be
+
+272
+00:11:36,910 --> 00:11:41,560
+looking at what happens where these two
+
+273
+00:11:39,610 --> 00:11:43,899
+different types of air invade each other
+
+274
+00:11:41,560 --> 00:11:45,610
+so the first one we're going to look at
+
+275
+00:11:43,899 --> 00:11:49,420
+is what happens where the warm air
+
+276
+00:11:45,610 --> 00:11:51,100
+invades the cold air so if that happens
+
+277
+00:11:49,420 --> 00:11:54,730
+and we let's say we make a cross-section
+
+278
+00:11:51,100 --> 00:11:58,209
+of the atmosphere so we're looking at it
+
+279
+00:11:54,730 --> 00:12:00,459
+from the side we would expect that the
+
+280
+00:11:58,209 --> 00:12:03,250
+warm air will be coming somewhere from
+
+281
+00:12:00,459 --> 00:12:07,680
+the south in our part of the world so
+
+282
+00:12:03,250 --> 00:12:10,720
+over here is the warm air and it's
+
+283
+00:12:07,680 --> 00:12:15,069
+headed towards the north it's invading
+
+284
+00:12:10,720 --> 00:12:21,220
+okay and to the north we have the cold
+
+285
+00:12:15,069 --> 00:12:23,440
+air that's sitting there so when we
+
+286
+00:12:21,220 --> 00:12:25,690
+talked about convection what we said was
+
+287
+00:12:23,440 --> 00:12:27,519
+if I have a parcel of warm air it will
+
+288
+00:12:25,690 --> 00:12:29,980
+rise because it's warmer than the air
+
+289
+00:12:27,519 --> 00:12:32,550
+around it which is due to density
+
+290
+00:12:29,980 --> 00:12:36,040
+differences now here what we're doing is
+
+291
+00:12:32,550 --> 00:12:40,300
+we're forcing warm air to collide with
+
+292
+00:12:36,040 --> 00:12:43,029
+the cold air but they still have that
+
+293
+00:12:40,300 --> 00:12:45,010
+same density difference the cold air is
+
+294
+00:12:43,029 --> 00:12:47,470
+more dense the warm air is less dense so
+
+295
+00:12:45,010 --> 00:12:49,720
+what happens is if I try to shove warm
+
+296
+00:12:47,470 --> 00:12:53,139
+air in the cold air it's going to want
+
+297
+00:12:49,720 --> 00:12:58,110
+to right up over the cold air and so
+
+298
+00:12:53,139 --> 00:12:58,110
+that's what happens but it kind of forms
+
+299
+00:12:59,310 --> 00:13:05,340
+this very low angle ramp so when the
+
+300
+00:13:02,850 --> 00:13:08,790
+warm air encounters the cold air so so
+
+301
+00:13:05,340 --> 00:13:11,540
+just to be clear this is cold air down
+
+302
+00:13:08,790 --> 00:13:20,339
+here in this wedge the warm air then
+
+303
+00:13:11,540 --> 00:13:22,800
+rises up this ramp it's a very low angle
+
+304
+00:13:20,339 --> 00:13:25,050
+ramp maybe just a degree or two and it
+
+305
+00:13:22,800 --> 00:13:29,690
+goes on for perhaps hundreds of miles
+
+306
+00:13:25,050 --> 00:13:33,320
+okay this is a very large feature well
+
+307
+00:13:29,690 --> 00:13:37,320
+this air as it goes up the ramp is
+
+308
+00:13:33,320 --> 00:13:39,480
+rising and anytime you make air rise it
+
+309
+00:13:37,320 --> 00:13:41,040
+expands and expanding air cools and
+
+310
+00:13:39,480 --> 00:13:43,200
+eventually you'll hit the dew point and
+
+311
+00:13:41,040 --> 00:13:44,790
+then you get a cloud so that's what's
+
+312
+00:13:43,200 --> 00:13:46,620
+going to happen to this Baba warm air
+
+313
+00:13:44,790 --> 00:13:48,210
+that's down here it's going to go up
+
+314
+00:13:46,620 --> 00:13:52,620
+this ramp and as it goes up the ramp
+
+315
+00:13:48,210 --> 00:13:55,080
+it's going to cool more and more so all
+
+316
+00:13:52,620 --> 00:13:59,360
+the way out here at the edge the top of
+
+317
+00:13:55,080 --> 00:14:04,770
+the ramp we would have some very high
+
+318
+00:13:59,360 --> 00:14:10,040
+wispy clouds which we know are Cirrus
+
+319
+00:14:04,770 --> 00:14:14,790
+and then they get a little bit thicker
+
+320
+00:14:10,040 --> 00:14:22,290
+and more of a blanket and that's what we
+
+321
+00:14:14,790 --> 00:14:29,480
+would call zero Stratus and then they
+
+322
+00:14:22,290 --> 00:14:36,839
+get thicker still and that we would call
+
+323
+00:14:29,480 --> 00:14:38,640
+altostratus right and then further back
+
+324
+00:14:36,839 --> 00:14:42,839
+on this wedge we're getting a thicker
+
+325
+00:14:38,640 --> 00:14:46,200
+and thicker chunk of air and eventually
+
+326
+00:14:42,839 --> 00:14:48,420
+they would be so thick that we would not
+
+327
+00:14:46,200 --> 00:14:50,490
+be able to see the cloud sorry wouldn't
+
+328
+00:14:48,420 --> 00:14:53,520
+be able to see the Sun that's Stratus
+
+329
+00:14:50,490 --> 00:14:56,370
+and then from behind that point if it's
+
+330
+00:14:53,520 --> 00:14:59,510
+a well developed this whole thing is
+
+331
+00:14:56,370 --> 00:15:02,940
+pretty well developed we would have
+
+332
+00:14:59,510 --> 00:15:08,270
+precipitation coming out of this and at
+
+333
+00:15:02,940 --> 00:15:08,270
+that point we've got nimbostratus
+
+334
+00:15:09,000 --> 00:15:16,560
+okay now this whole thing not only is
+
+335
+00:15:14,579 --> 00:15:20,220
+the warm air writing up over the cold
+
+336
+00:15:16,560 --> 00:15:21,930
+air but the actual wedge itself is also
+
+337
+00:15:20,220 --> 00:15:24,060
+moving so this everything on this
+
+338
+00:15:21,930 --> 00:15:25,470
+picture the way I've drawn it is moving
+
+339
+00:15:24,060 --> 00:15:30,389
+to our right here
+
+340
+00:15:25,470 --> 00:15:33,629
+okay well this spot right here where the
+
+341
+00:15:30,389 --> 00:15:38,939
+warm air meets the cold air that is
+
+342
+00:15:33,629 --> 00:15:41,670
+called a warm front okay
+
+343
+00:15:38,939 --> 00:15:47,910
+and it's a call to warm front because
+
+344
+00:15:41,670 --> 00:15:50,790
+let's say you're right here and you are
+
+345
+00:15:47,910 --> 00:15:54,420
+gonna experience this whole thing when
+
+346
+00:15:50,790 --> 00:15:57,180
+this ramp gets to you and passes over
+
+347
+00:15:54,420 --> 00:16:00,269
+you the experience is that the
+
+348
+00:15:57,180 --> 00:16:01,769
+temperatures increase because this air
+
+349
+00:16:00,269 --> 00:16:04,769
+back here is warmer than the air that
+
+350
+00:16:01,769 --> 00:16:06,779
+you're currently sitting in so in a warm
+
+351
+00:16:04,769 --> 00:16:10,470
+front the temperatures will increase as
+
+352
+00:16:06,779 --> 00:16:12,750
+it goes by all right so let's think
+
+353
+00:16:10,470 --> 00:16:18,000
+about the series of events that would
+
+354
+00:16:12,750 --> 00:16:20,699
+happen here if you're out here and this
+
+355
+00:16:18,000 --> 00:16:23,639
+warm front is approaching you now to get
+
+356
+00:16:20,699 --> 00:16:26,430
+from from this point to this point might
+
+357
+00:16:23,639 --> 00:16:29,069
+take you know 24 hours could be more
+
+358
+00:16:26,430 --> 00:16:30,779
+could be less well let's just say that
+
+359
+00:16:29,069 --> 00:16:35,040
+you're let's just say this this whole
+
+360
+00:16:30,779 --> 00:16:39,120
+thing takes let's say day and a half
+
+361
+00:16:35,040 --> 00:16:40,910
+okay so you're standing out here and
+
+362
+00:16:39,120 --> 00:16:43,470
+this warm front approaches
+
+363
+00:16:40,910 --> 00:16:45,930
+it's the 1800s and you don't have any
+
+364
+00:16:43,470 --> 00:16:47,160
+electricity there's no weather stations
+
+365
+00:16:45,930 --> 00:16:51,420
+nothing like that and you're on your
+
+366
+00:16:47,160 --> 00:16:54,980
+horse and you look up and you see wispy
+
+367
+00:16:51,420 --> 00:16:58,699
+clouds in the sky okay and then maybe
+
+368
+00:16:54,980 --> 00:17:01,110
+four to six hours later you see
+
+369
+00:16:58,699 --> 00:17:01,529
+cirrostratus remember what that looks
+
+370
+00:17:01,110 --> 00:17:03,899
+like
+
+371
+00:17:01,529 --> 00:17:05,280
+it's ringing around the Sun okay so you
+
+372
+00:17:03,899 --> 00:17:08,280
+went from wispy clouds to ring around
+
+373
+00:17:05,280 --> 00:17:12,409
+the Sun and then if it's still daylight
+
+374
+00:17:08,280 --> 00:17:16,470
+fuzzy Sun and then later
+
+375
+00:17:12,409 --> 00:17:20,280
+no Sun okay so if you notice that
+
+376
+00:17:16,470 --> 00:17:22,459
+pattern cirrus to cirrostratus to also
+
+377
+00:17:20,280 --> 00:17:25,560
+stress to Stratus
+
+378
+00:17:22,459 --> 00:17:30,410
+there's a good chance that it is going
+
+379
+00:17:25,560 --> 00:17:33,140
+to rain in the next say 24 hours so
+
+380
+00:17:30,410 --> 00:17:35,700
+people started to notice this pattern
+
+381
+00:17:33,140 --> 00:17:37,650
+they started to notice that if he saw
+
+382
+00:17:35,700 --> 00:17:40,770
+this and he saw this and you saw this it
+
+383
+00:17:37,650 --> 00:17:43,530
+leads to rain so there is some folklore
+
+384
+00:17:40,770 --> 00:17:45,030
+in certain parts of the world that say
+
+385
+00:17:43,530 --> 00:17:48,330
+that if you see a ring around the Sun
+
+386
+00:17:45,030 --> 00:17:48,990
+it's going to rain this is where it
+
+387
+00:17:48,330 --> 00:17:53,640
+comes from
+
+388
+00:17:48,990 --> 00:17:56,550
+that is true for a warm front okay now
+
+389
+00:17:53,640 --> 00:17:58,200
+as we'll talk about in a little bit warm
+
+390
+00:17:56,550 --> 00:18:01,680
+fronts don't occur everywhere in the
+
+391
+00:17:58,200 --> 00:18:03,720
+world they occur along that polar front
+
+392
+00:18:01,680 --> 00:18:06,120
+that zone between the warm air and the
+
+393
+00:18:03,720 --> 00:18:08,880
+cold air the thing with the rose be
+
+394
+00:18:06,120 --> 00:18:12,120
+waves if you live in that area
+
+395
+00:18:08,880 --> 00:18:14,820
+that's true ring around the Sun often
+
+396
+00:18:12,120 --> 00:18:16,380
+does mean it's going to rain but you can
+
+397
+00:18:14,820 --> 00:18:18,240
+get a ring around the Sun in a lot of
+
+398
+00:18:16,380 --> 00:18:20,430
+different places in the world and not
+
+399
+00:18:18,240 --> 00:18:23,220
+have a warm front so that doesn't
+
+400
+00:18:20,430 --> 00:18:23,670
+totally hold true ok but that's where it
+
+401
+00:18:23,220 --> 00:18:27,750
+comes from
+
+402
+00:18:23,670 --> 00:18:30,720
+ok so this whole thing again in this
+
+403
+00:18:27,750 --> 00:18:32,340
+scenario is moving past you maybe it
+
+404
+00:18:30,720 --> 00:18:34,680
+takes a day and a half or so to get from
+
+405
+00:18:32,340 --> 00:18:36,870
+this point to this point so your
+
+406
+00:18:34,680 --> 00:18:38,250
+experience would be Sara Sara Stratus
+
+407
+00:18:36,870 --> 00:18:40,410
+all the stress Stratus and then rain
+
+408
+00:18:38,250 --> 00:18:44,520
+maybe as much as 24 hours
+
+409
+00:18:40,410 --> 00:18:47,190
+okay now that spot right there is the
+
+410
+00:18:44,520 --> 00:18:54,270
+warm front that that spot we can put
+
+411
+00:18:47,190 --> 00:18:58,200
+that spot on a map so the show a warm
+
+412
+00:18:54,270 --> 00:19:04,460
+front on a map will have a line with
+
+413
+00:18:58,200 --> 00:19:04,460
+these humps ok so this is a warm front
+
+414
+00:19:05,010 --> 00:19:18,620
+and the warm air is back here and the
+
+415
+00:19:12,660 --> 00:19:21,180
+cold air is on the other side okay so
+
+416
+00:19:18,620 --> 00:19:23,910
+the warm air is behind the humps and
+
+417
+00:19:21,180 --> 00:19:27,300
+it's moving in the direction of the
+
+418
+00:19:23,910 --> 00:19:29,160
+humps okay so this is the the the
+
+419
+00:19:27,300 --> 00:19:31,260
+literal point on the ground that we had
+
+420
+00:19:29,160 --> 00:19:34,920
+where the wedge meet the surface in that
+
+421
+00:19:31,260 --> 00:19:37,320
+previous diagram okay so the warm air is
+
+422
+00:19:34,920 --> 00:19:40,200
+coming along it hits this cold air and
+
+423
+00:19:37,320 --> 00:19:45,620
+it ramps up over it so what that means
+
+424
+00:19:40,200 --> 00:19:51,090
+is that right ahead of let's see right
+
+425
+00:19:45,620 --> 00:19:55,050
+here somewhere ahead of this would be
+
+426
+00:19:51,090 --> 00:19:57,780
+our cirrus clouds and then behind that
+
+427
+00:19:55,050 --> 00:20:02,280
+they get thicker and we get the
+
+428
+00:19:57,780 --> 00:20:04,350
+cirrostratus right and then the uncle
+
+429
+00:20:02,280 --> 00:20:08,120
+Stratos and all that but it's a big band
+
+430
+00:20:04,350 --> 00:20:10,770
+it's a big band ahead of this warm front
+
+431
+00:20:08,120 --> 00:20:12,480
+so eventually if you're looking at this
+
+432
+00:20:10,770 --> 00:20:14,520
+from space and we'll see one in a second
+
+433
+00:20:12,480 --> 00:20:17,220
+you'll see the Cirrus as kind of a fuzzy
+
+434
+00:20:14,520 --> 00:20:19,110
+edge and then it gets solid white up
+
+435
+00:20:17,220 --> 00:20:21,420
+until you get to where the warm front
+
+436
+00:20:19,110 --> 00:20:23,580
+passes now a couple other things
+
+437
+00:20:21,420 --> 00:20:25,830
+think about dew point for for a minute
+
+438
+00:20:23,580 --> 00:20:27,570
+the warm air and cold air the warm air
+
+439
+00:20:25,830 --> 00:20:30,930
+has come from the south it probably came
+
+440
+00:20:27,570 --> 00:20:38,370
+from an ocean so the dew points are
+
+441
+00:20:30,930 --> 00:20:45,300
+probably higher and the cold air as we
+
+442
+00:20:38,370 --> 00:20:47,460
+know the dew points are lower so as this
+
+443
+00:20:45,300 --> 00:20:49,500
+warm front passes over you you know if
+
+444
+00:20:47,460 --> 00:20:51,480
+you're if you're out here and you're
+
+445
+00:20:49,500 --> 00:20:53,850
+seeing that sequence of clouds as this
+
+446
+00:20:51,480 --> 00:20:55,800
+thing is approaching you the other thing
+
+447
+00:20:53,850 --> 00:20:58,920
+that changes is when this passes over
+
+448
+00:20:55,800 --> 00:21:03,270
+you your temperatures go up and your dew
+
+449
+00:20:58,920 --> 00:21:06,210
+points will also go up okay so that is a
+
+450
+00:21:03,270 --> 00:21:10,320
+warm front so now let's imagine what
+
+451
+00:21:06,210 --> 00:21:12,800
+happens where the cold air invades the
+
+452
+00:21:10,320 --> 00:21:12,800
+warm air
+
+453
+00:21:13,789 --> 00:21:18,779
+okay same kind of scenario except now
+
+454
+00:21:17,129 --> 00:21:22,859
+what's going to happen is we've got warm
+
+455
+00:21:18,779 --> 00:21:26,519
+air over here and we've got cold air
+
+456
+00:21:22,859 --> 00:21:29,669
+over here but the cold air is now
+
+457
+00:21:26,519 --> 00:21:32,099
+invading the warm air okay so it's
+
+458
+00:21:29,669 --> 00:21:35,309
+coming in colliding with the warm there
+
+459
+00:21:32,099 --> 00:21:38,489
+now the cold air is more dense and it
+
+460
+00:21:35,309 --> 00:21:43,349
+tends to kind of hug the ground so kind
+
+461
+00:21:38,489 --> 00:21:45,359
+of like this so it's it's got like
+
+462
+00:21:43,349 --> 00:21:48,059
+basically tunnel underneath that warm
+
+463
+00:21:45,359 --> 00:21:50,960
+air and it's gonna throw the warm air up
+
+464
+00:21:48,059 --> 00:21:54,379
+out of the way
+
+465
+00:21:50,960 --> 00:21:56,239
+so you got cold air coming down
+
+466
+00:21:54,379 --> 00:21:59,519
+tunneling underneath the warm air
+
+467
+00:21:56,239 --> 00:22:01,739
+shoving it up out of the way and one of
+
+468
+00:21:59,519 --> 00:22:04,649
+the things that you're gonna get right
+
+469
+00:22:01,739 --> 00:22:10,769
+here right where that cold air meets the
+
+470
+00:22:04,649 --> 00:22:16,019
+warm air is very likely cumulonimbus are
+
+471
+00:22:10,769 --> 00:22:20,849
+at least cumuliform clouds so I'll draw
+
+472
+00:22:16,019 --> 00:22:23,070
+some cumulonimbus here so this rolls
+
+473
+00:22:20,849 --> 00:22:25,529
+through shoves warm air up out of the
+
+474
+00:22:23,070 --> 00:22:27,629
+way the warm air rises in these little
+
+475
+00:22:25,529 --> 00:22:30,299
+pockets and gives you a cumulonimbus and
+
+476
+00:22:27,629 --> 00:22:33,419
+then what happens is as this thing
+
+477
+00:22:30,299 --> 00:22:36,090
+passes you know this is pretty cold air
+
+478
+00:22:33,419 --> 00:22:38,700
+and the ground was kind of warm that it
+
+479
+00:22:36,090 --> 00:22:40,979
+rolled over you've got will opens a warm
+
+480
+00:22:38,700 --> 00:22:44,659
+air rising up through the cold air and
+
+481
+00:22:40,979 --> 00:22:47,140
+you will get all kinds of cumulonimbus
+
+482
+00:22:44,659 --> 00:22:48,480
+forming
+
+483
+00:22:47,140 --> 00:22:52,480
+[Music]
+
+484
+00:22:48,480 --> 00:23:00,510
+in the back as this cold air rolls
+
+485
+00:22:52,480 --> 00:23:08,650
+through so this point right here that is
+
+486
+00:23:00,510 --> 00:23:11,650
+the cold front and if you were here and
+
+487
+00:23:08,650 --> 00:23:14,590
+a cold front is coming towards you your
+
+488
+00:23:11,650 --> 00:23:18,610
+experience is that you don't really
+
+489
+00:23:14,590 --> 00:23:21,280
+experience until the front hits you and
+
+490
+00:23:18,610 --> 00:23:23,740
+when the front hits you boom you have
+
+491
+00:23:21,280 --> 00:23:25,780
+cumuliform clouds so it could be keenly
+
+492
+00:23:23,740 --> 00:23:27,970
+less could be towering cumulus could be
+
+493
+00:23:25,780 --> 00:23:30,490
+cumulonimbus it could be it could be a
+
+494
+00:23:27,970 --> 00:23:34,090
+line of very severe thunderstorms if you
+
+495
+00:23:30,490 --> 00:23:37,690
+live in certain areas and then as this
+
+496
+00:23:34,090 --> 00:23:40,750
+cold front passes over you this blob of
+
+497
+00:23:37,690 --> 00:23:42,820
+cold air moves past you your temperature
+
+498
+00:23:40,750 --> 00:23:46,240
+suddenly drops okay so that's what we
+
+499
+00:23:42,820 --> 00:23:48,549
+call it a cold front and just to remind
+
+500
+00:23:46,240 --> 00:23:52,510
+you of what we said last time so we've
+
+501
+00:23:48,549 --> 00:23:54,809
+got low dew points here so cold air is
+
+502
+00:23:52,510 --> 00:23:57,610
+always dry air as this rolls past you
+
+503
+00:23:54,809 --> 00:24:00,490
+not only does your temperature drop that
+
+504
+00:23:57,610 --> 00:24:02,980
+very likely the dew point also drops so
+
+505
+00:24:00,490 --> 00:24:06,850
+this is so in a warm front then we've
+
+506
+00:24:02,980 --> 00:24:11,559
+get the stratiform clouds in a cold
+
+507
+00:24:06,850 --> 00:24:14,070
+front we get more cumuliform clouds so
+
+508
+00:24:11,559 --> 00:24:14,070
+on a map
+
+509
+00:24:14,320 --> 00:24:21,590
+the cold front if it's in color is in
+
+510
+00:24:17,900 --> 00:24:24,950
+blue but either way you're looking for a
+
+511
+00:24:21,590 --> 00:24:29,300
+line with triangular teeth and the
+
+512
+00:24:24,950 --> 00:24:32,210
+triangular teeth indicate a cold front
+
+513
+00:24:29,300 --> 00:24:36,500
+air behind the triangular teeth is where
+
+514
+00:24:32,210 --> 00:24:41,060
+the cold air is and on the other side is
+
+515
+00:24:36,500 --> 00:24:44,180
+the warm air and the cold air is moving
+
+516
+00:24:41,060 --> 00:24:48,080
+in the direction that the teeth are
+
+517
+00:24:44,180 --> 00:24:49,670
+pointing okay so that's a cold front and
+
+518
+00:24:48,080 --> 00:24:51,980
+if you can't remember which is which and
+
+519
+00:24:49,670 --> 00:24:53,660
+if it's black and white would I tilt
+
+520
+00:24:51,980 --> 00:24:56,930
+when I teaches the kids I tell them that
+
+521
+00:24:53,660 --> 00:24:59,180
+the cold air is biting cold that's why
+
+522
+00:24:56,930 --> 00:25:02,000
+the cold front has teeth they helped you
+
+523
+00:24:59,180 --> 00:25:05,510
+remember great there is another type of
+
+524
+00:25:02,000 --> 00:25:07,520
+front where the two air masses actually
+
+525
+00:25:05,510 --> 00:25:10,490
+come up against each other but neither
+
+526
+00:25:07,520 --> 00:25:13,430
+one wins it's called a stationary front
+
+527
+00:25:10,490 --> 00:25:18,110
+I'm going to draw that real quick so in
+
+528
+00:25:13,430 --> 00:25:26,720
+a stationary front you've got teeth on
+
+529
+00:25:18,110 --> 00:25:33,200
+one side and then you've got humps on
+
+530
+00:25:26,720 --> 00:25:37,310
+the other side okay so the same rules
+
+531
+00:25:33,200 --> 00:25:44,870
+apply the warmer is behind the humps and
+
+532
+00:25:37,310 --> 00:25:46,700
+the cold air is behind the teeth and at
+
+533
+00:25:44,870 --> 00:25:48,230
+least at this point in time neither one
+
+534
+00:25:46,700 --> 00:25:56,570
+is really taking over the other
+
+535
+00:25:48,230 --> 00:25:58,700
+that's called a stationary front so warm
+
+536
+00:25:56,570 --> 00:26:01,910
+fronts and cold fronts usually occur
+
+537
+00:25:58,700 --> 00:26:04,340
+together near the same place along the
+
+538
+00:26:01,910 --> 00:26:07,610
+polar front and we call it at a
+
+539
+00:26:04,340 --> 00:26:10,040
+mid-latitude cyclone so by mid-latitude
+
+540
+00:26:07,610 --> 00:26:12,320
+cycle and what we mean is not low
+
+541
+00:26:10,040 --> 00:26:14,480
+latitudes like the equator and not
+
+542
+00:26:12,320 --> 00:26:16,730
+really high latitudes like the poles but
+
+543
+00:26:14,480 --> 00:26:19,040
+somewhere in the middle and cyclone is
+
+544
+00:26:16,730 --> 00:26:21,770
+another word for storm so you can think
+
+545
+00:26:19,040 --> 00:26:24,110
+of this as a storm that occurs in the
+
+546
+00:26:21,770 --> 00:26:25,060
+mid-latitudes kind of along the polar
+
+547
+00:26:24,110 --> 00:26:28,510
+front
+
+548
+00:26:25,060 --> 00:26:30,670
+so we're gonna go through the stages of
+
+549
+00:26:28,510 --> 00:26:33,730
+how one of these form and how they
+
+550
+00:26:30,670 --> 00:26:37,960
+evolve and then eventually die so it
+
+551
+00:26:33,730 --> 00:26:42,460
+starts out with essentially a stationary
+
+552
+00:26:37,960 --> 00:26:49,390
+front along the polar front so what we
+
+553
+00:26:42,460 --> 00:26:53,130
+have is we've got cold air to the north
+
+554
+00:26:49,390 --> 00:26:58,260
+so we're you know drawing this from a
+
+555
+00:26:53,130 --> 00:27:00,850
+Northern Hemisphere perspective right so
+
+556
+00:26:58,260 --> 00:27:03,940
+if this is in the southern hemisphere
+
+557
+00:27:00,850 --> 00:27:06,790
+everything would be flipped so we've got
+
+558
+00:27:03,940 --> 00:27:11,200
+the cold air up here we've got the warm
+
+559
+00:27:06,790 --> 00:27:12,910
+air down here and right now neither one
+
+560
+00:27:11,200 --> 00:27:15,940
+is invading the other so we have a
+
+561
+00:27:12,910 --> 00:27:20,170
+stationary front but it won't stay that
+
+562
+00:27:15,940 --> 00:27:24,940
+way for long because you've the cold air
+
+563
+00:27:20,170 --> 00:27:28,020
+side usually has air or winds that are
+
+564
+00:27:24,940 --> 00:27:31,240
+coming down from the east and the warm
+
+565
+00:27:28,020 --> 00:27:32,710
+typically kind of has westerlies so
+
+566
+00:27:31,240 --> 00:27:35,260
+you've got the situation where you have
+
+567
+00:27:32,710 --> 00:27:38,140
+two different kinds of air masses which
+
+568
+00:27:35,260 --> 00:27:39,730
+have different densities going past each
+
+569
+00:27:38,140 --> 00:27:41,710
+other in different directions and that's
+
+570
+00:27:39,730 --> 00:27:43,570
+not a very stable setup and what's going
+
+571
+00:27:41,710 --> 00:27:46,780
+to happen is that there will be waves
+
+572
+00:27:43,570 --> 00:27:49,810
+that develop in this boundary and once
+
+573
+00:27:46,780 --> 00:27:53,320
+we start to develop a wave we start to
+
+574
+00:27:49,810 --> 00:27:57,280
+make a meal add to it cyclone so we'll
+
+575
+00:27:53,320 --> 00:28:02,340
+make a slight wave in that in that front
+
+576
+00:27:57,280 --> 00:28:12,700
+and we're gonna we're going to form a
+
+577
+00:28:02,340 --> 00:28:16,120
+mid-latitude cycle okay so we start to
+
+578
+00:28:12,700 --> 00:28:22,090
+develop a cold front on the west side of
+
+579
+00:28:16,120 --> 00:28:29,520
+it and a warm front on the east side of
+
+580
+00:28:22,090 --> 00:28:29,520
+it and so now we've got kind of this
+
+581
+00:28:29,790 --> 00:28:35,980
+and draw these guys in here we've got a
+
+582
+00:28:33,280 --> 00:28:39,040
+counterclockwise rotation that's
+
+583
+00:28:35,980 --> 00:28:42,130
+starting to set up here and in the
+
+584
+00:28:39,040 --> 00:28:45,880
+center of a counterclockwise rotation in
+
+585
+00:28:42,130 --> 00:28:46,810
+the northern hemisphere is a low so I'm
+
+586
+00:28:45,880 --> 00:28:49,150
+gonna draw it there's a center of
+
+587
+00:28:46,810 --> 00:28:52,690
+low-pressure kind of right between those
+
+588
+00:28:49,150 --> 00:28:55,000
+two fronts now why is the pressure low
+
+589
+00:28:52,690 --> 00:28:58,030
+because air is rising why is there
+
+590
+00:28:55,000 --> 00:28:59,770
+rising well and this one you've got
+
+591
+00:28:58,030 --> 00:29:02,470
+remember the ramp so you've got warm
+
+592
+00:28:59,770 --> 00:29:04,960
+they're ramping up rising up over the
+
+593
+00:29:02,470 --> 00:29:06,610
+cool air in front of it here you've got
+
+594
+00:29:04,960 --> 00:29:08,410
+cold air tunneling underneath the warm
+
+595
+00:29:06,610 --> 00:29:12,160
+air and pushing it up out of the way
+
+596
+00:29:08,410 --> 00:29:14,890
+in both cases air is rising so this
+
+597
+00:29:12,160 --> 00:29:17,350
+whole thing air is rising but the this
+
+598
+00:29:14,890 --> 00:29:20,440
+center of low pressure is right in
+
+599
+00:29:17,350 --> 00:29:24,720
+between it those two types of fronts all
+
+600
+00:29:20,440 --> 00:29:24,720
+right so now what's going to happen is
+
+601
+00:29:25,740 --> 00:29:36,460
+the storm intensifies and this
+
+602
+00:29:34,350 --> 00:29:39,430
+counterclockwise motion is going to
+
+603
+00:29:36,460 --> 00:29:41,880
+continue so you're going to get
+
+604
+00:29:39,430 --> 00:29:45,930
+something that kind of has this shape so
+
+605
+00:29:41,880 --> 00:29:49,060
+the cold front is sweeping around and
+
+606
+00:29:45,930 --> 00:29:55,150
+then the warm front it's kind of arching
+
+607
+00:29:49,060 --> 00:29:57,670
+up now think of everything we said
+
+608
+00:29:55,150 --> 00:29:59,530
+earlier about a warm front in a cold
+
+609
+00:29:57,670 --> 00:30:04,630
+front like all the clouds and all that
+
+610
+00:29:59,530 --> 00:30:06,310
+stuff that's happening all the warm
+
+611
+00:30:04,630 --> 00:30:08,470
+front stuff is happening over here all
+
+612
+00:30:06,310 --> 00:30:12,010
+the cold front stuff is happening over
+
+613
+00:30:08,470 --> 00:30:15,160
+here now in our part of the world when
+
+614
+00:30:12,010 --> 00:30:18,850
+one of these forms this whole thing is
+
+615
+00:30:15,160 --> 00:30:20,920
+also moving to the east so you have to
+
+616
+00:30:18,850 --> 00:30:22,630
+imagine as we're drawing this that
+
+617
+00:30:20,920 --> 00:30:26,290
+there's two things happening one is
+
+618
+00:30:22,630 --> 00:30:27,910
+you've got counterclockwise rotation so
+
+619
+00:30:26,290 --> 00:30:31,270
+the Front's themselves are starting to
+
+620
+00:30:27,910 --> 00:30:33,040
+twist around the center of this and the
+
+621
+00:30:31,270 --> 00:30:36,010
+other thing that's happening is this
+
+622
+00:30:33,040 --> 00:30:37,690
+whole business is moving as its twisting
+
+623
+00:30:36,010 --> 00:30:41,159
+okay so that's the motion of a
+
+624
+00:30:37,690 --> 00:30:47,460
+mid-latitude cyclone so
+
+625
+00:30:41,159 --> 00:30:50,460
+as the storm intensifies what happens is
+
+626
+00:30:47,460 --> 00:30:56,580
+the cold front moves faster than the
+
+627
+00:30:50,460 --> 00:31:01,559
+warm front and it catches up to it so it
+
+628
+00:30:56,580 --> 00:31:12,059
+looks something like this and this is a
+
+629
+00:31:01,559 --> 00:31:15,450
+cold front and this is a warm front so
+
+630
+00:31:12,059 --> 00:31:19,049
+now this this cold front has wrapped all
+
+631
+00:31:15,450 --> 00:31:21,409
+the way around and it's caught up to the
+
+632
+00:31:19,049 --> 00:31:24,499
+warm front and it tunnels underneath the
+
+633
+00:31:21,409 --> 00:31:31,229
+warm front and so that gets a special
+
+634
+00:31:24,499 --> 00:31:37,139
+name we put a hump and a tooth on each
+
+635
+00:31:31,229 --> 00:31:47,099
+side and that is called an occluded
+
+636
+00:31:37,139 --> 00:31:49,080
+front ok so again that cold air when
+
+637
+00:31:47,099 --> 00:31:51,690
+it's wrapping around is moving faster
+
+638
+00:31:49,080 --> 00:31:54,269
+than the warm air perhaps around catches
+
+639
+00:31:51,690 --> 00:31:55,799
+up to it tunnels underneath now we got
+
+640
+00:31:54,269 --> 00:31:57,899
+three different fronts here the warm
+
+641
+00:31:55,799 --> 00:31:59,519
+front the cold front and this occluded
+
+642
+00:31:57,899 --> 00:32:03,539
+front which is really two fronts on top
+
+643
+00:31:59,519 --> 00:32:08,369
+of each other now at this point the
+
+644
+00:32:03,539 --> 00:32:16,499
+storm is at its peak energy okay so the
+
+645
+00:32:08,369 --> 00:32:20,519
+storm is the strongest but once the
+
+646
+00:32:16,499 --> 00:32:22,639
+front starts to occlude then it's kind
+
+647
+00:32:20,519 --> 00:32:26,460
+of like this whole thing's zips up and
+
+648
+00:32:22,639 --> 00:32:28,679
+as a zips up it shuts itself off so when
+
+649
+00:32:26,460 --> 00:32:31,139
+the occlusion happens the storm is the
+
+650
+00:32:28,679 --> 00:32:37,259
+strongest we would say it's in its
+
+651
+00:32:31,139 --> 00:32:42,509
+mature state and the end is near okay so
+
+652
+00:32:37,259 --> 00:32:45,450
+also end is near once this happens then
+
+653
+00:32:42,509 --> 00:32:51,330
+it the end is within you know probably a
+
+654
+00:32:45,450 --> 00:32:54,000
+day or two so the steps from initiation
+
+655
+00:32:51,330 --> 00:32:57,270
+to here
+
+656
+00:32:54,000 --> 00:32:59,910
+depends on lots of factors but roughly
+
+657
+00:32:57,270 --> 00:33:01,800
+one of these things lasts five days
+
+658
+00:32:59,910 --> 00:33:04,110
+seven days something like that
+
+659
+00:33:01,800 --> 00:33:07,350
+so it'll form it'll go through these
+
+660
+00:33:04,110 --> 00:33:10,380
+stages then these these two fronts kind
+
+661
+00:33:07,350 --> 00:33:13,290
+of zip together and it shuts itself off
+
+662
+00:33:10,380 --> 00:33:16,880
+and then another one forms okay that's
+
+663
+00:33:13,290 --> 00:33:19,890
+the life of a mid-latitude cycle now
+
+664
+00:33:16,880 --> 00:33:23,220
+what we're going to do is talk about
+
+665
+00:33:19,890 --> 00:33:28,940
+what it would be like to live through a
+
+666
+00:33:23,220 --> 00:33:31,860
+mid-latitude cyclone so let's put put a
+
+667
+00:33:28,940 --> 00:33:35,910
+fairly mature mid-latitude cycle in here
+
+668
+00:33:31,860 --> 00:33:47,030
+let's do it this way okay so there's my
+
+669
+00:33:35,910 --> 00:33:58,070
+warm front and here's my cold front oops
+
+670
+00:33:47,030 --> 00:34:03,330
+changed my color okay now you live here
+
+671
+00:33:58,070 --> 00:34:06,810
+and we're gonna talk about what it would
+
+672
+00:34:03,330 --> 00:34:11,940
+be like if one of these formed and then
+
+673
+00:34:06,810 --> 00:34:14,220
+moved past you over you now as is this
+
+674
+00:34:11,940 --> 00:34:17,550
+happening this thing is rotating
+
+675
+00:34:14,220 --> 00:34:19,110
+counterclockwise this front is going to
+
+676
+00:34:17,550 --> 00:34:21,810
+catch up to that front and this whole
+
+677
+00:34:19,110 --> 00:34:23,399
+thing is on the move but for to simplify
+
+678
+00:34:21,810 --> 00:34:25,710
+things let's just assume that the front
+
+679
+00:34:23,399 --> 00:34:28,159
+state just like they are but this whole
+
+680
+00:34:25,710 --> 00:34:30,810
+thing is going to move as is across and
+
+681
+00:34:28,159 --> 00:34:32,370
+pass over you okay we're going to talk
+
+682
+00:34:30,810 --> 00:34:36,770
+about what you would see what you would
+
+683
+00:34:32,370 --> 00:34:40,409
+notice now as the storm approaches
+
+684
+00:34:36,770 --> 00:34:42,409
+realize that we're gonna see events that
+
+685
+00:34:40,409 --> 00:34:46,169
+are from the warm front first then
+
+686
+00:34:42,409 --> 00:34:48,780
+there's a gap and then events from the
+
+687
+00:34:46,169 --> 00:34:50,940
+cold front next so that's one thing to
+
+688
+00:34:48,780 --> 00:34:54,240
+keep in mind the other thing to keep in
+
+689
+00:34:50,940 --> 00:34:57,720
+mind is that this El the center of low
+
+690
+00:34:54,240 --> 00:35:00,570
+pressure as it moves towards us the
+
+691
+00:34:57,720 --> 00:35:03,090
+distance between us and the El is
+
+692
+00:35:00,570 --> 00:35:04,710
+decreasing so what does that mean that
+
+693
+00:35:03,090 --> 00:35:07,740
+means the air pressure that we
+
+694
+00:35:04,710 --> 00:35:10,619
+experience as this gets closer to us
+
+695
+00:35:07,740 --> 00:35:13,530
+is going down and then at some point
+
+696
+00:35:10,619 --> 00:35:16,860
+that L will pass by and then as it moves
+
+697
+00:35:13,530 --> 00:35:18,480
+on we will get farther from the L and
+
+698
+00:35:16,860 --> 00:35:19,830
+our pressure will go back up
+
+699
+00:35:18,480 --> 00:35:22,740
+okay so there's going to be a change in
+
+700
+00:35:19,830 --> 00:35:24,330
+pressure in addition to all the changes
+
+701
+00:35:22,740 --> 00:35:25,470
+in clouds and everything else here so
+
+702
+00:35:24,330 --> 00:35:31,619
+we're going to kind of write down the
+
+703
+00:35:25,470 --> 00:35:34,590
+list of events so 1800s you're out on a
+
+704
+00:35:31,619 --> 00:35:36,150
+horse you're out here you have no idea
+
+705
+00:35:34,590 --> 00:35:39,180
+what's going on in terms of the weather
+
+706
+00:35:36,150 --> 00:35:40,740
+but this thing is approaching you and so
+
+707
+00:35:39,180 --> 00:35:44,880
+we're gonna think of terms of like what
+
+708
+00:35:40,740 --> 00:35:47,750
+that person would see okay so first
+
+709
+00:35:44,880 --> 00:35:50,130
+thing what are they gonna notice well
+
+710
+00:35:47,750 --> 00:35:51,450
+ahead what's ahead of the warm front the
+
+711
+00:35:50,130 --> 00:35:54,450
+first thing that happens ahead of the
+
+712
+00:35:51,450 --> 00:35:58,410
+warm front are the cirrus clouds right
+
+713
+00:35:54,450 --> 00:36:05,430
+so you see the cirrus clouds and then
+
+714
+00:35:58,410 --> 00:36:12,720
+that transitions to your cirrostratus in
+
+715
+00:36:05,430 --> 00:36:14,850
+your Aldo Stratus then your Stratus okay
+
+716
+00:36:12,720 --> 00:36:17,580
+so we're gonna assume that this is kind
+
+717
+00:36:14,850 --> 00:36:19,770
+of like a pretty big pretty big storm
+
+718
+00:36:17,580 --> 00:36:22,830
+okay so I'm gonna sign some kind of
+
+719
+00:36:19,770 --> 00:36:25,109
+arbitrary x to this but let's just say
+
+720
+00:36:22,830 --> 00:36:30,300
+that this right here is about twelve
+
+721
+00:36:25,109 --> 00:36:33,270
+hours okay so as you're watching this
+
+722
+00:36:30,300 --> 00:36:34,520
+this whole thing is on the march towards
+
+723
+00:36:33,270 --> 00:36:38,430
+you right
+
+724
+00:36:34,520 --> 00:36:42,090
+so then what finally gets to you what
+
+725
+00:36:38,430 --> 00:36:48,619
+comes after Stratus Nimmo Stratus okay
+
+726
+00:36:42,090 --> 00:36:50,609
+so that gets to you next and you're in
+
+727
+00:36:48,619 --> 00:36:52,890
+precipitation now what kind of
+
+728
+00:36:50,609 --> 00:36:56,220
+precipitation is it it's kind of us it's
+
+729
+00:36:52,890 --> 00:37:00,840
+like a slow and steady rain so I'm going
+
+730
+00:36:56,220 --> 00:37:05,240
+right down steady precip no rain or snow
+
+731
+00:37:00,840 --> 00:37:08,760
+could be either how long does it rain so
+
+732
+00:37:05,240 --> 00:37:10,080
+if you're from New Mexico you might want
+
+733
+00:37:08,760 --> 00:37:14,100
+to sit down for this because it's gonna
+
+734
+00:37:10,080 --> 00:37:17,310
+be hard to wrap your mind around you can
+
+735
+00:37:14,100 --> 00:37:19,950
+get 24 hours or more of steady
+
+736
+00:37:17,310 --> 00:37:21,119
+precipitation okay I know that freaks
+
+737
+00:37:19,950 --> 00:37:23,369
+people out
+
+738
+00:37:21,119 --> 00:37:25,499
+but let's just say that in this scenario
+
+739
+00:37:23,369 --> 00:37:28,769
+this person is going to get about 24
+
+740
+00:37:25,499 --> 00:37:30,480
+hours of constant steady rain it's not a
+
+741
+00:37:28,769 --> 00:37:32,039
+downpour usually it's not like a
+
+742
+00:37:30,480 --> 00:37:34,440
+thunderstorm we're just Marines really
+
+743
+00:37:32,039 --> 00:37:37,769
+hard it's a more of a state slow and
+
+744
+00:37:34,440 --> 00:37:40,170
+steady type of precipitation okay
+
+745
+00:37:37,769 --> 00:37:44,849
+so if you imagine if you can visualize
+
+746
+00:37:40,170 --> 00:37:47,339
+this whole thing traveling okay after 24
+
+747
+00:37:44,849 --> 00:37:50,069
+hours of precipitation that warm front
+
+748
+00:37:47,339 --> 00:37:53,789
+is now right up to where you are okay
+
+749
+00:37:50,069 --> 00:37:55,380
+but as this has happened there's another
+
+750
+00:37:53,789 --> 00:37:57,329
+thing that to keep in mind it's also
+
+751
+00:37:55,380 --> 00:38:00,180
+been happening ever since step number
+
+752
+00:37:57,329 --> 00:38:02,789
+one which is this low-pressure center
+
+753
+00:38:00,180 --> 00:38:05,039
+has been getting closer to you so the
+
+754
+00:38:02,789 --> 00:38:09,779
+air pressure that you experience down
+
+755
+00:38:05,039 --> 00:38:12,089
+here on the ground is decreasing so
+
+756
+00:38:09,779 --> 00:38:13,619
+during this whole stage I'm going to put
+
+757
+00:38:12,089 --> 00:38:18,450
+number three but it's happened since the
+
+758
+00:38:13,619 --> 00:38:26,730
+very beginning is the air pressure from
+
+759
+00:38:18,450 --> 00:38:30,390
+your perspective oops is decreasing so
+
+760
+00:38:26,730 --> 00:38:33,390
+in old school barometer talk that means
+
+761
+00:38:30,390 --> 00:38:35,309
+that that mercury column is going down
+
+762
+00:38:33,390 --> 00:38:38,450
+so if our farmer in the 1800 has one of
+
+763
+00:38:35,309 --> 00:38:45,329
+those what they would say is that the
+
+764
+00:38:38,450 --> 00:38:48,619
+the barometer is falling okay that
+
+765
+00:38:45,329 --> 00:38:53,400
+refers to that dropping calm and mercury
+
+766
+00:38:48,619 --> 00:38:55,400
+all right so we're down we're now off to
+
+767
+00:38:53,400 --> 00:38:58,049
+a day and a half right 12 hours of
+
+768
+00:38:55,400 --> 00:39:00,390
+changing clouds 24 hours of
+
+769
+00:38:58,049 --> 00:39:01,529
+precipitation that whole time the air
+
+770
+00:39:00,390 --> 00:39:03,960
+pressure has been decreasing the
+
+771
+00:39:01,529 --> 00:39:07,019
+barometers been dropping but now this
+
+772
+00:39:03,960 --> 00:39:09,539
+front is right to your doorstep so what
+
+773
+00:39:07,019 --> 00:39:11,489
+happens well the warm front passes so
+
+774
+00:39:09,539 --> 00:39:17,549
+what's that like temperatures are going
+
+775
+00:39:11,489 --> 00:39:20,039
+to go up so if you think back to the
+
+776
+00:39:17,549 --> 00:39:22,200
+ramp the bottom of the ramp now is is
+
+777
+00:39:20,039 --> 00:39:25,410
+passing over us and we're in the warmer
+
+778
+00:39:22,200 --> 00:39:30,980
+pool of air behind it so our dew points
+
+779
+00:39:25,410 --> 00:39:36,450
+are going to be up to okay
+
+780
+00:39:30,980 --> 00:39:41,990
+now from your perspective it seems like
+
+781
+00:39:36,450 --> 00:39:41,990
+the storm might be over so the storm
+
+782
+00:39:42,980 --> 00:39:52,380
+will say it starts to break up okay so
+
+783
+00:39:50,550 --> 00:39:54,600
+you've been in slow steady rain for 24
+
+784
+00:39:52,380 --> 00:39:56,550
+hours and now it's you know it's kind of
+
+785
+00:39:54,600 --> 00:39:59,190
+stopping and you got some cracks between
+
+786
+00:39:56,550 --> 00:40:01,590
+the clouds and you're in this warm
+
+787
+00:39:59,190 --> 00:40:03,690
+rather humid air okay so now you have to
+
+788
+00:40:01,590 --> 00:40:06,480
+imagine that this thing has gotten to
+
+789
+00:40:03,690 --> 00:40:08,850
+you and it's past you so that now you're
+
+790
+00:40:06,480 --> 00:40:11,550
+in in this part okay you're in this part
+
+791
+00:40:08,850 --> 00:40:15,240
+of the storm and you've got to gap
+
+792
+00:40:11,550 --> 00:40:18,090
+between when the warm front passes you
+
+793
+00:40:15,240 --> 00:40:21,690
+and the cold front arrives in this
+
+794
+00:40:18,090 --> 00:40:25,560
+sector and so in this sector is probably
+
+795
+00:40:21,690 --> 00:40:28,080
+very little precipitation and might see
+
+796
+00:40:25,560 --> 00:40:31,110
+some Sun right might be you know some
+
+797
+00:40:28,080 --> 00:40:34,200
+strategy mule asur or maybe might almost
+
+798
+00:40:31,110 --> 00:40:39,480
+be completely clear at some point so I'm
+
+799
+00:40:34,200 --> 00:40:41,400
+gonna continue my steps over here so and
+
+800
+00:40:39,480 --> 00:40:44,070
+again we're kind of assuming this is a
+
+801
+00:40:41,400 --> 00:40:52,020
+pretty big slow-moving storm so we'll
+
+802
+00:40:44,070 --> 00:40:55,740
+say half day to 24 hours of a break okay
+
+803
+00:40:52,020 --> 00:40:59,130
+looks like storms over then coming
+
+804
+00:40:55,740 --> 00:41:01,320
+behind all that is the cold front okay
+
+805
+00:40:59,130 --> 00:41:04,380
+now the other thing that's happening too
+
+806
+00:41:01,320 --> 00:41:07,770
+is this low that's been moving is now
+
+807
+00:41:04,380 --> 00:41:10,610
+passed over you and so pretty soon your
+
+808
+00:41:07,770 --> 00:41:19,560
+barometer is gonna start to rise again
+
+809
+00:41:10,610 --> 00:41:21,450
+so the barometer starts to rise so again
+
+810
+00:41:19,560 --> 00:41:24,960
+that mercury column starts going up
+
+811
+00:41:21,450 --> 00:41:31,500
+right so in other words air pressure
+
+812
+00:41:24,960 --> 00:41:35,040
+increases then cold front arrives what's
+
+813
+00:41:31,500 --> 00:41:37,500
+that like well immediate thing that
+
+814
+00:41:35,040 --> 00:41:40,080
+happens temperatures drop and we said
+
+815
+00:41:37,500 --> 00:41:43,050
+that along the boundary here of this
+
+816
+00:41:40,080 --> 00:41:44,599
+cold front that you often get pretty
+
+817
+00:41:43,050 --> 00:41:46,940
+severe cumulonimbus
+
+818
+00:41:44,599 --> 00:41:49,579
+so if I can imagine let's say I'm
+
+819
+00:41:46,940 --> 00:41:50,930
+looking at this on a satellite loop and
+
+820
+00:41:49,579 --> 00:41:54,140
+we'll see this in a second but right
+
+821
+00:41:50,930 --> 00:41:59,359
+behind this cold front I'd have a bunch
+
+822
+00:41:54,140 --> 00:42:01,480
+of cumulonimbus and as time goes on they
+
+823
+00:41:59,359 --> 00:42:05,930
+kind of become less and less frequent
+
+824
+00:42:01,480 --> 00:42:08,930
+usually so what's your experience about
+
+825
+00:42:05,930 --> 00:42:12,559
+it your experience of that is not a slow
+
+826
+00:42:08,930 --> 00:42:15,170
+steady rain but it's raining here and
+
+827
+00:42:12,559 --> 00:42:18,049
+not here it's raining here and not here
+
+828
+00:42:15,170 --> 00:42:20,299
+it's raining here and not here what do
+
+829
+00:42:18,049 --> 00:42:23,539
+we call that and weather speak scattered
+
+830
+00:42:20,299 --> 00:42:27,049
+showers or if it's snowing snow flurries
+
+831
+00:42:23,539 --> 00:42:35,740
+okay either one so when that cold front
+
+832
+00:42:27,049 --> 00:42:42,289
+arrives we're gonna get cumulonimbus so
+
+833
+00:42:35,740 --> 00:42:51,400
+we'll call that scattered showers right
+
+834
+00:42:42,289 --> 00:42:51,400
+and if it's cold enough snow flurries
+
+835
+00:42:54,339 --> 00:43:02,690
+okay so that goes by and now again
+
+836
+00:42:59,500 --> 00:43:04,910
+visualize that this whole thing is moved
+
+837
+00:43:02,690 --> 00:43:07,519
+past you and you're now back here in
+
+838
+00:43:04,910 --> 00:43:15,529
+this sector of the storm well if it's a
+
+839
+00:43:07,519 --> 00:43:26,150
+big one you might get 24 hours or more
+
+840
+00:43:15,529 --> 00:43:29,869
+of this kind of cold and stable air so
+
+841
+00:43:26,150 --> 00:43:31,700
+the scattered showers can continue a day
+
+842
+00:43:29,869 --> 00:43:33,349
+and then the next day they're even fewer
+
+843
+00:43:31,700 --> 00:43:34,609
+and the next day they're even fewer it
+
+844
+00:43:33,349 --> 00:43:40,099
+could be something like that if it's a
+
+845
+00:43:34,609 --> 00:43:42,200
+big storm okay so what happened so if
+
+846
+00:43:40,099 --> 00:43:46,069
+you can't keep track here we had a half
+
+847
+00:43:42,200 --> 00:43:48,349
+day of clouds a day of rain maybe up to
+
+848
+00:43:46,069 --> 00:43:51,619
+a day of a break and then we get a
+
+849
+00:43:48,349 --> 00:43:55,190
+couple days of this cold and stable air
+
+850
+00:43:51,619 --> 00:43:57,609
+with scattered showers okay and then
+
+851
+00:43:55,190 --> 00:43:59,440
+this whole thing now
+
+852
+00:43:57,609 --> 00:44:01,630
+is completely buying you're back here
+
+853
+00:43:59,440 --> 00:44:03,970
+somewhere and what's back here well
+
+854
+00:44:01,630 --> 00:44:08,170
+what's back there is some really cold
+
+855
+00:44:03,970 --> 00:44:12,700
+air that's coming down from the north
+
+856
+00:44:08,170 --> 00:44:23,230
+from Canada let's say and this is very
+
+857
+00:44:12,700 --> 00:44:25,749
+cold and very stable very cold very dry
+
+858
+00:44:23,230 --> 00:44:31,509
+very stable so what kind of weather is
+
+859
+00:44:25,749 --> 00:44:38,519
+that clear skies sunny but cold so kind
+
+860
+00:44:31,509 --> 00:44:47,579
+of our last step here number ten is cold
+
+861
+00:44:38,519 --> 00:44:47,579
+sunny and normally several days of this
+
+862
+00:44:48,930 --> 00:44:57,309
+okay okay that is sort of the experience
+
+863
+00:44:55,329 --> 00:45:00,720
+of someone on the ground who is
+
+864
+00:44:57,309 --> 00:45:03,789
+experiencing a mid-latitude cyclone now
+
+865
+00:45:00,720 --> 00:45:08,819
+if everybody in this class was from New
+
+866
+00:45:03,789 --> 00:45:12,069
+England or from Minnesota or from Norway
+
+867
+00:45:08,819 --> 00:45:14,220
+everybody would understand this because
+
+868
+00:45:12,069 --> 00:45:17,680
+you had experienced that many many times
+
+869
+00:45:14,220 --> 00:45:21,130
+the further south you go the further
+
+870
+00:45:17,680 --> 00:45:25,630
+away you get to the polar front so what
+
+871
+00:45:21,130 --> 00:45:28,450
+happens as say in New Mexico we rarely
+
+872
+00:45:25,630 --> 00:45:31,150
+get all of these steps in fact this is
+
+873
+00:45:28,450 --> 00:45:33,489
+called the Norwegian model the Norwegian
+
+874
+00:45:31,150 --> 00:45:35,140
+model was formed by these guys in Norway
+
+875
+00:45:33,489 --> 00:45:37,299
+who made a bunch of observations of
+
+876
+00:45:35,140 --> 00:45:40,029
+these mid latitude cyclones and notice
+
+877
+00:45:37,299 --> 00:45:42,869
+they formed a pattern what actually
+
+878
+00:45:40,029 --> 00:45:47,190
+happens where we live most of the time
+
+879
+00:45:42,869 --> 00:45:47,190
+and you kind of have to think of
+
+880
+00:45:52,070 --> 00:45:57,780
+okay let's say this is the earth and
+
+881
+00:45:54,710 --> 00:46:00,510
+there's a polar front okay
+
+882
+00:45:57,780 --> 00:46:03,300
+so we're gonna mix up air on the polar
+
+883
+00:46:00,510 --> 00:46:05,550
+front and you're gonna get a cold front
+
+884
+00:46:03,300 --> 00:46:08,660
+and a warm front so maybe at some
+
+885
+00:46:05,550 --> 00:46:12,599
+particular time here's the warm front
+
+886
+00:46:08,660 --> 00:46:16,830
+here's a cold front right something like
+
+887
+00:46:12,599 --> 00:46:18,840
+this and this thing is moving or you
+
+888
+00:46:16,830 --> 00:46:20,609
+know following basically the polar front
+
+889
+00:46:18,840 --> 00:46:24,869
+and twisting and all that but here's the
+
+890
+00:46:20,609 --> 00:46:28,440
+thing where's New Mexico in this picture
+
+891
+00:46:24,869 --> 00:46:30,450
+New Mexico might be like right there so
+
+892
+00:46:28,440 --> 00:46:33,330
+what does that mean that means that we
+
+893
+00:46:30,450 --> 00:46:36,660
+missed the warm front entirely and we
+
+894
+00:46:33,330 --> 00:46:39,510
+get the tail end of the cold front so if
+
+895
+00:46:36,660 --> 00:46:41,369
+you lived in New Mexico a long time you
+
+896
+00:46:39,510 --> 00:46:43,710
+know what this means because it in the
+
+897
+00:46:41,369 --> 00:46:46,290
+winter what do we get cold air and wind
+
+898
+00:46:43,710 --> 00:46:49,920
+and that's pretty much all we get right
+
+899
+00:46:46,290 --> 00:46:52,590
+our winters are pretty dry whereas if we
+
+900
+00:46:49,920 --> 00:46:54,359
+lived further up here in that same storm
+
+901
+00:46:52,590 --> 00:46:56,520
+system they might get you know several
+
+902
+00:46:54,359 --> 00:46:59,070
+feet of snow something like that because
+
+903
+00:46:56,520 --> 00:47:00,510
+they're closer to that polar front
+
+904
+00:46:59,070 --> 00:47:02,880
+they're closer to where those two air
+
+905
+00:47:00,510 --> 00:47:06,060
+masses are getting mixed up we're pretty
+
+906
+00:47:02,880 --> 00:47:08,250
+far from the poor front so we just kind
+
+907
+00:47:06,060 --> 00:47:10,020
+of get the drags right and then if you
+
+908
+00:47:08,250 --> 00:47:11,880
+get further south and they probably drew
+
+909
+00:47:10,020 --> 00:47:13,290
+this too far south because it looks here
+
+910
+00:47:11,880 --> 00:47:16,380
+we'll draw on a fake equator
+
+911
+00:47:13,290 --> 00:47:20,010
+there's my equator okay so when you get
+
+912
+00:47:16,380 --> 00:47:22,619
+down you know pretty much Mexico and
+
+913
+00:47:20,010 --> 00:47:24,720
+anywhere further south they don't know
+
+914
+00:47:22,619 --> 00:47:28,820
+what friends are they never have them so
+
+915
+00:47:24,720 --> 00:47:32,190
+fronts or a mid latitude in higher
+
+916
+00:47:28,820 --> 00:47:34,560
+phenomenon so in the mid latitudes and
+
+917
+00:47:32,190 --> 00:47:37,670
+even sometimes up towards the poles this
+
+918
+00:47:34,560 --> 00:47:43,430
+is where we get fronts down here
+
+919
+00:47:37,670 --> 00:47:43,430
+no fronts know mid-latitude cyclones
+
+920
+00:47:44,150 --> 00:47:48,800
+so we're going to go to this website
+
+921
+00:47:45,860 --> 00:47:51,290
+called NASA worldview and what it is is
+
+922
+00:47:48,800 --> 00:47:53,990
+they've got a couple satellites that
+
+923
+00:47:51,290 --> 00:47:55,520
+sort of travel the world like this so
+
+924
+00:47:53,990 --> 00:47:57,740
+there's always one on the opposite side
+
+925
+00:47:55,520 --> 00:48:00,320
+of the world is the other and as soon as
+
+926
+00:47:57,740 --> 00:48:02,660
+the footage comes in they post it on
+
+927
+00:48:00,320 --> 00:48:04,880
+this site and you can go back in time
+
+928
+00:48:02,660 --> 00:48:09,290
+several years and look at what the earth
+
+929
+00:48:04,880 --> 00:48:12,530
+looked like and these black stripes in
+
+930
+00:48:09,290 --> 00:48:15,620
+the middle you know the earth spins
+
+931
+00:48:12,530 --> 00:48:18,680
+faster along the equator than it does at
+
+932
+00:48:15,620 --> 00:48:21,440
+higher latitudes so the satellites
+
+933
+00:48:18,680 --> 00:48:23,810
+actually miss a little strip right along
+
+934
+00:48:21,440 --> 00:48:26,300
+the equator and so each one of these
+
+935
+00:48:23,810 --> 00:48:29,900
+stripes is another pass as it comes over
+
+936
+00:48:26,300 --> 00:48:35,020
+and they stitch them together here but I
+
+937
+00:48:29,900 --> 00:48:38,960
+can I can look I can zoom in here and
+
+938
+00:48:35,020 --> 00:48:43,370
+here is a classic mid-latitude cyclone
+
+939
+00:48:38,960 --> 00:48:46,010
+now that line right there that is a
+
+940
+00:48:43,370 --> 00:48:47,810
+artifact of them stitching these
+
+941
+00:48:46,010 --> 00:48:49,370
+satellite stripes together because
+
+942
+00:48:47,810 --> 00:48:50,810
+remember they're going around taking one
+
+943
+00:48:49,370 --> 00:48:52,550
+stripe at a time and then they have to
+
+944
+00:48:50,810 --> 00:48:54,830
+stitch them together so there's time
+
+945
+00:48:52,550 --> 00:48:59,320
+that has passed between one side this
+
+946
+00:48:54,830 --> 00:49:02,450
+image in the other so if you notice
+
+947
+00:48:59,320 --> 00:49:03,860
+here's this classic commish ape here's
+
+948
+00:49:02,450 --> 00:49:05,690
+another here's a smaller one so these
+
+949
+00:49:03,860 --> 00:49:08,030
+are both mid-latitude cyclones
+
+950
+00:49:05,690 --> 00:49:12,530
+I don't sue me in a little bit here not
+
+951
+00:49:08,030 --> 00:49:17,410
+that much and the low the center of low
+
+952
+00:49:12,530 --> 00:49:19,010
+pressure would be right there and the
+
+953
+00:49:17,410 --> 00:49:21,710
+let's see here
+
+954
+00:49:19,010 --> 00:49:25,430
+let's go so you see all this wispy stuff
+
+955
+00:49:21,710 --> 00:49:27,950
+that Cirrus okay so someone from the
+
+956
+00:49:25,430 --> 00:49:29,690
+ground that's standing over here this
+
+957
+00:49:27,950 --> 00:49:33,680
+whole thing is spinning counterclockwise
+
+958
+00:49:29,690 --> 00:49:36,350
+and moving to the east that person would
+
+959
+00:49:33,680 --> 00:49:38,780
+be seeing these cirrus first and then
+
+960
+00:49:36,350 --> 00:49:40,160
+this Cirrus get thicker and then after
+
+961
+00:49:38,780 --> 00:49:41,750
+that you can't really tell what kind of
+
+962
+00:49:40,160 --> 00:49:43,100
+cause you've got but you'd go through
+
+963
+00:49:41,750 --> 00:49:45,380
+the sequence we just talked about so
+
+964
+00:49:43,100 --> 00:49:47,690
+there's our there's our Cirrus and then
+
+965
+00:49:45,380 --> 00:49:50,120
+cirrostratus is right behind it also
+
+966
+00:49:47,690 --> 00:49:51,920
+Stratus similar behind it you can't tell
+
+967
+00:49:50,120 --> 00:49:54,050
+from this where the precipitation starts
+
+968
+00:49:51,920 --> 00:49:56,210
+the nimbostratus or you know probably
+
+969
+00:49:54,050 --> 00:49:57,260
+down in this part but you can't really
+
+970
+00:49:56,210 --> 00:50:00,990
+say for sure here
+
+971
+00:49:57,260 --> 00:50:04,200
+so there's all of the stratiform clouds
+
+972
+00:50:00,990 --> 00:50:07,170
+from the warm front and then you'll
+
+973
+00:50:04,200 --> 00:50:12,390
+notice there's a sudden break right in
+
+974
+00:50:07,170 --> 00:50:16,260
+here okay and then you'll see that right
+
+975
+00:50:12,390 --> 00:50:20,520
+there are these spots what are the spots
+
+976
+00:50:16,260 --> 00:50:22,530
+the spots are communal Memphis towers so
+
+977
+00:50:20,520 --> 00:50:26,280
+every one of those spots out in the
+
+978
+00:50:22,530 --> 00:50:29,630
+ocean is a cow towering cumulus Nimbus
+
+979
+00:50:26,280 --> 00:50:29,630
+in fact if i zoom in a little bit
+
+980
+00:50:29,640 --> 00:50:34,079
+these don't show so well you can often
+
+981
+00:50:31,710 --> 00:50:36,990
+see the animals they're kind of fuzzy
+
+982
+00:50:34,079 --> 00:50:38,730
+I'll hear some so like that's an anvil
+
+983
+00:50:36,990 --> 00:50:43,260
+and that's the ice on the anvil kind of
+
+984
+00:50:38,730 --> 00:50:46,020
+floating off so if we kind of look at
+
+985
+00:50:43,260 --> 00:50:48,960
+the big picture there's cold dry air
+
+986
+00:50:46,020 --> 00:50:51,329
+coming down this way mixing it up with
+
+987
+00:50:48,960 --> 00:50:53,970
+warm humid air coming up from the south
+
+988
+00:50:51,329 --> 00:50:54,510
+they're mixing it together right along
+
+989
+00:50:53,970 --> 00:50:56,160
+here
+
+990
+00:50:54,510 --> 00:50:59,130
+that's what's forming the mid-latitude
+
+991
+00:50:56,160 --> 00:51:02,549
+cycle that's the warm front stuff this
+
+992
+00:50:59,130 --> 00:51:04,859
+is the cold front stuff so this is
+
+993
+00:51:02,549 --> 00:51:08,099
+what's happening along the polar front
+
+994
+00:51:04,859 --> 00:51:10,500
+or all around the earth all the time
+
+995
+00:51:08,099 --> 00:51:14,280
+okay here's it so let's check out this
+
+996
+00:51:10,500 --> 00:51:17,099
+other one here okay so again you can see
+
+997
+00:51:14,280 --> 00:51:21,359
+there's the Cirrus right and then they
+
+998
+00:51:17,099 --> 00:51:24,299
+get thicker and then cold airs behind
+
+999
+00:51:21,359 --> 00:51:28,230
+here all those all that spotty stuff
+
+1000
+00:51:24,299 --> 00:51:34,200
+those are all cumulonimbus towers right
+
+1001
+00:51:28,230 --> 00:51:39,650
+behind there if I were to go to the
+
+1002
+00:51:34,200 --> 00:51:39,650
+southern hemisphere let's see here
+
+1003
+00:51:42,900 --> 00:51:48,120
+so here's one in the southern hemisphere
+
+1004
+00:51:45,110 --> 00:51:50,270
+it's spinning the wrong way right it's
+
+1005
+00:51:48,120 --> 00:51:52,890
+going it's spinning it has a clockwise
+
+1006
+00:51:50,270 --> 00:51:55,170
+spiral to it everything because of the
+
+1007
+00:51:52,890 --> 00:51:58,370
+Coriolis effect everything's backwards
+
+1008
+00:51:55,170 --> 00:52:01,590
+down there but they're all around
+
+1009
+00:51:58,370 --> 00:52:04,740
+they're all around Antarctica all the
+
+1010
+00:52:01,590 --> 00:52:06,540
+times so here's a satellite loop looking
+
+1011
+00:52:04,740 --> 00:52:09,210
+at a mid latitude cycle and it's going
+
+1012
+00:52:06,540 --> 00:52:12,060
+to form right in here and then we'll see
+
+1013
+00:52:09,210 --> 00:52:14,430
+it mature and we'll see it move so we're
+
+1014
+00:52:12,060 --> 00:52:18,210
+going to go a one frame at a time here
+
+1015
+00:52:14,430 --> 00:52:20,730
+and so right there you can see here
+
+1016
+00:52:18,210 --> 00:52:21,090
+comes the cold air coming down from the
+
+1017
+00:52:20,730 --> 00:52:22,380
+north
+
+1018
+00:52:21,090 --> 00:52:26,640
+there is the warm air moving up from the
+
+1019
+00:52:22,380 --> 00:52:29,100
+south and now they're mingling and now
+
+1020
+00:52:26,640 --> 00:52:30,630
+we get that classic commish ape
+
+1021
+00:52:29,100 --> 00:52:33,030
+that's what mid-latitude cyclones look
+
+1022
+00:52:30,630 --> 00:52:37,410
+like when they're mature and the
+
+1023
+00:52:33,030 --> 00:52:39,360
+low-pressure is somewhere in here and it
+
+1024
+00:52:37,410 --> 00:52:41,430
+wraps around now you can see the spiral
+
+1025
+00:52:39,360 --> 00:52:43,550
+that's where the low is you can see the
+
+1026
+00:52:41,430 --> 00:52:48,900
+speckles those are the cumulonimbus and
+
+1027
+00:52:43,550 --> 00:52:50,880
+this is all the stratiform clouds and
+
+1028
+00:52:48,900 --> 00:52:54,600
+you can see it as it spirals it's also
+
+1029
+00:52:50,880 --> 00:53:01,290
+moving to the to the east right so it's
+
+1030
+00:52:54,600 --> 00:53:04,830
+headed towards the continent and so what
+
+1031
+00:53:01,290 --> 00:53:06,630
+what can happen is especially over the
+
+1032
+00:53:04,830 --> 00:53:08,640
+ocean the mid-latitude cyclone is
+
+1033
+00:53:06,630 --> 00:53:11,130
+conspiring spiral and spiral so if we
+
+1034
+00:53:08,640 --> 00:53:12,780
+tried to draw fronts on this it'd be
+
+1035
+00:53:11,130 --> 00:53:15,150
+more complicated than the one that i
+
+1036
+00:53:12,780 --> 00:53:17,400
+just drew the the fronts would actually
+
+1037
+00:53:15,150 --> 00:53:21,030
+wrap all the way around here plus you
+
+1038
+00:53:17,400 --> 00:53:22,860
+get some occluded fronts in there so
+
+1039
+00:53:21,030 --> 00:53:26,310
+that's what mid-latitude cyclone looks
+
+1040
+00:53:22,860 --> 00:53:27,930
+like as it then matures okay and then it
+
+1041
+00:53:26,310 --> 00:53:34,950
+goes on to the we were back to where we
+
+1042
+00:53:27,930 --> 00:53:36,990
+started also this is what a mid-latitude
+
+1043
+00:53:34,950 --> 00:53:38,400
+cyclone looks like in terms of
+
+1044
+00:53:36,990 --> 00:53:41,220
+precipitation so we're looking at
+
+1045
+00:53:38,400 --> 00:53:44,940
+Doppler radar so all these colors are
+
+1046
+00:53:41,220 --> 00:53:48,750
+precipitation and so we don't see clouds
+
+1047
+00:53:44,940 --> 00:53:52,560
+here but the low is kind of centered in
+
+1048
+00:53:48,750 --> 00:53:54,240
+here this is mostly all warm front stuff
+
+1049
+00:53:52,560 --> 00:53:55,240
+so this is that steady rain we were
+
+1050
+00:53:54,240 --> 00:53:59,830
+talking about
+
+1051
+00:53:55,240 --> 00:54:02,109
+and makes this comma shaped blob of
+
+1052
+00:53:59,830 --> 00:54:04,630
+precipitation okay so that's classic
+
+1053
+00:54:02,109 --> 00:54:07,930
+mid-latitude cyclone precipitation
+
+1054
+00:54:04,630 --> 00:54:10,660
+pattern let's go back to earth thought
+
+1055
+00:54:07,930 --> 00:54:12,490
+no school done that again and so last
+
+1056
+00:54:10,660 --> 00:54:16,000
+time we were here we were looking at
+
+1057
+00:54:12,490 --> 00:54:17,830
+total precipitable water and so this is
+
+1058
+00:54:16,000 --> 00:54:19,630
+where we are again and again just making
+
+1059
+00:54:17,830 --> 00:54:23,109
+the point that that's the mid-latitude
+
+1060
+00:54:19,630 --> 00:54:25,030
+cyclone counterclockwise rotation we're
+
+1061
+00:54:23,109 --> 00:54:27,609
+bringing up warm humid air from below
+
+1062
+00:54:25,030 --> 00:54:29,080
+from the south or taking cold dry air
+
+1063
+00:54:27,609 --> 00:54:31,390
+from the north and we're mixing them
+
+1064
+00:54:29,080 --> 00:54:33,580
+together now I'm going to turn this
+
+1065
+00:54:31,390 --> 00:54:38,040
+around and look at the southern
+
+1066
+00:54:33,580 --> 00:54:40,990
+hemisphere and what I notice is that
+
+1067
+00:54:38,040 --> 00:54:43,510
+that's a clockwise spot over there
+
+1068
+00:54:40,990 --> 00:54:45,369
+clockwise spiral clockwise spiral these
+
+1069
+00:54:43,510 --> 00:54:47,800
+are all mid-latitude cyclones in the
+
+1070
+00:54:45,369 --> 00:54:52,690
+southern hemisphere and you can see like
+
+1071
+00:54:47,800 --> 00:54:56,080
+this one for example is bringing warm
+
+1072
+00:54:52,690 --> 00:54:58,119
+humid air from the north bringing it
+
+1073
+00:54:56,080 --> 00:55:01,900
+down and mixing it with cold
+
+1074
+00:54:58,119 --> 00:55:04,359
+drier air from the south so this is
+
+1075
+00:55:01,900 --> 00:55:05,500
+happening all the time around the
+
+1076
+00:55:04,359 --> 00:55:07,390
+Northern Hemisphere and the southern
+
+1077
+00:55:05,500 --> 00:55:10,570
+hemisphere we have these mid-latitude
+
+1078
+00:55:07,390 --> 00:55:13,450
+cyclones that travel around in a giant
+
+1079
+00:55:10,570 --> 00:55:16,930
+circle where the polar front is the
+
+1080
+00:55:13,450 --> 00:55:21,339
+thing is during our let me change I'm
+
+1081
+00:55:16,930 --> 00:55:22,990
+gonna go back here okay so now I'm
+
+1082
+00:55:21,339 --> 00:55:25,960
+looking at temperature 700 millibars
+
+1083
+00:55:22,990 --> 00:55:27,940
+again that's the polar front the storms
+
+1084
+00:55:25,960 --> 00:55:31,930
+are going to follow the polar front more
+
+1085
+00:55:27,940 --> 00:55:35,410
+or less so right now you can see that
+
+1086
+00:55:31,930 --> 00:55:38,890
+will turn the wind off you can see that
+
+1087
+00:55:35,410 --> 00:55:40,349
+the polar front time right today goes
+
+1088
+00:55:38,890 --> 00:55:43,540
+kind of right through the United States
+
+1089
+00:55:40,349 --> 00:55:45,190
+so any storms mid-latitude cyclones are
+
+1090
+00:55:43,540 --> 00:55:48,040
+going to kind of come through this way
+
+1091
+00:55:45,190 --> 00:55:51,520
+right now if we came back in the summer
+
+1092
+00:55:48,040 --> 00:55:53,859
+and we looked at it in July we would see
+
+1093
+00:55:51,520 --> 00:55:56,500
+that this pool of cold air is much
+
+1094
+00:55:53,859 --> 00:56:00,190
+smaller it'll be way up in here so let's
+
+1095
+00:55:56,500 --> 00:56:02,410
+do a demo of that real quick so here
+
+1096
+00:56:00,190 --> 00:56:06,400
+I've just changed it to look at a day in
+
+1097
+00:56:02,410 --> 00:56:08,960
+August and so you can see the pool of
+
+1098
+00:56:06,400 --> 00:56:12,109
+cold air around the North Pole ISM
+
+1099
+00:56:08,960 --> 00:56:15,560
+much smaller than it was a minute ago
+
+1100
+00:56:12,109 --> 00:56:18,859
+so there's the polar front and from our
+
+1101
+00:56:15,560 --> 00:56:21,170
+perspective it's all to the north of us
+
+1102
+00:56:18,859 --> 00:56:23,330
+sofa mid-latitude cyclone forms it's
+
+1103
+00:56:21,170 --> 00:56:26,660
+going to form along this boundary which
+
+1104
+00:56:23,330 --> 00:56:28,910
+is further to the north and we are so as
+
+1105
+00:56:26,660 --> 00:56:30,920
+far as we're concerned it doesn't exist
+
+1106
+00:56:28,910 --> 00:56:32,119
+right so if it doesn't if it doesn't
+
+1107
+00:56:30,920 --> 00:56:35,390
+happen to the United States it doesn't
+
+1108
+00:56:32,119 --> 00:56:38,270
+exist so in our winter we have
+
+1109
+00:56:35,390 --> 00:56:41,510
+mid-latitude cyclones so we say winter
+
+1110
+00:56:38,270 --> 00:56:44,180
+storms and then they move further to the
+
+1111
+00:56:41,510 --> 00:56:45,859
+north in our summer we don't notice them
+
+1112
+00:56:44,180 --> 00:56:47,900
+at all but they are still around and
+
+1113
+00:56:45,859 --> 00:56:51,380
+they're not as strong but they are up
+
+1114
+00:56:47,900 --> 00:56:53,660
+here to the north so one more thing
+
+1115
+00:56:51,380 --> 00:56:56,510
+about build latitude cyclones here I've
+
+1116
+00:56:53,660 --> 00:56:59,030
+got a storm that at first looks like a
+
+1117
+00:56:56,510 --> 00:57:01,970
+mid-latitude cyclone but when you look
+
+1118
+00:56:59,030 --> 00:57:05,830
+at it you realize it's missing that slot
+
+1119
+00:57:01,970 --> 00:57:08,450
+of cold air that we saw in the previous
+
+1120
+00:57:05,830 --> 00:57:10,430
+images and it doesn't have that
+
+1121
+00:57:08,450 --> 00:57:13,640
+characteristic comma-shaped
+
+1122
+00:57:10,430 --> 00:57:17,630
+it is more symmetrical so this is a
+
+1123
+00:57:13,640 --> 00:57:20,210
+hurricane and hurricanes are structured
+
+1124
+00:57:17,630 --> 00:57:22,880
+completely differently than mid-latitude
+
+1125
+00:57:20,210 --> 00:57:25,760
+cyclones so what they have in common is
+
+1126
+00:57:22,880 --> 00:57:28,369
+that they have Cirrus out on the edges
+
+1127
+00:57:25,760 --> 00:57:29,990
+ok that's similar and they spin
+
+1128
+00:57:28,369 --> 00:57:33,440
+counterclockwise in the northern
+
+1129
+00:57:29,990 --> 00:57:37,270
+hemisphere but they they do their thing
+
+1130
+00:57:33,440 --> 00:57:41,240
+completely differently so for one thing
+
+1131
+00:57:37,270 --> 00:57:43,099
+mid-latitude cyclone means it's not low
+
+1132
+00:57:41,240 --> 00:57:44,740
+latitudes it's not high latitudes it's
+
+1133
+00:57:43,099 --> 00:57:48,380
+in the middle
+
+1134
+00:57:44,740 --> 00:57:50,839
+hurricanes form at low latitudes ok so
+
+1135
+00:57:48,380 --> 00:57:54,349
+there's a there's a they're physically
+
+1136
+00:57:50,839 --> 00:57:59,089
+in different places on the earth let's
+
+1137
+00:57:54,349 --> 00:58:03,710
+talk about the structure of hurricanes
+
+1138
+00:57:59,089 --> 00:58:06,830
+here so here we have a hurricane cross
+
+1139
+00:58:03,710 --> 00:58:11,750
+section and you think of hurricanes as
+
+1140
+00:58:06,830 --> 00:58:15,020
+these organized bands of cumulonimbus so
+
+1141
+00:58:11,750 --> 00:58:17,750
+if this thing were the pass over you you
+
+1142
+00:58:15,020 --> 00:58:20,450
+would have a heavy rain from this band
+
+1143
+00:58:17,750 --> 00:58:22,520
+of cumulonimbus and then heavy rain from
+
+1144
+00:58:20,450 --> 00:58:24,620
+this band of cumulonimbus but in but
+
+1145
+00:58:22,520 --> 00:58:26,480
+Queen there's a little breaks I mean
+
+1146
+00:58:24,620 --> 00:58:29,270
+you're in a hurricane so break is
+
+1147
+00:58:26,480 --> 00:58:32,570
+relevant but it's the precipitation is
+
+1148
+00:58:29,270 --> 00:58:35,480
+decreased in between these now that
+
+1149
+00:58:32,570 --> 00:58:37,880
+means that air within a hurricane is
+
+1150
+00:58:35,480 --> 00:58:41,000
+going up and feeding all of these
+
+1151
+00:58:37,880 --> 00:58:44,200
+cumulonimbus towers all that air going
+
+1152
+00:58:41,000 --> 00:58:47,390
+up some of it has to come back down and
+
+1153
+00:58:44,200 --> 00:58:49,850
+a lot of it comes down through the eye
+
+1154
+00:58:47,390 --> 00:58:52,340
+so you may have heard that in the eye of
+
+1155
+00:58:49,850 --> 00:58:54,650
+a hurricane you can see the sky which is
+
+1156
+00:58:52,340 --> 00:58:58,010
+true because sinking air fights cloud
+
+1157
+00:58:54,650 --> 00:59:00,560
+formations so when this comes across
+
+1158
+00:58:58,010 --> 00:59:03,500
+you've got relatively low pressure under
+
+1159
+00:59:00,560 --> 00:59:05,780
+most of this hurricane and that kind of
+
+1160
+00:59:03,500 --> 00:59:09,230
+sucks the sea up a little bit call it a
+
+1161
+00:59:05,780 --> 00:59:11,120
+pressure driven surge then there's a
+
+1162
+00:59:09,230 --> 00:59:13,160
+bigger effect from the winds that kind
+
+1163
+00:59:11,120 --> 00:59:14,630
+of blow the ocean into a pile underneath
+
+1164
+00:59:13,160 --> 00:59:17,660
+the hurricane it's called a wind driven
+
+1165
+00:59:14,630 --> 00:59:20,000
+surge when this comes ashore this blob
+
+1166
+00:59:17,660 --> 00:59:21,920
+of water comes ashore with it and that
+
+1167
+00:59:20,000 --> 00:59:26,530
+is kind of what we refer to as the surge
+
+1168
+00:59:21,920 --> 00:59:30,530
+and it can flood the coastline now
+
+1169
+00:59:26,530 --> 00:59:32,330
+hurricanes form at low latitudes but
+
+1170
+00:59:30,530 --> 00:59:34,040
+they actually don't form right at the
+
+1171
+00:59:32,330 --> 00:59:37,940
+equator and the reason for that is
+
+1172
+00:59:34,040 --> 00:59:40,040
+because you need some Coriolis force for
+
+1173
+00:59:37,940 --> 00:59:42,440
+the thing to spin so when we were
+
+1174
+00:59:40,040 --> 00:59:44,030
+talking about Coriolis effect we didn't
+
+1175
+00:59:42,440 --> 00:59:45,680
+really talk about this I don't think but
+
+1176
+00:59:44,030 --> 00:59:48,530
+right on the equator
+
+1177
+00:59:45,680 --> 00:59:50,270
+nothing spins okay so storms don't spin
+
+1178
+00:59:48,530 --> 00:59:52,250
+at the equator you got to be a little
+
+1179
+00:59:50,270 --> 00:59:54,800
+bit north or a little bit south to get
+
+1180
+00:59:52,250 --> 00:59:57,560
+the Coriolis effect so hurricanes will
+
+1181
+00:59:54,800 --> 00:59:59,660
+spin up kind of right in around through
+
+1182
+00:59:57,560 --> 01:00:02,090
+here in our neck of the woods and then
+
+1183
+00:59:59,660 --> 01:00:04,610
+once they're formed they may drift
+
+1184
+01:00:02,090 --> 01:00:06,890
+further north and in fact they get into
+
+1185
+01:00:04,610 --> 01:00:09,830
+the area that we call the mid latitudes
+
+1186
+01:00:06,890 --> 01:00:12,500
+right so mid-latitude cyclones are up in
+
+1187
+01:00:09,830 --> 01:00:15,590
+here and occasionally a hurricane could
+
+1188
+01:00:12,500 --> 01:00:17,810
+go far enough north that it could get
+
+1189
+01:00:15,590 --> 01:00:20,270
+into that territory but hurricanes are
+
+1190
+01:00:17,810 --> 01:00:22,220
+pretty much forming pretty close to the
+
+1191
+01:00:20,270 --> 01:00:25,190
+equator a little bit north and a little
+
+1192
+01:00:22,220 --> 01:00:27,530
+bit south in this region that's red this
+
+1193
+01:00:25,190 --> 01:00:30,350
+is the area of the ocean that has the
+
+1194
+01:00:27,530 --> 01:00:33,070
+highest sea surface temperatures and so
+
+1195
+01:00:30,350 --> 01:00:35,690
+higher ocean temperatures mean more
+
+1196
+01:00:33,070 --> 01:00:36,000
+evaporation which means more dew point
+
+1197
+01:00:35,690 --> 01:00:38,040
+which
+
+1198
+01:00:36,000 --> 01:00:40,170
+means the hurricane is easier to form
+
+1199
+01:00:38,040 --> 01:00:44,310
+it's easier to form cumulonimbus when
+
+1200
+01:00:40,170 --> 01:00:45,570
+you have hot humid air okay so that's
+
+1201
+01:00:44,310 --> 01:00:48,450
+everything we're going to say about
+
+1202
+01:00:45,570 --> 01:00:50,360
+mid-latitude cyclones this time and next
+
+1203
+01:00:48,450 --> 01:00:52,890
+time we're going to get into worldwide
+
+1204
+01:00:50,360 --> 01:00:55,220
+atmospheric circulation thanks for
+
+1205
+01:00:52,890 --> 01:00:55,220
+watching
+
+1206
+01:01:02,240 --> 01:01:04,300
+you
+

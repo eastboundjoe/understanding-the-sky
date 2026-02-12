@@ -1,0 +1,4176 @@
+1
+00:00:03,070 --> 00:00:10,590
+[Music]
+
+2
+00:00:07,580 --> 00:00:13,950
+hey this is Mel strong and this lecture
+
+3
+00:00:10,590 --> 00:00:16,740
+is on the carbon cycle and more about
+
+4
+00:00:13,950 --> 00:00:18,330
+greenhouse gases so this is a
+
+5
+00:00:16,740 --> 00:00:20,490
+continuation of the greenhouse gas
+
+6
+00:00:18,330 --> 00:00:23,550
+lecture so if you haven't watched that
+
+7
+00:00:20,490 --> 00:00:26,070
+watch that one first and one of the
+
+8
+00:00:23,550 --> 00:00:31,349
+things I'm going to be doing is talking
+
+9
+00:00:26,070 --> 00:00:32,940
+about how carbon moves around in
+
+10
+00:00:31,349 --> 00:00:36,360
+different reservoirs around the earth
+
+11
+00:00:32,940 --> 00:00:38,820
+and so I'm gonna use some illustrations
+
+12
+00:00:36,360 --> 00:00:40,440
+that I made that are on my website or on
+
+13
+00:00:38,820 --> 00:00:43,260
+the learn if you're one of my students
+
+14
+00:00:40,440 --> 00:00:45,360
+and I'm going to illustrate them feel
+
+15
+00:00:43,260 --> 00:00:50,309
+free to print yours out and illustrate
+
+16
+00:00:45,360 --> 00:00:51,840
+it the same way we talked about how last
+
+17
+00:00:50,309 --> 00:00:54,449
+time the last lecture that there are
+
+18
+00:00:51,840 --> 00:00:56,039
+several greenhouse gases there's a bunch
+
+19
+00:00:54,449 --> 00:00:58,800
+of greenhouse gases and some of them are
+
+20
+00:00:56,039 --> 00:01:02,039
+really strong but of all the ones that
+
+21
+00:00:58,800 --> 00:01:04,080
+we worry about co2 is the number one gas
+
+22
+00:01:02,039 --> 00:01:07,229
+that we're concerned about just because
+
+23
+00:01:04,080 --> 00:01:11,220
+as humans reproduce more co2 than
+
+24
+00:01:07,229 --> 00:01:12,630
+anything else by far okay and so we
+
+25
+00:01:11,220 --> 00:01:15,659
+worry about methane we worry about
+
+26
+00:01:12,630 --> 00:01:18,360
+nitrous oxide but we really worry about
+
+27
+00:01:15,659 --> 00:01:20,490
+carbon dioxide because we just invent so
+
+28
+00:01:18,360 --> 00:01:24,600
+much of it so that's what this lecture
+
+29
+00:01:20,490 --> 00:01:29,340
+is about it's a mostly about co2 and so
+
+30
+00:01:24,600 --> 00:01:33,540
+we talked about where the co2 is and in
+
+31
+00:01:29,340 --> 00:01:37,320
+the atmosphere it's in the form co2 but
+
+32
+00:01:33,540 --> 00:01:39,840
+it can actually that co2 molecule can
+
+33
+00:01:37,320 --> 00:01:42,750
+can move to different locations like
+
+34
+00:01:39,840 --> 00:01:47,159
+maybe the ocean or maybe in a plant and
+
+35
+00:01:42,750 --> 00:01:50,790
+it's no longer in the form of co2 it can
+
+36
+00:01:47,159 --> 00:01:54,060
+change to a different molecule so we
+
+37
+00:01:50,790 --> 00:01:55,939
+keep track of the carbon part of the co2
+
+38
+00:01:54,060 --> 00:01:58,500
+so we talked about the carbon cycle
+
+39
+00:01:55,939 --> 00:02:00,979
+ultimately what we're trying to get at
+
+40
+00:01:58,500 --> 00:02:02,880
+is that co2 is in the atmosphere and
+
+41
+00:02:00,979 --> 00:02:04,500
+something is putting it into the
+
+42
+00:02:02,880 --> 00:02:06,149
+atmosphere something is removing it from
+
+43
+00:02:04,500 --> 00:02:08,429
+the atmosphere and it's being stored
+
+44
+00:02:06,149 --> 00:02:11,129
+somewhere but it's not necessarily
+
+45
+00:02:08,429 --> 00:02:13,740
+always in the form of co2 it could be
+
+46
+00:02:11,129 --> 00:02:17,640
+some other carbon molecule
+
+47
+00:02:13,740 --> 00:02:18,660
+okay so to start out with we're going to
+
+48
+00:02:17,640 --> 00:02:27,000
+talk about something called the
+
+49
+00:02:18,660 --> 00:02:29,700
+reservoirs of carbon okay this is where
+
+50
+00:02:27,000 --> 00:02:32,670
+the carbon is okay where is it being
+
+51
+00:02:29,700 --> 00:02:37,830
+stored around Earth and I'm going to use
+
+52
+00:02:32,670 --> 00:02:40,350
+a unit here called the teragrams and we
+
+53
+00:02:37,830 --> 00:02:45,420
+abbreviate it as TG oops
+
+54
+00:02:40,350 --> 00:02:50,220
+okay a teragrams one teragrams is one
+
+55
+00:02:45,420 --> 00:02:51,900
+times ten to the twelfth grams and what
+
+56
+00:02:50,220 --> 00:02:54,630
+that would mean is you'd have to move
+
+57
+00:02:51,900 --> 00:02:57,810
+the decimal over twelve places so for
+
+58
+00:02:54,630 --> 00:03:00,180
+example if I had three teragrams that's
+
+59
+00:02:57,810 --> 00:03:03,750
+the same thing as three times ten to the
+
+60
+00:03:00,180 --> 00:03:07,500
+twelve grams which is the same thing as
+
+61
+00:03:03,750 --> 00:03:11,840
+three one two three four five six seven
+
+62
+00:03:07,500 --> 00:03:15,330
+eight nine ten eleven twelve zeros right
+
+63
+00:03:11,840 --> 00:03:18,150
+put some commas in there and the thing
+
+64
+00:03:15,330 --> 00:03:20,460
+is this is such a giant number like you
+
+65
+00:03:18,150 --> 00:03:22,620
+can't really wrap your mind around what
+
+66
+00:03:20,460 --> 00:03:24,450
+that even means and it doesn't matter
+
+67
+00:03:22,620 --> 00:03:26,580
+because the point of doing this is to
+
+68
+00:03:24,450 --> 00:03:29,250
+show relative sizes of which cart which
+
+69
+00:03:26,580 --> 00:03:30,480
+reservoirs are bigger and smaller but
+
+70
+00:03:29,250 --> 00:03:32,400
+they're going to be in this unit of
+
+71
+00:03:30,480 --> 00:03:34,620
+teragrams so for the numbers we're going
+
+72
+00:03:32,400 --> 00:03:36,270
+to write down remember just add twelve
+
+73
+00:03:34,620 --> 00:03:41,010
+zeros to everything if you wanted to
+
+74
+00:03:36,270 --> 00:03:43,110
+write out the number okay so the carbon
+
+75
+00:03:41,010 --> 00:03:45,390
+we are concerned about is the carbon in
+
+76
+00:03:43,110 --> 00:03:50,360
+the atmosphere and it's in the form of
+
+77
+00:03:45,390 --> 00:03:57,660
+co2 and that number is currently about
+
+78
+00:03:50,360 --> 00:04:00,930
+829 teragrams okay now by comparison if
+
+79
+00:03:57,660 --> 00:04:02,730
+you added up all the carbon of all of
+
+80
+00:04:00,930 --> 00:04:07,830
+the plants in the world
+
+81
+00:04:02,730 --> 00:04:10,890
+you get about 600 teragrams
+
+82
+00:04:07,830 --> 00:04:13,080
+okay so these are if you look these
+
+83
+00:04:10,890 --> 00:04:14,640
+numbers up you'll get slight variations
+
+84
+00:04:13,080 --> 00:04:16,520
+on this so these are kind of mutually
+
+85
+00:04:14,640 --> 00:04:20,310
+agreed-upon numbers more or less right
+
+86
+00:04:16,520 --> 00:04:22,919
+okay then in the soil because soil
+
+87
+00:04:20,310 --> 00:04:24,790
+there's a lot of living and dead organic
+
+88
+00:04:22,919 --> 00:04:26,980
+material in the soil and that
+
+89
+00:04:24,790 --> 00:04:33,690
+a lot of carbon in it soil is about
+
+90
+00:04:26,980 --> 00:04:37,650
+2,000 teragrams okay now the ocean
+
+91
+00:04:33,690 --> 00:04:41,080
+there's a lot of carbon in the ocean and
+
+92
+00:04:37,650 --> 00:04:50,860
+it can be in a couple forms it could be
+
+93
+00:04:41,080 --> 00:04:53,010
+in the form of dissolved gases so what
+
+94
+00:04:50,860 --> 00:04:56,590
+that means is anytime you have gas
+
+95
+00:04:53,010 --> 00:04:59,020
+sitting above liquid there is exchange
+
+96
+00:04:56,590 --> 00:05:01,630
+between the two so there's co2 dissolved
+
+97
+00:04:59,020 --> 00:05:04,150
+in the ocean just like co2 is dissolved
+
+98
+00:05:01,630 --> 00:05:06,580
+say in a soda okay so some of it is in
+
+99
+00:05:04,150 --> 00:05:10,210
+the form of that some of it is in the
+
+100
+00:05:06,580 --> 00:05:13,840
+form of organic matter so in other words
+
+101
+00:05:10,210 --> 00:05:18,190
+anything living in the ocean so dead or
+
+102
+00:05:13,840 --> 00:05:20,020
+alive it's got carbon in it okay so add
+
+103
+00:05:18,190 --> 00:05:25,000
+it all up you get about thirty eight
+
+104
+00:05:20,020 --> 00:05:26,740
+thousand tera grams of carbon in the
+
+105
+00:05:25,000 --> 00:05:29,470
+ocean now notice so far that that
+
+106
+00:05:26,740 --> 00:05:31,420
+reservoir is so much bigger than
+
+107
+00:05:29,470 --> 00:05:34,030
+anything else we've written up here okay
+
+108
+00:05:31,420 --> 00:05:39,070
+that's just gigantic okay so there's a
+
+109
+00:05:34,030 --> 00:05:42,490
+lot of carbon in the ocean now this
+
+110
+00:05:39,070 --> 00:05:44,860
+diagram I have I made here shows
+
+111
+00:05:42,490 --> 00:05:47,860
+carbonate rocks down here what does
+
+112
+00:05:44,860 --> 00:05:51,310
+carbonate rocks carbonate a lot of times
+
+113
+00:05:47,860 --> 00:05:55,450
+we have this compound called calcium
+
+114
+00:05:51,310 --> 00:05:58,750
+carbonate and a lot of organisms have
+
+115
+00:05:55,450 --> 00:06:01,360
+this in their shell so if you find a sea
+
+116
+00:05:58,750 --> 00:06:03,010
+shell a clam shell for example it's
+
+117
+00:06:01,360 --> 00:06:05,170
+going to be some version of calcium
+
+118
+00:06:03,010 --> 00:06:07,780
+carbonate and there's that carbon that's
+
+119
+00:06:05,170 --> 00:06:09,790
+in this molecule well when that animal
+
+120
+00:06:07,780 --> 00:06:13,030
+dies sinks to the bottom of the ocean
+
+121
+00:06:09,790 --> 00:06:16,030
+gets buried that carbon is now buried in
+
+122
+00:06:13,030 --> 00:06:18,400
+this what we call carbonate rocks a lot
+
+123
+00:06:16,030 --> 00:06:20,350
+of it is microscopic organisms that you
+
+124
+00:06:18,400 --> 00:06:22,360
+actually can't see these are little
+
+125
+00:06:20,350 --> 00:06:24,310
+microscopic plankton that foot in the
+
+126
+00:06:22,360 --> 00:06:25,900
+ocean they have calcium carbonate
+
+127
+00:06:24,310 --> 00:06:27,790
+skeletons even though they're
+
+128
+00:06:25,900 --> 00:06:29,680
+single-celled microscopic organisms and
+
+129
+00:06:27,790 --> 00:06:32,740
+they they die they settle at the bottom
+
+130
+00:06:29,680 --> 00:06:35,110
+they make this this carbonate mud that
+
+131
+00:06:32,740 --> 00:06:37,750
+gets buried and so a lot of carbon ends
+
+132
+00:06:35,110 --> 00:06:38,139
+up getting buried in these carbonate
+
+133
+00:06:37,750 --> 00:06:39,460
+rock
+
+134
+00:06:38,139 --> 00:06:41,680
+now here's the kind of the confusing
+
+135
+00:06:39,460 --> 00:06:44,199
+thing is that a lot of these carbonate
+
+136
+00:06:41,680 --> 00:06:46,300
+rocks are no longer in the ocean because
+
+137
+00:06:44,199 --> 00:06:47,860
+they're spread all over the planet on
+
+138
+00:06:46,300 --> 00:06:50,289
+different continents where the ocean
+
+139
+00:06:47,860 --> 00:06:51,849
+used to be so we don't have time to go
+
+140
+00:06:50,289 --> 00:06:55,120
+through the geologic history of all this
+
+141
+00:06:51,849 --> 00:06:56,560
+but there are many times in geologic
+
+142
+00:06:55,120 --> 00:06:58,659
+history where for example the United
+
+143
+00:06:56,560 --> 00:07:03,340
+States was covered in a shallow sea and
+
+144
+00:06:58,659 --> 00:07:05,319
+so we have lots of carbonate rocks all
+
+145
+00:07:03,340 --> 00:07:07,840
+over the country all over the world that
+
+146
+00:07:05,319 --> 00:07:09,669
+are not in the ocean anymore even though
+
+147
+00:07:07,840 --> 00:07:12,009
+they used to be in the ocean so if you
+
+148
+00:07:09,669 --> 00:07:13,449
+live around Albuquerque you look up at
+
+149
+00:07:12,009 --> 00:07:15,520
+the Sandia's you see these little
+
+150
+00:07:13,449 --> 00:07:18,370
+horizontal stripes at the top those are
+
+151
+00:07:15,520 --> 00:07:20,169
+carbonate rocks those used to be at the
+
+152
+00:07:18,370 --> 00:07:22,840
+bottom of the ocean the ocean wasn't up
+
+153
+00:07:20,169 --> 00:07:26,800
+there those rocks were down below sea
+
+154
+00:07:22,840 --> 00:07:28,479
+level at one point okay add up all the
+
+155
+00:07:26,800 --> 00:07:33,419
+carbon and all the carbonate rocks in
+
+156
+00:07:28,479 --> 00:07:38,889
+the world and you get a pretty gigantic
+
+157
+00:07:33,419 --> 00:07:42,849
+number about 80 million teragrams okay
+
+158
+00:07:38,889 --> 00:07:46,389
+so so that number Dwarfs the one we just
+
+159
+00:07:42,849 --> 00:07:48,400
+wrote so most of the carbon in the world
+
+160
+00:07:46,389 --> 00:07:50,800
+is tied up in these rocks which again
+
+161
+00:07:48,400 --> 00:07:53,080
+started out in the ocean but they may no
+
+162
+00:07:50,800 --> 00:07:56,339
+longer be there and then the number two
+
+163
+00:07:53,080 --> 00:08:02,139
+reservoir is carbon in the ocean itself
+
+164
+00:07:56,339 --> 00:08:04,990
+now we also have in my picture here we
+
+165
+00:08:02,139 --> 00:08:08,289
+get fossil fuels right and so we can
+
+166
+00:08:04,990 --> 00:08:18,990
+break that up into let's see here we got
+
+167
+00:08:08,289 --> 00:08:25,060
+coal it's about 3500 oil about 230
+
+168
+00:08:18,990 --> 00:08:29,589
+natural gas about 140 and other forms of
+
+169
+00:08:25,060 --> 00:08:32,979
+fossil fuels about 250 and you add this
+
+170
+00:08:29,589 --> 00:08:38,320
+all up and you end up with greater than
+
+171
+00:08:32,979 --> 00:08:41,079
+about 4100 teragrams okay so let's
+
+172
+00:08:38,320 --> 00:08:42,519
+compare these numbers by far biggest you
+
+173
+00:08:41,079 --> 00:08:44,199
+know by far by far our biggest in the
+
+174
+00:08:42,519 --> 00:08:46,060
+rocks but let's just leave those aside
+
+175
+00:08:44,199 --> 00:08:49,060
+for the moment because that carbon is
+
+176
+00:08:46,060 --> 00:08:52,020
+pretty much stuck there the carbon in
+
+177
+00:08:49,060 --> 00:08:54,690
+the ocean is the biggest reservoir by
+
+178
+00:08:52,020 --> 00:08:56,490
+are the carbon in the atmosphere is the
+
+179
+00:08:54,690 --> 00:08:58,190
+one we worry about the most because this
+
+180
+00:08:56,490 --> 00:09:02,850
+is related to the greenhouse effect
+
+181
+00:08:58,190 --> 00:09:05,220
+notice how much carbon there is stored
+
+182
+00:09:02,850 --> 00:09:06,810
+up in fossil fuels compared to the
+
+183
+00:09:05,220 --> 00:09:09,630
+amount that's already in the atmosphere
+
+184
+00:09:06,810 --> 00:09:12,150
+right so there's way more waiting
+
+185
+00:09:09,630 --> 00:09:16,160
+underground that we as humans could
+
+186
+00:09:12,150 --> 00:09:18,630
+potentially burn and use and turn into
+
+187
+00:09:16,160 --> 00:09:23,670
+the atmosphere right turn into
+
+188
+00:09:18,630 --> 00:09:26,430
+atmospheric carbon okay so this is sort
+
+189
+00:09:23,670 --> 00:09:29,610
+of a simplified look at the reservoirs
+
+190
+00:09:26,430 --> 00:09:31,680
+where the carbon actually is I'm going
+
+191
+00:09:29,610 --> 00:09:33,170
+to start with another diagram just like
+
+192
+00:09:31,680 --> 00:09:36,440
+this and we're going to talk about
+
+193
+00:09:33,170 --> 00:09:40,620
+processes that are going going on here
+
+194
+00:09:36,440 --> 00:09:46,080
+okay so for this next diagram we're
+
+195
+00:09:40,620 --> 00:09:47,670
+going to do something about fluxes okay
+
+196
+00:09:46,080 --> 00:09:51,060
+and a fox
+
+197
+00:09:47,670 --> 00:09:57,650
+in this case fox is something that's in
+
+198
+00:09:51,060 --> 00:10:03,960
+motion foxes in this case is carbon
+
+199
+00:09:57,650 --> 00:10:07,140
+moving between reservoirs okay so the
+
+200
+00:10:03,960 --> 00:10:08,970
+last one was reservoirs where is the
+
+201
+00:10:07,140 --> 00:10:11,340
+carbon being stored now we're looking at
+
+202
+00:10:08,970 --> 00:10:12,690
+how is the carbon being moved back and
+
+203
+00:10:11,340 --> 00:10:17,150
+forth between some of these reservoirs
+
+204
+00:10:12,690 --> 00:10:20,340
+and that's off what a fox is okay so
+
+205
+00:10:17,150 --> 00:10:25,280
+we'll start with some that you probably
+
+206
+00:10:20,340 --> 00:10:30,330
+already know so you learn for example
+
+207
+00:10:25,280 --> 00:10:36,480
+back in your days in biology about
+
+208
+00:10:30,330 --> 00:10:39,090
+photosynthesis okay
+
+209
+00:10:36,480 --> 00:10:41,300
+so the general formula for
+
+210
+00:10:39,090 --> 00:10:45,390
+photosynthesis the general reaction is
+
+211
+00:10:41,300 --> 00:10:50,280
+plants take co2 and they take water and
+
+212
+00:10:45,390 --> 00:10:53,280
+they take light and they produce glucose
+
+213
+00:10:50,280 --> 00:10:57,090
+and oxygen right this is what
+
+214
+00:10:53,280 --> 00:10:59,100
+photosynthesis is all about this glucose
+
+215
+00:10:57,090 --> 00:11:01,170
+molecule if I were to if I were to write
+
+216
+00:10:59,100 --> 00:11:04,710
+this out and balance it the way that a
+
+217
+00:11:01,170 --> 00:11:05,820
+chemist would like I would have six co
+
+218
+00:11:04,710 --> 00:11:18,210
+twos
+
+219
+00:11:05,820 --> 00:11:20,850
+six waters and then I have this glucose
+
+220
+00:11:18,210 --> 00:11:24,660
+molecule six oxygens okay so the six is
+
+221
+00:11:20,850 --> 00:11:28,380
+just that's just to balance it when we
+
+222
+00:11:24,660 --> 00:11:30,180
+talk about the carbon cycle I said
+
+223
+00:11:28,380 --> 00:11:32,910
+earlier that we're following carbon
+
+224
+00:11:30,180 --> 00:11:35,190
+around and we're worried about co2 in
+
+225
+00:11:32,910 --> 00:11:38,070
+the atmosphere but it can change its
+
+226
+00:11:35,190 --> 00:11:39,750
+form and be in other molecules other
+
+227
+00:11:38,070 --> 00:11:43,200
+than co2 so here's an example what I
+
+228
+00:11:39,750 --> 00:11:47,310
+mean by that the carbon was in the
+
+229
+00:11:43,200 --> 00:11:52,800
+atmosphere as co2 okay and then the
+
+230
+00:11:47,310 --> 00:11:56,550
+plant puts it into plants tough plant
+
+231
+00:11:52,800 --> 00:12:00,920
+matter glucose our carbon just changed
+
+232
+00:11:56,550 --> 00:12:00,920
+reservoirs it went from the atmosphere
+
+233
+00:12:01,730 --> 00:12:10,380
+to the plant right so that's a flux
+
+234
+00:12:08,520 --> 00:12:15,450
+we're taking out of the atmosphere we're
+
+235
+00:12:10,380 --> 00:12:18,240
+putting it into some biomass okay so as
+
+236
+00:12:15,450 --> 00:12:21,510
+long as a plant is photosynthesizing
+
+237
+00:12:18,240 --> 00:12:24,060
+during the day it's removing co2 out of
+
+238
+00:12:21,510 --> 00:12:31,830
+the atmosphere okay so what I'm going to
+
+239
+00:12:24,060 --> 00:12:34,650
+do is draw these fluxes and different
+
+240
+00:12:31,830 --> 00:12:37,800
+colors so vegetation I'm going to draw
+
+241
+00:12:34,650 --> 00:12:40,950
+with a green arrow and what's coming in
+
+242
+00:12:37,800 --> 00:12:45,180
+from photosynthesis is about a hundred
+
+243
+00:12:40,950 --> 00:12:53,690
+and twenty three tera grams per year
+
+244
+00:12:45,180 --> 00:12:57,960
+okay so this is photosynthesis okay now
+
+245
+00:12:53,690 --> 00:13:04,110
+the plant continues to live when the Sun
+
+246
+00:12:57,960 --> 00:13:07,980
+is is is not up because plants like us
+
+247
+00:13:04,110 --> 00:13:10,290
+have to respire so even though they are
+
+248
+00:13:07,980 --> 00:13:12,540
+producing oxygen during the day and
+
+249
+00:13:10,290 --> 00:13:14,240
+they're using up so you know that point
+
+250
+00:13:12,540 --> 00:13:16,920
+co2 out of the atmosphere during the day
+
+251
+00:13:14,240 --> 00:13:19,290
+there's a secondary process that's going
+
+252
+00:13:16,920 --> 00:13:21,690
+on twenty-four hours a day and it
+
+253
+00:13:19,290 --> 00:13:23,070
+it only goes on it's the only process
+
+254
+00:13:21,690 --> 00:13:24,509
+that goes on during the night but the
+
+255
+00:13:23,070 --> 00:13:26,940
+punts are doing it 24 hours a day and
+
+256
+00:13:24,509 --> 00:13:28,589
+it's called respiration respiration is
+
+257
+00:13:26,940 --> 00:13:30,889
+what we would call breathing okay we're
+
+258
+00:13:28,589 --> 00:13:33,990
+breathing in oxygen for letting us co2
+
+259
+00:13:30,889 --> 00:13:36,930
+deaths respiration we do it animals do
+
+260
+00:13:33,990 --> 00:13:41,130
+it plants do it and and so if we write
+
+261
+00:13:36,930 --> 00:13:44,370
+out that formula for respiration it's
+
+262
+00:13:41,130 --> 00:13:50,880
+basically the opposite of what we just
+
+263
+00:13:44,370 --> 00:13:59,910
+wrote for photosynthesis okay so we
+
+264
+00:13:50,880 --> 00:14:04,050
+would have the glucose plus oxygen we'll
+
+265
+00:13:59,910 --> 00:14:07,529
+get some heat out of this reaction some
+
+266
+00:14:04,050 --> 00:14:10,319
+co2 and some in some some water vapor
+
+267
+00:14:07,529 --> 00:14:14,639
+and and so now what's happening is the
+
+268
+00:14:10,319 --> 00:14:17,730
+carbon that is in the glucose is being
+
+269
+00:14:14,639 --> 00:14:19,800
+transferred back into the carbon that's
+
+270
+00:14:17,730 --> 00:14:23,699
+now in the air right so this is this was
+
+271
+00:14:19,800 --> 00:14:27,260
+in the plant this is in the air this is
+
+272
+00:14:23,699 --> 00:14:31,410
+in the air okay this is in the air right
+
+273
+00:14:27,260 --> 00:14:34,079
+so photosynthesis we take the carbon out
+
+274
+00:14:31,410 --> 00:14:35,670
+we put it into glucose respiration we
+
+275
+00:14:34,079 --> 00:14:36,839
+take the carbon out of the glucose we
+
+276
+00:14:35,670 --> 00:14:40,620
+put it back in the air it's basically
+
+277
+00:14:36,839 --> 00:14:43,260
+backwards now we're doing the same thing
+
+278
+00:14:40,620 --> 00:14:45,360
+even though we're not plants we are
+
+279
+00:14:43,260 --> 00:14:50,310
+still taking a carbon from glucose and
+
+280
+00:14:45,360 --> 00:14:52,620
+we are exhaling co2 all right okay so
+
+281
+00:14:50,310 --> 00:14:56,459
+but just to focus on plants for a second
+
+282
+00:14:52,620 --> 00:14:58,260
+so what that means is there is this for
+
+283
+00:14:56,459 --> 00:15:00,120
+the synthesis that's removing carbon
+
+284
+00:14:58,260 --> 00:15:09,449
+from the air but then there's
+
+285
+00:15:00,120 --> 00:15:13,790
+respiration that is putting it back so
+
+286
+00:15:09,449 --> 00:15:18,089
+this is plant respiration
+
+287
+00:15:13,790 --> 00:15:21,269
+okay so 50 teragrams is going back out
+
+288
+00:15:18,089 --> 00:15:22,920
+into the atmosphere so the net that
+
+289
+00:15:21,269 --> 00:15:26,160
+plants are doing here is there is
+
+290
+00:15:22,920 --> 00:15:29,040
+they're bringing in more carbon than
+
+291
+00:15:26,160 --> 00:15:32,069
+they are producing as long as the plant
+
+292
+00:15:29,040 --> 00:15:32,880
+is it's growing so this is a worldwide
+
+293
+00:15:32,069 --> 00:15:37,230
+average for all
+
+294
+00:15:32,880 --> 00:15:40,740
+the vegetation on earth okay okay
+
+295
+00:15:37,230 --> 00:15:44,670
+now speaking of respiration down here in
+
+296
+00:15:40,740 --> 00:15:46,560
+the soil there is a lot of things that
+
+297
+00:15:44,670 --> 00:15:48,870
+are living in the soil I mean have the
+
+298
+00:15:46,560 --> 00:15:51,270
+root systems are respiring you get
+
+299
+00:15:48,870 --> 00:15:54,090
+microorganisms that are respiring so
+
+300
+00:15:51,270 --> 00:15:57,120
+there's respiration going on in the soil
+
+301
+00:15:54,090 --> 00:16:00,120
+and that is contributing carbon to the
+
+302
+00:15:57,120 --> 00:16:06,000
+atmosphere as well so I'll use a purple
+
+303
+00:16:00,120 --> 00:16:14,550
+color here and that is about 70 point
+
+304
+00:16:06,000 --> 00:16:19,250
+for teragrams per year also so let me
+
+305
+00:16:14,550 --> 00:16:19,250
+just put down soil this is respiration
+
+306
+00:16:19,910 --> 00:16:30,540
+and fire so fire is the same reaction
+
+307
+00:16:25,710 --> 00:16:34,200
+this is also the same reaction for fire
+
+308
+00:16:30,540 --> 00:16:35,670
+except fire it happens faster but when
+
+309
+00:16:34,200 --> 00:16:38,250
+you're burning a plant you're taking the
+
+310
+00:16:35,670 --> 00:16:41,430
+carbon from the plant matter reacting
+
+311
+00:16:38,250 --> 00:16:44,760
+with oxygen getting co2 and water vapor
+
+312
+00:16:41,430 --> 00:16:46,530
+okay so respiration and fire is the same
+
+313
+00:16:44,760 --> 00:16:49,170
+reaction just respiration as slow fire
+
+314
+00:16:46,530 --> 00:16:50,940
+is really fast so if you take all of the
+
+315
+00:16:49,170 --> 00:16:52,710
+naturally-occurring respiration in the
+
+316
+00:16:50,940 --> 00:16:55,110
+soil and all the naturally occuring fire
+
+317
+00:16:52,710 --> 00:16:57,210
+you get about 70 point four teragrams
+
+318
+00:16:55,110 --> 00:17:00,900
+per year going out back into the
+
+319
+00:16:57,210 --> 00:17:02,460
+atmosphere well now you've got I've got
+
+320
+00:17:00,900 --> 00:17:06,949
+a little farmer here and I can't fire
+
+321
+00:17:02,460 --> 00:17:10,230
+and whatnot and this is to simulate what
+
+322
+00:17:06,949 --> 00:17:15,060
+humans do we call this a land-use right
+
+323
+00:17:10,230 --> 00:17:17,819
+so if we cut down trees we put up a
+
+324
+00:17:15,060 --> 00:17:21,270
+parking lot we build houses we make
+
+325
+00:17:17,819 --> 00:17:23,579
+roads we pile fields we burn things down
+
+326
+00:17:21,270 --> 00:17:29,430
+that's collectively called the land-use
+
+327
+00:17:23,579 --> 00:17:30,870
+okay and land-use there's actually we
+
+328
+00:17:29,430 --> 00:17:32,940
+could break it down further like if I'm
+
+329
+00:17:30,870 --> 00:17:35,400
+a farmer and I and that plant crops
+
+330
+00:17:32,940 --> 00:17:38,790
+those crops we'll pull down the co2 out
+
+331
+00:17:35,400 --> 00:17:41,490
+of the atmosphere but when I take
+
+332
+00:17:38,790 --> 00:17:43,770
+everything to an account so the planting
+
+333
+00:17:41,490 --> 00:17:46,230
+of things plus the burning of things
+
+334
+00:17:43,770 --> 00:17:52,860
+well you know all of that combined
+
+335
+00:17:46,230 --> 00:17:57,630
+it turns out that we add about 1.1 tera
+
+336
+00:17:52,860 --> 00:18:07,230
+grams per year and this is called land
+
+337
+00:17:57,630 --> 00:18:09,299
+use okay land use all right we will come
+
+338
+00:18:07,230 --> 00:18:11,820
+back to this in a second let's talk
+
+339
+00:18:09,299 --> 00:18:15,120
+about the ocean so one of the things I
+
+340
+00:18:11,820 --> 00:18:17,880
+said about the ocean a minute ago is
+
+341
+00:18:15,120 --> 00:18:22,790
+that there is gases that are going both
+
+342
+00:18:17,880 --> 00:18:27,960
+directions in the ocean so you have
+
+343
+00:18:22,790 --> 00:18:34,230
+gases going into the ocean and you have
+
+344
+00:18:27,960 --> 00:18:47,520
+gases leaving the ocean so I'm gonna
+
+345
+00:18:34,230 --> 00:18:50,280
+call this gas exchange and so you have
+
+346
+00:18:47,520 --> 00:18:54,270
+the you have the experience that if you
+
+347
+00:18:50,280 --> 00:18:57,150
+take say a soda and you twist the top
+
+348
+00:18:54,270 --> 00:18:58,799
+and then see what two comes bubbling out
+
+349
+00:18:57,150 --> 00:19:01,919
+right that co2 is dissolved into the
+
+350
+00:18:58,799 --> 00:19:03,600
+liquid right so you can take gases and
+
+351
+00:19:01,919 --> 00:19:05,880
+you can dissolve them into liquids and
+
+352
+00:19:03,600 --> 00:19:08,429
+in or pour glass water
+
+353
+00:19:05,880 --> 00:19:10,140
+set it down come back the next day
+
+354
+00:19:08,429 --> 00:19:12,540
+you'll see little bubbles on the inside
+
+355
+00:19:10,140 --> 00:19:16,500
+right that's gas that is coming back out
+
+356
+00:19:12,540 --> 00:19:18,299
+of the liquid so this is happening with
+
+357
+00:19:16,500 --> 00:19:20,130
+the ocean there's gas going into the
+
+358
+00:19:18,299 --> 00:19:23,880
+ocean and there's gas coming back out of
+
+359
+00:19:20,130 --> 00:19:29,790
+the ocean and what's going into the
+
+360
+00:19:23,880 --> 00:19:33,380
+ocean is about 92.3 teragrams per year
+
+361
+00:19:29,790 --> 00:19:39,059
+and what's leaving the ocean is about 90
+
+362
+00:19:33,380 --> 00:19:42,090
+tera grams per year okay so there's a
+
+363
+00:19:39,059 --> 00:19:44,640
+little there's a little more going in
+
+364
+00:19:42,090 --> 00:19:49,100
+and there is coming back out and we'll
+
+365
+00:19:44,640 --> 00:19:54,650
+come back to that in a minute and then
+
+366
+00:19:49,100 --> 00:19:57,960
+finally we have our fossil fuels here as
+
+367
+00:19:54,650 --> 00:19:59,850
+we burn fossil fuels - like we said in
+
+368
+00:19:57,960 --> 00:20:04,789
+the last lecture mostly generate
+
+369
+00:19:59,850 --> 00:20:09,600
+electricity transportation we are adding
+
+370
+00:20:04,789 --> 00:20:17,880
+about 7.8 teragrams
+
+371
+00:20:09,600 --> 00:20:22,100
+per year okay all right so we talk about
+
+372
+00:20:17,880 --> 00:20:26,640
+sources and sinks what does that mean
+
+373
+00:20:22,100 --> 00:20:29,490
+sources is where we're adding co2 to the
+
+374
+00:20:26,640 --> 00:20:31,470
+atmosphere that's a source a sink means
+
+375
+00:20:29,490 --> 00:20:34,590
+we're taking it and we're putting it
+
+376
+00:20:31,470 --> 00:20:37,799
+away somewhere underground or in Iraq or
+
+377
+00:20:34,590 --> 00:20:40,500
+in a plant and that's a sink okay so
+
+378
+00:20:37,799 --> 00:20:43,890
+we've got sources and sinks all right
+
+379
+00:20:40,500 --> 00:20:45,659
+going each direction so if we and by the
+
+380
+00:20:43,890 --> 00:20:47,520
+way this is simplified there are there
+
+381
+00:20:45,659 --> 00:20:49,789
+are many other smaller ones I'm just
+
+382
+00:20:47,520 --> 00:20:52,770
+trying to paint the big picture here so
+
+383
+00:20:49,789 --> 00:20:55,530
+the next diagram is going to be what is
+
+384
+00:20:52,770 --> 00:21:01,669
+the net result what is the net result of
+
+385
+00:20:55,530 --> 00:21:05,429
+all of this all right so for this one
+
+386
+00:21:01,669 --> 00:21:09,750
+we're looking at the result of the
+
+387
+00:21:05,429 --> 00:21:12,090
+previous previous diagram of fluxes so
+
+388
+00:21:09,750 --> 00:21:15,510
+if I take all those foxes the sources
+
+389
+00:21:12,090 --> 00:21:18,870
+and the sinks and I do the math and we
+
+390
+00:21:15,510 --> 00:21:26,039
+see where ultimately are the changes
+
+391
+00:21:18,870 --> 00:21:31,230
+occurring overall every year there's
+
+392
+00:21:26,039 --> 00:21:35,250
+about 2.6 tera grams of carbon going
+
+393
+00:21:31,230 --> 00:21:37,470
+into the world's vegetation okay so
+
+394
+00:21:35,250 --> 00:21:41,100
+every year that goes by we're adding
+
+395
+00:21:37,470 --> 00:21:45,620
+more carbon to the world's forests to
+
+396
+00:21:41,100 --> 00:21:49,890
+our farms anything that's growing okay
+
+397
+00:21:45,620 --> 00:21:52,020
+now if you remember from West's from so
+
+398
+00:21:49,890 --> 00:21:54,390
+just a minute ago we were looking at the
+
+399
+00:21:52,020 --> 00:21:57,030
+last diagram we had over here that there
+
+400
+00:21:54,390 --> 00:22:02,270
+was two arrows going up and down from
+
+401
+00:21:57,030 --> 00:22:08,520
+the ocean and the net is that there is
+
+402
+00:22:02,270 --> 00:22:10,500
+about 2.3 tera grams per year going into
+
+403
+00:22:08,520 --> 00:22:12,330
+the ocean all right so there's gas
+
+404
+00:22:10,500 --> 00:22:13,380
+exchange some goes that some goes into
+
+405
+00:22:12,330 --> 00:22:15,000
+the ocean some
+
+406
+00:22:13,380 --> 00:22:16,440
+out of the ocean but there's a little
+
+407
+00:22:15,000 --> 00:22:19,350
+more going in than there is coming out
+
+408
+00:22:16,440 --> 00:22:23,220
+and so the net is that 2.3 teragrams per
+
+409
+00:22:19,350 --> 00:22:25,380
+year are going into the ocean we'll talk
+
+410
+00:22:23,220 --> 00:22:37,980
+more about that in a second and then the
+
+411
+00:22:25,380 --> 00:22:41,790
+atmosphere is gaining about four tera
+
+412
+00:22:37,980 --> 00:22:44,640
+grams per year okay now this is the
+
+413
+00:22:41,790 --> 00:22:46,830
+number this is this is the thing that
+
+414
+00:22:44,640 --> 00:22:49,140
+we're worried about the most okay
+
+415
+00:22:46,830 --> 00:22:52,220
+we're worried about what is the effect
+
+416
+00:22:49,140 --> 00:22:54,450
+of these increasing co2 levels right and
+
+417
+00:22:52,220 --> 00:22:55,740
+that's what you've been reading about in
+
+418
+00:22:54,450 --> 00:22:58,800
+my class this is what we're going to
+
+419
+00:22:55,740 --> 00:23:03,510
+keep talking about but let's talk about
+
+420
+00:22:58,800 --> 00:23:07,440
+this one first what does it mean to keep
+
+421
+00:23:03,510 --> 00:23:10,020
+adding this much carbon into the into
+
+422
+00:23:07,440 --> 00:23:12,360
+the ocean every year all right what does
+
+423
+00:23:10,020 --> 00:23:21,480
+that do so one of the things that it
+
+424
+00:23:12,360 --> 00:23:27,120
+does is if I take carbon dioxide and I
+
+425
+00:23:21,480 --> 00:23:34,320
+react it with water I will get a
+
+426
+00:23:27,120 --> 00:23:42,900
+compound h2 co3 which goes by the name
+
+427
+00:23:34,320 --> 00:23:45,210
+of carbonic acid this is a weak acid co2
+
+428
+00:23:42,900 --> 00:23:48,120
+in the presence of water turns into a
+
+429
+00:23:45,210 --> 00:23:50,730
+weak acid if you had a really bubbly
+
+430
+00:23:48,120 --> 00:23:53,040
+soda and you're trying to drink it out
+
+431
+00:23:50,730 --> 00:23:54,630
+of a glass or something you may have had
+
+432
+00:23:53,040 --> 00:23:56,160
+the experience once in a while that your
+
+433
+00:23:54,630 --> 00:23:59,690
+eyes burn a little bit like when it's
+
+434
+00:23:56,160 --> 00:24:02,790
+super fizzy that's carbonic acid so
+
+435
+00:23:59,690 --> 00:24:04,710
+every year we're dumping 2.3 teragrams
+
+436
+00:24:02,790 --> 00:24:06,960
+remember that means times you add 12
+
+437
+00:24:04,710 --> 00:24:10,110
+zeros to the end of this is going into
+
+438
+00:24:06,960 --> 00:24:13,110
+the ocean and that co2 that goes into
+
+439
+00:24:10,110 --> 00:24:17,250
+the ocean you may have read in our
+
+440
+00:24:13,110 --> 00:24:18,900
+textbook that it's a good thing that the
+
+441
+00:24:17,250 --> 00:24:20,580
+ocean is taking up some of the co2
+
+442
+00:24:18,900 --> 00:24:23,280
+because that means there's less of it
+
+443
+00:24:20,580 --> 00:24:25,080
+for the atmosphere but it's a bad thing
+
+444
+00:24:23,280 --> 00:24:27,600
+because we're making the ocean more
+
+445
+00:24:25,080 --> 00:24:30,030
+acidic the oceans
+
+446
+00:24:27,600 --> 00:24:33,390
+or overtime or becoming more and more
+
+447
+00:24:30,030 --> 00:24:36,690
+acidic because of this now why is that a
+
+448
+00:24:33,390 --> 00:24:39,510
+problem so let me show you a couple
+
+449
+00:24:36,690 --> 00:24:41,880
+pictures so when you think of a coral
+
+450
+00:24:39,510 --> 00:24:43,890
+reef this is probably what you think of
+
+451
+00:24:41,880 --> 00:24:46,140
+it there in Showell
+
+452
+00:24:43,890 --> 00:24:47,850
+usually warm water a lot of very
+
+453
+00:24:46,140 --> 00:24:50,220
+colorful organisms and I want you to
+
+454
+00:24:47,850 --> 00:24:52,980
+notice that it's in pretty shallow water
+
+455
+00:24:50,220 --> 00:24:56,130
+here maybe a meter or two below the
+
+456
+00:24:52,980 --> 00:24:57,900
+ocean's surface and there's a lot of
+
+457
+00:24:56,130 --> 00:25:00,930
+different organisms that live on a coral
+
+458
+00:24:57,900 --> 00:25:02,790
+reef so we see we've got CNN CNN amis
+
+459
+00:25:00,930 --> 00:25:04,950
+here we've got starfish we got sea
+
+460
+00:25:02,790 --> 00:25:07,530
+urchins with all kinds of things but
+
+461
+00:25:04,950 --> 00:25:10,470
+they're all living on this big mound in
+
+462
+00:25:07,530 --> 00:25:13,290
+the background and the mound itself was
+
+463
+00:25:10,470 --> 00:25:16,200
+built by these little organisms called
+
+464
+00:25:13,290 --> 00:25:19,530
+corals and these look like plants but
+
+465
+00:25:16,200 --> 00:25:22,070
+they're actually colonies each one of
+
+466
+00:25:19,530 --> 00:25:25,740
+these has a bunch of little tiny
+
+467
+00:25:22,070 --> 00:25:28,010
+individuals living inside and the coral
+
+468
+00:25:25,740 --> 00:25:33,050
+is each one of these little animals and
+
+469
+00:25:28,010 --> 00:25:35,490
+they secrete a calcium carbonate shell
+
+470
+00:25:33,050 --> 00:25:38,100
+essentially that binds them all together
+
+471
+00:25:35,490 --> 00:25:40,410
+until like this giant apartment complex
+
+472
+00:25:38,100 --> 00:25:43,410
+and each one of these guys is an
+
+473
+00:25:40,410 --> 00:25:45,090
+individual so corals are related to
+
+474
+00:25:43,410 --> 00:25:47,610
+jellyfish they have these little steamed
+
+475
+00:25:45,090 --> 00:25:49,350
+tentacles they sit there they do this
+
+476
+00:25:47,610 --> 00:25:51,380
+waiting for something to flow into their
+
+477
+00:25:49,350 --> 00:25:54,780
+mouth there are pretty simplistic
+
+478
+00:25:51,380 --> 00:25:58,110
+organism but they're important because
+
+479
+00:25:54,780 --> 00:26:00,690
+this calcium carbonate a house that
+
+480
+00:25:58,110 --> 00:26:03,000
+they're making forms the basis for work
+
+481
+00:26:00,690 --> 00:26:05,730
+all those other organisms that you saw
+
+482
+00:26:03,000 --> 00:26:10,110
+earlier are going to live now
+
+483
+00:26:05,730 --> 00:26:12,570
+even though corals are animals they have
+
+484
+00:26:10,110 --> 00:26:14,880
+living inside their tentacles these
+
+485
+00:26:12,570 --> 00:26:19,500
+little single-cell photosynthetic
+
+486
+00:26:14,880 --> 00:26:21,750
+bacteria called zooxanthellae okay so
+
+487
+00:26:19,500 --> 00:26:23,190
+this is what they look like so there's
+
+488
+00:26:21,750 --> 00:26:25,740
+one of the tentacles of the coral and he
+
+489
+00:26:23,190 --> 00:26:27,690
+sees all the green spots each one of
+
+490
+00:26:25,740 --> 00:26:29,730
+those green spots is a single cell for
+
+491
+00:26:27,690 --> 00:26:32,850
+the synthetic organism that generally
+
+492
+00:26:29,730 --> 00:26:34,740
+cannot survive on its own outside of the
+
+493
+00:26:32,850 --> 00:26:36,600
+coral so this is kind of confusing
+
+494
+00:26:34,740 --> 00:26:38,700
+because the coral is an animal but
+
+495
+00:26:36,600 --> 00:26:40,770
+living inside the animal are these
+
+496
+00:26:38,700 --> 00:26:41,200
+little plant like things that are for
+
+497
+00:26:40,770 --> 00:26:43,450
+this in
+
+498
+00:26:41,200 --> 00:26:46,540
+and they're producing energy that the
+
+499
+00:26:43,450 --> 00:26:49,240
+coral itself is using okay so they have
+
+500
+00:26:46,540 --> 00:26:51,910
+this symbiotic relationship the nothing
+
+501
+00:26:49,240 --> 00:26:53,650
+is going to eat the zones in thely
+
+502
+00:26:51,910 --> 00:26:57,070
+because they're sitting inside the
+
+503
+00:26:53,650 --> 00:26:59,020
+stinging little tentacle here and the
+
+504
+00:26:57,070 --> 00:27:01,270
+coral itself gets some energy from them
+
+505
+00:26:59,020 --> 00:27:03,610
+in order for this to work the coral has
+
+506
+00:27:01,270 --> 00:27:05,860
+to be about a meter below the ocean
+
+507
+00:27:03,610 --> 00:27:08,980
+surface right so if the coral gets out
+
+508
+00:27:05,860 --> 00:27:11,260
+of the water - huh you have gets out of
+
+509
+00:27:08,980 --> 00:27:14,380
+the water that's not good the coral dies
+
+510
+00:27:11,260 --> 00:27:16,240
+if it the water is too deep there's not
+
+511
+00:27:14,380 --> 00:27:18,190
+enough for the synthesis that's also a
+
+512
+00:27:16,240 --> 00:27:21,910
+problem so they'd like to be about a
+
+513
+00:27:18,190 --> 00:27:24,250
+meter or so below the surface well when
+
+514
+00:27:21,910 --> 00:27:26,110
+a coral gets stressed for reasons that
+
+515
+00:27:24,250 --> 00:27:30,310
+not I don't think are totally understood
+
+516
+00:27:26,110 --> 00:27:31,630
+the the coral will reject all of those
+
+517
+00:27:30,310 --> 00:27:34,210
+zones and thely
+
+518
+00:27:31,630 --> 00:27:35,170
+and they turn white and this is called
+
+519
+00:27:34,210 --> 00:27:38,470
+coral bleaching
+
+520
+00:27:35,170 --> 00:27:40,690
+so this coral right now is stressed what
+
+521
+00:27:38,470 --> 00:27:43,480
+would stress it higher temperatures will
+
+522
+00:27:40,690 --> 00:27:46,900
+stress it or if the ocean becomes more
+
+523
+00:27:43,480 --> 00:27:48,580
+acidic that will stress it out and so as
+
+524
+00:27:46,900 --> 00:27:51,220
+we have been making the ocean more and
+
+525
+00:27:48,580 --> 00:27:53,970
+more acidic and warmer and certain in
+
+526
+00:27:51,220 --> 00:27:57,760
+some respects we're seeing more and more
+
+527
+00:27:53,970 --> 00:28:00,640
+bleaching of corals and so in some
+
+528
+00:27:57,760 --> 00:28:03,340
+places we see this big extent of coral
+
+529
+00:28:00,640 --> 00:28:06,490
+bleaching now these these corals again
+
+530
+00:28:03,340 --> 00:28:09,570
+this is the first stage on their way out
+
+531
+00:28:06,490 --> 00:28:13,480
+so they will reject the zone cynth le if
+
+532
+00:28:09,570 --> 00:28:15,880
+conditions improve then they will come
+
+533
+00:28:13,480 --> 00:28:17,200
+back and things are okay if conditions
+
+534
+00:28:15,880 --> 00:28:20,470
+continue to deteriorate
+
+535
+00:28:17,200 --> 00:28:22,360
+then the corals will die okay so not all
+
+536
+00:28:20,470 --> 00:28:24,580
+these corals in these pictures are
+
+537
+00:28:22,360 --> 00:28:26,890
+necessarily dead yet
+
+538
+00:28:24,580 --> 00:28:31,210
+here's some before and after pictures of
+
+539
+00:28:26,890 --> 00:28:34,210
+corals that are now bleaching and we see
+
+540
+00:28:31,210 --> 00:28:36,340
+big chunks of coral reefs around the
+
+541
+00:28:34,210 --> 00:28:38,380
+world starting to do this this is the
+
+542
+00:28:36,340 --> 00:28:42,070
+bad sign it tells us that the oceans are
+
+543
+00:28:38,380 --> 00:28:44,500
+now becoming inhospitable for the corals
+
+544
+00:28:42,070 --> 00:28:47,230
+and the corals form the basis for these
+
+545
+00:28:44,500 --> 00:28:49,630
+coral reef ecosystems here's one that's
+
+546
+00:28:47,230 --> 00:28:52,270
+finally dead so this one has bleaching
+
+547
+00:28:49,630 --> 00:28:54,500
+and then conditions never got better and
+
+548
+00:28:52,270 --> 00:28:56,330
+the corals finally died
+
+549
+00:28:54,500 --> 00:29:02,000
+here and now they kind of turn this dark
+
+550
+00:28:56,330 --> 00:29:04,640
+color so when you see here if I go
+
+551
+00:29:02,000 --> 00:29:06,500
+forward here's an example where some
+
+552
+00:29:04,640 --> 00:29:09,530
+coral this is the coral is bleaching
+
+553
+00:29:06,500 --> 00:29:12,470
+just starting to happen you see a big we
+
+554
+00:29:09,530 --> 00:29:15,230
+Qing event here the following year and
+
+555
+00:29:12,470 --> 00:29:21,980
+then later the corals are all dead and
+
+556
+00:29:15,230 --> 00:29:25,810
+turning this dark color so that is one
+
+557
+00:29:21,980 --> 00:29:28,910
+of the reasons why we worried about the
+
+558
+00:29:25,810 --> 00:29:31,820
+amount of carbon going into the ocean
+
+559
+00:29:28,910 --> 00:29:34,490
+we're producing carbonic acid that isn't
+
+560
+00:29:31,820 --> 00:29:36,890
+is stressing out the corals the corals
+
+561
+00:29:34,490 --> 00:29:38,690
+form the basis for these coral reef
+
+562
+00:29:36,890 --> 00:29:42,170
+ecosystems so we're seeing these big
+
+563
+00:29:38,690 --> 00:29:44,840
+bleaching events so a hundred years ago
+
+564
+00:29:42,170 --> 00:29:48,290
+or so scientists thought that we might
+
+565
+00:29:44,840 --> 00:29:50,930
+be adding carbon to the atmosphere but
+
+566
+00:29:48,290 --> 00:29:53,960
+no one had actually measured it and so
+
+567
+00:29:50,930 --> 00:29:55,640
+people speculated that you know we think
+
+568
+00:29:53,960 --> 00:29:57,650
+today people talk about global warming
+
+569
+00:29:55,640 --> 00:29:59,060
+like is this new idea but you can find
+
+570
+00:29:57,650 --> 00:30:00,860
+scientific papers a hundred years ago
+
+571
+00:29:59,060 --> 00:30:03,560
+where they were speculating that this
+
+572
+00:30:00,860 --> 00:30:05,390
+could happen but we didn't really have
+
+573
+00:30:03,560 --> 00:30:08,000
+any good measurements of carbon dioxide
+
+574
+00:30:05,390 --> 00:30:11,000
+in the atmosphere so finally in the
+
+575
+00:30:08,000 --> 00:30:12,590
+1950s a guy by the name of Charles
+
+576
+00:30:11,000 --> 00:30:14,360
+Keeling decides that he's going to build
+
+577
+00:30:12,590 --> 00:30:16,910
+a machine that's gonna measure carbon
+
+578
+00:30:14,360 --> 00:30:18,530
+dioxide and he's gonna build a machine
+
+579
+00:30:16,910 --> 00:30:20,300
+that takes a measurement like every day
+
+580
+00:30:18,530 --> 00:30:22,820
+and we're gonna start monitoring
+
+581
+00:30:20,300 --> 00:30:25,520
+monitoring it over the long period and
+
+582
+00:30:22,820 --> 00:30:28,040
+see if it changes so in order to do this
+
+583
+00:30:25,520 --> 00:30:30,410
+he needed to find a spot that was away
+
+584
+00:30:28,040 --> 00:30:32,330
+from cities that was pretty you know
+
+585
+00:30:30,410 --> 00:30:34,580
+hopefully up in the atmosphere he wanted
+
+586
+00:30:32,330 --> 00:30:37,250
+to get them the most the cleanest air
+
+587
+00:30:34,580 --> 00:30:39,140
+sample he could and so he decides that
+
+588
+00:30:37,250 --> 00:30:41,480
+he's going to do this on the Big Island
+
+589
+00:30:39,140 --> 00:30:44,470
+of Hawaii and so Big Island of Hawaii
+
+590
+00:30:41,480 --> 00:30:47,330
+has two volcanoes manalo Mauna Kea
+
+591
+00:30:44,470 --> 00:30:51,680
+they're both over 11,000 feet tall and
+
+592
+00:30:47,330 --> 00:30:53,450
+so at that time there wasn't a road up
+
+593
+00:30:51,680 --> 00:30:54,770
+to the top Ernie no electricity or
+
+594
+00:30:53,450 --> 00:30:56,570
+anything like that this is a this is a
+
+595
+00:30:54,770 --> 00:31:00,770
+pretty big project but what he managed
+
+596
+00:30:56,570 --> 00:31:02,660
+to do starting in 1957 is he built an
+
+597
+00:31:00,770 --> 00:31:04,970
+instrument and he put it on the top or
+
+598
+00:31:02,660 --> 00:31:08,310
+near the top of one of these volcanoes
+
+599
+00:31:04,970 --> 00:31:10,010
+mono Lola and here
+
+600
+00:31:08,310 --> 00:31:12,750
+picture what it looks like up there
+
+601
+00:31:10,010 --> 00:31:14,430
+you're actually above there's a cloud
+
+602
+00:31:12,750 --> 00:31:16,320
+layer that forms over the ocean this is
+
+603
+00:31:14,430 --> 00:31:18,630
+stratocumulus so we talked about earlier
+
+604
+00:31:16,320 --> 00:31:22,020
+in the semester you're above the strata
+
+605
+00:31:18,630 --> 00:31:24,810
+cumulus on most days and this is a sign
+
+606
+00:31:22,020 --> 00:31:28,920
+that's up there today so that's at
+
+607
+00:31:24,810 --> 00:31:30,870
+11,000 141 feet and right now there's a
+
+608
+00:31:28,920 --> 00:31:33,000
+lot of equipment up there but back then
+
+609
+00:31:30,870 --> 00:31:37,110
+this the very first thing that they were
+
+610
+00:31:33,000 --> 00:31:41,100
+measuring was co2 so he builds his
+
+611
+00:31:37,110 --> 00:31:42,750
+machine he turns it on in 1957 and he
+
+612
+00:31:41,100 --> 00:31:44,580
+lets it run and it runs a couple of
+
+613
+00:31:42,750 --> 00:31:49,260
+years and he looks at his data for a
+
+614
+00:31:44,580 --> 00:31:52,650
+couple of years and he finds that there
+
+615
+00:31:49,260 --> 00:31:54,990
+is this very odd pattern where the the
+
+616
+00:31:52,650 --> 00:31:57,240
+co2 goes up and then it goes back down
+
+617
+00:31:54,990 --> 00:32:00,600
+again up and back down again up and back
+
+618
+00:31:57,240 --> 00:32:04,710
+down again but as it's doing that there
+
+619
+00:32:00,600 --> 00:32:05,970
+is this very slow rise over time okay so
+
+620
+00:32:04,710 --> 00:32:09,780
+we're going to talk about this this
+
+621
+00:32:05,970 --> 00:32:13,770
+graph is called the Keeling curve there
+
+622
+00:32:09,780 --> 00:32:16,320
+is no Nobel Prize in meteorology or
+
+623
+00:32:13,770 --> 00:32:19,680
+climatology or environmental science or
+
+624
+00:32:16,320 --> 00:32:21,720
+earth science but if there was if there
+
+625
+00:32:19,680 --> 00:32:24,840
+was ever a Nobel Prize in this field
+
+626
+00:32:21,720 --> 00:32:27,510
+this graph would get it first okay it's
+
+627
+00:32:24,840 --> 00:32:29,700
+such an important graph it actually has
+
+628
+00:32:27,510 --> 00:32:31,530
+its own bronze plaque and I don't know
+
+629
+00:32:29,700 --> 00:32:34,350
+of any other graph that has its own
+
+630
+00:32:31,530 --> 00:32:35,940
+bronze plaque okay the Keeling curve so
+
+631
+00:32:34,350 --> 00:32:38,340
+we're gonna study the Keeling curve
+
+632
+00:32:35,940 --> 00:32:42,030
+because it is so fundamentally important
+
+633
+00:32:38,340 --> 00:32:45,900
+to environmental science and what we're
+
+634
+00:32:42,030 --> 00:32:51,360
+talking about here okay so we're gonna
+
+635
+00:32:45,900 --> 00:32:58,080
+have a look at the Keeling curve and on
+
+636
+00:32:51,360 --> 00:33:03,090
+the axis on the x axis is time and on
+
+637
+00:32:58,080 --> 00:33:06,210
+the y axis is co2 now you'll see for
+
+638
+00:33:03,090 --> 00:33:06,600
+example on this one it says parts per
+
+639
+00:33:06,210 --> 00:33:08,760
+million
+
+640
+00:33:06,600 --> 00:33:11,490
+okay so there's not much co2 in the
+
+641
+00:33:08,760 --> 00:33:19,150
+atmosphere but we have a way of
+
+642
+00:33:11,490 --> 00:33:24,970
+expressing it so if I had three parts
+
+643
+00:33:19,150 --> 00:33:28,970
+per hundred okay we would call that
+
+644
+00:33:24,970 --> 00:33:32,750
+percent can we use this symbol right so
+
+645
+00:33:28,970 --> 00:33:36,110
+the math would be three over 100 okay
+
+646
+00:33:32,750 --> 00:33:37,870
+that's percent there's another symbol
+
+647
+00:33:36,110 --> 00:33:41,470
+that you probably not familiar with
+
+648
+00:33:37,870 --> 00:33:43,390
+where if you had three parts per
+
+649
+00:33:41,470 --> 00:33:50,120
+thousand
+
+650
+00:33:43,390 --> 00:33:53,960
+that's called per mil and it has two of
+
+651
+00:33:50,120 --> 00:33:57,140
+the circles and you would do it you do
+
+652
+00:33:53,960 --> 00:34:06,290
+three divided by thousand okay if I have
+
+653
+00:33:57,140 --> 00:34:15,280
+three parts per million the way I write
+
+654
+00:34:06,290 --> 00:34:15,280
+that is 3 ppm and if I did the math 3
+
+655
+00:34:15,700 --> 00:34:22,909
+divided by a million okay so on this
+
+656
+00:34:20,450 --> 00:34:27,110
+graph that we are going to look at here
+
+657
+00:34:22,909 --> 00:34:28,060
+the y-axis is usually in ppm parts per
+
+658
+00:34:27,110 --> 00:34:32,750
+million
+
+659
+00:34:28,060 --> 00:34:35,450
+all right so a couple years after
+
+660
+00:34:32,750 --> 00:34:37,970
+Charles Keeling turns on his machine and
+
+661
+00:34:35,450 --> 00:34:40,570
+he starts to get data this is the this
+
+662
+00:34:37,970 --> 00:34:40,570
+is what he sees
+
+663
+00:34:46,550 --> 00:34:54,960
+he sees this up-down pattern I might try
+
+664
+00:34:49,980 --> 00:34:57,390
+to focus and he also sees that this this
+
+665
+00:34:54,960 --> 00:34:59,880
+up-down pattern is gradually increasing
+
+666
+00:34:57,390 --> 00:35:01,860
+and he knows that this is pretty
+
+667
+00:34:59,880 --> 00:35:04,350
+significant so there's two things going
+
+668
+00:35:01,860 --> 00:35:07,560
+on and we got to separate them out first
+
+669
+00:35:04,350 --> 00:35:13,380
+is what's causing the up-down pattern
+
+670
+00:35:07,560 --> 00:35:15,630
+okay now on earth we have what we call
+
+671
+00:35:13,380 --> 00:35:19,830
+deciduous trees these are trees that in
+
+672
+00:35:15,630 --> 00:35:22,350
+the spring they bud out and as you start
+
+673
+00:35:19,830 --> 00:35:23,820
+to grow there's a growing season the
+
+674
+00:35:22,350 --> 00:35:25,920
+leaves get bigger in order for the
+
+675
+00:35:23,820 --> 00:35:28,500
+leaves to get bigger the plant has to
+
+676
+00:35:25,920 --> 00:35:31,770
+pull co2 out of the atmosphere okay
+
+677
+00:35:28,500 --> 00:35:33,840
+so throughout the summer the deciduous
+
+678
+00:35:31,770 --> 00:35:36,330
+plant the sigils tree whatever it is is
+
+679
+00:35:33,840 --> 00:35:38,010
+growing growing growing growing and is
+
+680
+00:35:36,330 --> 00:35:39,240
+pulling carbon dioxide out of the air
+
+681
+00:35:38,010 --> 00:35:43,320
+and it's making you know from
+
+682
+00:35:39,240 --> 00:35:46,650
+photosynthesis so then coming to the
+
+683
+00:35:43,320 --> 00:35:51,120
+fall the deciduous tree loses its leaves
+
+684
+00:35:46,650 --> 00:35:52,830
+the leaves follow to the ground now that
+
+685
+00:35:51,120 --> 00:35:55,380
+carbon that it took out of the
+
+686
+00:35:52,830 --> 00:35:56,850
+atmosphere a lot of it is now laying on
+
+687
+00:35:55,380 --> 00:35:59,940
+the ground in the form of dead leaves
+
+688
+00:35:56,850 --> 00:36:03,630
+and all the microorganisms are munching
+
+689
+00:35:59,940 --> 00:36:08,130
+away and digesting that and that carbon
+
+690
+00:36:03,630 --> 00:36:11,820
+goes back up into the atmosphere so in a
+
+691
+00:36:08,130 --> 00:36:14,430
+normal year for a particular if you
+
+692
+00:36:11,820 --> 00:36:16,410
+think of just one deciduous tree in the
+
+693
+00:36:14,430 --> 00:36:19,290
+spring and into the summer the growing
+
+694
+00:36:16,410 --> 00:36:22,320
+season it's taken co2 out of the air in
+
+695
+00:36:19,290 --> 00:36:24,120
+the fall in the winter it's actually
+
+696
+00:36:22,320 --> 00:36:27,830
+adding co2 back into the air because
+
+697
+00:36:24,120 --> 00:36:31,650
+it's dumped off all of its leaves okay
+
+698
+00:36:27,830 --> 00:36:32,660
+so now imagine a set of one plant doing
+
+699
+00:36:31,650 --> 00:36:34,770
+that
+
+700
+00:36:32,660 --> 00:36:38,700
+imagine all the plants in the world
+
+701
+00:36:34,770 --> 00:36:43,140
+doing that so because the seasons are
+
+702
+00:36:38,700 --> 00:36:44,100
+reversed when we have summer in the or
+
+703
+00:36:43,140 --> 00:36:46,950
+let's say spring in the northern
+
+704
+00:36:44,100 --> 00:36:48,900
+hemisphere our plants in the northern
+
+705
+00:36:46,950 --> 00:36:51,300
+hemisphere are starting to bud out and
+
+706
+00:36:48,900 --> 00:36:53,750
+they are sucking down co2 out of the
+
+707
+00:36:51,300 --> 00:36:55,920
+atmosphere but at the same exact time
+
+708
+00:36:53,750 --> 00:36:58,830
+the plants and the southern hemisphere
+
+709
+00:36:55,920 --> 00:36:59,710
+are experiencing fall and their leaves
+
+710
+00:36:58,830 --> 00:37:02,190
+are falling off
+
+711
+00:36:59,710 --> 00:37:05,170
+and that's adding co2 to the atmosphere
+
+712
+00:37:02,190 --> 00:37:07,329
+so the two hemispheres the plants and
+
+713
+00:37:05,170 --> 00:37:10,420
+the two hemispheres balance each other
+
+714
+00:37:07,329 --> 00:37:12,670
+out but when you look at the two
+
+715
+00:37:10,420 --> 00:37:15,309
+hemispheres what you see is that there's
+
+716
+00:37:12,670 --> 00:37:17,430
+way more land in the northern hemisphere
+
+717
+00:37:15,309 --> 00:37:21,369
+than there is in the southern hemisphere
+
+718
+00:37:17,430 --> 00:37:23,650
+okay so what does that mean that means
+
+719
+00:37:21,369 --> 00:37:25,829
+that there's more plants in the northern
+
+720
+00:37:23,650 --> 00:37:28,660
+hemisphere than the southern hemisphere
+
+721
+00:37:25,829 --> 00:37:31,630
+so that means that when we're talking
+
+722
+00:37:28,660 --> 00:37:33,730
+about competing seasons then nor the
+
+723
+00:37:31,630 --> 00:37:36,309
+plants in the northern hemisphere are
+
+724
+00:37:33,730 --> 00:37:38,380
+the ones that actually are in control of
+
+725
+00:37:36,309 --> 00:37:40,540
+the carbon in the atmosphere because
+
+726
+00:37:38,380 --> 00:37:42,160
+there's more of them so even though
+
+727
+00:37:40,540 --> 00:37:44,440
+these you know if the hemispheres were
+
+728
+00:37:42,160 --> 00:37:46,210
+perfectly balanced if there was the same
+
+729
+00:37:44,440 --> 00:37:48,520
+amount of land in each and the same
+
+730
+00:37:46,210 --> 00:37:50,050
+amount of plants in each as one was
+
+731
+00:37:48,520 --> 00:37:52,359
+losing its leaves and the other was
+
+732
+00:37:50,050 --> 00:37:54,400
+budding out leaves the two effects would
+
+733
+00:37:52,359 --> 00:37:56,260
+cancel each other out they don't cancel
+
+734
+00:37:54,400 --> 00:38:00,700
+each other out because we've got more
+
+735
+00:37:56,260 --> 00:38:03,040
+plants in the north okay so if we could
+
+736
+00:38:00,700 --> 00:38:09,160
+so thinking about that then if we
+
+737
+00:38:03,040 --> 00:38:12,220
+consider this this up and down is being
+
+738
+00:38:09,160 --> 00:38:17,260
+controlled by what the plants in the
+
+739
+00:38:12,220 --> 00:38:19,780
+north are doing right so let say we'll
+
+740
+00:38:17,260 --> 00:38:21,490
+start in the fall and the leaves fall
+
+741
+00:38:19,780 --> 00:38:23,500
+off in the fall and they fall on the
+
+742
+00:38:21,490 --> 00:38:27,460
+ground and that returns co2 to the
+
+743
+00:38:23,500 --> 00:38:32,440
+atmosphere so that means that where we
+
+744
+00:38:27,460 --> 00:38:36,280
+see co2 increasing that's starting in
+
+745
+00:38:32,440 --> 00:38:41,559
+the fall and it continues throughout the
+
+746
+00:38:36,280 --> 00:38:44,020
+winter in the northern hemisphere in the
+
+747
+00:38:41,559 --> 00:38:50,790
+northern hemisphere okay so the seasons
+
+748
+00:38:44,020 --> 00:38:50,790
+I'm writing are northern hemisphere
+
+749
+00:38:52,200 --> 00:38:58,170
+okay so co2 gets returned gets returned
+
+750
+00:38:56,369 --> 00:39:00,450
+gets returned and then we finally get to
+
+751
+00:38:58,170 --> 00:39:03,089
+the spring and things start to bud out
+
+752
+00:39:00,450 --> 00:39:06,510
+and as they do they start pulling co2
+
+753
+00:39:03,089 --> 00:39:13,170
+out of the atmosphere so we get into
+
+754
+00:39:06,510 --> 00:39:17,010
+spring and as we go down this way this
+
+755
+00:39:13,170 --> 00:39:23,270
+is the growing season and into the
+
+756
+00:39:17,010 --> 00:39:27,780
+summer and then it repeats again fall
+
+757
+00:39:23,270 --> 00:39:30,900
+into winter etc so this up and down that
+
+758
+00:39:27,780 --> 00:39:33,300
+we're seeing that's due to plants and
+
+759
+00:39:30,900 --> 00:39:36,050
+it's due to the plants in the northern
+
+760
+00:39:33,300 --> 00:39:38,579
+hemisphere because we have more of them
+
+761
+00:39:36,050 --> 00:39:41,310
+okay so that's the first thing Keeling
+
+762
+00:39:38,579 --> 00:39:43,740
+notices but the second thing Keeling
+
+763
+00:39:41,310 --> 00:39:46,170
+notices is perhaps more important than
+
+764
+00:39:43,740 --> 00:39:51,329
+that which is that this whole pattern is
+
+765
+00:39:46,170 --> 00:39:54,990
+on the way up and he realizes even after
+
+766
+00:39:51,329 --> 00:39:58,530
+just a few years of data that this slope
+
+767
+00:39:54,990 --> 00:40:05,300
+is due to us to humans burning fossil
+
+768
+00:39:58,530 --> 00:40:11,400
+fuels so this is the human co2
+
+769
+00:40:05,300 --> 00:40:14,069
+contribution that's adding on top of
+
+770
+00:40:11,400 --> 00:40:16,589
+what the plants are doing so you can
+
+771
+00:40:14,069 --> 00:40:22,980
+kind of think of it like this if there
+
+772
+00:40:16,589 --> 00:40:29,040
+was a world with no humans we would
+
+773
+00:40:22,980 --> 00:40:34,980
+expect that it would do this it would
+
+774
+00:40:29,040 --> 00:40:36,930
+cycle with the seasons of the northern
+
+775
+00:40:34,980 --> 00:40:40,410
+hemisphere because of the because again
+
+776
+00:40:36,930 --> 00:40:48,540
+of the plants but it's doing this
+
+777
+00:40:40,410 --> 00:40:50,990
+instead because every year we are adding
+
+778
+00:40:48,540 --> 00:40:50,990
+more
+
+779
+00:40:51,980 --> 00:40:59,619
+to the atmosphere and so every year we
+
+780
+00:40:55,369 --> 00:40:59,619
+progressively add more and more and more
+
+781
+00:41:00,760 --> 00:41:08,780
+so here are some data from Hawaii just
+
+782
+00:41:06,470 --> 00:41:11,750
+the last few years okay and you can see
+
+783
+00:41:08,780 --> 00:41:14,540
+there's this the red the up and down
+
+784
+00:41:11,750 --> 00:41:16,369
+those are the seasons and then this
+
+785
+00:41:14,540 --> 00:41:22,280
+black line is sort of a mathematical
+
+786
+00:41:16,369 --> 00:41:22,970
+average over time and I go forward one
+
+787
+00:41:22,280 --> 00:41:26,540
+more here
+
+788
+00:41:22,970 --> 00:41:28,070
+so here's for example just the last few
+
+789
+00:41:26,540 --> 00:41:31,280
+measurements of the last few days when I
+
+790
+00:41:28,070 --> 00:41:34,130
+write before I recorded this we have
+
+791
+00:41:31,280 --> 00:41:39,619
+surpassed 400 parts per million now for
+
+792
+00:41:34,130 --> 00:41:41,150
+a couple of years and as seasons as you
+
+793
+00:41:39,619 --> 00:41:44,240
+know right now we're going into the
+
+794
+00:41:41,150 --> 00:41:46,220
+northern hemisphere spring so we should
+
+795
+00:41:44,240 --> 00:41:48,700
+actually expect some of these numbers to
+
+796
+00:41:46,220 --> 00:41:51,590
+start to go back down here a little bit
+
+797
+00:41:48,700 --> 00:41:53,800
+this is what it looks like today up
+
+798
+00:41:51,590 --> 00:41:56,300
+there there's a lot of instrumentation
+
+799
+00:41:53,800 --> 00:41:58,640
+they're measuring all kinds of stuff up
+
+800
+00:41:56,300 --> 00:42:00,230
+here that at the center for
+
+801
+00:41:58,640 --> 00:42:02,810
+stratospheric research is what they
+
+802
+00:42:00,230 --> 00:42:07,430
+called and so I actually went there a
+
+803
+00:42:02,810 --> 00:42:14,270
+few years ago to do some research in my
+
+804
+00:42:07,430 --> 00:42:16,130
+own and this building right here that's
+
+805
+00:42:14,270 --> 00:42:18,920
+the building that has that bronze plaque
+
+806
+00:42:16,130 --> 00:42:22,550
+on it so here's another picture of it's
+
+807
+00:42:18,920 --> 00:42:24,050
+this right in here and this is all this
+
+808
+00:42:22,550 --> 00:42:26,359
+is really awful in mr. the public is
+
+809
+00:42:24,050 --> 00:42:28,790
+just scientists you know super nerds
+
+810
+00:42:26,359 --> 00:42:31,280
+walking around here but if you go inside
+
+811
+00:42:28,790 --> 00:42:34,130
+this building this is what it looks like
+
+812
+00:42:31,280 --> 00:42:38,359
+and there's this box right here in this
+
+813
+00:42:34,130 --> 00:42:40,280
+really old chart recorder and you open
+
+814
+00:42:38,359 --> 00:42:44,800
+it up and there's a piece of plexiglass
+
+815
+00:42:40,280 --> 00:42:47,210
+here and this is one of the original of
+
+816
+00:42:44,800 --> 00:42:50,000
+this is one of the original machines
+
+817
+00:42:47,210 --> 00:42:51,560
+that Charles Keeling made is technically
+
+818
+00:42:50,000 --> 00:42:53,650
+not the first one because the very first
+
+819
+00:42:51,560 --> 00:42:56,390
+one I guess got taken apart but it's
+
+820
+00:42:53,650 --> 00:42:58,340
+essentially the first one so all the
+
+821
+00:42:56,390 --> 00:42:59,780
+scientists they are I go oh my god they
+
+822
+00:42:58,340 --> 00:43:02,300
+get so excited you can see my reflection
+
+823
+00:42:59,780 --> 00:43:05,300
+taking a picture of it in there but this
+
+824
+00:43:02,300 --> 00:43:07,250
+is the first a co2 monitor
+
+825
+00:43:05,300 --> 00:43:09,590
+since Charles Keeling put that in on the
+
+826
+00:43:07,250 --> 00:43:11,570
+top of Hawaii we've been putting them in
+
+827
+00:43:09,590 --> 00:43:12,380
+all over the world and it's the same
+
+828
+00:43:11,570 --> 00:43:18,370
+pattern everywhere
+
+829
+00:43:12,380 --> 00:43:20,510
+it's that same up-down but climbing co2
+
+830
+00:43:18,370 --> 00:43:23,000
+so one thing we'd like to know as
+
+831
+00:43:20,510 --> 00:43:26,030
+climate scientists is how much
+
+832
+00:43:23,000 --> 00:43:29,570
+greenhouse gas was in the atmosphere in
+
+833
+00:43:26,030 --> 00:43:31,910
+the past whether it be co2 or methane or
+
+834
+00:43:29,570 --> 00:43:33,530
+whatever so we have killings machine
+
+835
+00:43:31,910 --> 00:43:38,300
+that's been taking measurements since
+
+836
+00:43:33,530 --> 00:43:41,300
+1958 but how much co2 is in the
+
+837
+00:43:38,300 --> 00:43:45,050
+atmosphere say 100 years before that or
+
+838
+00:43:41,300 --> 00:43:47,480
+100 years before that so there's a
+
+839
+00:43:45,050 --> 00:43:49,850
+couple ways you can do it some people
+
+840
+00:43:47,480 --> 00:43:52,580
+have found sealed bottle old bottles
+
+841
+00:43:49,850 --> 00:43:55,100
+with air in it and analyze that so maybe
+
+842
+00:43:52,580 --> 00:43:57,050
+you find an old bottle from you know 150
+
+843
+00:43:55,100 --> 00:44:00,530
+years ago you can analyze the air in
+
+844
+00:43:57,050 --> 00:44:03,440
+there but further back you go the harder
+
+845
+00:44:00,530 --> 00:44:07,420
+it is and so one of the ways that we do
+
+846
+00:44:03,440 --> 00:44:11,650
+it is if you find a place that has been
+
+847
+00:44:07,420 --> 00:44:14,480
+frozen consecutively without ever
+
+848
+00:44:11,650 --> 00:44:17,180
+experiencing any melting that you can
+
+849
+00:44:14,480 --> 00:44:22,940
+actually find trapped atmospheric gas in
+
+850
+00:44:17,180 --> 00:44:24,350
+the ice so snow itself fresh snow so if
+
+851
+00:44:22,940 --> 00:44:28,700
+you're a skier think of like some fresh
+
+852
+00:44:24,350 --> 00:44:30,590
+powder that's like 90% air but then
+
+853
+00:44:28,700 --> 00:44:33,410
+after the snow sits on the ground for a
+
+854
+00:44:30,590 --> 00:44:34,160
+while it very slowly starts to
+
+855
+00:44:33,410 --> 00:44:38,240
+recrystallize
+
+856
+00:44:34,160 --> 00:44:41,750
+and that fluffy snow kind of gets gritty
+
+857
+00:44:38,240 --> 00:44:45,710
+and granular and then eventually it
+
+858
+00:44:41,750 --> 00:44:47,990
+turns into something called fern and if
+
+859
+00:44:45,710 --> 00:44:50,870
+it's a place that never ever actually
+
+860
+00:44:47,990 --> 00:44:53,990
+melts what'll happen is those nice
+
+861
+00:44:50,870 --> 00:44:57,940
+fluffy snowflakes eventually turn into
+
+862
+00:44:53,990 --> 00:45:02,660
+solid ice and the air that fell as snow
+
+863
+00:44:57,940 --> 00:45:05,420
+gets encapsulated as a little bubbles so
+
+864
+00:45:02,660 --> 00:45:08,900
+this is what it looks like so the little
+
+865
+00:45:05,420 --> 00:45:12,140
+bubbles in this ice our old trapped
+
+866
+00:45:08,900 --> 00:45:15,470
+pockets of atmosphere the atmospheric
+
+867
+00:45:12,140 --> 00:45:17,030
+gases from when this ice first formed so
+
+868
+00:45:15,470 --> 00:45:18,160
+this piece of ice is a thousand years
+
+869
+00:45:17,030 --> 00:45:20,020
+old
+
+870
+00:45:18,160 --> 00:45:22,859
+then the bubbles in there are little
+
+871
+00:45:20,020 --> 00:45:26,589
+samples of thousand-year-old atmosphere
+
+872
+00:45:22,859 --> 00:45:29,890
+so this only works if you have a place
+
+873
+00:45:26,589 --> 00:45:32,760
+that never gets above the freezing point
+
+874
+00:45:29,890 --> 00:45:36,520
+right stays frozen all year round so
+
+875
+00:45:32,760 --> 00:45:39,280
+there's two main places that we can do
+
+876
+00:45:36,520 --> 00:45:43,960
+this one is Antarctica and the middle
+
+877
+00:45:39,280 --> 00:45:44,650
+Antarctica never melts and middle of
+
+878
+00:45:43,960 --> 00:45:47,109
+Greenland
+
+879
+00:45:44,650 --> 00:45:48,579
+now there's also some places you can go
+
+880
+00:45:47,109 --> 00:45:50,980
+and do this on the continent where you
+
+881
+00:45:48,579 --> 00:45:53,530
+have glaciers year-round those glaciers
+
+882
+00:45:50,980 --> 00:45:57,430
+are disappearing but people are still
+
+883
+00:45:53,530 --> 00:45:59,440
+trying to sample them so if you want to
+
+884
+00:45:57,430 --> 00:46:01,030
+do this you get yourself some Russians
+
+885
+00:45:59,440 --> 00:46:03,010
+because they really like the cold
+
+886
+00:46:01,030 --> 00:46:08,319
+they go out to a place like Antarctica
+
+887
+00:46:03,010 --> 00:46:11,460
+and they set up these geodesic dome tent
+
+888
+00:46:08,319 --> 00:46:14,289
+things and they drill down into the ice
+
+889
+00:46:11,460 --> 00:46:17,140
+so this is specially designed drill to
+
+890
+00:46:14,289 --> 00:46:19,630
+drill down into the ice and remove what
+
+891
+00:46:17,140 --> 00:46:22,779
+we call an ice core so they're trying to
+
+892
+00:46:19,630 --> 00:46:25,839
+recover the ice without destroying it
+
+893
+00:46:22,779 --> 00:46:28,420
+and this is what I score looks like so
+
+894
+00:46:25,839 --> 00:46:32,109
+they'll drill down thousands of feet and
+
+895
+00:46:28,420 --> 00:46:36,039
+keep removing ice and the ice that they
+
+896
+00:46:32,109 --> 00:46:39,460
+remove when they pull it out and polish
+
+897
+00:46:36,039 --> 00:46:41,710
+it you can see the individual years so
+
+898
+00:46:39,460 --> 00:46:45,190
+in a place like Antarctica you only get
+
+899
+00:46:41,710 --> 00:46:48,339
+a couple centimeters of snow a year but
+
+900
+00:46:45,190 --> 00:46:50,380
+it just never melts and so each band is
+
+901
+00:46:48,339 --> 00:46:52,720
+a year and the bubbles that are
+
+902
+00:46:50,380 --> 00:46:55,420
+preserved in each band have a little
+
+903
+00:46:52,720 --> 00:46:58,690
+sample of the atmosphere from that time
+
+904
+00:46:55,420 --> 00:47:02,260
+when they were that ice formed so what
+
+905
+00:46:58,690 --> 00:47:04,539
+you can do is if you drill down enough
+
+906
+00:47:02,260 --> 00:47:07,119
+you can go down thousands of years you
+
+907
+00:47:04,539 --> 00:47:11,140
+can extract air thousands of years ago
+
+908
+00:47:07,119 --> 00:47:13,029
+and they store this ice in these giant
+
+909
+00:47:11,140 --> 00:47:14,950
+warehouses that are kept below freezing
+
+910
+00:47:13,029 --> 00:47:17,349
+so each one of these tubes has an ice
+
+911
+00:47:14,950 --> 00:47:19,510
+core in it now let's say your site I
+
+912
+00:47:17,349 --> 00:47:22,299
+climate scientists you know I I would
+
+913
+00:47:19,510 --> 00:47:25,900
+like to find the atman samples of the
+
+914
+00:47:22,299 --> 00:47:27,039
+atmosphere 50,000 years ago so what you
+
+915
+00:47:25,900 --> 00:47:30,039
+do is you go to one of these facilities
+
+916
+00:47:27,039 --> 00:47:32,769
+and you find ice that's 50 thousand
+
+917
+00:47:30,039 --> 00:47:34,779
+years old and there's a whole set
+
+918
+00:47:32,769 --> 00:47:36,999
+with saws and everything everything in
+
+919
+00:47:34,779 --> 00:47:39,220
+this warehouse is kept below freezing
+
+920
+00:47:36,999 --> 00:47:42,940
+and you cut out the ice you're
+
+921
+00:47:39,220 --> 00:47:45,339
+interested in and you seal it in glass
+
+922
+00:47:42,940 --> 00:47:48,609
+and then you melt it and then the
+
+923
+00:47:45,339 --> 00:47:51,549
+bubbles come out and it's sealed in this
+
+924
+00:47:48,609 --> 00:47:53,190
+glass that you put it in and then you
+
+925
+00:47:51,549 --> 00:47:56,789
+extract the gas out and you analyze it
+
+926
+00:47:53,190 --> 00:48:00,839
+so using this technique we can actually
+
+927
+00:47:56,789 --> 00:48:03,460
+recreate the atmosphere all the way back
+
+928
+00:48:00,839 --> 00:48:05,470
+several hundred thousand years so
+
+929
+00:48:03,460 --> 00:48:07,839
+Antarctica has been below freezing for
+
+930
+00:48:05,470 --> 00:48:09,549
+several hundred thousand years so in
+
+931
+00:48:07,839 --> 00:48:12,430
+this graph what they've done is they've
+
+932
+00:48:09,549 --> 00:48:17,140
+reconstructed co2 parts-per-million
+
+933
+00:48:12,430 --> 00:48:18,160
+and here is today now this graph has
+
+934
+00:48:17,140 --> 00:48:21,160
+made a few years ago
+
+935
+00:48:18,160 --> 00:48:24,279
+so today the co2 level is higher it's
+
+936
+00:48:21,160 --> 00:48:27,190
+kind of like up in here now but they
+
+937
+00:48:24,279 --> 00:48:30,720
+went back now this graph goes back says
+
+938
+00:48:27,190 --> 00:48:34,720
+400,000 years and then it says for
+
+939
+00:48:30,720 --> 00:48:37,960
+650,000 years atmospheric co2 was never
+
+940
+00:48:34,720 --> 00:48:41,470
+higher than this level so we can with
+
+941
+00:48:37,960 --> 00:48:44,349
+with Antarctica we can actually go back
+
+942
+00:48:41,470 --> 00:48:46,930
+pretty close to a million years before
+
+943
+00:48:44,349 --> 00:48:48,970
+you run out of ice when we extract the
+
+944
+00:48:46,930 --> 00:48:50,880
+ice and we analyze the gases what we
+
+945
+00:48:48,970 --> 00:48:53,890
+find is that for the past million years
+
+946
+00:48:50,880 --> 00:48:57,519
+we've never seen co2 as high as it is
+
+947
+00:48:53,890 --> 00:49:02,499
+today ok now you see these big patterns
+
+948
+00:48:57,519 --> 00:49:04,140
+right so here the co2 was pretty low we
+
+949
+00:49:02,499 --> 00:49:07,839
+were in what we would call an ice age
+
+950
+00:49:04,140 --> 00:49:10,119
+here the co2 was higher so that so earth
+
+951
+00:49:07,839 --> 00:49:14,680
+was warmer then we've got another Ice
+
+952
+00:49:10,119 --> 00:49:15,910
+Age warmer these are natural cycles and
+
+953
+00:49:14,680 --> 00:49:18,039
+there's changes in the Earth's orbit
+
+954
+00:49:15,910 --> 00:49:20,319
+that caused this okay so we're not
+
+955
+00:49:18,039 --> 00:49:22,630
+worried about that like this is we know
+
+956
+00:49:20,319 --> 00:49:26,920
+what does this what we're worried about
+
+957
+00:49:22,630 --> 00:49:28,630
+is this that we now have more co2 in the
+
+958
+00:49:26,920 --> 00:49:31,930
+atmosphere than the earth is seen in the
+
+959
+00:49:28,630 --> 00:49:34,960
+last million years or maybe more and the
+
+960
+00:49:31,930 --> 00:49:37,059
+question is what is the earth going to
+
+961
+00:49:34,960 --> 00:49:40,239
+do how is the atmosphere going to
+
+962
+00:49:37,059 --> 00:49:45,760
+respond we can also look at other
+
+963
+00:49:40,239 --> 00:49:47,170
+greenhouse gases so this is years ago
+
+964
+00:49:45,760 --> 00:49:49,510
+I think it got cut offs it's time to
+
+965
+00:49:47,170 --> 00:49:52,030
+forked 2005 when this was made and
+
+966
+00:49:49,510 --> 00:49:53,950
+they're looking at methane and now
+
+967
+00:49:52,030 --> 00:49:56,950
+they're looking at ppb parts per billion
+
+968
+00:49:53,950 --> 00:49:58,480
+they're getting it out of the ice so you
+
+969
+00:49:56,950 --> 00:50:01,390
+can see from about ten thousand years
+
+970
+00:49:58,480 --> 00:50:04,200
+ago to pretty close to the present day
+
+971
+00:50:01,390 --> 00:50:08,110
+there wasn't a lot of variation in
+
+972
+00:50:04,200 --> 00:50:09,760
+methane remember methane is a pretty
+
+973
+00:50:08,110 --> 00:50:11,230
+strong greenhouse gas there's not much
+
+974
+00:50:09,760 --> 00:50:13,540
+of it in the atmosphere but it's a
+
+975
+00:50:11,230 --> 00:50:14,800
+pretty strong gas and then starting
+
+976
+00:50:13,540 --> 00:50:16,630
+there and they're zooming in here is
+
+977
+00:50:14,800 --> 00:50:20,010
+what they're doing starting about you
+
+978
+00:50:16,630 --> 00:50:23,230
+know 1900 or so we see a big uptick in
+
+979
+00:50:20,010 --> 00:50:25,420
+methane so methane is probably higher
+
+980
+00:50:23,230 --> 00:50:28,630
+now than it's been in the past million
+
+981
+00:50:25,420 --> 00:50:30,700
+years or if you remember from the last
+
+982
+00:50:28,630 --> 00:50:34,300
+lecture another a strong greenhouse gas
+
+983
+00:50:30,700 --> 00:50:36,280
+is nitrous oxide again parts per billion
+
+984
+00:50:34,300 --> 00:50:38,500
+there's not a lot in the atmosphere that
+
+985
+00:50:36,280 --> 00:50:39,790
+you see some error bars so it's it's
+
+986
+00:50:38,500 --> 00:50:43,000
+there's more uncertainty in the
+
+987
+00:50:39,790 --> 00:50:44,310
+measurements but again back ten thousand
+
+988
+00:50:43,000 --> 00:50:46,660
+years ago
+
+989
+00:50:44,310 --> 00:50:48,790
+the amount of nitrous oxide stayed
+
+990
+00:50:46,660 --> 00:50:52,330
+pretty constant until we get to again
+
+991
+00:50:48,790 --> 00:50:53,950
+about late 1800s 1900 and it starts to
+
+992
+00:50:52,330 --> 00:50:56,140
+take off again that's higher now than
+
+993
+00:50:53,950 --> 00:51:00,250
+it's been in the last hundred thousand
+
+994
+00:50:56,140 --> 00:51:01,240
+year our last million years or so so one
+
+995
+00:51:00,250 --> 00:51:02,650
+of the things they've done is
+
+996
+00:51:01,240 --> 00:51:05,290
+reconstructed what we call the
+
+997
+00:51:02,650 --> 00:51:08,260
+pre-industrial atmospheric concentration
+
+998
+00:51:05,290 --> 00:51:12,970
+so we talked about the industrial age
+
+999
+00:51:08,260 --> 00:51:15,220
+that roughly correlates to like 1800 ish
+
+1000
+00:51:12,970 --> 00:51:18,370
+or 1850 different definitions of
+
+1001
+00:51:15,220 --> 00:51:20,350
+industrial revolution but sort of when
+
+1002
+00:51:18,370 --> 00:51:25,210
+humans started with steam engines and
+
+1003
+00:51:20,350 --> 00:51:29,230
+burning a lot of coal C 1850 we'll just
+
+1004
+00:51:25,210 --> 00:51:31,750
+use that as a number co2 is about 280
+
+1005
+00:51:29,230 --> 00:51:35,410
+parts per million so in other words if
+
+1006
+00:51:31,750 --> 00:51:37,750
+the industrial revolution didn't happen
+
+1007
+00:51:35,410 --> 00:51:40,750
+in all the things that humans have done
+
+1008
+00:51:37,750 --> 00:51:42,820
+since then didn't happen we'd expect the
+
+1009
+00:51:40,750 --> 00:51:44,980
+atmosphere to have about 280 parts per
+
+1010
+00:51:42,820 --> 00:51:48,970
+million and as we just saw a few slides
+
+1011
+00:51:44,980 --> 00:51:50,920
+ago it's currently over 400 they've also
+
+1012
+00:51:48,970 --> 00:51:53,980
+established some other ones methane
+
+1013
+00:51:50,920 --> 00:51:57,130
+nitrous oxide few others but these
+
+1014
+00:51:53,980 --> 00:51:59,380
+numbers here the pre-industrial amounts
+
+1015
+00:51:57,130 --> 00:52:02,830
+that is what
+
+1016
+00:51:59,380 --> 00:52:04,480
+the concentrations should be and then
+
+1017
+00:52:02,830 --> 00:52:05,830
+these numbers here are what they
+
+1018
+00:52:04,480 --> 00:52:07,570
+currently are and actually this is
+
+1019
+00:52:05,830 --> 00:52:12,240
+already obsolete so they're even higher
+
+1020
+00:52:07,570 --> 00:52:12,240
+than what is what is shown here
+
+1021
+00:52:14,250 --> 00:52:22,300
+so in conclusion whether you look at co2
+
+1022
+00:52:19,540 --> 00:52:23,830
+or methane or nitrous oxide we've got
+
+1023
+00:52:22,300 --> 00:52:24,940
+more greenhouse gases in the atmosphere
+
+1024
+00:52:23,830 --> 00:52:27,550
+right now
+
+1025
+00:52:24,940 --> 00:52:31,870
+then the earth is seen in the past about
+
+1026
+00:52:27,550 --> 00:52:35,020
+million years maybe more what's going to
+
+1027
+00:52:31,870 --> 00:52:38,500
+happen and the short answer is we're not
+
+1028
+00:52:35,020 --> 00:52:40,860
+totally sure so we know that there are
+
+1029
+00:52:38,500 --> 00:52:44,290
+natural variations in greenhouse gases
+
+1030
+00:52:40,860 --> 00:52:47,230
+so we saw the co2 go up and down in the
+
+1031
+00:52:44,290 --> 00:52:50,530
+past but it's never been as high as it
+
+1032
+00:52:47,230 --> 00:52:54,100
+is today so one of the questions is what
+
+1033
+00:52:50,530 --> 00:52:55,150
+is the climate system going to do and
+
+1034
+00:52:54,100 --> 00:52:57,100
+we're going to talk more about this in
+
+1035
+00:52:55,150 --> 00:52:59,500
+the future lecture but one of the big
+
+1036
+00:52:57,100 --> 00:53:02,530
+worries is we're not totally sure what
+
+1037
+00:52:59,500 --> 00:53:04,720
+is going to do we know things are
+
+1038
+00:53:02,530 --> 00:53:07,750
+warming up we can predict how they're
+
+1039
+00:53:04,720 --> 00:53:10,240
+going to warm more in the future but
+
+1040
+00:53:07,750 --> 00:53:11,500
+could there be something else that's
+
+1041
+00:53:10,240 --> 00:53:14,110
+going to happen and we'll talk more
+
+1042
+00:53:11,500 --> 00:53:17,070
+about that in a future lecture all right
+
+1043
+00:53:14,110 --> 00:53:17,070
+thanks
+
+1044
+00:53:26,099 --> 00:53:28,160
+you
+

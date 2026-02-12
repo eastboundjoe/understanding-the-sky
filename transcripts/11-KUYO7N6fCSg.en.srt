@@ -1,0 +1,6972 @@
+1
+00:00:06,680 --> 00:00:10,830
+hey how you doing this is Mel strong and
+
+2
+00:00:09,389 --> 00:00:13,530
+this lecture is on temperature
+
+3
+00:00:10,830 --> 00:00:15,120
+inversions and air pollution and we're
+
+4
+00:00:13,530 --> 00:00:17,820
+going to start by looking at the
+
+5
+00:00:15,120 --> 00:00:19,650
+structure of Earth's atmosphere now we
+
+6
+00:00:17,820 --> 00:00:21,750
+know something about this because every
+
+7
+00:00:19,650 --> 00:00:23,850
+day we launch weather balloons up into
+
+8
+00:00:21,750 --> 00:00:25,740
+the atmosphere to collect data and
+
+9
+00:00:23,850 --> 00:00:27,269
+here's an example of one of these
+
+10
+00:00:25,740 --> 00:00:29,250
+weather balloons at this guy's holding
+
+11
+00:00:27,269 --> 00:00:32,430
+he's got this whole box here and that
+
+12
+00:00:29,250 --> 00:00:34,050
+box is called the radiosonde and it's
+
+13
+00:00:32,430 --> 00:00:35,850
+like a little weather station and that a
+
+14
+00:00:34,050 --> 00:00:37,739
+records temperature and humidity and
+
+15
+00:00:35,850 --> 00:00:40,770
+wind and all this kinds of stuff and it
+
+16
+00:00:37,739 --> 00:00:42,629
+beams it back to earth wirelessly so all
+
+17
+00:00:40,770 --> 00:00:44,280
+he does is let go of this balloon and it
+
+18
+00:00:42,629 --> 00:00:46,950
+goes up through the atmosphere and as it
+
+19
+00:00:44,280 --> 00:00:49,079
+goes up it expands because we said
+
+20
+00:00:46,950 --> 00:00:51,930
+rising parcels of air always have to
+
+21
+00:00:49,079 --> 00:00:54,090
+expand and cool well eventually this
+
+22
+00:00:51,930 --> 00:00:56,039
+will expand so much that it will pop and
+
+23
+00:00:54,090 --> 00:00:58,500
+this will fall back to earth with a
+
+24
+00:00:56,039 --> 00:01:00,930
+little parachute now there's a whole
+
+25
+00:00:58,500 --> 00:01:03,000
+network of airports around the world
+
+26
+00:01:00,930 --> 00:01:05,280
+that are designated spots to launch
+
+27
+00:01:03,000 --> 00:01:07,470
+weather balloons and we do it every 12
+
+28
+00:01:05,280 --> 00:01:09,689
+hours and the reason for this is in
+
+29
+00:01:07,470 --> 00:01:11,700
+weather forecasting you need to know
+
+30
+00:01:09,689 --> 00:01:14,220
+what the conditions are up in the upper
+
+31
+00:01:11,700 --> 00:01:16,530
+part of the atmosphere so it turns out
+
+32
+00:01:14,220 --> 00:01:18,509
+that Albuquerque's Airport the Sunport
+
+33
+00:01:16,530 --> 00:01:20,700
+is one of these airports that launches
+
+34
+00:01:18,509 --> 00:01:22,049
+weather balloons so about five or six in
+
+35
+00:01:20,700 --> 00:01:25,259
+the morning and five or six in the
+
+36
+00:01:22,049 --> 00:01:27,090
+evening we'll launch one of these and as
+
+37
+00:01:25,259 --> 00:01:29,909
+it goes up to the atmosphere it collects
+
+38
+00:01:27,090 --> 00:01:32,220
+data and here's an example of some data
+
+39
+00:01:29,909 --> 00:01:35,159
+that was collected as an afternoon on
+
+40
+00:01:32,220 --> 00:01:37,520
+the July 4th and so this one probably
+
+41
+00:01:35,159 --> 00:01:40,380
+went up at 5:00 in the afternoon and
+
+42
+00:01:37,520 --> 00:01:43,380
+here on the x-axis that's air
+
+43
+00:01:40,380 --> 00:01:45,360
+temperature in the y-axis is height so
+
+44
+00:01:43,380 --> 00:01:47,759
+the red represents the temperature that
+
+45
+00:01:45,360 --> 00:01:50,189
+the weather balloon a sensed as it was
+
+46
+00:01:47,759 --> 00:01:52,740
+ascending up into the atmosphere so here
+
+47
+00:01:50,189 --> 00:01:55,799
+at the surface you can see before the
+
+48
+00:01:52,740 --> 00:01:57,570
+weather balloon was let go it was 90
+
+49
+00:01:55,799 --> 00:01:59,610
+degrees at the surface and as soon as it
+
+50
+00:01:57,570 --> 00:02:01,890
+was launched the weather balloon noticed
+
+51
+00:01:59,610 --> 00:02:04,200
+that it whether the air is getting
+
+52
+00:02:01,890 --> 00:02:06,899
+colder with height and then it gets to
+
+53
+00:02:04,200 --> 00:02:09,660
+about 50,000 feet and suddenly you
+
+54
+00:02:06,899 --> 00:02:12,720
+notice that it starts getting warmer
+
+55
+00:02:09,660 --> 00:02:13,710
+with height this inflection point right
+
+56
+00:02:12,720 --> 00:02:16,110
+here we talked about
+
+57
+00:02:13,710 --> 00:02:18,260
+before when we talked about clouds and
+
+58
+00:02:16,110 --> 00:02:20,580
+how we said that this makes a natural
+
+59
+00:02:18,260 --> 00:02:22,680
+break between two layers in the
+
+60
+00:02:20,580 --> 00:02:25,770
+atmosphere this is called the tropopause
+
+61
+00:02:22,680 --> 00:02:28,590
+and it's a surface between all the air
+
+62
+00:02:25,770 --> 00:02:30,210
+below which is the troposphere and they
+
+63
+00:02:28,590 --> 00:02:33,540
+all the air above which is the
+
+64
+00:02:30,210 --> 00:02:36,330
+stratosphere now we didn't talk to the
+
+65
+00:02:33,540 --> 00:02:38,280
+time why it gets warmer with height now
+
+66
+00:02:36,330 --> 00:02:39,810
+in this case what happened is the
+
+67
+00:02:38,280 --> 00:02:42,300
+weather one popped at about a hundred
+
+68
+00:02:39,810 --> 00:02:43,770
+thousand feet but if it could have kept
+
+69
+00:02:42,300 --> 00:02:46,770
+going it would have noticed that it
+
+70
+00:02:43,770 --> 00:02:48,990
+continued to get warmer with height so
+
+71
+00:02:46,770 --> 00:02:51,660
+if you could look up in this in the
+
+72
+00:02:48,990 --> 00:02:54,540
+stratosphere what you would see is there
+
+73
+00:02:51,660 --> 00:02:56,490
+a small number of these molecules of
+
+74
+00:02:54,540 --> 00:02:58,890
+what we call ozone which are three
+
+75
+00:02:56,490 --> 00:03:03,330
+oxygen molecules bonded together oh
+
+76
+00:02:58,890 --> 00:03:05,070
+three an ozone hangs out there's not
+
+77
+00:03:03,330 --> 00:03:07,290
+much of it up there but it hangs out in
+
+78
+00:03:05,070 --> 00:03:09,570
+the in the stratosphere and if
+
+79
+00:03:07,290 --> 00:03:12,270
+ultraviolet light comes in from the Sun
+
+80
+00:03:09,570 --> 00:03:14,910
+and UV light is what gives you a sunburn
+
+81
+00:03:12,270 --> 00:03:17,880
+right so we have UV light here at the
+
+82
+00:03:14,910 --> 00:03:20,100
+surface but we don't have nearly as much
+
+83
+00:03:17,880 --> 00:03:22,350
+at the surface as we would at the top of
+
+84
+00:03:20,100 --> 00:03:25,080
+the atmosphere because when the UV light
+
+85
+00:03:22,350 --> 00:03:27,720
+comes down through this ozone you know
+
+86
+00:03:25,080 --> 00:03:30,480
+strike an ozone molecule and it'll break
+
+87
+00:03:27,720 --> 00:03:33,210
+the ozone into two pieces and o2 and an
+
+88
+00:03:30,480 --> 00:03:35,670
+O now eventually through a number of
+
+89
+00:03:33,210 --> 00:03:38,550
+steps these two pieces will come back
+
+90
+00:03:35,670 --> 00:03:41,430
+together and make a new ozone but when
+
+91
+00:03:38,550 --> 00:03:44,040
+it breaks it apart two things happen for
+
+92
+00:03:41,430 --> 00:03:45,930
+one the UV is blocked it doesn't reach
+
+93
+00:03:44,040 --> 00:03:46,500
+the surface of the earth that's a good
+
+94
+00:03:45,930 --> 00:03:49,260
+news for us
+
+95
+00:03:46,500 --> 00:03:52,890
+and number two it releases a little bit
+
+96
+00:03:49,260 --> 00:03:54,420
+of heat so all of these ozone molecules
+
+97
+00:03:52,890 --> 00:03:56,940
+floating around up in the stratosphere
+
+98
+00:03:54,420 --> 00:03:59,790
+are getting whacked with UV radiation
+
+99
+00:03:56,940 --> 00:04:02,190
+all the time and as a result it's adding
+
+100
+00:03:59,790 --> 00:04:04,530
+warmth to the stratosphere which is why
+
+101
+00:04:02,190 --> 00:04:08,910
+the stratosphere actually gets warmer
+
+102
+00:04:04,530 --> 00:04:10,800
+with height now the amount of UV that
+
+103
+00:04:08,910 --> 00:04:12,720
+comes in from the upper atmosphere is so
+
+104
+00:04:10,800 --> 00:04:15,060
+great that we wouldn't actually be able
+
+105
+00:04:12,720 --> 00:04:17,070
+to exist on the surface if it wasn't for
+
+106
+00:04:15,060 --> 00:04:19,530
+the ozone layer there's so much
+
+107
+00:04:17,070 --> 00:04:22,049
+radiation coming from the Sun you're
+
+108
+00:04:19,530 --> 00:04:23,880
+essentially sterilized the planet so the
+
+109
+00:04:22,049 --> 00:04:25,860
+amount of UV that gives us sunburns is
+
+110
+00:04:23,880 --> 00:04:27,030
+just a tiny tiny percent of the amount
+
+111
+00:04:25,860 --> 00:04:28,620
+of UV
+
+112
+00:04:27,030 --> 00:04:31,860
+would normally hit the surface if it
+
+113
+00:04:28,620 --> 00:04:34,380
+wasn't for this ozone layer
+
+114
+00:04:31,860 --> 00:04:36,750
+so this ozone layer is super beneficial
+
+115
+00:04:34,380 --> 00:04:38,330
+to not just humans but to all life on
+
+116
+00:04:36,750 --> 00:04:41,639
+Earth at least everything on the land
+
+117
+00:04:38,330 --> 00:04:45,090
+but it's actually been declining over
+
+118
+00:04:41,639 --> 00:04:47,400
+the past several decades so here we have
+
+119
+00:04:45,090 --> 00:04:50,580
+a couple images of the ozone in the
+
+120
+00:04:47,400 --> 00:04:52,860
+southern hemisphere and we're looking at
+
+121
+00:04:50,580 --> 00:04:54,840
+colors that represent how much ozone is
+
+122
+00:04:52,860 --> 00:04:58,110
+in the stratosphere so the blue
+
+123
+00:04:54,840 --> 00:04:59,810
+represents very little ozone or as the
+
+124
+00:04:58,110 --> 00:05:02,700
+greens and yellows that's more ozone
+
+125
+00:04:59,810 --> 00:05:05,160
+that's the South Pole and you can kind
+
+126
+00:05:02,700 --> 00:05:08,430
+of make out Antarctica down there so
+
+127
+00:05:05,160 --> 00:05:12,150
+we've got to mid two images one in 1979
+
+128
+00:05:08,430 --> 00:05:15,870
+one in 2012 and you can see how it's
+
+129
+00:05:12,150 --> 00:05:18,840
+more that blue is in the 2012 image this
+
+130
+00:05:15,870 --> 00:05:22,260
+is what we what we refer to as the ozone
+
+131
+00:05:18,840 --> 00:05:25,380
+hole is this area kind of centered in
+
+132
+00:05:22,260 --> 00:05:27,419
+the southern hemisphere where UV
+
+133
+00:05:25,380 --> 00:05:29,460
+radiation can go right through that and
+
+134
+00:05:27,419 --> 00:05:32,040
+strike the surface below because there's
+
+135
+00:05:29,460 --> 00:05:33,600
+very little ozone here now
+
+136
+00:05:32,040 --> 00:05:36,090
+there's not a lot of people living in
+
+137
+00:05:33,600 --> 00:05:39,060
+Antarctica so it hasn't been a huge
+
+138
+00:05:36,090 --> 00:05:41,520
+hazard for human health but this was
+
+139
+00:05:39,060 --> 00:05:44,160
+discovered in the 1980s and there is a
+
+140
+00:05:41,520 --> 00:05:45,840
+big worry in that this ozone hole was
+
+141
+00:05:44,160 --> 00:05:47,070
+going to continue to grow because they
+
+142
+00:05:45,840 --> 00:05:48,720
+could see it growing and there's a
+
+143
+00:05:47,070 --> 00:05:51,300
+there's a fear that it would actually
+
+144
+00:05:48,720 --> 00:05:53,430
+engulf the whole planet and if it did if
+
+145
+00:05:51,300 --> 00:05:55,050
+we lost the ozone layer you know we
+
+146
+00:05:53,430 --> 00:05:59,250
+couldn't survive on land so it was a
+
+147
+00:05:55,050 --> 00:06:01,650
+pretty big deal so scientists started
+
+148
+00:05:59,250 --> 00:06:03,450
+looking at this in the 1970s and they
+
+149
+00:06:01,650 --> 00:06:05,340
+realized that there is this family of
+
+150
+00:06:03,450 --> 00:06:08,910
+molecules that we were manufacturing
+
+151
+00:06:05,340 --> 00:06:11,039
+called chlorofluorocarbons or CFCs and
+
+152
+00:06:08,910 --> 00:06:13,470
+they get their name because they have
+
+153
+00:06:11,039 --> 00:06:15,240
+one at least one atom of chlorine one
+
+154
+00:06:13,470 --> 00:06:17,940
+atom of fluorine and one atom of carbon
+
+155
+00:06:15,240 --> 00:06:22,470
+in their molecular structure so here's a
+
+156
+00:06:17,940 --> 00:06:24,120
+simple one called freon 11 and freon 11
+
+157
+00:06:22,470 --> 00:06:27,270
+is a type of refrigerant it's supposed
+
+158
+00:06:24,120 --> 00:06:30,000
+to be inside the guts of a refrigerator
+
+159
+00:06:27,270 --> 00:06:31,770
+or air-conditioner and as long as it's
+
+160
+00:06:30,000 --> 00:06:33,870
+in there it's safe but if it ever gets
+
+161
+00:06:31,770 --> 00:06:35,310
+out and it gets into the atmosphere and
+
+162
+00:06:33,870 --> 00:06:38,640
+if it makes it way up to the
+
+163
+00:06:35,310 --> 00:06:40,260
+stratosphere a CFC molecule will attach
+
+164
+00:06:38,640 --> 00:06:42,630
+itself to an ozone
+
+165
+00:06:40,260 --> 00:06:44,850
+it'll break it apart and then those two
+
+166
+00:06:42,630 --> 00:06:46,380
+parts can't actually get back together
+
+167
+00:06:44,850 --> 00:06:50,400
+like they could if they were broken
+
+168
+00:06:46,380 --> 00:06:54,350
+apart by UV a single CFC molecule can
+
+169
+00:06:50,400 --> 00:06:58,020
+destroy thousands of ozone molecules and
+
+170
+00:06:54,350 --> 00:07:00,150
+back in the day they used CFCs for all
+
+171
+00:06:58,020 --> 00:07:03,360
+kinds of things so they were a popular
+
+172
+00:07:00,150 --> 00:07:05,790
+propellant in aerosol cans so if you had
+
+173
+00:07:03,360 --> 00:07:08,400
+if you bought any kind of anything in a
+
+174
+00:07:05,790 --> 00:07:11,430
+spray can back in the 70s it had CFCs as
+
+175
+00:07:08,400 --> 00:07:14,520
+a propellant we use it as refrigerants
+
+176
+00:07:11,430 --> 00:07:17,160
+and air conditioners it made very nice
+
+177
+00:07:14,520 --> 00:07:19,440
+cleaning solvents so it was a very
+
+178
+00:07:17,160 --> 00:07:24,240
+useful family of chemicals that were
+
+179
+00:07:19,440 --> 00:07:26,040
+being made well by the mid-1980s it was
+
+180
+00:07:24,240 --> 00:07:27,930
+recognized that the ozone layer was
+
+181
+00:07:26,040 --> 00:07:31,500
+thinning and there was a formation of
+
+182
+00:07:27,930 --> 00:07:33,600
+this ozone hole over Antarctica so
+
+183
+00:07:31,500 --> 00:07:35,460
+people started to panic because they
+
+184
+00:07:33,600 --> 00:07:38,190
+realized this is a super bad thing to
+
+185
+00:07:35,460 --> 00:07:40,830
+happen and in 1987 a bunch of countries
+
+186
+00:07:38,190 --> 00:07:42,390
+got together and foreign what was called
+
+187
+00:07:40,830 --> 00:07:44,820
+the Montreal Protocol and it's like a
+
+188
+00:07:42,390 --> 00:07:47,510
+treaty among nations and the agreement
+
+189
+00:07:44,820 --> 00:07:51,240
+was everybody we need to stop
+
+190
+00:07:47,510 --> 00:07:53,820
+manufacturing CFCs and the rich
+
+191
+00:07:51,240 --> 00:07:57,090
+countries agreed to go first and this
+
+192
+00:07:53,820 --> 00:08:00,660
+continued CFCs and then poorer countries
+
+193
+00:07:57,090 --> 00:08:03,510
+would discontinue it later on well as
+
+194
+00:08:00,660 --> 00:08:06,720
+they watch the ozone hole grow and grow
+
+195
+00:08:03,510 --> 00:08:08,670
+in the 80s and the 90s they got back
+
+196
+00:08:06,720 --> 00:08:11,040
+together in the 90s a couple more times
+
+197
+00:08:08,670 --> 00:08:14,310
+and signed a couple new treaties to kind
+
+198
+00:08:11,040 --> 00:08:16,110
+of speed this whole process up by 2006
+
+199
+00:08:14,310 --> 00:08:19,380
+the ozone hole is the largest had ever
+
+200
+00:08:16,110 --> 00:08:22,710
+been and by 2015
+
+201
+00:08:19,380 --> 00:08:25,020
+finally all of the countries were in on
+
+202
+00:08:22,710 --> 00:08:27,690
+the you know ending the production of
+
+203
+00:08:25,020 --> 00:08:30,480
+CFCs so it took 30 years from the time
+
+204
+00:08:27,690 --> 00:08:33,419
+that they discovered this - when finally
+
+205
+00:08:30,480 --> 00:08:35,070
+everybody stop making CFCs now just
+
+206
+00:08:33,419 --> 00:08:37,919
+because they stopped making them doesn't
+
+207
+00:08:35,070 --> 00:08:40,020
+mean the problems over because a lot of
+
+208
+00:08:37,919 --> 00:08:42,419
+the CFCs in the atmosphere they'll last
+
+209
+00:08:40,020 --> 00:08:44,310
+hundreds or thousands of years and a lot
+
+210
+00:08:42,419 --> 00:08:49,170
+of them haven't even gotten up to the
+
+211
+00:08:44,310 --> 00:08:51,720
+stratosphere yet but after years of
+
+212
+00:08:49,170 --> 00:08:53,550
+decline and this is this is a how much
+
+213
+00:08:51,720 --> 00:08:55,709
+ozone is in that
+
+214
+00:08:53,550 --> 00:08:57,420
+lair the atmosphere so in the 50s and
+
+215
+00:08:55,709 --> 00:08:59,670
+60s this is kind of how much ozone
+
+216
+00:08:57,420 --> 00:09:02,370
+should be up there and we see the
+
+217
+00:08:59,670 --> 00:09:03,600
+decline start in the 70s and the 80s and
+
+218
+00:09:02,370 --> 00:09:05,550
+right and here is kind of where people
+
+219
+00:09:03,600 --> 00:09:08,490
+were panicking and starting those
+
+220
+00:09:05,550 --> 00:09:11,370
+treaties we see it looks like it kind of
+
+221
+00:09:08,490 --> 00:09:13,950
+bottomed out here in the mid 90s to 2000
+
+222
+00:09:11,370 --> 00:09:16,079
+technically right there that's the where
+
+223
+00:09:13,950 --> 00:09:18,690
+it was the the biggest that was owned
+
+224
+00:09:16,079 --> 00:09:21,510
+homes the biggest in 2006 but what we
+
+225
+00:09:18,690 --> 00:09:23,760
+see is that very slowly in the last few
+
+226
+00:09:21,510 --> 00:09:26,310
+years the ozone is starting to come back
+
+227
+00:09:23,760 --> 00:09:28,290
+now it's going to take decades maybe 100
+
+228
+00:09:26,310 --> 00:09:30,540
+years or more for the ozone layer to
+
+229
+00:09:28,290 --> 00:09:32,940
+come back to the layer to the you know
+
+230
+00:09:30,540 --> 00:09:35,730
+amounts that it was previously but
+
+231
+00:09:32,940 --> 00:09:37,140
+because there were these this protocol
+
+232
+00:09:35,730 --> 00:09:38,760
+because there were these treaties
+
+233
+00:09:37,140 --> 00:09:41,310
+because the countries came together and
+
+234
+00:09:38,760 --> 00:09:44,070
+greed this is a worldwide environmental
+
+235
+00:09:41,310 --> 00:09:45,839
+problem and they agreed to sign the
+
+236
+00:09:44,070 --> 00:09:48,990
+treaty and they agreed to stick with it
+
+237
+00:09:45,839 --> 00:09:51,450
+the ozone hole is actually a problem
+
+238
+00:09:48,990 --> 00:09:53,550
+that we have humans have solved I mean
+
+239
+00:09:51,450 --> 00:09:55,920
+it hasn't been has been fixed yet but
+
+240
+00:09:53,550 --> 00:09:57,320
+it's on its way to recovery and this is
+
+241
+00:09:55,920 --> 00:09:59,760
+a model that we're going to talk about
+
+242
+00:09:57,320 --> 00:10:02,490
+when we talked about air pollution and
+
+243
+00:09:59,760 --> 00:10:04,920
+later greenhouse gases is can we get all
+
+244
+00:10:02,490 --> 00:10:07,350
+the countries together to agree to clean
+
+245
+00:10:04,920 --> 00:10:09,660
+up the air in to clean up problems that
+
+246
+00:10:07,350 --> 00:10:11,339
+affect everybody on the planet and not
+
+247
+00:10:09,660 --> 00:10:14,870
+just the country that's making the
+
+248
+00:10:11,339 --> 00:10:17,880
+chemicals so we're going to return to
+
+249
+00:10:14,870 --> 00:10:20,510
+examining these two layers and so far
+
+250
+00:10:17,880 --> 00:10:23,220
+what we've said is that the troposphere
+
+251
+00:10:20,510 --> 00:10:24,990
+is characterized by the fact that it
+
+252
+00:10:23,220 --> 00:10:27,209
+gets cooler with height or as the
+
+253
+00:10:24,990 --> 00:10:29,220
+stratosphere gets warmer with height we
+
+254
+00:10:27,209 --> 00:10:32,790
+also said that the stratosphere has
+
+255
+00:10:29,220 --> 00:10:35,190
+ozone and the troposphere does not now
+
+256
+00:10:32,790 --> 00:10:37,050
+there's also several other very
+
+257
+00:10:35,190 --> 00:10:40,079
+important differences notice what
+
+258
+00:10:37,050 --> 00:10:42,029
+happens with dew point so dew point at
+
+259
+00:10:40,079 --> 00:10:44,370
+the surface was about 40 degrees and
+
+260
+00:10:42,029 --> 00:10:46,199
+then you see it goes down down down down
+
+261
+00:10:44,370 --> 00:10:48,149
+and by the time you get to the
+
+262
+00:10:46,199 --> 00:10:52,350
+stratosphere the dew points like minus
+
+263
+00:10:48,149 --> 00:10:54,180
+100 so that's super super dry air most
+
+264
+00:10:52,350 --> 00:10:57,390
+of the moisture in the atmosphere is
+
+265
+00:10:54,180 --> 00:10:59,550
+down near the surface okay and in fact
+
+266
+00:10:57,390 --> 00:11:02,130
+if we look at what's happening in the
+
+267
+00:10:59,550 --> 00:11:03,690
+troposphere itself it has almost
+
+268
+00:11:02,130 --> 00:11:06,540
+anything you'd be interested in
+
+269
+00:11:03,690 --> 00:11:07,139
+regarding whether all the clouds are in
+
+270
+00:11:06,540 --> 00:11:09,929
+the tropics
+
+271
+00:11:07,139 --> 00:11:12,209
+here 99% of all the water vapors in the
+
+272
+00:11:09,929 --> 00:11:13,709
+troposphere everything you think of as
+
+273
+00:11:12,209 --> 00:11:17,549
+weather is happening in the troposphere
+
+274
+00:11:13,709 --> 00:11:19,739
+and in fact 75% of all the air molecules
+
+275
+00:11:17,549 --> 00:11:23,249
+in the entire atmosphere are in the
+
+276
+00:11:19,739 --> 00:11:25,949
+troposphere now what's the stratosphere
+
+277
+00:11:23,249 --> 00:11:29,189
+like well some people that have more
+
+278
+00:11:25,949 --> 00:11:31,290
+expendable than income than I do get
+
+279
+00:11:29,189 --> 00:11:32,339
+cellphones and by weather balloons
+
+280
+00:11:31,290 --> 00:11:33,929
+because anybody can buy a weather
+
+281
+00:11:32,339 --> 00:11:35,609
+balloon and they tie their cell phone to
+
+282
+00:11:33,929 --> 00:11:37,410
+the weather balloon and they launch it I
+
+283
+00:11:35,609 --> 00:11:39,059
+think I guess they have some app that
+
+284
+00:11:37,410 --> 00:11:41,339
+just automatically takes pictures and
+
+285
+00:11:39,059 --> 00:11:44,009
+then they use like their find your phone
+
+286
+00:11:41,339 --> 00:11:46,649
+feature to find the phone when it lands
+
+287
+00:11:44,009 --> 00:11:48,419
+somewhere and so here's a picture taken
+
+288
+00:11:46,649 --> 00:11:50,730
+in a hundred thousand feet this is how
+
+289
+00:11:48,419 --> 00:11:53,040
+this is right here where our weather
+
+290
+00:11:50,730 --> 00:11:56,669
+balloon popped this is what it looks
+
+291
+00:11:53,040 --> 00:11:57,720
+like notice that the sky is black you
+
+292
+00:11:56,669 --> 00:11:59,939
+can see the curvature of the earth
+
+293
+00:11:57,720 --> 00:12:02,309
+if you didn't know any better you just
+
+294
+00:11:59,939 --> 00:12:04,379
+think you're in space but this is how
+
+295
+00:12:02,309 --> 00:12:05,939
+little air is actually in the
+
+296
+00:12:04,379 --> 00:12:09,169
+stratosphere by the time you get up
+
+297
+00:12:05,939 --> 00:12:12,149
+there this guy is black from lack of air
+
+298
+00:12:09,169 --> 00:12:13,949
+remember this guy a few years ago he
+
+299
+00:12:12,149 --> 00:12:16,139
+jumped out of a balloon to set a world
+
+300
+00:12:13,949 --> 00:12:19,379
+record and he decided to jump out over
+
+301
+00:12:16,139 --> 00:12:22,079
+New Mexico and when he jumped out he was
+
+302
+00:12:19,379 --> 00:12:23,639
+at 128 thousand feet which is kind of
+
+303
+00:12:22,079 --> 00:12:25,949
+roughly right in the middle of the
+
+304
+00:12:23,639 --> 00:12:28,439
+stratosphere and again in these pictures
+
+305
+00:12:25,949 --> 00:12:29,970
+it looks like he's in space right black
+
+306
+00:12:28,439 --> 00:12:33,439
+sky you see the curvature of the earth
+
+307
+00:12:29,970 --> 00:12:36,329
+looks like he's wearing a spacesuit so
+
+308
+00:12:33,439 --> 00:12:38,999
+even though when you looking at in a
+
+309
+00:12:36,329 --> 00:12:41,369
+textbook they will show that the
+
+310
+00:12:38,999 --> 00:12:43,919
+atmosphere has many layers here's the
+
+311
+00:12:41,369 --> 00:12:45,179
+troposphere here's the stratosphere and
+
+312
+00:12:43,919 --> 00:12:47,069
+then above that something called the
+
+313
+00:12:45,179 --> 00:12:49,589
+mesosphere and above that something kind
+
+314
+00:12:47,069 --> 00:12:51,539
+of thermosphere it looks like the
+
+315
+00:12:49,589 --> 00:12:53,279
+atmosphere is pretty thick but by the
+
+316
+00:12:51,539 --> 00:12:55,709
+time you get up to here where those
+
+317
+00:12:53,279 --> 00:12:57,629
+pictures were taken it's already so
+
+318
+00:12:55,709 --> 00:13:00,749
+little air that the sky is black and
+
+319
+00:12:57,629 --> 00:13:03,779
+like we said 75% of the air is in this
+
+320
+00:13:00,749 --> 00:13:06,299
+troposphere region so the atmosphere is
+
+321
+00:13:03,779 --> 00:13:08,970
+not as thick as his diagrams like this
+
+322
+00:13:06,299 --> 00:13:13,230
+imply most of these layers have very
+
+323
+00:13:08,970 --> 00:13:14,879
+very little hair in them so this brings
+
+324
+00:13:13,230 --> 00:13:16,759
+up another point that we haven't really
+
+325
+00:13:14,879 --> 00:13:20,560
+talked about yet but in a cumulonimbus
+
+326
+00:13:16,759 --> 00:13:23,800
+we've said that you can have an anvil
+
+327
+00:13:20,560 --> 00:13:26,050
+and the anvil itself is made of ice but
+
+328
+00:13:23,800 --> 00:13:28,090
+we haven't really talked about why it is
+
+329
+00:13:26,050 --> 00:13:30,460
+that the anvil grows in the first place
+
+330
+00:13:28,090 --> 00:13:33,460
+like why does it why is it flat on top
+
+331
+00:13:30,460 --> 00:13:35,200
+why doesn't it just keep going up so
+
+332
+00:13:33,460 --> 00:13:38,110
+here's another anvil from space
+
+333
+00:13:35,200 --> 00:13:39,970
+so convection is happening here and then
+
+334
+00:13:38,110 --> 00:13:42,400
+something's causing it to flatten out we
+
+335
+00:13:39,970 --> 00:13:46,089
+said that this is all ice but why is it
+
+336
+00:13:42,400 --> 00:13:49,270
+so flat well the reason it's flat is
+
+337
+00:13:46,089 --> 00:13:53,470
+because the cumulonimbus column is
+
+338
+00:13:49,270 --> 00:13:56,470
+coming up against the tropopause so warm
+
+339
+00:13:53,470 --> 00:13:58,089
+air can convict easily in the
+
+340
+00:13:56,470 --> 00:14:00,370
+troposphere most of the time because
+
+341
+00:13:58,089 --> 00:14:02,050
+it's getting colder with height so warm
+
+342
+00:14:00,370 --> 00:14:05,230
+air can rise through air that's getting
+
+343
+00:14:02,050 --> 00:14:06,880
+colder but up in the stratosphere we
+
+344
+00:14:05,230 --> 00:14:10,270
+have something called a temperature
+
+345
+00:14:06,880 --> 00:14:13,330
+inversion what that means is it's
+
+346
+00:14:10,270 --> 00:14:15,040
+getting warmer with height it's inverted
+
+347
+00:14:13,330 --> 00:14:16,720
+to what you expect you expect the
+
+348
+00:14:15,040 --> 00:14:18,670
+atmosphere normally it gets colder with
+
+349
+00:14:16,720 --> 00:14:21,820
+height the temperature inversion means
+
+350
+00:14:18,670 --> 00:14:24,670
+it's getting warmer with height well you
+
+351
+00:14:21,820 --> 00:14:27,250
+can't make warm air rise through air
+
+352
+00:14:24,670 --> 00:14:29,170
+that's getting warmer so anything that's
+
+353
+00:14:27,250 --> 00:14:32,350
+convecting anything that's rising from
+
+354
+00:14:29,170 --> 00:14:34,720
+the surface gets stuck right here at the
+
+355
+00:14:32,350 --> 00:14:37,420
+tropopause and for our key mule in the
+
+356
+00:14:34,720 --> 00:14:38,890
+mist that means that's the top so warm
+
+357
+00:14:37,420 --> 00:14:41,350
+if the conditions are right and we have
+
+358
+00:14:38,890 --> 00:14:43,240
+unstable air air will convict and it
+
+359
+00:14:41,350 --> 00:14:45,490
+will rise but when it gets to the
+
+360
+00:14:43,240 --> 00:14:47,740
+tropopause it will get stuck and it will
+
+361
+00:14:45,490 --> 00:14:50,410
+spread out right at the tropopause
+
+362
+00:14:47,740 --> 00:14:53,500
+right underneath the stratosphere so the
+
+363
+00:14:50,410 --> 00:14:55,540
+stratosphere really acts like a cap it
+
+364
+00:14:53,500 --> 00:14:59,800
+prevents convection from going any
+
+365
+00:14:55,540 --> 00:15:01,150
+further up now sometimes if the
+
+366
+00:14:59,800 --> 00:15:03,070
+conditions are right you can get
+
+367
+00:15:01,150 --> 00:15:06,070
+temperature inversions and other places
+
+368
+00:15:03,070 --> 00:15:08,260
+than the stratosphere so right here
+
+369
+00:15:06,070 --> 00:15:10,060
+there's a tiny little temperature
+
+370
+00:15:08,260 --> 00:15:11,860
+inversion here's a little temperature
+
+371
+00:15:10,060 --> 00:15:14,410
+inversion here's a little temperature
+
+372
+00:15:11,860 --> 00:15:17,080
+inversion and if I'm sending up a little
+
+373
+00:15:14,410 --> 00:15:21,760
+plume of warm air it's gonna get stuck
+
+374
+00:15:17,080 --> 00:15:23,980
+right there okay so this is critical
+
+375
+00:15:21,760 --> 00:15:27,339
+for air pollution so in other words
+
+376
+00:15:23,980 --> 00:15:30,850
+let's imagine that we have I really make
+
+377
+00:15:27,339 --> 00:15:32,230
+another graph like these and our graph
+
+378
+00:15:30,850 --> 00:15:33,370
+looks like this so the weather balloon
+
+379
+00:15:32,230 --> 00:15:38,320
+goes up
+
+380
+00:15:33,370 --> 00:15:40,120
+and it recognizes this kind of pattern
+
+381
+00:15:38,320 --> 00:15:41,980
+so it recognizes the fact that it got
+
+382
+00:15:40,120 --> 00:15:43,810
+colder with height and then he got
+
+383
+00:15:41,980 --> 00:15:45,910
+warmer a little bit and then it got
+
+384
+00:15:43,810 --> 00:15:48,420
+colder with height and right here
+
+385
+00:15:45,910 --> 00:15:52,180
+that's our stratosphere up here right
+
+386
+00:15:48,420 --> 00:15:56,440
+but this right here this thing right
+
+387
+00:15:52,180 --> 00:16:01,350
+here is a temperature inversion so let's
+
+388
+00:15:56,440 --> 00:16:05,680
+imagine that we have a city down here
+
+389
+00:16:01,350 --> 00:16:08,350
+and there's smoke coming out everybody m
+
+390
+00:16:05,680 --> 00:16:10,530
+nee when the smoke will rise cuz it's
+
+391
+00:16:08,350 --> 00:16:14,470
+warm but once it hits that inversion
+
+392
+00:16:10,530 --> 00:16:16,540
+it's going to get stuck and if I have a
+
+393
+00:16:14,470 --> 00:16:19,000
+whole city and a whole bunch of houses
+
+394
+00:16:16,540 --> 00:16:21,010
+and a whole bunch of cars and all the
+
+395
+00:16:19,000 --> 00:16:23,350
+pollution is trapped below this in
+
+396
+00:16:21,010 --> 00:16:25,090
+temperature inversion and as long as
+
+397
+00:16:23,350 --> 00:16:27,640
+this temperature inversion stays there
+
+398
+00:16:25,090 --> 00:16:32,110
+this pollution continues to be trapped
+
+399
+00:16:27,640 --> 00:16:34,440
+below it so sometimes you can see
+
+400
+00:16:32,110 --> 00:16:37,240
+something like this where you have
+
+401
+00:16:34,440 --> 00:16:39,370
+here's rising warm air it's just you
+
+402
+00:16:37,240 --> 00:16:41,500
+know it's a fire and then it hits a
+
+403
+00:16:39,370 --> 00:16:46,600
+temperature inversion and bam the smoke
+
+404
+00:16:41,500 --> 00:16:48,400
+doesn't go above that line here is a
+
+405
+00:16:46,600 --> 00:16:50,440
+really severe temperature inversion
+
+406
+00:16:48,400 --> 00:16:53,110
+where it goes right down to the surface
+
+407
+00:16:50,440 --> 00:16:55,150
+so any pollution that's coming out of
+
+408
+00:16:53,110 --> 00:16:58,120
+anything a car a house and anything is
+
+409
+00:16:55,150 --> 00:17:01,300
+stuck right there along the surface of
+
+410
+00:16:58,120 --> 00:17:03,510
+the ground so what would cause this well
+
+411
+00:17:01,300 --> 00:17:07,180
+one of the things that causes two
+
+412
+00:17:03,510 --> 00:17:09,820
+inversions close to the surface is high
+
+413
+00:17:07,180 --> 00:17:11,800
+pressure so before what we talked about
+
+414
+00:17:09,820 --> 00:17:13,750
+is that height so this is a slide from a
+
+415
+00:17:11,800 --> 00:17:16,630
+previous lecture and we said you have
+
+416
+00:17:13,750 --> 00:17:18,760
+winds aloft that converge and then they
+
+417
+00:17:16,630 --> 00:17:20,650
+go down and all these things happen
+
+418
+00:17:18,760 --> 00:17:23,830
+right well the other thing that we could
+
+419
+00:17:20,650 --> 00:17:25,959
+add to this list from last time is that
+
+420
+00:17:23,830 --> 00:17:28,810
+we can make temperature inversions if
+
+421
+00:17:25,959 --> 00:17:31,480
+you make temperature inversions you can
+
+422
+00:17:28,810 --> 00:17:33,730
+trap pollution down here if you trap
+
+423
+00:17:31,480 --> 00:17:37,150
+pollution down here you might have very
+
+424
+00:17:33,730 --> 00:17:39,340
+poor air quality now one day of this no
+
+425
+00:17:37,150 --> 00:17:41,110
+big deal but you can have high pressure
+
+426
+00:17:39,340 --> 00:17:43,810
+centers that might be parked over an
+
+427
+00:17:41,110 --> 00:17:46,330
+area for a week or maybe two weeks or
+
+428
+00:17:43,810 --> 00:17:46,960
+even more and that starts to make the
+
+429
+00:17:46,330 --> 00:17:50,710
+air quality
+
+430
+00:17:46,960 --> 00:17:53,890
+really poor on the other hand if you
+
+431
+00:17:50,710 --> 00:17:56,260
+have a low pressure it actually cleans
+
+432
+00:17:53,890 --> 00:17:58,929
+the air out so it's like this giant
+
+433
+00:17:56,260 --> 00:18:00,970
+vacuum cleaner in the sky and it lifts
+
+434
+00:17:58,929 --> 00:18:04,000
+up all the air pollution and takes it
+
+435
+00:18:00,970 --> 00:18:06,370
+away so let me show you a couple of
+
+436
+00:18:04,000 --> 00:18:08,559
+pictures that show the effect of one of
+
+437
+00:18:06,370 --> 00:18:10,570
+these temperature inversions so here I
+
+438
+00:18:08,559 --> 00:18:12,669
+am about 30 miles west of Albuquerque
+
+439
+00:18:10,570 --> 00:18:15,610
+I'm about 10,000 feet above the ground
+
+440
+00:18:12,669 --> 00:18:17,950
+and I want you to notice what you can
+
+441
+00:18:15,610 --> 00:18:20,559
+see in other words notice the detail the
+
+442
+00:18:17,950 --> 00:18:22,720
+terrain that you can see in here or in
+
+443
+00:18:20,559 --> 00:18:25,539
+this one right now
+
+444
+00:18:22,720 --> 00:18:27,010
+a high pressure had started building a
+
+445
+00:18:25,539 --> 00:18:28,510
+couple days before I took these pictures
+
+446
+00:18:27,010 --> 00:18:31,899
+and you can see some haze in the
+
+447
+00:18:28,510 --> 00:18:33,820
+distance but then I went back about two
+
+448
+00:18:31,899 --> 00:18:36,970
+weeks later and not high pressure had
+
+449
+00:18:33,820 --> 00:18:39,309
+just stayed there for two weeks and when
+
+450
+00:18:36,970 --> 00:18:41,350
+I went back and I fluid the same spot at
+
+451
+00:18:39,309 --> 00:18:44,500
+the same height and I took another
+
+452
+00:18:41,350 --> 00:18:47,049
+picture in the same spot and notice how
+
+453
+00:18:44,500 --> 00:18:49,679
+it looks now you can barely tell the
+
+454
+00:18:47,049 --> 00:18:51,789
+surface is down there right so
+
+455
+00:18:49,679 --> 00:18:54,220
+definitely you can't see the detail you
+
+456
+00:18:51,789 --> 00:18:56,289
+saw before what we're looking at is air
+
+457
+00:18:54,220 --> 00:18:59,380
+pollution that's stuck below an
+
+458
+00:18:56,289 --> 00:19:01,600
+inversion and you can see from the from
+
+459
+00:18:59,380 --> 00:19:04,299
+the city this is downtown you can see
+
+460
+00:19:01,600 --> 00:19:09,610
+that air pollution down here below
+
+461
+00:19:04,299 --> 00:19:11,620
+trapped below the inversion so sometimes
+
+462
+00:19:09,610 --> 00:19:13,600
+the inversions can be really striking so
+
+463
+00:19:11,620 --> 00:19:15,279
+here's one thing Kazakhstan and you can
+
+464
+00:19:13,600 --> 00:19:17,529
+see right at the top of the inversion
+
+465
+00:19:15,279 --> 00:19:19,570
+and now the super polluted air that's
+
+466
+00:19:17,529 --> 00:19:21,669
+below and they're really clean here
+
+467
+00:19:19,570 --> 00:19:24,640
+that's above so the right there that's
+
+468
+00:19:21,669 --> 00:19:27,309
+the top of the inversion there now when
+
+469
+00:19:24,640 --> 00:19:29,710
+you have a city in a valley you can get
+
+470
+00:19:27,309 --> 00:19:31,779
+inversions and in other ways than the
+
+471
+00:19:29,710 --> 00:19:33,970
+ways that I've just described what
+
+472
+00:19:31,779 --> 00:19:36,370
+happens is a cold air can settle in the
+
+473
+00:19:33,970 --> 00:19:38,919
+bottom of a valley and because it's
+
+474
+00:19:36,370 --> 00:19:40,779
+dense it stays down there and it forms
+
+475
+00:19:38,919 --> 00:19:44,409
+an inversion that can last for weeks and
+
+476
+00:19:40,779 --> 00:19:47,500
+weeks and more locally Salt Lake City
+
+477
+00:19:44,409 --> 00:19:49,990
+has this problem a lot so down there and
+
+478
+00:19:47,500 --> 00:19:53,110
+that hay is a Salt Lake City it sits in
+
+479
+00:19:49,990 --> 00:19:55,149
+this bowl and fills with cold air and
+
+480
+00:19:53,110 --> 00:19:58,149
+they will have weeks of weather just
+
+481
+00:19:55,149 --> 00:20:00,140
+like this so here's another image Salt
+
+482
+00:19:58,149 --> 00:20:01,910
+Lake City you can see the brown above it
+
+483
+00:20:00,140 --> 00:20:03,860
+so there's that inversion the top of the
+
+484
+00:20:01,910 --> 00:20:05,600
+inversions about right there and you see
+
+485
+00:20:03,860 --> 00:20:08,000
+that the tops of the mountains look a
+
+486
+00:20:05,600 --> 00:20:12,049
+lot cleaner up here that's cleaner air
+
+487
+00:20:08,000 --> 00:20:13,549
+so this happens a lot in the in Salt
+
+488
+00:20:12,049 --> 00:20:16,730
+Lake City like weeks and weeks they'll
+
+489
+00:20:13,549 --> 00:20:19,490
+have this kind of air pollution problems
+
+490
+00:20:16,730 --> 00:20:22,309
+so if you go back to the last lecture
+
+491
+00:20:19,490 --> 00:20:24,440
+and look at those pressure maps here's
+
+492
+00:20:22,309 --> 00:20:25,790
+the first one we looked at and we said
+
+493
+00:20:24,440 --> 00:20:29,030
+that this is a big ridge of high
+
+494
+00:20:25,790 --> 00:20:33,850
+pressure not only do we now know that
+
+495
+00:20:29,030 --> 00:20:37,730
+this is sinking air and that we have
+
+496
+00:20:33,850 --> 00:20:41,809
+cloudless skies but if this sits over
+
+497
+00:20:37,730 --> 00:20:44,210
+the western US for days or a couple
+
+498
+00:20:41,809 --> 00:20:46,790
+weeks we also now know that it's going
+
+499
+00:20:44,210 --> 00:20:48,620
+to contribute to poor air quality that
+
+500
+00:20:46,790 --> 00:20:50,000
+is to say that the sinking air is
+
+501
+00:20:48,620 --> 00:20:52,760
+probably creating a temperature
+
+502
+00:20:50,000 --> 00:20:55,760
+inversion in here and because of that
+
+503
+00:20:52,760 --> 00:20:57,799
+these guys may be sitting in in in
+
+504
+00:20:55,760 --> 00:21:01,580
+pretty poor air quality is a lot of air
+
+505
+00:20:57,799 --> 00:21:03,530
+pollution so we're going to go through
+
+506
+00:21:01,580 --> 00:21:04,970
+some of the common air pollutants and
+
+507
+00:21:03,530 --> 00:21:07,130
+the first one is something called
+
+508
+00:21:04,970 --> 00:21:10,690
+particulate matter which we just
+
+509
+00:21:07,130 --> 00:21:13,970
+abbreviate is PM in particulate matter
+
+510
+00:21:10,690 --> 00:21:16,760
+our physical chunks of things in the
+
+511
+00:21:13,970 --> 00:21:18,710
+atmosphere so you can see this stuff so
+
+512
+00:21:16,760 --> 00:21:21,440
+what do you think of a smoke or dust
+
+513
+00:21:18,710 --> 00:21:24,049
+that haze in the background that's p.m.
+
+514
+00:21:21,440 --> 00:21:28,370
+and we break p.m. up into two groups
+
+515
+00:21:24,049 --> 00:21:30,370
+based on the size and this number two
+
+516
+00:21:28,370 --> 00:21:33,169
+and a half and ten refers to how many
+
+517
+00:21:30,370 --> 00:21:36,770
+microns in diameter and a micron is a
+
+518
+00:21:33,169 --> 00:21:38,750
+millionth of a meter and so all we need
+
+519
+00:21:36,770 --> 00:21:40,820
+to know in this class is that they're
+
+520
+00:21:38,750 --> 00:21:43,190
+both microscopic but there's one group
+
+521
+00:21:40,820 --> 00:21:45,140
+that's even tinier than then the other
+
+522
+00:21:43,190 --> 00:21:48,070
+group so it could be things like pollen
+
+523
+00:21:45,140 --> 00:21:51,049
+grains or salt grains or dust grains or
+
+524
+00:21:48,070 --> 00:21:54,679
+bacteria or mold spores all kinds of
+
+525
+00:21:51,049 --> 00:21:57,559
+things could count as PM and a naturally
+
+526
+00:21:54,679 --> 00:22:02,840
+common naturally occurring one is that a
+
+527
+00:21:57,559 --> 00:22:04,309
+pollen and so pollen grains every
+
+528
+00:22:02,840 --> 00:22:06,679
+species of plant has a slightly
+
+529
+00:22:04,309 --> 00:22:10,130
+different pollen grain and if you have
+
+530
+00:22:06,679 --> 00:22:12,770
+allergies then you are allergic to
+
+531
+00:22:10,130 --> 00:22:13,850
+actually the size of the particle it
+
+532
+00:22:12,770 --> 00:22:15,140
+turns out
+
+533
+00:22:13,850 --> 00:22:18,230
+so for example the plants that I'm
+
+534
+00:22:15,140 --> 00:22:19,370
+allergic to have a certain size and they
+
+535
+00:22:18,230 --> 00:22:21,170
+may not be the plants that you're
+
+536
+00:22:19,370 --> 00:22:23,360
+allergic to because you're allergic to a
+
+537
+00:22:21,170 --> 00:22:24,890
+different size so that's why people are
+
+538
+00:22:23,360 --> 00:22:26,870
+allergic to different things it all
+
+539
+00:22:24,890 --> 00:22:30,650
+comes down to that the diameter of the
+
+540
+00:22:26,870 --> 00:22:32,360
+pollen now dust itself can be made of a
+
+541
+00:22:30,650 --> 00:22:34,700
+lot of things and it depends on if
+
+542
+00:22:32,360 --> 00:22:38,000
+you've got inside desk or outside dust
+
+543
+00:22:34,700 --> 00:22:40,790
+and so an interesting experiment was
+
+544
+00:22:38,000 --> 00:22:44,000
+conducted one time there's a museum in
+
+545
+00:22:40,790 --> 00:22:45,650
+Germany and I don't know what they had
+
+546
+00:22:44,000 --> 00:22:47,180
+but they were real it was something very
+
+547
+00:22:45,650 --> 00:22:49,580
+valuable and they didn't want it to get
+
+548
+00:22:47,180 --> 00:22:51,230
+dusty and so they had like double doors
+
+549
+00:22:49,580 --> 00:22:52,850
+and you had to change your clothes and
+
+550
+00:22:51,230 --> 00:22:55,400
+all this stuff and they found out they
+
+551
+00:22:52,850 --> 00:22:57,620
+kept getting dust on the exhibits so
+
+552
+00:22:55,400 --> 00:22:59,300
+they analyzed it on the microscope and
+
+553
+00:22:57,620 --> 00:23:01,940
+they found out that most of the dust was
+
+554
+00:22:59,300 --> 00:23:03,920
+actually dead skin and it turns out
+
+555
+00:23:01,940 --> 00:23:06,860
+we're all shedding skin all the time and
+
+556
+00:23:03,920 --> 00:23:09,440
+if you have a sealed indoor environment
+
+557
+00:23:06,860 --> 00:23:10,910
+and you go up to something and you you
+
+558
+00:23:09,440 --> 00:23:12,740
+do this on the wind seal and you got
+
+559
+00:23:10,910 --> 00:23:15,820
+dust on your finger that's most likely
+
+560
+00:23:12,740 --> 00:23:18,440
+dead skin and that also means that
+
+561
+00:23:15,820 --> 00:23:20,510
+you're constantly breathing in little
+
+562
+00:23:18,440 --> 00:23:21,530
+particles of dead skin from other people
+
+563
+00:23:20,510 --> 00:23:21,920
+because they're floating around in the
+
+564
+00:23:21,530 --> 00:23:25,010
+air
+
+565
+00:23:21,920 --> 00:23:28,430
+now that might gross you out but your
+
+566
+00:23:25,010 --> 00:23:30,980
+body absorbs those skin flakes and it
+
+567
+00:23:28,430 --> 00:23:34,580
+doesn't hurt you that's better for you
+
+568
+00:23:30,980 --> 00:23:36,980
+then outside dust because outside dust
+
+569
+00:23:34,580 --> 00:23:39,580
+is usually a little fragments of rock
+
+570
+00:23:36,980 --> 00:23:42,530
+and those rock fragments are usually not
+
+571
+00:23:39,580 --> 00:23:44,690
+soluble in your body so what happens is
+
+572
+00:23:42,530 --> 00:23:46,900
+you breathe them in and then go into
+
+573
+00:23:44,690 --> 00:23:49,760
+your lungs and they stay there forever
+
+574
+00:23:46,900 --> 00:23:52,190
+now here's something called silica dust
+
+575
+00:23:49,760 --> 00:23:55,910
+so silica is just a it's a group of
+
+576
+00:23:52,190 --> 00:23:58,130
+minerals rocks and minerals and when we
+
+577
+00:23:55,910 --> 00:24:00,350
+have dust like in New Mexico the dust
+
+578
+00:23:58,130 --> 00:24:03,080
+storms the haboobs and all that what
+
+579
+00:24:00,350 --> 00:24:06,650
+you're seeing mostly is silica dust and
+
+580
+00:24:03,080 --> 00:24:08,840
+silica dust has sharp edges so this is
+
+581
+00:24:06,650 --> 00:24:11,300
+bad because you briefed us in it goes
+
+582
+00:24:08,840 --> 00:24:13,040
+into your lungs it never leaves it web
+
+583
+00:24:11,300 --> 00:24:15,230
+does itself into your lungs and every
+
+584
+00:24:13,040 --> 00:24:17,960
+time you breathe it wiggles a little bit
+
+585
+00:24:15,230 --> 00:24:20,210
+and every time it wiggles and makes scar
+
+586
+00:24:17,960 --> 00:24:22,370
+tissue and eventually that can lead to
+
+587
+00:24:20,210 --> 00:24:24,620
+lung cancer this is the same reason that
+
+588
+00:24:22,370 --> 00:24:27,399
+smokers get lung cancer okay same kind
+
+589
+00:24:24,620 --> 00:24:30,249
+of idea now
+
+590
+00:24:27,399 --> 00:24:31,960
+you have in your lungs no matter where
+
+591
+00:24:30,249 --> 00:24:33,729
+you live you also have some of these
+
+592
+00:24:31,960 --> 00:24:36,399
+little you have these little tiny
+
+593
+00:24:33,729 --> 00:24:39,190
+microscopic spheres that are mostly
+
+594
+00:24:36,399 --> 00:24:40,599
+carbon that come from exhaust a lot of
+
+595
+00:24:39,190 --> 00:24:44,469
+it comes from diesel engines especially
+
+596
+00:24:40,599 --> 00:24:48,009
+the older ones but we all have them and
+
+597
+00:24:44,469 --> 00:24:50,259
+if you were to cut a lung open and look
+
+598
+00:24:48,009 --> 00:24:52,690
+at it you would see these tiny little
+
+599
+00:24:50,259 --> 00:24:55,119
+black spheres now they're not black in
+
+600
+00:24:52,690 --> 00:24:56,710
+this image because this is a scanning
+
+601
+00:24:55,119 --> 00:24:58,570
+electron microscope so they look white
+
+602
+00:24:56,710 --> 00:25:00,369
+but if you could see them there are
+
+603
+00:24:58,570 --> 00:25:03,249
+little spheres of mostly carbon
+
+604
+00:25:00,369 --> 00:25:06,399
+surrounded by some sulfur surrounded by
+
+605
+00:25:03,249 --> 00:25:08,559
+some other metals and they're floating
+
+606
+00:25:06,399 --> 00:25:11,460
+around in the atmosphere and in the air
+
+607
+00:25:08,559 --> 00:25:14,080
+in all cities so we all have them and
+
+608
+00:25:11,460 --> 00:25:16,239
+when they do autopsies of people who
+
+609
+00:25:14,080 --> 00:25:18,009
+live in cities their lungs are dirty
+
+610
+00:25:16,239 --> 00:25:21,309
+looking because we breathe so much of
+
+611
+00:25:18,009 --> 00:25:23,979
+this exhaust if patients go into the
+
+612
+00:25:21,309 --> 00:25:27,059
+hospital and they're on a purifier you
+
+613
+00:25:23,979 --> 00:25:31,479
+know air purified air for a couple years
+
+614
+00:25:27,059 --> 00:25:33,339
+their lungs will turn pink so one type
+
+615
+00:25:31,479 --> 00:25:37,299
+of PM that has a long and sordid history
+
+616
+00:25:33,339 --> 00:25:39,279
+is that of asbestos asbestos is a
+
+617
+00:25:37,299 --> 00:25:40,479
+naturally forming mineral this is what
+
+618
+00:25:39,279 --> 00:25:43,419
+it looks like when it comes out of the
+
+619
+00:25:40,479 --> 00:25:45,099
+ground and you can it looks kind of
+
+620
+00:25:43,419 --> 00:25:48,129
+fuzzy here you can peel it into little
+
+621
+00:25:45,099 --> 00:25:50,619
+fibers so if you did so it would kind of
+
+622
+00:25:48,129 --> 00:25:52,419
+look like this and those fibers have
+
+623
+00:25:50,619 --> 00:25:54,519
+some really unique properties and that
+
+624
+00:25:52,419 --> 00:25:56,259
+for one thing they're fireproof and you
+
+625
+00:25:54,519 --> 00:25:59,589
+can sew them into different products and
+
+626
+00:25:56,259 --> 00:26:02,619
+so starting in the 1800's they started
+
+627
+00:25:59,589 --> 00:26:05,679
+to sew asbestos into fireproof
+
+628
+00:26:02,619 --> 00:26:07,269
+cloth or fireproof blankets and then
+
+629
+00:26:05,679 --> 00:26:10,359
+eventually they started putting it in
+
+630
+00:26:07,269 --> 00:26:12,820
+into your house so they start using it
+
+631
+00:26:10,359 --> 00:26:16,719
+as insulation your attic fireproof and
+
+632
+00:26:12,820 --> 00:26:18,999
+in your walls fireproof and all kinds of
+
+633
+00:26:16,719 --> 00:26:21,519
+different products now today there's
+
+634
+00:26:18,999 --> 00:26:24,099
+asbestos in your house but it's embedded
+
+635
+00:26:21,519 --> 00:26:26,139
+in products it's not freely just out in
+
+636
+00:26:24,099 --> 00:26:28,659
+your your attic like it used to be and
+
+637
+00:26:26,139 --> 00:26:32,830
+the reason for that is because asbestos
+
+638
+00:26:28,659 --> 00:26:35,349
+is very hazardous to breathe and so
+
+639
+00:26:32,830 --> 00:26:37,659
+under a microscope this is a scanning
+
+640
+00:26:35,349 --> 00:26:40,299
+electron microscope it's asbestos is a
+
+641
+00:26:37,659 --> 00:26:41,309
+bunch of tiny little needles and when
+
+642
+00:26:40,299 --> 00:26:43,169
+you breathe them in they
+
+643
+00:26:41,309 --> 00:26:44,999
+you know these are microscopic you can't
+
+644
+00:26:43,169 --> 00:26:46,080
+even see them you breathe the man they
+
+645
+00:26:44,999 --> 00:26:48,990
+go into your lungs
+
+646
+00:26:46,080 --> 00:26:51,360
+they puncture your lung and they embed
+
+647
+00:26:48,990 --> 00:26:54,990
+themselves in there and they never leave
+
+648
+00:26:51,360 --> 00:26:57,240
+so your body cannot dissolve them and so
+
+649
+00:26:54,990 --> 00:26:59,279
+over time what happens is as you breathe
+
+650
+00:26:57,240 --> 00:27:01,590
+in and out the little fibers wiggle and
+
+651
+00:26:59,279 --> 00:27:04,860
+create scar tissue and that's what's
+
+652
+00:27:01,590 --> 00:27:07,499
+shown here in the red and eventually
+
+653
+00:27:04,860 --> 00:27:11,159
+this will lead to lung cancer and some
+
+654
+00:27:07,499 --> 00:27:15,360
+other lung related diseases that are due
+
+655
+00:27:11,159 --> 00:27:17,340
+to breathing in asbestos fibers so we
+
+656
+00:27:15,360 --> 00:27:20,999
+have a story in this country about a
+
+657
+00:27:17,340 --> 00:27:22,619
+town in Montana Libby Montana that was
+
+658
+00:27:20,999 --> 00:27:27,090
+formed for the purpose of mining
+
+659
+00:27:22,619 --> 00:27:29,490
+asbestos and asbestos was mined in great
+
+660
+00:27:27,090 --> 00:27:31,679
+volumes out of Libby we don't really
+
+661
+00:27:29,490 --> 00:27:34,080
+have any pictures not great pictures of
+
+662
+00:27:31,679 --> 00:27:36,509
+the mine back in the day but this is
+
+663
+00:27:34,080 --> 00:27:38,759
+sort of the modern equivalent this is a
+
+664
+00:27:36,509 --> 00:27:40,440
+bestest mine in Canada there's big
+
+665
+00:27:38,759 --> 00:27:43,379
+trucks down there for scale so it's a
+
+666
+00:27:40,440 --> 00:27:46,529
+what we call big pit mine so they had
+
+667
+00:27:43,379 --> 00:27:48,450
+something similar to this in Montana and
+
+668
+00:27:46,529 --> 00:27:51,570
+back then they didn't think it was
+
+669
+00:27:48,450 --> 00:27:53,340
+dangerous and so all this asbestos dust
+
+670
+00:27:51,570 --> 00:27:56,460
+would go up in the air every single day
+
+671
+00:27:53,340 --> 00:27:58,320
+and coat the entire town so here's a
+
+672
+00:27:56,460 --> 00:28:00,720
+picture from the 50s and this white
+
+673
+00:27:58,320 --> 00:28:02,610
+material you see is asbestos dust
+
+674
+00:28:00,720 --> 00:28:04,200
+you know the workers would come home
+
+675
+00:28:02,610 --> 00:28:05,879
+they have asbestos on their clothes and
+
+676
+00:28:04,200 --> 00:28:07,559
+they brush it off and it's all in the
+
+677
+00:28:05,879 --> 00:28:10,980
+house and everybody's breathing it and
+
+678
+00:28:07,559 --> 00:28:13,460
+as a result hundreds of people just in
+
+679
+00:28:10,980 --> 00:28:16,799
+that town died from asbestos related
+
+680
+00:28:13,460 --> 00:28:17,999
+lung disease and so there's a whole
+
+681
+00:28:16,799 --> 00:28:21,059
+bunch of books that have been written
+
+682
+00:28:17,999 --> 00:28:23,549
+this is just one of them that's recently
+
+683
+00:28:21,059 --> 00:28:26,519
+been published that detail this this
+
+684
+00:28:23,549 --> 00:28:30,029
+whole asbestos problem from Libby
+
+685
+00:28:26,519 --> 00:28:31,889
+Montana thousands of people have serious
+
+686
+00:28:30,029 --> 00:28:34,139
+chronic health problems because of this
+
+687
+00:28:31,889 --> 00:28:37,619
+they think as many as 50 million you
+
+688
+00:28:34,139 --> 00:28:40,470
+know us homes have products from Libby
+
+689
+00:28:37,619 --> 00:28:42,450
+Montana in them so it would take a long
+
+690
+00:28:40,470 --> 00:28:44,190
+time to go over the entire history of
+
+691
+00:28:42,450 --> 00:28:46,409
+everything that's happened regarding
+
+692
+00:28:44,190 --> 00:28:48,690
+asbestos bill I'm gonna hit a few of the
+
+693
+00:28:46,409 --> 00:28:51,450
+high points here because the story of
+
+694
+00:28:48,690 --> 00:28:54,059
+asbestos gets repeated for other things
+
+695
+00:28:51,450 --> 00:28:54,809
+in our country later on so early
+
+696
+00:28:54,059 --> 00:28:56,909
+eighteen
+
+697
+00:28:54,809 --> 00:28:59,399
+we get the first US patent for asbestos
+
+698
+00:28:56,909 --> 00:29:02,220
+and a company by the name of Johns
+
+699
+00:28:59,399 --> 00:29:04,200
+Manville is formed and Johns Manville
+
+700
+00:29:02,220 --> 00:29:06,809
+still around today they make insulation
+
+701
+00:29:04,200 --> 00:29:08,460
+for your house and by the late
+
+702
+00:29:06,809 --> 00:29:11,370
+18-hundreds were mining lots of asbestos
+
+703
+00:29:08,460 --> 00:29:14,879
+in this country and making things out of
+
+704
+00:29:11,370 --> 00:29:16,649
+it by 1906 there's a doctor who starts
+
+705
+00:29:14,879 --> 00:29:18,929
+to notice that anybody that works with
+
+706
+00:29:16,649 --> 00:29:20,940
+asbestos seems to die early died
+
+707
+00:29:18,929 --> 00:29:24,299
+prematurely and he publishes a paper
+
+708
+00:29:20,940 --> 00:29:27,240
+about this and more studies are done and
+
+709
+00:29:24,299 --> 00:29:28,919
+by 1918 insurance companies recognize
+
+710
+00:29:27,240 --> 00:29:31,230
+this is a real threat and they're
+
+711
+00:29:28,919 --> 00:29:33,539
+refusing to sell health insurance to
+
+712
+00:29:31,230 --> 00:29:36,749
+people that work with asbestos and by
+
+713
+00:29:33,539 --> 00:29:38,580
+1922 the US Navy recognizes that it's
+
+714
+00:29:36,749 --> 00:29:41,399
+hazardous requires people to wear
+
+715
+00:29:38,580 --> 00:29:44,580
+respirators ok so we can establish that
+
+716
+00:29:41,399 --> 00:29:46,710
+by the early 1900's it's already known
+
+717
+00:29:44,580 --> 00:29:50,340
+that asbestos is hazardous to human
+
+718
+00:29:46,710 --> 00:29:53,009
+health ok but we continue to mine in
+
+719
+00:29:50,340 --> 00:29:54,899
+this country and so as time goes on
+
+720
+00:29:53,009 --> 00:29:58,320
+there's more and more studies about
+
+721
+00:29:54,899 --> 00:30:03,179
+workers that fall ill due to asbestos
+
+722
+00:29:58,320 --> 00:30:06,450
+and let's see we get to the 1930s some
+
+723
+00:30:03,179 --> 00:30:09,179
+other countries start to pass rate laws
+
+724
+00:30:06,450 --> 00:30:09,659
+regulating asbestos use not in this
+
+725
+00:30:09,179 --> 00:30:12,600
+country
+
+726
+00:30:09,659 --> 00:30:14,820
+in 1936 johns manville that's the
+
+727
+00:30:12,600 --> 00:30:17,129
+company that's mining this stuff higher
+
+728
+00:30:14,820 --> 00:30:19,919
+is an independent group to do research
+
+729
+00:30:17,129 --> 00:30:22,470
+to see you know is this really hazardous
+
+730
+00:30:19,919 --> 00:30:23,850
+material and these independent group of
+
+731
+00:30:22,470 --> 00:30:25,379
+scientists study and they come back and
+
+732
+00:30:23,850 --> 00:30:28,499
+they say yeah it's really hazardous and
+
+733
+00:30:25,379 --> 00:30:31,100
+so the executives decide to suppress
+
+734
+00:30:28,499 --> 00:30:35,369
+those studies so they aren't released
+
+735
+00:30:31,100 --> 00:30:38,129
+and then like a similar incident happens
+
+736
+00:30:35,369 --> 00:30:42,360
+a few years later we're where another
+
+737
+00:30:38,129 --> 00:30:44,759
+group studies the effect of asbestos on
+
+738
+00:30:42,360 --> 00:30:47,129
+mice and they found on 80% of the mice
+
+739
+00:30:44,759 --> 00:30:48,960
+inhaled asbestos get cancer that
+
+740
+00:30:47,129 --> 00:30:50,789
+research also not published case so
+
+741
+00:30:48,960 --> 00:30:52,740
+we're gonna see this is also going to be
+
+742
+00:30:50,789 --> 00:30:56,639
+a common theme we're gonna see in this
+
+743
+00:30:52,740 --> 00:30:58,799
+class on some other topics and let's see
+
+744
+00:30:56,639 --> 00:31:01,919
+we've got more studies come out here's
+
+745
+00:30:58,799 --> 00:31:03,360
+one of note in 1960 that they realized
+
+746
+00:31:01,919 --> 00:31:05,970
+that not just the people that work with
+
+747
+00:31:03,360 --> 00:31:08,610
+asbestos but their family members were
+
+748
+00:31:05,970 --> 00:31:11,520
+getting sick other children were getting
+
+749
+00:31:08,610 --> 00:31:12,930
+our residents in the town that you know
+
+750
+00:31:11,520 --> 00:31:14,100
+didn't have anybody in the immediate
+
+751
+00:31:12,930 --> 00:31:16,590
+family that even worked with asbestos
+
+752
+00:31:14,100 --> 00:31:21,030
+we're getting sick so they realize it's
+
+753
+00:31:16,590 --> 00:31:25,260
+a much broader problem and finally when
+
+754
+00:31:21,030 --> 00:31:27,330
+we get to the early 70s it's finally
+
+755
+00:31:25,260 --> 00:31:30,540
+listed it listed in this country as a
+
+756
+00:31:27,330 --> 00:31:32,280
+hazardous air pollutant and this is the
+
+757
+00:31:30,540 --> 00:31:34,470
+first time in this country we finally
+
+758
+00:31:32,280 --> 00:31:36,480
+recognize that there's something wrong
+
+759
+00:31:34,470 --> 00:31:39,480
+with asbestos India shouldn't breathe it
+
+760
+00:31:36,480 --> 00:31:41,310
+realize that this is coming like 60
+
+761
+00:31:39,480 --> 00:31:44,060
+years after the first papers were
+
+762
+00:31:41,310 --> 00:31:47,960
+published in them in the medical science
+
+763
+00:31:44,060 --> 00:31:51,320
+so from then from that point forward
+
+764
+00:31:47,960 --> 00:31:54,360
+Congress has tried to pass more
+
+765
+00:31:51,320 --> 00:31:56,820
+legislation to try to restrict how much
+
+766
+00:31:54,360 --> 00:31:59,970
+asbestos one can can breathe and be
+
+767
+00:31:56,820 --> 00:32:03,390
+exposed to and so let's see there's a
+
+768
+00:31:59,970 --> 00:32:07,800
+bunch of several things here but as time
+
+769
+00:32:03,390 --> 00:32:10,590
+goes on there are more and more laws
+
+770
+00:32:07,800 --> 00:32:14,670
+being passed regulating the the use in
+
+771
+00:32:10,590 --> 00:32:17,160
+the the mining of asbestos now in 1991 a
+
+772
+00:32:14,670 --> 00:32:19,290
+bunch of manufacturers of asbestos got
+
+773
+00:32:17,160 --> 00:32:21,030
+together and challenged the EPA the
+
+774
+00:32:19,290 --> 00:32:23,760
+Environmental Protection Agency in court
+
+775
+00:32:21,030 --> 00:32:25,740
+and they got them throw out some of the
+
+776
+00:32:23,760 --> 00:32:28,080
+rules regarding asbestos okay so the
+
+777
+00:32:25,740 --> 00:32:30,980
+companies that are mining this stuff are
+
+778
+00:32:28,080 --> 00:32:34,590
+are fighting against these regulations
+
+779
+00:32:30,980 --> 00:32:37,590
+so as time goes by though eventually the
+
+780
+00:32:34,590 --> 00:32:40,470
+regulations win in 2002 we finally stop
+
+781
+00:32:37,590 --> 00:32:42,630
+mining asbestos in California now we're
+
+782
+00:32:40,470 --> 00:32:44,520
+about a hundred years past when the the
+
+783
+00:32:42,630 --> 00:32:47,010
+first studies were shown that it's a
+
+784
+00:32:44,520 --> 00:32:51,020
+very dangerous thing to breathe and I
+
+785
+00:32:47,010 --> 00:32:54,660
+kind of skip a bunch of these but in
+
+786
+00:32:51,020 --> 00:32:57,480
+2010 there was a study that that said
+
+787
+00:32:54,660 --> 00:33:00,720
+that between in a 10-year period between
+
+788
+00:32:57,480 --> 00:33:03,180
+2000 and 2010 forty three thousand four
+
+789
+00:33:00,720 --> 00:33:06,330
+hundred sixty four Americans died from
+
+790
+00:33:03,180 --> 00:33:08,490
+diseases related to the inhalation of
+
+791
+00:33:06,330 --> 00:33:09,810
+asbestos okay just in that ten years so
+
+792
+00:33:08,490 --> 00:33:12,330
+these are people that had been exposed
+
+793
+00:33:09,810 --> 00:33:16,380
+like in the past and that's finally
+
+794
+00:33:12,330 --> 00:33:19,350
+catching up to them by 2013 fifty
+
+795
+00:33:16,380 --> 00:33:21,960
+countries have banned asbestos but us is
+
+796
+00:33:19,350 --> 00:33:22,200
+not one of them and this reveals kind of
+
+797
+00:33:21,960 --> 00:33:24,360
+a
+
+798
+00:33:22,200 --> 00:33:27,630
+problem in our political system which is
+
+799
+00:33:24,360 --> 00:33:29,610
+that the asbestos industry has a lot of
+
+800
+00:33:27,630 --> 00:33:31,800
+lobbyists they put a lot of money into
+
+801
+00:33:29,610 --> 00:33:34,170
+the political system to fight some of
+
+802
+00:33:31,800 --> 00:33:37,770
+these regulations and we've seen the
+
+803
+00:33:34,170 --> 00:33:40,710
+effect of this finally if we jump ahead
+
+804
+00:33:37,770 --> 00:33:43,830
+so as the years go by we're mining less
+
+805
+00:33:40,710 --> 00:33:46,350
+and less asbestos in this country per
+
+806
+00:33:43,830 --> 00:33:50,610
+year so the latest number I can find
+
+807
+00:33:46,350 --> 00:33:52,800
+2015 about 360 tons of asbestos in the
+
+808
+00:33:50,610 --> 00:33:56,880
+United States each year it's not zero
+
+809
+00:33:52,800 --> 00:34:00,390
+but point is this is a material that was
+
+810
+00:33:56,880 --> 00:34:02,010
+deemed hazardous early 1900s and over a
+
+811
+00:34:00,390 --> 00:34:04,290
+hundred years later there are still
+
+812
+00:34:02,010 --> 00:34:07,470
+people being exposed to it and a big
+
+813
+00:34:04,290 --> 00:34:09,960
+reason for that is lobbyist money big
+
+814
+00:34:07,470 --> 00:34:12,210
+money gets into the government you can
+
+815
+00:34:09,960 --> 00:34:14,250
+affect politicians votes and keep things
+
+816
+00:34:12,210 --> 00:34:17,430
+legal that are actually hazardous to
+
+817
+00:34:14,250 --> 00:34:19,530
+health so this isn't to say that other
+
+818
+00:34:17,430 --> 00:34:22,800
+countries are doing a better job
+
+819
+00:34:19,530 --> 00:34:24,750
+necessarily so here's a modern asbestos
+
+820
+00:34:22,800 --> 00:34:27,450
+mine in China all that white material
+
+821
+00:34:24,750 --> 00:34:30,330
+you see there that's all asbestos fibers
+
+822
+00:34:27,450 --> 00:34:32,760
+and in fact here's some asbestos mining
+
+823
+00:34:30,330 --> 00:34:34,410
+in India these guys just wear a scarf
+
+824
+00:34:32,760 --> 00:34:37,200
+around their mouth that's their
+
+825
+00:34:34,410 --> 00:34:39,390
+respirator or like this guy he's got a
+
+826
+00:34:37,200 --> 00:34:41,850
+handkerchief I have no idea how many
+
+827
+00:34:39,390 --> 00:34:43,050
+fibers they're breathing in but I don't
+
+828
+00:34:41,850 --> 00:34:44,910
+know how you know we don't know how long
+
+829
+00:34:43,050 --> 00:34:48,360
+these guys are going to live but they're
+
+830
+00:34:44,910 --> 00:34:51,720
+currently being exposed so as a side
+
+831
+00:34:48,360 --> 00:34:53,550
+note the fact that we have millions of
+
+832
+00:34:51,720 --> 00:34:55,590
+buildings in this country with asbestos
+
+833
+00:34:53,550 --> 00:34:58,170
+in them sparked a new industry called
+
+834
+00:34:55,590 --> 00:35:00,720
+the asbestos abatement industry which is
+
+835
+00:34:58,170 --> 00:35:02,820
+that a company will go into a building
+
+836
+00:35:00,720 --> 00:35:04,980
+usually it's a private building like a
+
+837
+00:35:02,820 --> 00:35:07,680
+school or a hospital something like that
+
+838
+00:35:04,980 --> 00:35:10,500
+and they will pull all the asbestos out
+
+839
+00:35:07,680 --> 00:35:14,850
+of all the places that it was originally
+
+840
+00:35:10,500 --> 00:35:17,250
+put in you know as insulation and it's a
+
+841
+00:35:14,850 --> 00:35:18,420
+very expensive process so here what
+
+842
+00:35:17,250 --> 00:35:20,490
+they're doing is they're pulling out the
+
+843
+00:35:18,420 --> 00:35:23,040
+asbestos that used to be up here in
+
+844
+00:35:20,490 --> 00:35:25,710
+these joists and you know all dressed up
+
+845
+00:35:23,040 --> 00:35:27,690
+in their bunny suits and etc and what's
+
+846
+00:35:25,710 --> 00:35:29,520
+in these bags are these easy the
+
+847
+00:35:27,690 --> 00:35:32,700
+asbestos fibers that they're removing
+
+848
+00:35:29,520 --> 00:35:35,580
+well one of the problems of doing this
+
+849
+00:35:32,700 --> 00:35:36,150
+is that once the asbestos is in the
+
+850
+00:35:35,580 --> 00:35:38,640
+building
+
+851
+00:35:36,150 --> 00:35:40,800
+and behind the walls and nobody's
+
+852
+00:35:38,640 --> 00:35:43,020
+messing with it it's really not that bad
+
+853
+00:35:40,800 --> 00:35:44,670
+but when you go and you start digging it
+
+854
+00:35:43,020 --> 00:35:47,270
+out you raise all kinds of asbestos
+
+855
+00:35:44,670 --> 00:35:50,010
+fibers again and it's been shown that
+
+856
+00:35:47,270 --> 00:35:51,540
+asbestos abatement probably just makes
+
+857
+00:35:50,010 --> 00:35:54,450
+the problem worse it's not really
+
+858
+00:35:51,540 --> 00:35:56,160
+necessary and the act of going in there
+
+859
+00:35:54,450 --> 00:35:58,380
+and doing that raises a lot of asbestos
+
+860
+00:35:56,160 --> 00:36:01,680
+dust so some people have argued that
+
+861
+00:35:58,380 --> 00:36:03,360
+this is totally unnecessary but now this
+
+862
+00:36:01,680 --> 00:36:07,680
+is an industry that has a lot of money
+
+863
+00:36:03,360 --> 00:36:10,710
+behind it and it keeps on going so we're
+
+864
+00:36:07,680 --> 00:36:12,960
+going to look at p.m. on earth little
+
+865
+00:36:10,710 --> 00:36:15,510
+Schoolnet and the way I do that is I
+
+866
+00:36:12,960 --> 00:36:17,880
+click the word earth and I click on
+
+867
+00:36:15,510 --> 00:36:19,800
+particulates and this is going to show
+
+868
+00:36:17,880 --> 00:36:23,040
+me a lot of the PM that's in the air
+
+869
+00:36:19,800 --> 00:36:25,320
+today and I can look around and I can
+
+870
+00:36:23,040 --> 00:36:27,780
+see that there's some swirls of
+
+871
+00:36:25,320 --> 00:36:31,530
+particulate matter across the United
+
+872
+00:36:27,780 --> 00:36:34,260
+States I can look around the world and
+
+873
+00:36:31,530 --> 00:36:36,270
+there's a bunch usually in China which
+
+874
+00:36:34,260 --> 00:36:39,290
+we're kind of seeing here they've got a
+
+875
+00:36:36,270 --> 00:36:44,310
+lot of you know a lot of smoke but
+
+876
+00:36:39,290 --> 00:36:46,680
+notice what's happening over here and so
+
+877
+00:36:44,310 --> 00:36:49,100
+this is Africa and in the northern part
+
+878
+00:36:46,680 --> 00:36:51,950
+of Africa there's this huge plume of PM
+
+879
+00:36:49,100 --> 00:36:54,030
+and if you can notice this but the wind
+
+880
+00:36:51,950 --> 00:36:56,370
+well you can't see it so much today but
+
+881
+00:36:54,030 --> 00:36:59,550
+the wind is blowing it off the continent
+
+882
+00:36:56,370 --> 00:37:01,550
+and it's headed across the ocean you
+
+883
+00:36:59,550 --> 00:37:06,600
+also see it over here in the Middle East
+
+884
+00:37:01,550 --> 00:37:08,970
+so normally on a normal day the most PM
+
+885
+00:37:06,600 --> 00:37:10,800
+you will see on earth is here northern
+
+886
+00:37:08,970 --> 00:37:14,250
+Africa in the Middle East now why is
+
+887
+00:37:10,800 --> 00:37:17,700
+that so this is actually naturally
+
+888
+00:37:14,250 --> 00:37:20,670
+occurring for the most part North Africa
+
+889
+00:37:17,700 --> 00:37:23,370
+is very dry and when so this is the
+
+890
+00:37:20,670 --> 00:37:26,280
+Sahara Desert and wind blows dust off
+
+891
+00:37:23,370 --> 00:37:28,650
+the continent into these big plumes that
+
+892
+00:37:26,280 --> 00:37:29,970
+go across the ocean so these winds are
+
+893
+00:37:28,650 --> 00:37:32,790
+called the easterlies they're bringing
+
+894
+00:37:29,970 --> 00:37:35,910
+dust across the ocean and it'll actually
+
+895
+00:37:32,790 --> 00:37:39,300
+land over here in South America now this
+
+896
+00:37:35,910 --> 00:37:41,840
+is important because South America right
+
+897
+00:37:39,300 --> 00:37:44,190
+here this is the Amazon rainforest right
+
+898
+00:37:41,840 --> 00:37:46,200
+and so one of the problems with rain
+
+899
+00:37:44,190 --> 00:37:48,600
+forests is because they rain so much
+
+900
+00:37:46,200 --> 00:37:49,560
+there's almost no soil the soil
+
+901
+00:37:48,600 --> 00:37:51,660
+dissolves away
+
+902
+00:37:49,560 --> 00:37:54,470
+from all the rain it's really hard to
+
+903
+00:37:51,660 --> 00:37:57,630
+maintain soil what you need to maintain
+
+904
+00:37:54,470 --> 00:38:00,540
+rain forests in a place where it rains a
+
+905
+00:37:57,630 --> 00:38:03,930
+lot well here what's happening is very
+
+906
+00:38:00,540 --> 00:38:06,450
+slowly over time dust is blown off the
+
+907
+00:38:03,930 --> 00:38:08,370
+continent from Africa it travels all the
+
+908
+00:38:06,450 --> 00:38:11,600
+way across the ocean and it falls out
+
+909
+00:38:08,370 --> 00:38:16,980
+over South America and very slowly adds
+
+910
+00:38:11,600 --> 00:38:20,760
+to the floor of the rain forests so in a
+
+911
+00:38:16,980 --> 00:38:23,330
+way the dust from Africa is fertilizing
+
+912
+00:38:20,760 --> 00:38:26,730
+the rain forests of South America
+
+913
+00:38:23,330 --> 00:38:29,880
+so that's p.m. now we can also break it
+
+914
+00:38:26,730 --> 00:38:33,510
+down further and we can look at say p.m.
+
+915
+00:38:29,880 --> 00:38:38,100
+two and a half and we can see a few more
+
+916
+00:38:33,510 --> 00:38:41,430
+details you can you can see particulates
+
+917
+00:38:38,100 --> 00:38:44,580
+coming from different sources some of
+
+918
+00:38:41,430 --> 00:38:45,870
+these are fires some of these are cities
+
+919
+00:38:44,580 --> 00:38:48,330
+with there's a lot of smoke that's
+
+920
+00:38:45,870 --> 00:38:50,370
+probably Mexico City right there if you
+
+921
+00:38:48,330 --> 00:38:53,970
+go to say South America we see these
+
+922
+00:38:50,370 --> 00:38:56,280
+spots those are probably all fires in
+
+923
+00:38:53,970 --> 00:39:00,450
+Central Africa so there's the the Sahara
+
+924
+00:38:56,280 --> 00:39:02,580
+dust but we see a lot of dust from fires
+
+925
+00:39:00,450 --> 00:39:05,880
+from slash-and-burn practices that we'll
+
+926
+00:39:02,580 --> 00:39:08,490
+talk about more in a second and look at
+
+927
+00:39:05,880 --> 00:39:10,320
+India and look at China a lot of air
+
+928
+00:39:08,490 --> 00:39:12,570
+pollution in the particulates here and
+
+929
+00:39:10,320 --> 00:39:14,040
+most of that is just industrial you know
+
+930
+00:39:12,570 --> 00:39:19,710
+people burning things that's what most
+
+931
+00:39:14,040 --> 00:39:22,920
+of that is so the next flute and on our
+
+932
+00:39:19,710 --> 00:39:26,250
+list is VOCs which stands for volatile
+
+933
+00:39:22,920 --> 00:39:28,790
+organic compound now volatile in this
+
+934
+00:39:26,250 --> 00:39:31,440
+case means it evaporates fairly easily
+
+935
+00:39:28,790 --> 00:39:33,510
+organic doesn't mean it comes from whole
+
+936
+00:39:31,440 --> 00:39:35,580
+foods it means that it's made of carbon
+
+937
+00:39:33,510 --> 00:39:37,830
+and that's just a different use of the
+
+938
+00:39:35,580 --> 00:39:40,080
+word organic compound it has several
+
+939
+00:39:37,830 --> 00:39:42,300
+atoms in it now it turns out that our
+
+940
+00:39:40,080 --> 00:39:45,330
+nose and brain are set up that we can
+
+941
+00:39:42,300 --> 00:39:48,570
+smell most VOCs here's an example
+
+942
+00:39:45,330 --> 00:39:50,310
+acetone so acetone there this is what
+
+943
+00:39:48,570 --> 00:39:52,350
+the chemical structure looks like there
+
+944
+00:39:50,310 --> 00:39:55,560
+is your carbon so that's why it's called
+
+945
+00:39:52,350 --> 00:39:57,630
+organic and ladies you know this as
+
+946
+00:39:55,560 --> 00:39:59,880
+fingernail polish remover you know when
+
+947
+00:39:57,630 --> 00:40:02,850
+as soon as you remove the lid super
+
+948
+00:39:59,880 --> 00:40:06,660
+stinky right that's a vo see
+
+949
+00:40:02,850 --> 00:40:09,630
+things like gasoline paint those are all
+
+950
+00:40:06,660 --> 00:40:13,260
+VOCs and usually you can smell them
+
+951
+00:40:09,630 --> 00:40:15,270
+quite easily now most of the VOCs that
+
+952
+00:40:13,260 --> 00:40:18,900
+we have in the air here in New Mexico
+
+953
+00:40:15,270 --> 00:40:22,560
+come from the gas and oil fields so a
+
+954
+00:40:18,900 --> 00:40:26,780
+lot of times what happens is that we
+
+955
+00:40:22,560 --> 00:40:29,490
+royal forms it rises to these natural
+
+956
+00:40:26,780 --> 00:40:32,190
+pockets in the crust so this is called
+
+957
+00:40:29,490 --> 00:40:34,320
+an anticline now the gas will often
+
+958
+00:40:32,190 --> 00:40:37,170
+accumulate at the top of the pocket and
+
+959
+00:40:34,320 --> 00:40:39,359
+the oil is a little bit below that so if
+
+960
+00:40:37,170 --> 00:40:42,359
+they're drilling they might be drilling
+
+961
+00:40:39,359 --> 00:40:43,950
+to get the gas on purpose and sometimes
+
+962
+00:40:42,359 --> 00:40:46,020
+when that happens some of it gets out
+
+963
+00:40:43,950 --> 00:40:48,359
+and gets into the atmosphere sometimes
+
+964
+00:40:46,020 --> 00:40:51,270
+they're after the oil and the gases are
+
+965
+00:40:48,359 --> 00:40:53,070
+just kind of in the way either way a lot
+
+966
+00:40:51,270 --> 00:40:57,690
+of times the gas leaks out and gets into
+
+967
+00:40:53,070 --> 00:40:59,730
+the atmosphere so here's a pumpjack so
+
+968
+00:40:57,690 --> 00:41:01,890
+it's job is to pump petroleum which is a
+
+969
+00:40:59,730 --> 00:41:04,500
+liquid but if you've been by one of
+
+970
+00:41:01,890 --> 00:41:06,150
+these there's an odor in the air and a
+
+971
+00:41:04,500 --> 00:41:07,980
+lot of what you're smelling or VOCs
+
+972
+00:41:06,150 --> 00:41:11,640
+there's natural gas coming out of this
+
+973
+00:41:07,980 --> 00:41:14,490
+well a little bit here's a natural gas
+
+974
+00:41:11,640 --> 00:41:16,430
+well so they've dug a hole and they
+
+975
+00:41:14,490 --> 00:41:19,530
+basically did is put in a valve and
+
+976
+00:41:16,430 --> 00:41:21,510
+natural gas comes out of this pipe and
+
+977
+00:41:19,530 --> 00:41:23,310
+then it goes on to a processing plant
+
+978
+00:41:21,510 --> 00:41:25,500
+but there's also natural gas kind of
+
+979
+00:41:23,310 --> 00:41:27,050
+seeping out of the ground around where
+
+980
+00:41:25,500 --> 00:41:29,910
+this well was built
+
+981
+00:41:27,050 --> 00:41:32,760
+now once natural gas comes out of the
+
+982
+00:41:29,910 --> 00:41:34,619
+ground they can't just directly sell it
+
+983
+00:41:32,760 --> 00:41:36,960
+to you for your gas stove they've got a
+
+984
+00:41:34,619 --> 00:41:39,420
+it's got to go through a few steps it's
+
+985
+00:41:36,960 --> 00:41:41,040
+got to be purified and clean separate it
+
+986
+00:41:39,420 --> 00:41:43,410
+out into different components sometimes
+
+987
+00:41:41,040 --> 00:41:45,660
+and then they got to compress it and
+
+988
+00:41:43,410 --> 00:41:48,660
+they push it down a pipe so maybe
+
+989
+00:41:45,660 --> 00:41:51,270
+there's a gas what you know one of these
+
+990
+00:41:48,660 --> 00:41:52,830
+over like Carlsbad and then the way it
+
+991
+00:41:51,270 --> 00:41:54,630
+gets to Albuquerque is there's an
+
+992
+00:41:52,830 --> 00:41:58,320
+underground pipe that takes it all the
+
+993
+00:41:54,630 --> 00:42:00,690
+way from Carlsbad to Albuquerque and so
+
+994
+00:41:58,320 --> 00:42:02,220
+a gas plant is kind of the first stage
+
+995
+00:42:00,690 --> 00:42:04,020
+in that where they separate out the
+
+996
+00:42:02,220 --> 00:42:06,270
+different components and purify it and
+
+997
+00:42:04,020 --> 00:42:08,430
+then in order to get it all the way to
+
+998
+00:42:06,270 --> 00:42:10,500
+Albuquerque down the pipe they've got to
+
+999
+00:42:08,430 --> 00:42:12,270
+compress it in several different places
+
+1000
+00:42:10,500 --> 00:42:14,790
+along the way those are called gas
+
+1001
+00:42:12,270 --> 00:42:16,799
+compressor stations and each one of
+
+1002
+00:42:14,790 --> 00:42:19,349
+these a little bit is lost
+
+1003
+00:42:16,799 --> 00:42:21,690
+in in the atmosphere and in the gas
+
+1004
+00:42:19,349 --> 00:42:27,059
+plants and the gas compressor stations
+
+1005
+00:42:21,690 --> 00:42:29,039
+and then a lot of times again if they're
+
+1006
+00:42:27,059 --> 00:42:31,410
+after oil and they don't want the gas
+
+1007
+00:42:29,039 --> 00:42:32,910
+they still have to do something with it
+
+1008
+00:42:31,410 --> 00:42:34,739
+so a lot of times they'll just burn it
+
+1009
+00:42:32,910 --> 00:42:36,329
+that's called flaring so what's
+
+1010
+00:42:34,739 --> 00:42:38,729
+happening here is they're trying to get
+
+1011
+00:42:36,329 --> 00:42:41,279
+petroleum but they also got some gas
+
+1012
+00:42:38,729 --> 00:42:43,680
+that came out with it but it's not worth
+
+1013
+00:42:41,279 --> 00:42:46,109
+the effort and the money to try to you
+
+1014
+00:42:43,680 --> 00:42:49,559
+know compress it and clean it all that
+
+1015
+00:42:46,109 --> 00:42:51,660
+so they just rather burn it so that also
+
+1016
+00:42:49,559 --> 00:42:55,589
+emits some VOCs into the atmosphere also
+
+1017
+00:42:51,660 --> 00:43:00,239
+some PM there's a lot of PM in in in
+
+1018
+00:42:55,589 --> 00:43:03,720
+these black clouds here then another
+
+1019
+00:43:00,239 --> 00:43:05,910
+source of vo C is the refinery so
+
+1020
+00:43:03,720 --> 00:43:08,880
+refineries are where we take petroleum
+
+1021
+00:43:05,910 --> 00:43:10,619
+and we basically put it under vessels of
+
+1022
+00:43:08,880 --> 00:43:13,259
+pressure and heat and we separate out
+
+1023
+00:43:10,619 --> 00:43:16,920
+we're all petroleum oil crude oil into
+
+1024
+00:43:13,259 --> 00:43:20,009
+the different components so gasoline
+
+1025
+00:43:16,920 --> 00:43:22,950
+diesel kerosene all those things come
+
+1026
+00:43:20,009 --> 00:43:24,989
+from crude petroleum but they have to be
+
+1027
+00:43:22,950 --> 00:43:29,519
+processed in a refinery to make those
+
+1028
+00:43:24,989 --> 00:43:31,739
+products and so in that process a lot of
+
+1029
+00:43:29,519 --> 00:43:33,479
+VOCs are emitted to the atmosphere and
+
+1030
+00:43:31,739 --> 00:43:37,319
+in New Mexico we have a couple
+
+1031
+00:43:33,479 --> 00:43:39,210
+refineries one you may have been exposed
+
+1032
+00:43:37,319 --> 00:43:41,640
+to is in Artesia if you've ever been
+
+1033
+00:43:39,210 --> 00:43:43,410
+through the town of Artesia it has a
+
+1034
+00:43:41,640 --> 00:43:45,269
+particular odor and what you're smelling
+
+1035
+00:43:43,410 --> 00:43:48,269
+or VOCs and they're coming from this
+
+1036
+00:43:45,269 --> 00:43:50,219
+refinery so the Navajo refinery is
+
+1037
+00:43:48,269 --> 00:43:51,479
+official name of this and it's right in
+
+1038
+00:43:50,219 --> 00:43:52,469
+the middle of town you drive right by it
+
+1039
+00:43:51,479 --> 00:43:57,739
+and you can smell it
+
+1040
+00:43:52,469 --> 00:44:01,319
+those are VOCs moving on to our next
+
+1041
+00:43:57,739 --> 00:44:03,539
+pollutant is sulfur dioxide and sulfur
+
+1042
+00:44:01,319 --> 00:44:07,170
+is in a lot of fossil fuels so when you
+
+1043
+00:44:03,539 --> 00:44:09,569
+burn fossil fuels so2 is a common
+
+1044
+00:44:07,170 --> 00:44:11,819
+byproduct he burned coal you burn
+
+1045
+00:44:09,569 --> 00:44:14,190
+gasoline you burn diesel you produce
+
+1046
+00:44:11,819 --> 00:44:17,759
+sulfur now one of the problems is that
+
+1047
+00:44:14,190 --> 00:44:19,410
+sulfur by itself isn't quite that
+
+1048
+00:44:17,759 --> 00:44:21,569
+harmful but once it gets into the
+
+1049
+00:44:19,410 --> 00:44:24,630
+atmosphere you know combined with water
+
+1050
+00:44:21,569 --> 00:44:26,579
+molecules and form sulfuric acid that
+
+1051
+00:44:24,630 --> 00:44:28,440
+sulfuric acid that's floating around in
+
+1052
+00:44:26,579 --> 00:44:30,090
+the atmosphere then condenses to form
+
+1053
+00:44:28,440 --> 00:44:35,040
+rain and you get
+
+1054
+00:44:30,090 --> 00:44:38,070
+Sidda crane so here is some clouds that
+
+1055
+00:44:35,040 --> 00:44:41,210
+are forming here's a plume of sulfur
+
+1056
+00:44:38,070 --> 00:44:45,300
+dioxide that's actually forming clouds
+
+1057
+00:44:41,210 --> 00:44:47,580
+that are acidic so these so we know that
+
+1058
+00:44:45,300 --> 00:44:49,980
+cumulus clouds don't rain but if they
+
+1059
+00:44:47,580 --> 00:44:54,060
+were to produce rain you get very acidic
+
+1060
+00:44:49,980 --> 00:44:54,600
+rain coming out of these clouds now acid
+
+1061
+00:44:54,060 --> 00:44:57,060
+rain
+
+1062
+00:44:54,600 --> 00:44:59,310
+used to be a really big deal and today
+
+1063
+00:44:57,060 --> 00:45:01,820
+our big environmental problem is global
+
+1064
+00:44:59,310 --> 00:45:05,210
+warming in the 80s it was the ozone hole
+
+1065
+00:45:01,820 --> 00:45:08,880
+you go back 100 years it was acid rain
+
+1066
+00:45:05,210 --> 00:45:10,650
+acid rain stresses vegetation so the
+
+1067
+00:45:08,880 --> 00:45:13,650
+branch on the Left has been exposed to
+
+1068
+00:45:10,650 --> 00:45:18,780
+acidic rain and you can see it's not not
+
+1069
+00:45:13,650 --> 00:45:20,790
+doing so well in fact when in in the
+
+1070
+00:45:18,780 --> 00:45:23,550
+late 1800s people started burning lots
+
+1071
+00:45:20,790 --> 00:45:25,050
+of coal in steam engines and then
+
+1072
+00:45:23,550 --> 00:45:27,240
+eventually people started produce
+
+1073
+00:45:25,050 --> 00:45:30,630
+electricity there's a lot of coal being
+
+1074
+00:45:27,240 --> 00:45:32,550
+burned and producing a lot of sulfur it
+
+1075
+00:45:30,630 --> 00:45:36,570
+went out into the atmosphere made a lot
+
+1076
+00:45:32,550 --> 00:45:38,790
+of acid rain and there are entire swaths
+
+1077
+00:45:36,570 --> 00:45:40,920
+of forests in Europe that were killed
+
+1078
+00:45:38,790 --> 00:45:43,050
+because of acid rain and you can still
+
+1079
+00:45:40,920 --> 00:45:45,210
+see them today they're starting to come
+
+1080
+00:45:43,050 --> 00:45:47,700
+back but there are places where there's
+
+1081
+00:45:45,210 --> 00:45:50,490
+just millions of acres of dead trees
+
+1082
+00:45:47,700 --> 00:45:54,570
+from acid rain and most of this occurred
+
+1083
+00:45:50,490 --> 00:45:56,660
+in the late 1800s Early 1900s another
+
+1084
+00:45:54,570 --> 00:45:59,610
+thing that happens is that acid rain
+
+1085
+00:45:56,660 --> 00:46:02,250
+reacts with limestone and marble and
+
+1086
+00:45:59,610 --> 00:46:07,230
+dissolves it so here's a marble statue
+
+1087
+00:46:02,250 --> 00:46:09,510
+that was carved in 1702 and 1908
+
+1088
+00:46:07,230 --> 00:46:11,720
+this is what it looks like so it's been
+
+1089
+00:46:09,510 --> 00:46:15,210
+around 200 years at this point
+
+1090
+00:46:11,720 --> 00:46:17,970
+1968 notice that it looks like someone
+
+1091
+00:46:15,210 --> 00:46:20,670
+just took an eraser to it and acid rain
+
+1092
+00:46:17,970 --> 00:46:23,700
+basically dissolved away this statue and
+
+1093
+00:46:20,670 --> 00:46:27,090
+we've lost a lot of statues worldwide to
+
+1094
+00:46:23,700 --> 00:46:29,520
+acidic rain here's another example this
+
+1095
+00:46:27,090 --> 00:46:32,420
+is something called an obelisk it's made
+
+1096
+00:46:29,520 --> 00:46:34,890
+out of limestone and it's from Egypt and
+
+1097
+00:46:32,420 --> 00:46:37,230
+it was carved out of limestone about
+
+1098
+00:46:34,890 --> 00:46:39,660
+3,000 years ago and you can see the
+
+1099
+00:46:37,230 --> 00:46:42,260
+hieroglyphics in this old picture this
+
+1100
+00:46:39,660 --> 00:46:45,140
+is what it looked like in 1884
+
+1101
+00:46:42,260 --> 00:46:47,780
+there was a point in history where it
+
+1102
+00:46:45,140 --> 00:46:50,300
+was okay for cities just go to Egypt and
+
+1103
+00:46:47,780 --> 00:46:52,100
+take things and so New York City just
+
+1104
+00:46:50,300 --> 00:46:54,770
+decided hey that would be cool to have
+
+1105
+00:46:52,100 --> 00:46:57,170
+that in Central Park so they took it and
+
+1106
+00:46:54,770 --> 00:46:59,930
+they put it in Central Park and you'll
+
+1107
+00:46:57,170 --> 00:47:02,270
+notice that a lot of the hieroglyphics
+
+1108
+00:46:59,930 --> 00:47:03,860
+are not recognizable anymore in fact
+
+1109
+00:47:02,270 --> 00:47:05,710
+this is what it looks like up close it
+
+1110
+00:47:03,860 --> 00:47:08,660
+has this kind of pockmarked texture
+
+1111
+00:47:05,710 --> 00:47:11,270
+acid rain dissolved away a lot of the
+
+1112
+00:47:08,660 --> 00:47:13,460
+hieroglyphics in that 3000 year old
+
+1113
+00:47:11,270 --> 00:47:16,160
+obelisk and it just happened within like
+
+1114
+00:47:13,460 --> 00:47:18,860
+you know a hundred years so we're going
+
+1115
+00:47:16,160 --> 00:47:20,570
+to return now to earth nil Schoolnet and
+
+1116
+00:47:18,860 --> 00:47:23,780
+we're gonna look for sulfur so I click
+
+1117
+00:47:20,570 --> 00:47:29,230
+the word earth in under mode I'm going
+
+1118
+00:47:23,780 --> 00:47:32,630
+to chem and then under overlay at so2
+
+1119
+00:47:29,230 --> 00:47:35,950
+okay so now the colors represent sulfur
+
+1120
+00:47:32,630 --> 00:47:39,680
+dioxide emissions and if i zoom in here
+
+1121
+00:47:35,950 --> 00:47:43,970
+across the US I can see a whole bunch of
+
+1122
+00:47:39,680 --> 00:47:45,710
+little red dots with tails every one of
+
+1123
+00:47:43,970 --> 00:47:47,930
+those is a coal-fired power plant
+
+1124
+00:47:45,710 --> 00:47:51,050
+including some here in New Mexico so
+
+1125
+00:47:47,930 --> 00:47:53,480
+coal has sulfur in it and in this
+
+1126
+00:47:51,050 --> 00:47:55,310
+country coal-fired power plants are
+
+1127
+00:47:53,480 --> 00:47:59,510
+required to remove at least some of the
+
+1128
+00:47:55,310 --> 00:48:01,340
+sulfur out of the the exhaust but some
+
+1129
+00:47:59,510 --> 00:48:03,290
+of it still gets into the atmosphere and
+
+1130
+00:48:01,340 --> 00:48:05,180
+that's what all these red dots are so in
+
+1131
+00:48:03,290 --> 00:48:07,250
+the eastern part of the country there's
+
+1132
+00:48:05,180 --> 00:48:08,900
+a whole lot more Coal Fired power plants
+
+1133
+00:48:07,250 --> 00:48:14,260
+than there are in the West so we see a
+
+1134
+00:48:08,900 --> 00:48:17,260
+lot more sulfur emissions out there but
+
+1135
+00:48:14,260 --> 00:48:23,590
+let's look around the world here
+
+1136
+00:48:17,260 --> 00:48:29,270
+how much happening in Africa but oh boy
+
+1137
+00:48:23,590 --> 00:48:31,400
+look at China so China has a lot of
+
+1138
+00:48:29,270 --> 00:48:34,250
+coal-fired power plants and they don't
+
+1139
+00:48:31,400 --> 00:48:36,320
+have the emission regulations that we do
+
+1140
+00:48:34,250 --> 00:48:37,850
+so they emit a lot more sulfur than we
+
+1141
+00:48:36,320 --> 00:48:39,320
+do and you can see on here there's just
+
+1142
+00:48:37,850 --> 00:48:41,330
+a bright purple blob
+
+1143
+00:48:39,320 --> 00:48:44,420
+you know India's got a fair amount -
+
+1144
+00:48:41,330 --> 00:48:49,490
+right but China really has most of the
+
+1145
+00:48:44,420 --> 00:48:51,910
+sulfur emissions right now also you
+
+1146
+00:48:49,490 --> 00:48:54,329
+might notice let's see if we can find it
+
+1147
+00:48:51,910 --> 00:48:58,259
+here's some
+
+1148
+00:48:54,329 --> 00:49:01,170
+see these stripes like that stripe right
+
+1149
+00:48:58,259 --> 00:49:05,099
+there it goes across the ocean here's
+
+1150
+00:49:01,170 --> 00:49:08,069
+another one that's stripe do you know
+
+1151
+00:49:05,099 --> 00:49:12,449
+why there might be stripes of sulfur out
+
+1152
+00:49:08,069 --> 00:49:14,519
+in the ocean so those stripes of sulfur
+
+1153
+00:49:12,449 --> 00:49:17,849
+dioxide that are out in the ocean
+
+1154
+00:49:14,519 --> 00:49:20,069
+those are shipping lanes and out in the
+
+1155
+00:49:17,849 --> 00:49:23,219
+ocean there are these giant container
+
+1156
+00:49:20,069 --> 00:49:25,499
+ships just about anything you've ever
+
+1157
+00:49:23,219 --> 00:49:28,619
+bought has been on a container ship at
+
+1158
+00:49:25,499 --> 00:49:29,999
+some point in its life and these things
+
+1159
+00:49:28,619 --> 00:49:32,579
+are out in the ocean they're enormous
+
+1160
+00:49:29,999 --> 00:49:34,949
+they have giant engines and they burn
+
+1161
+00:49:32,579 --> 00:49:37,229
+really cheap fuel that has a lot of
+
+1162
+00:49:34,949 --> 00:49:39,089
+sulfur in it the reason they can get
+
+1163
+00:49:37,229 --> 00:49:41,069
+away with this is because out in the
+
+1164
+00:49:39,089 --> 00:49:44,519
+open ocean there's no pollution laws
+
+1165
+00:49:41,069 --> 00:49:47,309
+when you're 200 nautical miles from the
+
+1166
+00:49:44,519 --> 00:49:50,880
+shoreline then the the country in
+
+1167
+00:49:47,309 --> 00:49:53,609
+question there air pollution laws apply
+
+1168
+00:49:50,880 --> 00:49:56,670
+but on the rest of the ocean there's no
+
+1169
+00:49:53,609 --> 00:50:00,650
+loss and so these big container ships
+
+1170
+00:49:56,670 --> 00:50:04,019
+really pollute and put it in perspective
+
+1171
+00:50:00,650 --> 00:50:06,989
+15 of these big container ships produced
+
+1172
+00:50:04,019 --> 00:50:11,189
+as much so2 as all of the cars in the
+
+1173
+00:50:06,989 --> 00:50:13,380
+world combined okay and then figure well
+
+1174
+00:50:11,189 --> 00:50:15,920
+there's 6,000 of those giant container
+
+1175
+00:50:13,380 --> 00:50:18,749
+ships out in the ocean right now and
+
+1176
+00:50:15,920 --> 00:50:21,479
+85,000 commercial ships that are
+
+1177
+00:50:18,749 --> 00:50:23,339
+currently in use so there's a lot of air
+
+1178
+00:50:21,479 --> 00:50:27,269
+pollution out in the ocean from these
+
+1179
+00:50:23,339 --> 00:50:29,670
+giant ships next one on our list is
+
+1180
+00:50:27,269 --> 00:50:31,890
+oxides of nitrogen which we abbreviate
+
+1181
+00:50:29,670 --> 00:50:35,160
+as knocks knocks are two different
+
+1182
+00:50:31,890 --> 00:50:37,739
+molecules n o and no2 you get them when
+
+1183
+00:50:35,160 --> 00:50:41,130
+you burn fuel at high temperatures so
+
+1184
+00:50:37,739 --> 00:50:43,439
+for example a car engine burns gasoline
+
+1185
+00:50:41,130 --> 00:50:46,619
+at pretty high temperature it produces
+
+1186
+00:50:43,439 --> 00:50:49,349
+NOx and when you if you live in an area
+
+1187
+00:50:46,619 --> 00:50:51,869
+where you have to get your car emissions
+
+1188
+00:50:49,349 --> 00:50:54,660
+tested NOx is one of the things that
+
+1189
+00:50:51,869 --> 00:50:57,329
+they're testing for well one of the
+
+1190
+00:50:54,660 --> 00:51:00,299
+problems with NOx is that it combines
+
+1191
+00:50:57,329 --> 00:51:02,819
+with atmospheric water vapor to produce
+
+1192
+00:51:00,299 --> 00:51:05,489
+an acid in the similar way that sulfur
+
+1193
+00:51:02,819 --> 00:51:07,380
+does except instead of sulfuric acid it
+
+1194
+00:51:05,489 --> 00:51:12,200
+produces something called nitric acid
+
+1195
+00:51:07,380 --> 00:51:12,200
+and this also contributes to acid rain
+
+1196
+00:51:12,349 --> 00:51:17,579
+ozone so we've talked about ozone in the
+
+1197
+00:51:16,109 --> 00:51:19,410
+stratosphere and we say this is
+
+1198
+00:51:17,579 --> 00:51:21,690
+wonderful marvelous thing that protects
+
+1199
+00:51:19,410 --> 00:51:25,019
+us down here from UV gotta have it
+
+1200
+00:51:21,690 --> 00:51:27,119
+however there's a second source of ozone
+
+1201
+00:51:25,019 --> 00:51:29,460
+that's not natural it's down here at the
+
+1202
+00:51:27,119 --> 00:51:33,599
+surface and it's really really bad for
+
+1203
+00:51:29,460 --> 00:51:38,309
+you pure oxygen o2 is an oxidizing
+
+1204
+00:51:33,599 --> 00:51:40,410
+compound o 3 is an especially oxidizing
+
+1205
+00:51:38,309 --> 00:51:42,660
+compound if you breathe in o 3 it
+
+1206
+00:51:40,410 --> 00:51:45,990
+attacks all the tissues in your body and
+
+1207
+00:51:42,660 --> 00:51:48,750
+it's a major lung irritant and the way
+
+1208
+00:51:45,990 --> 00:51:53,549
+you get ozone at the surface is if you
+
+1209
+00:51:48,750 --> 00:51:56,279
+have VOCs + NOx in the presence of
+
+1210
+00:51:53,549 --> 00:52:00,589
+sunlight those three things will react
+
+1211
+00:51:56,279 --> 00:52:03,150
+for to produce ozone so some big cities
+
+1212
+00:52:00,589 --> 00:52:04,619
+especially those that have you know
+
+1213
+00:52:03,150 --> 00:52:07,200
+temperature inversions like we've been
+
+1214
+00:52:04,619 --> 00:52:10,259
+talking about they'll issue ozone
+
+1215
+00:52:07,200 --> 00:52:12,720
+warnings and basically don't go outside
+
+1216
+00:52:10,259 --> 00:52:14,309
+because the ozone is so bad now in
+
+1217
+00:52:12,720 --> 00:52:16,289
+Albuquerque we don't really have that
+
+1218
+00:52:14,309 --> 00:52:18,809
+problem here we don't have enough air
+
+1219
+00:52:16,289 --> 00:52:21,210
+pollution that ozone really ever becomes
+
+1220
+00:52:18,809 --> 00:52:24,089
+an issue but some cities everyday
+
+1221
+00:52:21,210 --> 00:52:26,519
+there's some sort of ozone reading or
+
+1222
+00:52:24,089 --> 00:52:29,089
+ozone warning that gets a community
+
+1223
+00:52:26,519 --> 00:52:31,920
+communicated to the public
+
+1224
+00:52:29,089 --> 00:52:34,529
+carbon monoxide next on our list
+
+1225
+00:52:31,920 --> 00:52:39,869
+carbon monoxide is sometimes often
+
+1226
+00:52:34,529 --> 00:52:40,730
+confused with co2 okay CO vs. co2 two
+
+1227
+00:52:39,869 --> 00:52:43,769
+different things
+
+1228
+00:52:40,730 --> 00:52:44,970
+carbon monoxide like almost everything
+
+1229
+00:52:43,769 --> 00:52:48,660
+we've been talking about here is a
+
+1230
+00:52:44,970 --> 00:52:50,910
+product of burning feel so carbon
+
+1231
+00:52:48,660 --> 00:52:54,450
+monoxide you can't see it you can't
+
+1232
+00:52:50,910 --> 00:52:57,119
+smell it but it's poisonous and what
+
+1233
+00:52:54,450 --> 00:52:59,250
+happens is normally when you breathe in
+
+1234
+00:52:57,119 --> 00:53:03,329
+oxygen oxygen goes into your bloodstream
+
+1235
+00:52:59,250 --> 00:53:04,829
+it finds a red blood cell it attaches to
+
+1236
+00:53:03,329 --> 00:53:06,900
+a certain place in the red blood cell
+
+1237
+00:53:04,829 --> 00:53:09,799
+there's some electrons exchanged and
+
+1238
+00:53:06,900 --> 00:53:13,799
+then it leaves as a carbon dioxide okay
+
+1239
+00:53:09,799 --> 00:53:16,349
+carbon monoxide comes in finds that spot
+
+1240
+00:53:13,799 --> 00:53:20,009
+on your red blood cell attaches itself
+
+1241
+00:53:16,349 --> 00:53:21,160
+and stays there and so that red blood
+
+1242
+00:53:20,009 --> 00:53:23,740
+cell no longer
+
+1243
+00:53:21,160 --> 00:53:25,480
+can operate as a red blood cell and so
+
+1244
+00:53:23,740 --> 00:53:28,000
+as you breathe in carbon monoxide what
+
+1245
+00:53:25,480 --> 00:53:30,339
+happens is all the receptors in your red
+
+1246
+00:53:28,000 --> 00:53:33,460
+blood cells become choked with these
+
+1247
+00:53:30,339 --> 00:53:36,010
+carbon monoxide molecules now your
+
+1248
+00:53:33,460 --> 00:53:39,250
+experience is you start to get sleepy
+
+1249
+00:53:36,010 --> 00:53:41,579
+right so what's happening is you're
+
+1250
+00:53:39,250 --> 00:53:44,109
+slowly become becoming suffocated and
+
+1251
+00:53:41,579 --> 00:53:46,510
+eventually is also sleepy able to take a
+
+1252
+00:53:44,109 --> 00:53:47,619
+nap and you never wake up that's carbon
+
+1253
+00:53:46,510 --> 00:53:49,900
+monoxide poisoning
+
+1254
+00:53:47,619 --> 00:53:51,339
+so people that commit suicide by
+
+1255
+00:53:49,900 --> 00:53:53,650
+breathing car exhaust in the garage
+
+1256
+00:53:51,339 --> 00:53:55,630
+what's actually killing them is the
+
+1257
+00:53:53,650 --> 00:53:58,990
+carbon monoxide okay it's coming out of
+
+1258
+00:53:55,630 --> 00:54:01,599
+all car exhaust so we're going to go to
+
+1259
+00:53:58,990 --> 00:54:04,920
+earth Donnell Schoolnet and look at some
+
+1260
+00:54:01,599 --> 00:54:10,299
+carbon monoxide so mode is still kim
+
+1261
+00:54:04,920 --> 00:54:13,329
+overlay I'm changing the co and now the
+
+1262
+00:54:10,299 --> 00:54:15,730
+bright spots are plumes of carbon
+
+1263
+00:54:13,329 --> 00:54:19,329
+monoxide it looks like here we maybe got
+
+1264
+00:54:15,730 --> 00:54:21,569
+some fires that's probably just
+
+1265
+00:54:19,329 --> 00:54:26,740
+automobile exhaust from New York City
+
+1266
+00:54:21,569 --> 00:54:31,750
+automobile exhaust from LA Chicago let's
+
+1267
+00:54:26,740 --> 00:54:33,880
+look down here okay so here we are in
+
+1268
+00:54:31,750 --> 00:54:37,390
+South America and there's this cluster
+
+1269
+00:54:33,880 --> 00:54:39,520
+of these plumes of carbon monoxide every
+
+1270
+00:54:37,390 --> 00:54:42,700
+one of those dots and these are fires
+
+1271
+00:54:39,520 --> 00:54:45,339
+and these are fires started by humans
+
+1272
+00:54:42,700 --> 00:54:49,020
+because what we're looking at is what we
+
+1273
+00:54:45,339 --> 00:54:51,520
+call slash and burn agriculture so
+
+1274
+00:54:49,020 --> 00:54:54,670
+Americans like hamburgers hamburgers
+
+1275
+00:54:51,520 --> 00:54:58,089
+come from cows and if you want to grow
+
+1276
+00:54:54,670 --> 00:55:01,539
+cows in another country you can't do it
+
+1277
+00:54:58,089 --> 00:55:03,640
+in rainforests so cows like grass so
+
+1278
+00:55:01,539 --> 00:55:06,430
+what they do is they chop down the
+
+1279
+00:55:03,640 --> 00:55:09,700
+rainforests and they burn it and then
+
+1280
+00:55:06,430 --> 00:55:12,309
+they grow grass but as we said a few
+
+1281
+00:55:09,700 --> 00:55:13,150
+minutes ago there's not much soil in the
+
+1282
+00:55:12,309 --> 00:55:15,099
+rainforest
+
+1283
+00:55:13,150 --> 00:55:17,170
+so grass doesn't last very long so you
+
+1284
+00:55:15,099 --> 00:55:20,410
+get a couple seasons of grass out of it
+
+1285
+00:55:17,170 --> 00:55:23,279
+and then the cows need to move on so you
+
+1286
+00:55:20,410 --> 00:55:26,890
+got to chop more rainforests down and
+
+1287
+00:55:23,279 --> 00:55:30,099
+repeat the process so this is all
+
+1288
+00:55:26,890 --> 00:55:32,799
+agriculture practices here mostly it's a
+
+1289
+00:55:30,099 --> 00:55:34,569
+grow cattle to sell to us in fact if we
+
+1290
+00:55:32,799 --> 00:55:34,779
+look over here in Africa okay we got
+
+1291
+00:55:34,569 --> 00:55:36,819
+some
+
+1292
+00:55:34,779 --> 00:55:40,150
+more over here so each one of these
+
+1293
+00:55:36,819 --> 00:55:41,859
+little spots is a place where those it's
+
+1294
+00:55:40,150 --> 00:55:46,829
+a fire do the slash and burn for the
+
+1295
+00:55:41,859 --> 00:55:52,689
+most part so let's see here
+
+1296
+00:55:46,829 --> 00:55:54,699
+there's India Oh China he never failed
+
+1297
+00:55:52,689 --> 00:55:57,640
+disappoint so a lot of carbon monoxide
+
+1298
+00:55:54,699 --> 00:55:59,679
+emissions from China today so again
+
+1299
+00:55:57,640 --> 00:56:00,880
+that's you know mostly it's all from
+
+1300
+00:55:59,679 --> 00:56:02,709
+burning fuel so whether that's
+
+1301
+00:56:00,880 --> 00:56:05,439
+coal-fired power plants or automobiles
+
+1302
+00:56:02,709 --> 00:56:08,499
+or factories or something that's what's
+
+1303
+00:56:05,439 --> 00:56:11,019
+causing it so it looks like today the
+
+1304
+00:56:08,499 --> 00:56:15,130
+world record holder for C Co emissions
+
+1305
+00:56:11,019 --> 00:56:17,739
+is China once again so next up on our
+
+1306
+00:56:15,130 --> 00:56:20,829
+list of air pollutants are the heavy
+
+1307
+00:56:17,739 --> 00:56:22,959
+metals lead which is pretty soft and
+
+1308
+00:56:20,829 --> 00:56:25,839
+mercury which is liquid at room
+
+1309
+00:56:22,959 --> 00:56:27,999
+temperature it may not make sense that
+
+1310
+00:56:25,839 --> 00:56:29,650
+you could have heavy metals in the air
+
+1311
+00:56:27,999 --> 00:56:32,679
+but there's a couple ways that could
+
+1312
+00:56:29,650 --> 00:56:34,989
+happen with lead he used to be that lead
+
+1313
+00:56:32,679 --> 00:56:36,519
+was in gasoline and they put it in
+
+1314
+00:56:34,989 --> 00:56:40,900
+gasoline because it was a cheap way of
+
+1315
+00:56:36,519 --> 00:56:41,769
+raising the octane level and so for 75
+
+1316
+00:56:40,900 --> 00:56:44,229
+years or so
+
+1317
+00:56:41,769 --> 00:56:45,999
+we burned lead gasoline in our cars and
+
+1318
+00:56:44,229 --> 00:56:48,669
+all that lead went out into the
+
+1319
+00:56:45,999 --> 00:56:50,559
+atmosphere so much so that there's
+
+1320
+00:56:48,669 --> 00:56:53,699
+really almost no place you can go on
+
+1321
+00:56:50,559 --> 00:57:00,189
+earth now and not find lead in the soil
+
+1322
+00:56:53,699 --> 00:57:02,199
+so in the 80s we started to phase out
+
+1323
+00:57:00,189 --> 00:57:05,079
+leaded gasoline so for a while you could
+
+1324
+00:57:02,199 --> 00:57:07,630
+buy regular gas which meant it had lead
+
+1325
+00:57:05,079 --> 00:57:10,059
+in it and then the unleaded and then
+
+1326
+00:57:07,630 --> 00:57:11,859
+about a decade after that they got rid
+
+1327
+00:57:10,059 --> 00:57:13,929
+of the leaded gasoline altogether and
+
+1328
+00:57:11,859 --> 00:57:17,380
+your only choice now is unleaded at
+
+1329
+00:57:13,929 --> 00:57:20,499
+least for cars in this country what also
+
+1330
+00:57:17,380 --> 00:57:23,140
+was in all paint it forms compounds
+
+1331
+00:57:20,499 --> 00:57:25,809
+they're very colorful so they used to
+
+1332
+00:57:23,140 --> 00:57:27,839
+use lead to make the pigment and so what
+
+1333
+00:57:25,809 --> 00:57:31,929
+would happen is they would paint a house
+
+1334
+00:57:27,839 --> 00:57:33,729
+with lead-based paint and then the paint
+
+1335
+00:57:31,929 --> 00:57:35,859
+would chip off over time and flutter
+
+1336
+00:57:33,729 --> 00:57:40,419
+away into the wind and you could get led
+
+1337
+00:57:35,859 --> 00:57:42,849
+into the atmosphere that way so and the
+
+1338
+00:57:40,419 --> 00:57:45,309
+recent year or so Flint Michigan has
+
+1339
+00:57:42,849 --> 00:57:47,769
+been in the news about the lead in their
+
+1340
+00:57:45,309 --> 00:57:48,579
+water but there's actually a lot of
+
+1341
+00:57:47,769 --> 00:57:51,880
+places that have
+
+1342
+00:57:48,579 --> 00:57:54,489
+led problems and this map you can
+
+1343
+00:57:51,880 --> 00:57:56,709
+explore if you want and you can find
+
+1344
+00:57:54,489 --> 00:57:58,179
+where you live and it'll tell you how
+
+1345
+00:57:56,709 --> 00:58:01,539
+much lead is in the environment
+
+1346
+00:57:58,179 --> 00:58:03,819
+if you zoom zoom in on Albuquerque you
+
+1347
+00:58:01,539 --> 00:58:05,859
+see there's a lot of red zones here
+
+1348
+00:58:03,819 --> 00:58:07,719
+around Albuquerque and these are
+
+1349
+00:58:05,859 --> 00:58:08,829
+neighborhoods most of these are
+
+1350
+00:58:07,719 --> 00:58:11,170
+neighborhoods that were built with
+
+1351
+00:58:08,829 --> 00:58:14,439
+lead-based paint including the house
+
+1352
+00:58:11,170 --> 00:58:16,420
+that this is being recorded in so this
+
+1353
+00:58:14,439 --> 00:58:18,819
+has led all over the environments in the
+
+1354
+00:58:16,420 --> 00:58:21,519
+water in the paint in the soil whatever
+
+1355
+00:58:18,819 --> 00:58:24,759
+right now we're talking about lead as an
+
+1356
+00:58:21,519 --> 00:58:27,069
+air pollutant only now mercury can also
+
+1357
+00:58:24,759 --> 00:58:29,529
+get into the air because it's naturally
+
+1358
+00:58:27,069 --> 00:58:31,209
+occurring in coal so here's a coal-fired
+
+1359
+00:58:29,529 --> 00:58:33,849
+power plant there's a big pile of coal
+
+1360
+00:58:31,209 --> 00:58:35,410
+there they're going to burn and in an
+
+1361
+00:58:33,849 --> 00:58:37,749
+earlier lecture we talked about how
+
+1362
+00:58:35,410 --> 00:58:39,969
+water vapor condenses out to make a
+
+1363
+00:58:37,749 --> 00:58:42,609
+little cloud that's from burning
+
+1364
+00:58:39,969 --> 00:58:44,559
+hydrocarbons in the coal but what's also
+
+1365
+00:58:42,609 --> 00:58:46,929
+coming out of the chimney is mercury and
+
+1366
+00:58:44,559 --> 00:58:49,569
+so every coal-fired power plant is
+
+1367
+00:58:46,929 --> 00:58:54,609
+putting a little bit of mercury into the
+
+1368
+00:58:49,569 --> 00:58:57,789
+atmosphere now mercury ends up in the
+
+1369
+00:58:54,609 --> 00:59:00,549
+ecosystem and can get concentrated in
+
+1370
+00:58:57,789 --> 00:59:02,499
+certain organisms like fish so somehow
+
+1371
+00:59:00,549 --> 00:59:04,749
+or another the biology of fish is such
+
+1372
+00:59:02,499 --> 00:59:06,969
+that mercury gets concentrated in fish
+
+1373
+00:59:04,749 --> 00:59:09,759
+tissues and there's places where the
+
+1374
+00:59:06,969 --> 00:59:10,479
+fish have so much mercury that you can't
+
+1375
+00:59:09,759 --> 00:59:13,209
+eat the fish
+
+1376
+00:59:10,479 --> 00:59:16,239
+so mercury is a neurotoxin it causes
+
+1377
+00:59:13,209 --> 00:59:20,229
+brain cancer among other things and so
+
+1378
+00:59:16,239 --> 00:59:23,769
+if you eat fish it's wise to pick fish
+
+1379
+00:59:20,229 --> 00:59:26,170
+that don't eat other fish okay so for
+
+1380
+00:59:23,769 --> 00:59:28,719
+example a big fish that are predators
+
+1381
+00:59:26,170 --> 00:59:30,549
+that eat other fish they end up with
+
+1382
+00:59:28,719 --> 00:59:32,769
+more mercury in their bodies it gets
+
+1383
+00:59:30,549 --> 00:59:34,539
+concentrated in their bodies you're
+
+1384
+00:59:32,769 --> 00:59:36,849
+healthier fish are the ones that don't
+
+1385
+00:59:34,539 --> 00:59:38,410
+eat other fish but maybe eat insects or
+
+1386
+00:59:36,849 --> 00:59:40,929
+something like that so your salmon
+
+1387
+00:59:38,410 --> 00:59:43,420
+steelhead etc those are healthier fish
+
+1388
+00:59:40,929 --> 00:59:45,160
+this is especially true if you're
+
+1389
+00:59:43,420 --> 00:59:47,199
+pregnant so if you think you're pregnant
+
+1390
+00:59:45,160 --> 00:59:49,269
+don't eat tuna okay
+
+1391
+00:59:47,199 --> 00:59:52,479
+because tuna has measure amounts of
+
+1392
+00:59:49,269 --> 00:59:54,910
+mercury in it so a lot of people may not
+
+1393
+00:59:52,479 --> 00:59:56,829
+realize this but a lot of the big
+
+1394
+00:59:54,910 --> 00:59:59,349
+American cities went through a period of
+
+1395
+00:59:56,829 --> 01:00:01,810
+time where the air pollution got so bad
+
+1396
+00:59:59,349 --> 01:00:03,670
+that they're almost uninhabitable
+
+1397
+01:00:01,810 --> 01:00:06,790
+and these pictures are from the 40s 50s
+
+1398
+01:00:03,670 --> 01:00:09,310
+and 60s of some cities like Los Angeles
+
+1399
+01:00:06,790 --> 01:00:12,210
+in San Francisco New York and what looks
+
+1400
+01:00:09,310 --> 01:00:14,770
+like fog is actually air pollution and
+
+1401
+01:00:12,210 --> 01:00:15,070
+it became really unpleasant to live
+
+1402
+01:00:14,770 --> 01:00:16,680
+there
+
+1403
+01:00:15,070 --> 01:00:19,180
+you know everybody's eyes are burning
+
+1404
+01:00:16,680 --> 01:00:22,450
+you couldn't see the buildings it was
+
+1405
+01:00:19,180 --> 01:00:24,850
+really not pleasant to be outside and so
+
+1406
+01:00:22,450 --> 01:00:28,060
+finally Congress decides to do something
+
+1407
+01:00:24,850 --> 01:00:29,320
+about it starting in the 50s and it
+
+1408
+01:00:28,060 --> 01:00:31,900
+starts out with something called the air
+
+1409
+01:00:29,320 --> 01:00:34,840
+pollution control act and it really
+
+1410
+01:00:31,900 --> 01:00:36,610
+didn't do much by today's standards it
+
+1411
+01:00:34,840 --> 01:00:38,920
+gave the Surgeon General permission to
+
+1412
+01:00:36,610 --> 01:00:40,810
+distribute information about air
+
+1413
+01:00:38,920 --> 01:00:46,420
+pollution like that's a big nothing but
+
+1414
+01:00:40,810 --> 01:00:48,340
+baby steps okay and then 1963 they
+
+1415
+01:00:46,420 --> 01:00:50,020
+established something called the clean
+
+1416
+01:00:48,340 --> 01:00:52,270
+air act and this is going to at first
+
+1417
+01:00:50,020 --> 01:00:54,580
+doesn't have any teeth really but it's
+
+1418
+01:00:52,270 --> 01:00:56,350
+going to grow in later years and at
+
+1419
+01:00:54,580 --> 01:00:58,720
+first all it does is it establishes a
+
+1420
+01:00:56,350 --> 01:01:01,300
+federal program to study air pollution
+
+1421
+01:00:58,720 --> 01:01:03,130
+but so far people can still pollute as
+
+1422
+01:01:01,300 --> 01:01:05,080
+much as they want in fact here's a
+
+1423
+01:01:03,130 --> 01:01:07,810
+picture from 1970 this is a battery
+
+1424
+01:01:05,080 --> 01:01:09,900
+processing plant big plumes of black
+
+1425
+01:01:07,810 --> 01:01:12,160
+acrid smoke going out in the atmosphere
+
+1426
+01:01:09,900 --> 01:01:13,860
+completely legal there's no laws
+
+1427
+01:01:12,160 --> 01:01:18,310
+regarding air pollution at that point
+
+1428
+01:01:13,860 --> 01:01:20,950
+now in the 1960s there's there's going
+
+1429
+01:01:18,310 --> 01:01:23,950
+to be some laws that start to come into
+
+1430
+01:01:20,950 --> 01:01:26,950
+effect regarding air pollution with cars
+
+1431
+01:01:23,950 --> 01:01:29,710
+so the first amendment to the Clean Air
+
+1432
+01:01:26,950 --> 01:01:31,690
+Act occurs in 1965 called the motor
+
+1433
+01:01:29,710 --> 01:01:34,060
+vehicle Air Pollution Control Act and
+
+1434
+01:01:31,690 --> 01:01:37,600
+what it said is that cars that are going
+
+1435
+01:01:34,060 --> 01:01:40,360
+to start being built in 1968 have to be
+
+1436
+01:01:37,600 --> 01:01:45,610
+cleaner than the previous models that
+
+1437
+01:01:40,360 --> 01:01:49,300
+compared to a 1963 car have to emit 72
+
+1438
+01:01:45,610 --> 01:01:51,730
+percent less VOCs and 56 percent less
+
+1439
+01:01:49,300 --> 01:01:54,130
+carbon monoxide okay so that's the very
+
+1440
+01:01:51,730 --> 01:01:57,250
+first time there's a law regarding air
+
+1441
+01:01:54,130 --> 01:01:59,440
+pollution with cars so prior to 1968
+
+1442
+01:01:57,250 --> 01:02:02,610
+cars could put as much as they wanted
+
+1443
+01:01:59,440 --> 01:02:04,810
+there was no laws regarding that well a
+
+1444
+01:02:02,610 --> 01:02:08,080
+lot of things are happening in the late
+
+1445
+01:02:04,810 --> 01:02:10,360
+sixties early seventies regarding air
+
+1446
+01:02:08,080 --> 01:02:12,270
+pollution in fact regarding pollution in
+
+1447
+01:02:10,360 --> 01:02:14,890
+general there is this sort of
+
+1448
+01:02:12,270 --> 01:02:15,550
+environmental movement afoot and people
+
+1449
+01:02:14,890 --> 01:02:17,920
+were protest
+
+1450
+01:02:15,550 --> 01:02:20,440
+thing about the quality the poor quality
+
+1451
+01:02:17,920 --> 01:02:23,290
+of the air so here's some photos from
+
+1452
+01:02:20,440 --> 01:02:25,240
+from those times and there's a bunch of
+
+1453
+01:02:23,290 --> 01:02:28,300
+Luther laws or kind of being passed but
+
+1454
+01:02:25,240 --> 01:02:32,050
+in 1970 the established Environmental
+
+1455
+01:02:28,300 --> 01:02:34,480
+Protection Agency so this is an agency
+
+1456
+01:02:32,050 --> 01:02:36,820
+that's designed to be in charge of all
+
+1457
+01:02:34,480 --> 01:02:39,130
+these environmental problems ok so prior
+
+1458
+01:02:36,820 --> 01:02:41,440
+to 1970 there are a bunch of the laws
+
+1459
+01:02:39,130 --> 01:02:43,780
+some regarding air some with water or
+
+1460
+01:02:41,440 --> 01:02:46,180
+some with wildlife and they were taken
+
+1461
+01:02:43,780 --> 01:02:48,040
+up by different agencies and and the EPA
+
+1462
+01:02:46,180 --> 01:02:48,700
+was supposed to head all of those things
+
+1463
+01:02:48,040 --> 01:02:51,670
+okay
+
+1464
+01:02:48,700 --> 01:02:56,140
+consolidate all those different laws so
+
+1465
+01:02:51,670 --> 01:02:57,850
+that happens in 1970 then the same year
+
+1466
+01:02:56,140 --> 01:03:00,490
+there are amendments to that Clean Air
+
+1467
+01:02:57,850 --> 01:03:03,070
+Act the one that they started in 1963
+
+1468
+01:03:00,490 --> 01:03:04,390
+and this is where they introduced the
+
+1469
+01:03:03,070 --> 01:03:08,020
+list of pollutants that we've been
+
+1470
+01:03:04,390 --> 01:03:10,240
+talking about p.m. VOCs so2 these are
+
+1471
+01:03:08,020 --> 01:03:14,470
+things that now can be regulated for the
+
+1472
+01:03:10,240 --> 01:03:18,610
+first time ever all right and this law
+
+1473
+01:03:14,470 --> 01:03:21,610
+becomes amended in the future so there's
+
+1474
+01:03:18,610 --> 01:03:24,610
+amendments in 1977 those amendments in
+
+1475
+01:03:21,610 --> 01:03:26,590
+1990 and what happens throughout time is
+
+1476
+01:03:24,610 --> 01:03:29,200
+that more and more air pollutants are
+
+1477
+01:03:26,590 --> 01:03:32,080
+added to the list so we went over some
+
+1478
+01:03:29,200 --> 01:03:34,150
+one that the big ones right so2 carbon
+
+1479
+01:03:32,080 --> 01:03:36,370
+monoxide those things as time has gone
+
+1480
+01:03:34,150 --> 01:03:38,950
+on more pollutants have been added to
+
+1481
+01:03:36,370 --> 01:03:40,630
+the list and more regulations about how
+
+1482
+01:03:38,950 --> 01:03:45,910
+much you're allowed to emit into the
+
+1483
+01:03:40,630 --> 01:03:48,760
+atmosphere well as a result of this so
+
+1484
+01:03:45,910 --> 01:03:50,890
+here's a graph starts in 1980 goes to
+
+1485
+01:03:48,760 --> 01:03:54,190
+the year 2013 and it's got a bunch of
+
+1486
+01:03:50,890 --> 01:03:56,800
+things on here but this Green Line is
+
+1487
+01:03:54,190 --> 01:03:59,860
+the the big pollutants that we've talked
+
+1488
+01:03:56,800 --> 01:04:04,420
+about okay VOCs p.m. all those things
+
+1489
+01:03:59,860 --> 01:04:08,260
+they've gone down since 1980 to 2013 by
+
+1490
+01:04:04,420 --> 01:04:10,600
+62% so there's 62% less of those
+
+1491
+01:04:08,260 --> 01:04:15,250
+emissions going into the air compared to
+
+1492
+01:04:10,600 --> 01:04:17,440
+1980 during that same time we have more
+
+1493
+01:04:15,250 --> 01:04:19,210
+people we have more cars
+
+1494
+01:04:17,440 --> 01:04:21,970
+we're traveling more miles we're using
+
+1495
+01:04:19,210 --> 01:04:25,180
+more electricity so even though there's
+
+1496
+01:04:21,970 --> 01:04:27,790
+more of us driving more owning more cars
+
+1497
+01:04:25,180 --> 01:04:29,140
+the amount of actual air pollution has
+
+1498
+01:04:27,790 --> 01:04:32,700
+been going down
+
+1499
+01:04:29,140 --> 01:04:32,700
+and this is because of the Clean Air Act
+
+1500
+01:04:32,730 --> 01:04:38,590
+another way you can measure this are in
+
+1501
+01:04:35,200 --> 01:04:40,540
+the amount of smoggy days so this is in
+
+1502
+01:04:38,590 --> 01:04:42,250
+the Bay Area so near San Francisco and
+
+1503
+01:04:40,540 --> 01:04:45,610
+they were keeping track of how many days
+
+1504
+01:04:42,250 --> 01:04:49,090
+of really hazardous smog that they had
+
+1505
+01:04:45,610 --> 01:04:50,350
+so this is 1969 and you can see they've
+
+1506
+01:04:49,090 --> 01:04:53,280
+gotten you know someone who looks like
+
+1507
+01:04:50,350 --> 01:04:55,630
+about 65 days of really extreme smog and
+
+1508
+01:04:53,280 --> 01:04:59,230
+over time you know there's good years
+
+1509
+01:04:55,630 --> 01:05:02,980
+and bad years but they start to hit days
+
+1510
+01:04:59,230 --> 01:05:05,170
+with zero days of really intense smog
+
+1511
+01:05:02,980 --> 01:05:06,550
+and again this is due to the Clean Air
+
+1512
+01:05:05,170 --> 01:05:08,200
+Act there's more people there today
+
+1513
+01:05:06,550 --> 01:05:09,850
+there's more cars there today
+
+1514
+01:05:08,200 --> 01:05:11,710
+that their air is actually been getting
+
+1515
+01:05:09,850 --> 01:05:15,940
+cleaner and you can see photographs of
+
+1516
+01:05:11,710 --> 01:05:18,520
+this this is LA 1968 versus LA 2005
+
+1517
+01:05:15,940 --> 01:05:21,360
+right so the Clean Air Act and these
+
+1518
+01:05:18,520 --> 01:05:23,650
+these rules actually had a big impact
+
+1519
+01:05:21,360 --> 01:05:25,630
+cars have been getting cleaner and
+
+1520
+01:05:23,650 --> 01:05:27,490
+cleaner every year so every couple years
+
+1521
+01:05:25,630 --> 01:05:29,650
+manufacturers have been required to
+
+1522
+01:05:27,490 --> 01:05:33,130
+produce automobiles that pollute less
+
+1523
+01:05:29,650 --> 01:05:34,960
+and less you may not know this but there
+
+1524
+01:05:33,130 --> 01:05:36,760
+are machines that will be set up on the
+
+1525
+01:05:34,960 --> 01:05:38,920
+side of the road that will measure the
+
+1526
+01:05:36,760 --> 01:05:41,260
+pollution of your car we don't really
+
+1527
+01:05:38,920 --> 01:05:44,380
+use them so much in New Mexico but they
+
+1528
+01:05:41,260 --> 01:05:46,660
+do this in California and this is data
+
+1529
+01:05:44,380 --> 01:05:49,960
+from Phoenix so what they're looking for
+
+1530
+01:05:46,660 --> 01:05:51,700
+is their so car drives by and it's
+
+1531
+01:05:49,960 --> 01:05:53,110
+measuring the pollution of the car that
+
+1532
+01:05:51,700 --> 01:05:55,060
+just drove by right that's what it's
+
+1533
+01:05:53,110 --> 01:05:56,890
+measuring so it's measuring vo C and NOx
+
+1534
+01:05:55,060 --> 01:06:01,780
+and there's three different kinds of
+
+1535
+01:05:56,890 --> 01:06:04,480
+cars here SUV's pickups small cars or
+
+1536
+01:06:01,780 --> 01:06:07,540
+sorry small pickups and then just cars
+
+1537
+01:06:04,480 --> 01:06:11,050
+and what you notice from 1981 to 1999
+
+1538
+01:06:07,540 --> 01:06:14,350
+that the amount of VOCs are going down
+
+1539
+01:06:11,050 --> 01:06:16,870
+in the amount of NOx going down okay and
+
+1540
+01:06:14,350 --> 01:06:19,450
+so that again that's due the regulation
+
+1541
+01:06:16,870 --> 01:06:22,030
+from the Clean Air Act manufacturers are
+
+1542
+01:06:19,450 --> 01:06:27,280
+required to meet these certain standards
+
+1543
+01:06:22,030 --> 01:06:29,410
+for air pollution so without making
+
+1544
+01:06:27,280 --> 01:06:32,740
+things political we have to talk about
+
+1545
+01:06:29,410 --> 01:06:35,410
+making things political because we're in
+
+1546
+01:06:32,740 --> 01:06:36,790
+a very weird time and I don't know when
+
+1547
+01:06:35,410 --> 01:06:39,910
+you're going to watch this but I'm
+
+1548
+01:06:36,790 --> 01:06:41,560
+recording this in early 2008 and we've
+
+1549
+01:06:39,910 --> 01:06:42,339
+had the Trump administration now for a
+
+1550
+01:06:41,560 --> 01:06:45,999
+year
+
+1551
+01:06:42,339 --> 01:06:46,749
+and things are changing things are
+
+1552
+01:06:45,999 --> 01:06:50,529
+chaotic
+
+1553
+01:06:46,749 --> 01:06:52,839
+so without diving too deep into it let's
+
+1554
+01:06:50,529 --> 01:06:55,209
+talk about a couple of things if you
+
+1555
+01:06:52,839 --> 01:06:56,799
+took this class ten years ago we would
+
+1556
+01:06:55,209 --> 01:06:59,199
+talk about the Clean Air Act we talked
+
+1557
+01:06:56,799 --> 01:07:01,029
+about the rules every year things are
+
+1558
+01:06:59,199 --> 01:07:03,489
+getting better every year the air is
+
+1559
+01:07:01,029 --> 01:07:06,430
+getting cleaner right but now
+
+1560
+01:07:03,489 --> 01:07:10,469
+everything's in flux and so one of the
+
+1561
+01:07:06,430 --> 01:07:12,969
+things that's happened is a Trump has
+
+1562
+01:07:10,469 --> 01:07:17,380
+appointed Scott Pruett in charge of the
+
+1563
+01:07:12,969 --> 01:07:20,079
+EPA well Scott Pruett is has nothing to
+
+1564
+01:07:17,380 --> 01:07:22,479
+do with the environment in fact his
+
+1565
+01:07:20,079 --> 01:07:25,839
+background is that he was a lawyer who
+
+1566
+01:07:22,479 --> 01:07:30,279
+is suing the EPA prior prior to this on
+
+1567
+01:07:25,839 --> 01:07:32,829
+behalf of oil and gas companies so his
+
+1568
+01:07:30,279 --> 01:07:34,749
+big thing is he would like the EPA to go
+
+1569
+01:07:32,829 --> 01:07:37,089
+away he was suing kind of like to get
+
+1570
+01:07:34,749 --> 01:07:39,430
+rid of these air pollution laws and now
+
+1571
+01:07:37,089 --> 01:07:42,430
+he's in charge of it right this is a
+
+1572
+01:07:39,430 --> 01:07:45,069
+classic political move if your political
+
+1573
+01:07:42,430 --> 01:07:46,900
+party doesn't like a certain agency you
+
+1574
+01:07:45,069 --> 01:07:48,339
+take someone else that hates that agency
+
+1575
+01:07:46,900 --> 01:07:50,140
+and you put them in charge of it okay so
+
+1576
+01:07:48,339 --> 01:07:53,170
+this is not new okay this kind of thing
+
+1577
+01:07:50,140 --> 01:07:56,140
+has been going on a long time but one of
+
+1578
+01:07:53,170 --> 01:07:58,150
+the things this brings up is well okay
+
+1579
+01:07:56,140 --> 01:08:02,319
+so what's going to happen to all these
+
+1580
+01:07:58,150 --> 01:08:04,839
+air pollution laws right and the answer
+
+1581
+01:08:02,319 --> 01:08:05,499
+is we're not totally sure but about a
+
+1582
+01:08:04,839 --> 01:08:07,989
+year ago
+
+1583
+01:08:05,499 --> 01:08:11,049
+Trump signs an executive order to
+
+1584
+01:08:07,989 --> 01:08:14,109
+quote-unquote initiate a review of the
+
+1585
+01:08:11,049 --> 01:08:15,609
+air pollution policies and they have
+
+1586
+01:08:14,109 --> 01:08:17,380
+been promising the Trump administration
+
+1587
+01:08:15,609 --> 01:08:19,000
+in general has been promising that
+
+1588
+01:08:17,380 --> 01:08:21,790
+they're going to remove a lot of these
+
+1589
+01:08:19,000 --> 01:08:25,150
+air pollution regulations now as of
+
+1590
+01:08:21,790 --> 01:08:26,679
+right now nothing really concrete has
+
+1591
+01:08:25,150 --> 01:08:30,159
+been done they've rolled back a few
+
+1592
+01:08:26,679 --> 01:08:32,170
+things for coal-fired power plants but
+
+1593
+01:08:30,159 --> 01:08:33,759
+they really haven't completely got rid
+
+1594
+01:08:32,170 --> 01:08:36,699
+of the laws that we've been talking
+
+1595
+01:08:33,759 --> 01:08:38,619
+about for the Clean Air Act but or one
+
+1596
+01:08:36,699 --> 01:08:40,359
+year in so I have no idea what's gonna
+
+1597
+01:08:38,619 --> 01:08:43,059
+happen I don't want to dwell on this too
+
+1598
+01:08:40,359 --> 01:08:45,159
+much except to say times are changing
+
+1599
+01:08:43,059 --> 01:08:46,420
+and it's a little ironic that I just
+
+1600
+01:08:45,159 --> 01:08:49,270
+showed you pictures of this from the
+
+1601
+01:08:46,420 --> 01:08:53,079
+1960s and now I can show you the same
+
+1602
+01:08:49,270 --> 01:08:55,699
+pictures of this from 2017 so people
+
+1603
+01:08:53,079 --> 01:08:59,690
+protesting about the exact same thing
+
+1604
+01:08:55,699 --> 01:09:02,239
+forty years later well one of the things
+
+1605
+01:08:59,690 --> 01:09:03,910
+that came out of the Clean Air Act is
+
+1606
+01:09:02,239 --> 01:09:08,049
+something called the AQI
+
+1607
+01:09:03,910 --> 01:09:10,850
+and the AQI is the air quality index and
+
+1608
+01:09:08,049 --> 01:09:14,569
+what it does is it establishes a
+
+1609
+01:09:10,850 --> 01:09:17,150
+monitoring system for air and so we have
+
+1610
+01:09:14,569 --> 01:09:19,029
+a machine that collects air it measures
+
+1611
+01:09:17,150 --> 01:09:23,540
+the air pollution and then it rates it
+
+1612
+01:09:19,029 --> 01:09:25,699
+it's numerical from 0 to 500 and if
+
+1613
+01:09:23,540 --> 01:09:26,989
+you're in the 0 to 50 zone that's
+
+1614
+01:09:25,699 --> 01:09:29,330
+considered good that's where you want
+
+1615
+01:09:26,989 --> 01:09:31,460
+your air most of the time 50 to 100
+
+1616
+01:09:29,330 --> 01:09:34,790
+moderate and so on and so forth all the
+
+1617
+01:09:31,460 --> 01:09:37,790
+way to hazardous which is 300 to 500 and
+
+1618
+01:09:34,790 --> 01:09:39,410
+they assign a color to this as well well
+
+1619
+01:09:37,790 --> 01:09:41,719
+you can go online and you can check the
+
+1620
+01:09:39,410 --> 01:09:43,160
+air quality all across the country and
+
+1621
+01:09:41,719 --> 01:09:46,029
+here's this website right here we're
+
+1622
+01:09:43,160 --> 01:09:46,029
+going to go to this right now
+
+1623
+01:09:47,080 --> 01:09:52,509
+so here's what this website looks like
+
+1624
+01:09:49,549 --> 01:09:55,160
+and we can visually just kind of look at
+
+1625
+01:09:52,509 --> 01:09:57,739
+the quality of the air so we see a lot
+
+1626
+01:09:55,160 --> 01:10:01,850
+of green and yellow that's good news and
+
+1627
+01:09:57,739 --> 01:10:04,520
+you can zoom in and click on any station
+
+1628
+01:10:01,850 --> 01:10:08,510
+to get a reading so if I click on this
+
+1629
+01:10:04,520 --> 01:10:11,960
+one Santa Fe Airport okay so it's
+
+1630
+01:10:08,510 --> 01:10:14,449
+reporting 34 that's that's good right
+
+1631
+01:10:11,960 --> 01:10:15,739
+that's pretty clean air and by and large
+
+1632
+01:10:14,449 --> 01:10:17,270
+we're doing pretty well I don't know
+
+1633
+01:10:15,739 --> 01:10:20,420
+what's going on here we've got some near
+
+1634
+01:10:17,270 --> 01:10:24,350
+the border of 500 that's bad if we go
+
+1635
+01:10:20,420 --> 01:10:27,410
+down to Mexico looks like we've got some
+
+1636
+01:10:24,350 --> 01:10:31,239
+pretty polluted air down here by Mexico
+
+1637
+01:10:27,410 --> 01:10:37,850
+City that's not too surprising and let's
+
+1638
+01:10:31,239 --> 01:10:40,250
+go across the world here so over Europe
+
+1639
+01:10:37,850 --> 01:10:43,370
+here looks like we got a batch a pretty
+
+1640
+01:10:40,250 --> 01:10:45,590
+bad air right in there might be related
+
+1641
+01:10:43,370 --> 01:10:52,330
+to a temperature inversion I'm not
+
+1642
+01:10:45,590 --> 01:10:57,110
+really sure let's keep going no China
+
+1643
+01:10:52,330 --> 01:11:03,020
+does not look good so we got a lot of
+
+1644
+01:10:57,110 --> 01:11:05,420
+red and we have a lot of dark red and in
+
+1645
+01:11:03,020 --> 01:11:08,270
+fact if you look at these if you can
+
+1646
+01:11:05,420 --> 01:11:09,619
+read it says 999 that means that
+
+1647
+01:11:08,270 --> 01:11:11,929
+pollution is so bad it's clear
+
+1648
+01:11:09,619 --> 01:11:14,770
+the scale so when they invented the AQI
+
+1649
+01:11:11,929 --> 01:11:17,150
+scale I only went from 0 to 500 and
+
+1650
+01:11:14,770 --> 01:11:19,699
+there are air pollution monitors in
+
+1651
+01:11:17,150 --> 01:11:24,080
+China that routinely report air
+
+1652
+01:11:19,699 --> 01:11:25,840
+pollution over a thousand in fact the
+
+1653
+01:11:24,080 --> 01:11:28,489
+government isn't completely forthcoming
+
+1654
+01:11:25,840 --> 01:11:30,619
+with how bad the air quality there is
+
+1655
+01:11:28,489 --> 01:11:32,449
+but we have an embassy in China and we
+
+1656
+01:11:30,619 --> 01:11:34,790
+have an air monitor on the roof and so
+
+1657
+01:11:32,449 --> 01:11:37,909
+we we actually know how bad it is and
+
+1658
+01:11:34,790 --> 01:11:39,409
+it's routinely like 1,500 on the AQI
+
+1659
+01:11:37,909 --> 01:11:42,500
+scale something like that
+
+1660
+01:11:39,409 --> 01:11:44,659
+so in fact China is a pretty interesting
+
+1661
+01:11:42,500 --> 01:11:49,159
+study and what happens if you don't have
+
+1662
+01:11:44,659 --> 01:11:51,409
+any air quality regulations so this is
+
+1663
+01:11:49,159 --> 01:11:55,849
+called a sunny day in China and this is
+
+1664
+01:11:51,409 --> 01:11:57,650
+not fog this is air pollution and this
+
+1665
+01:11:55,849 --> 01:12:01,070
+is the kind of air when you have an AQI
+
+1666
+01:11:57,650 --> 01:12:05,270
+of 999 this is what it looks like okay
+
+1667
+01:12:01,070 --> 01:12:07,790
+and it comes in like a fog and it's
+
+1668
+01:12:05,270 --> 01:12:11,420
+often this way for weeks at a time in
+
+1669
+01:12:07,790 --> 01:12:13,929
+Beijing and people walk around with dust
+
+1670
+01:12:11,420 --> 01:12:16,550
+masks on
+
+1671
+01:12:13,929 --> 01:12:18,800
+sometimes people exercise out outside
+
+1672
+01:12:16,550 --> 01:12:21,500
+with with dust masks on other times a
+
+1673
+01:12:18,800 --> 01:12:23,270
+students exercise inside okay these guys
+
+1674
+01:12:21,500 --> 01:12:24,889
+going on the marathon with their
+
+1675
+01:12:23,270 --> 01:12:26,630
+respirators on these guys are pretty
+
+1676
+01:12:24,889 --> 01:12:30,380
+gangster they don't care they're gonna
+
+1677
+01:12:26,630 --> 01:12:32,960
+breathe it in anyway this is what a
+
+1678
+01:12:30,380 --> 01:12:34,940
+satellite picture of China often looks
+
+1679
+01:12:32,960 --> 01:12:37,849
+like all this brown that you see that's
+
+1680
+01:12:34,940 --> 01:12:39,710
+all air pollution so it's worth pointing
+
+1681
+01:12:37,849 --> 01:12:41,480
+out that the one of the reasons the air
+
+1682
+01:12:39,710 --> 01:12:44,780
+pollution is so bad in China is that
+
+1683
+01:12:41,480 --> 01:12:49,040
+unlike us they don't have or have not
+
+1684
+01:12:44,780 --> 01:12:51,380
+historically had any laws regarding air
+
+1685
+01:12:49,040 --> 01:12:53,239
+pollution they've also been growing
+
+1686
+01:12:51,380 --> 01:12:55,610
+they've been putting up like several
+
+1687
+01:12:53,239 --> 01:12:58,699
+coal fire power plants per week in the
+
+1688
+01:12:55,610 --> 01:13:00,770
+last several years but unlike here where
+
+1689
+01:12:58,699 --> 01:13:02,869
+we have a lot of fairly strict
+
+1690
+01:13:00,770 --> 01:13:04,670
+regulations regarding air pollution
+
+1691
+01:13:02,869 --> 01:13:06,739
+they've just pretty much let people do
+
+1692
+01:13:04,670 --> 01:13:09,800
+whatever they want and so you can kind
+
+1693
+01:13:06,739 --> 01:13:12,920
+of see the result of that system here in
+
+1694
+01:13:09,800 --> 01:13:15,500
+fact 2015 they were going to have a
+
+1695
+01:13:12,920 --> 01:13:18,500
+parade to celebrate the in a World War
+
+1696
+01:13:15,500 --> 01:13:19,340
+two so for a couple weeks leading up to
+
+1697
+01:13:18,500 --> 01:13:21,679
+the parade
+
+1698
+01:13:19,340 --> 01:13:22,760
+they took cars off the streets they shut
+
+1699
+01:13:21,679 --> 01:13:25,700
+down power
+
+1700
+01:13:22,760 --> 01:13:27,530
+plans to shut down factories and the day
+
+1701
+01:13:25,700 --> 01:13:29,720
+of the parade or the day before the
+
+1702
+01:13:27,530 --> 01:13:31,130
+parade I guess it is this is what it
+
+1703
+01:13:29,720 --> 01:13:33,430
+looked like this is what Beijing looked
+
+1704
+01:13:31,130 --> 01:13:36,350
+like you can actually see the sky
+
+1705
+01:13:33,430 --> 01:13:38,030
+literally the day after the parade they
+
+1706
+01:13:36,350 --> 01:13:41,390
+are all right back to work everybody
+
+1707
+01:13:38,030 --> 01:13:44,270
+this is what it looked like okay so they
+
+1708
+01:13:41,390 --> 01:13:46,820
+could have clean air it's it's possible
+
+1709
+01:13:44,270 --> 01:13:49,820
+but they're gonna have to invest you
+
+1710
+01:13:46,820 --> 01:13:51,920
+know time energy and political will to
+
+1711
+01:13:49,820 --> 01:13:57,050
+clean up their air to keep it you know
+
+1712
+01:13:51,920 --> 01:13:59,900
+kind of like what we have here so to
+
+1713
+01:13:57,050 --> 01:14:02,240
+summarize the atmospheres have divided
+
+1714
+01:13:59,900 --> 01:14:04,910
+into layers with the lowest two layers
+
+1715
+01:14:02,240 --> 01:14:07,460
+being the troposphere and above that the
+
+1716
+01:14:04,910 --> 01:14:09,140
+stratosphere and the stratosphere has a
+
+1717
+01:14:07,460 --> 01:14:12,440
+big temperature inversion and that's
+
+1718
+01:14:09,140 --> 01:14:14,330
+what blocks convection now high pressure
+
+1719
+01:14:12,440 --> 01:14:16,490
+centers can create temperature
+
+1720
+01:14:14,330 --> 01:14:19,130
+inversions lower down in the troposphere
+
+1721
+01:14:16,490 --> 01:14:21,920
+and if you have one it will prevent
+
+1722
+01:14:19,130 --> 01:14:23,930
+things from convecting and going up into
+
+1723
+01:14:21,920 --> 01:14:26,720
+the atmosphere and that is what traps
+
+1724
+01:14:23,930 --> 01:14:29,720
+air pollution so we went through the
+
+1725
+01:14:26,720 --> 01:14:32,180
+different pollutants and we talked about
+
+1726
+01:14:29,720 --> 01:14:34,910
+how legally nothing really happened in
+
+1727
+01:14:32,180 --> 01:14:36,800
+this country till the 1970s and then we
+
+1728
+01:14:34,910 --> 01:14:39,470
+started passing laws regarding air
+
+1729
+01:14:36,800 --> 01:14:40,550
+pollution and the only things that are
+
+1730
+01:14:39,470 --> 01:14:42,890
+Putin are things that are actually
+
+1731
+01:14:40,550 --> 01:14:45,050
+dangerous to us so as we'll talk about
+
+1732
+01:14:42,890 --> 01:14:46,790
+in a future lecture greenhouse gases are
+
+1733
+01:14:45,050 --> 01:14:52,850
+not part of this list that's a separate
+
+1734
+01:14:46,790 --> 01:14:55,910
+thing and up until a year ago with a new
+
+1735
+01:14:52,850 --> 01:14:58,190
+administration the story has been that
+
+1736
+01:14:55,910 --> 01:15:00,590
+each year that goes by air pollution
+
+1737
+01:14:58,190 --> 01:15:02,750
+here in this country gets better and
+
+1738
+01:15:00,590 --> 01:15:04,310
+better and the restrictions become
+
+1739
+01:15:02,750 --> 01:15:06,140
+tighter and tighter so your cars are
+
+1740
+01:15:04,310 --> 01:15:08,870
+cleaner your factories are cleaner etc
+
+1741
+01:15:06,140 --> 01:15:14,440
+right now who knows what's going to
+
+1742
+01:15:08,870 --> 01:15:14,440
+happen alright thanks for listening
+
+1743
+01:15:20,909 --> 01:15:22,969
+you
+

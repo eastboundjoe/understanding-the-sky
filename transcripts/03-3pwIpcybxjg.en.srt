@@ -1,0 +1,3220 @@
+1
+00:00:02,830 --> 00:00:10,690
+[Music]
+
+2
+00:00:07,109 --> 00:00:13,329
+hey this is Mel strong and welcome to my
+
+3
+00:00:10,690 --> 00:00:15,459
+lecture on humidity part 2 if you
+
+4
+00:00:13,329 --> 00:00:17,619
+haven't watched part 1 I suggest you go
+
+5
+00:00:15,459 --> 00:00:19,689
+and do that first then this one will
+
+6
+00:00:17,619 --> 00:00:23,109
+probably make a lot more sense
+
+7
+00:00:19,689 --> 00:00:24,699
+so to recap from last time we talked
+
+8
+00:00:23,109 --> 00:00:26,949
+about two methods that we use to
+
+9
+00:00:24,699 --> 00:00:30,550
+describe humidity one was mixing ratio
+
+10
+00:00:26,949 --> 00:00:32,320
+and the other was dewpoint now mixing
+
+11
+00:00:30,550 --> 00:00:35,379
+ratio is probably the one that's the
+
+12
+00:00:32,320 --> 00:00:37,899
+easiest to visualize and it's describing
+
+13
+00:00:35,379 --> 00:00:40,930
+how many grams of water vapor are in
+
+14
+00:00:37,899 --> 00:00:42,120
+each kilogram of air so it has units of
+
+15
+00:00:40,930 --> 00:00:45,219
+grams per kilogram
+
+16
+00:00:42,120 --> 00:00:47,379
+dew point it's a little more abstract
+
+17
+00:00:45,219 --> 00:00:50,020
+but it describes at what temperature the
+
+18
+00:00:47,379 --> 00:00:52,600
+air would become saturated so if I say
+
+19
+00:00:50,020 --> 00:00:54,789
+the dew point is 40 degrees one of the
+
+20
+00:00:52,600 --> 00:00:56,800
+things that that tells you is that if I
+
+21
+00:00:54,789 --> 00:01:00,969
+cool it down the four degrees tonight I
+
+22
+00:00:56,800 --> 00:01:05,439
+will get condensation or do so both of
+
+23
+00:01:00,969 --> 00:01:06,909
+these are used to describe humidity and
+
+24
+00:01:05,439 --> 00:01:08,439
+what we're going to do is we're going to
+
+25
+00:01:06,909 --> 00:01:12,750
+talk a little bit about how we might be
+
+26
+00:01:08,439 --> 00:01:16,509
+able to change those two variables so
+
+27
+00:01:12,750 --> 00:01:18,400
+let's imagine I add water to the air
+
+28
+00:01:16,509 --> 00:01:20,740
+somehow so you can imagine maybe I'm
+
+29
+00:01:18,400 --> 00:01:22,630
+boiling a pot of water and water is
+
+30
+00:01:20,740 --> 00:01:25,659
+evaporating out of my pot going into the
+
+31
+00:01:22,630 --> 00:01:27,729
+air then how is that affecting the dew
+
+32
+00:01:25,659 --> 00:01:31,119
+point in the mixing ratio of the air so
+
+33
+00:01:27,729 --> 00:01:34,329
+if I can add water to the air any by any
+
+34
+00:01:31,119 --> 00:01:38,560
+means both the mixing ratio and the dew
+
+35
+00:01:34,329 --> 00:01:41,259
+point will increase now the converse is
+
+36
+00:01:38,560 --> 00:01:44,649
+also true if I remove water from the air
+
+37
+00:01:41,259 --> 00:01:48,850
+both mixing ratio and dew point will
+
+38
+00:01:44,649 --> 00:01:51,880
+both decrease now key idea here you
+
+39
+00:01:48,850 --> 00:01:52,210
+cannot change one without changing the
+
+40
+00:01:51,880 --> 00:01:55,180
+other
+
+41
+00:01:52,210 --> 00:01:57,130
+so think about mixing ratio if I add
+
+42
+00:01:55,180 --> 00:01:59,229
+water to the atmosphere I can think of
+
+43
+00:01:57,130 --> 00:02:02,140
+it like I'm adding grams of water to the
+
+44
+00:01:59,229 --> 00:02:03,820
+atmosphere mixing ratio must go up but
+
+45
+00:02:02,140 --> 00:02:06,009
+if I add more water to the atmosphere
+
+46
+00:02:03,820 --> 00:02:08,440
+that means I don't have to cool it as
+
+47
+00:02:06,009 --> 00:02:12,040
+much before it becomes saturated so the
+
+48
+00:02:08,440 --> 00:02:14,740
+dew point also goes up so if one goes up
+
+49
+00:02:12,040 --> 00:02:17,110
+the other must go up if one goes down
+
+50
+00:02:14,740 --> 00:02:19,990
+the other must go down it's impossible
+
+51
+00:02:17,110 --> 00:02:22,720
+to change dewpoint or mixing ratio eat
+
+52
+00:02:19,990 --> 00:02:25,390
+either way up or down without changing
+
+53
+00:02:22,720 --> 00:02:28,240
+the other one in the same way so keep
+
+54
+00:02:25,390 --> 00:02:30,490
+that in mind now we also talked a little
+
+55
+00:02:28,240 --> 00:02:34,090
+bit about how you might change dew point
+
+56
+00:02:30,490 --> 00:02:37,030
+last time and same goes for mixing ratio
+
+57
+00:02:34,090 --> 00:02:39,700
+which is often the a change in wind
+
+58
+00:02:37,030 --> 00:02:44,830
+direction will result in a change in dew
+
+59
+00:02:39,700 --> 00:02:47,320
+point or mixing ratio so for New Mexico
+
+60
+00:02:44,830 --> 00:02:49,870
+where we live if we get a twin coming
+
+61
+00:02:47,320 --> 00:02:52,060
+say from the north or the Northwest that
+
+62
+00:02:49,870 --> 00:02:55,540
+wind has come from somewhere cold and
+
+63
+00:02:52,060 --> 00:02:58,300
+cold air is always dry air so generally
+
+64
+00:02:55,540 --> 00:03:00,730
+that equates to low dew points low
+
+65
+00:02:58,300 --> 00:03:03,280
+mixing ratios if we get wind coming from
+
+66
+00:03:00,730 --> 00:03:05,680
+the south east that usually comes from a
+
+67
+00:03:03,280 --> 00:03:07,420
+location that's pretty warm and has
+
+68
+00:03:05,680 --> 00:03:10,240
+pretty high dew points and high mixing
+
+69
+00:03:07,420 --> 00:03:12,850
+ratios so those values will go up now
+
+70
+00:03:10,240 --> 00:03:14,680
+this is also true pretty much no matter
+
+71
+00:03:12,850 --> 00:03:16,450
+where you live in the United States if
+
+72
+00:03:14,680 --> 00:03:18,190
+you're getting a north wind that wind
+
+73
+00:03:16,450 --> 00:03:20,530
+probably came from somewhere up in
+
+74
+00:03:18,190 --> 00:03:22,120
+Canada where it was cold and dry if you
+
+75
+00:03:20,530 --> 00:03:23,980
+hear the wind coming from the south it
+
+76
+00:03:22,120 --> 00:03:26,380
+probably came from somewhere more humid
+
+77
+00:03:23,980 --> 00:03:31,210
+in your mixing ratios and dew points
+
+78
+00:03:26,380 --> 00:03:33,040
+will increase as a result so what what
+
+79
+00:03:31,210 --> 00:03:36,550
+I'm going to do is show some practice
+
+80
+00:03:33,040 --> 00:03:38,200
+problems here and these are all problems
+
+81
+00:03:36,550 --> 00:03:39,700
+that are kind of revolved around this
+
+82
+00:03:38,200 --> 00:03:41,500
+concept so we'll go through the
+
+83
+00:03:39,700 --> 00:03:44,590
+questions and we'll go over the answers
+
+84
+00:03:41,500 --> 00:03:46,390
+here so here's the first one says the
+
+85
+00:03:44,590 --> 00:03:49,000
+mixing ratio in this room today is 3
+
+86
+00:03:46,390 --> 00:03:52,720
+grams per kilogram okay the temperature
+
+87
+00:03:49,000 --> 00:03:54,910
+in here is 70 degrees Fahrenheit so I go
+
+88
+00:03:52,720 --> 00:03:56,850
+and I just turn up the thermostat in a
+
+89
+00:03:54,910 --> 00:04:00,460
+room and then warm up the room to 80
+
+90
+00:03:56,850 --> 00:04:02,680
+how has the mixing ratio changed so
+
+91
+00:04:00,460 --> 00:04:05,050
+here's a choices mixing ratio increased
+
+92
+00:04:02,680 --> 00:04:08,170
+decreased didn't change or not enough
+
+93
+00:04:05,050 --> 00:04:10,240
+information to answer okay so so all
+
+94
+00:04:08,170 --> 00:04:12,580
+we've done is we've warmed up the room
+
+95
+00:04:10,240 --> 00:04:15,370
+okay so when you have a question like
+
+96
+00:04:12,580 --> 00:04:18,040
+this you ask yourself okay did I add
+
+97
+00:04:15,370 --> 00:04:18,940
+water to the air or did I subtract water
+
+98
+00:04:18,040 --> 00:04:21,310
+from the air
+
+99
+00:04:18,940 --> 00:04:23,770
+now all I've done is raise the
+
+100
+00:04:21,310 --> 00:04:25,930
+temperature so I did not add any water
+
+101
+00:04:23,770 --> 00:04:28,600
+to the air I did not subtract any water
+
+102
+00:04:25,930 --> 00:04:31,960
+from the air so the mixing ratio
+
+103
+00:04:28,600 --> 00:04:33,640
+is still three grams per kilogram now
+
+104
+00:04:31,960 --> 00:04:36,130
+the reason I'm giving you this question
+
+105
+00:04:33,640 --> 00:04:39,040
+is because in the past some students get
+
+106
+00:04:36,130 --> 00:04:41,770
+confused once we learned how temperature
+
+107
+00:04:39,040 --> 00:04:43,990
+changes maximum mixing ratio they tend
+
+108
+00:04:41,770 --> 00:04:46,390
+to one that try to change the mixing
+
+109
+00:04:43,990 --> 00:04:47,770
+ratio itself with temperature so in
+
+110
+00:04:46,390 --> 00:04:49,270
+other words a lot of people on this
+
+111
+00:04:47,770 --> 00:04:51,190
+question would say oh it's warmer
+
+112
+00:04:49,270 --> 00:04:54,280
+it's a warmer temperature therefore the
+
+113
+00:04:51,190 --> 00:04:56,680
+mixing ratio went up no not unless we
+
+114
+00:04:54,280 --> 00:04:59,920
+added water okay so in this case the
+
+115
+00:04:56,680 --> 00:05:02,110
+mixing ratio has not changed okay let's
+
+116
+00:04:59,920 --> 00:05:04,000
+look at another one pot of water boiling
+
+117
+00:05:02,110 --> 00:05:08,110
+on the kitchen stove the windows and
+
+118
+00:05:04,000 --> 00:05:10,600
+doors are all closed so we are air in
+
+119
+00:05:08,110 --> 00:05:13,270
+our house is sealed how is the dewpoint
+
+120
+00:05:10,600 --> 00:05:14,740
+inside the kitchen changing increasing
+
+121
+00:05:13,270 --> 00:05:16,630
+decreasing not changing not enough
+
+122
+00:05:14,740 --> 00:05:20,500
+information to answer okay so if I'm
+
+123
+00:05:16,630 --> 00:05:23,860
+boiling water on the stove then clearly
+
+124
+00:05:20,500 --> 00:05:25,840
+I am adding water molecules up into the
+
+125
+00:05:23,860 --> 00:05:27,880
+air as the water is boiling or assuming
+
+126
+00:05:25,840 --> 00:05:30,850
+the pot is open water molecules are
+
+127
+00:05:27,880 --> 00:05:34,150
+coming out and going into the air in the
+
+128
+00:05:30,850 --> 00:05:36,580
+in the kitchen so if we're adding water
+
+129
+00:05:34,150 --> 00:05:39,100
+to the air in the kitchen that's going
+
+130
+00:05:36,580 --> 00:05:44,620
+to increase dewpoints and this one the
+
+131
+00:05:39,100 --> 00:05:45,130
+dew point would be increasing so another
+
+132
+00:05:44,620 --> 00:05:47,260
+one tonight
+
+133
+00:05:45,130 --> 00:05:50,980
+dew starts to form on the grass outside
+
+134
+00:05:47,260 --> 00:05:53,980
+as it does so how is the dew point
+
+135
+00:05:50,980 --> 00:05:55,660
+changing overnight increasing decreasing
+
+136
+00:05:53,980 --> 00:06:00,220
+doesn't change not enough information
+
+137
+00:05:55,660 --> 00:06:03,070
+okay so if do is forming that means we
+
+138
+00:06:00,220 --> 00:06:04,900
+are we have condensation if we have
+
+139
+00:06:03,070 --> 00:06:06,400
+condensation that means that we're
+
+140
+00:06:04,900 --> 00:06:08,080
+taking water molecules and we're
+
+141
+00:06:06,400 --> 00:06:09,850
+bringing them down and we're putting
+
+142
+00:06:08,080 --> 00:06:12,880
+them onto the grass onto the ground
+
+143
+00:06:09,850 --> 00:06:14,620
+somewhere and that is removing water
+
+144
+00:06:12,880 --> 00:06:17,860
+from the air we have to remove water
+
+145
+00:06:14,620 --> 00:06:21,220
+from the air to make do okay so if we're
+
+146
+00:06:17,860 --> 00:06:24,400
+making do we're removing water from the
+
+147
+00:06:21,220 --> 00:06:26,170
+air and that is decreasing the dew point
+
+148
+00:06:24,400 --> 00:06:29,560
+okay so we're going to decrease the dew
+
+149
+00:06:26,170 --> 00:06:32,310
+point as we remove water from the air to
+
+150
+00:06:29,560 --> 00:06:32,310
+make the dew
+
+151
+00:06:33,420 --> 00:06:38,190
+which of the following locations most
+
+152
+00:06:36,150 --> 00:06:41,220
+likely has the highest annual average
+
+153
+00:06:38,190 --> 00:06:45,660
+dew point and so if you're unfamiliar
+
+154
+00:06:41,220 --> 00:06:49,800
+with these places you can kind of look
+
+155
+00:06:45,660 --> 00:06:51,750
+at them on a map but we're last time if
+
+156
+00:06:49,800 --> 00:06:54,210
+you remember we looked on the internet
+
+157
+00:06:51,750 --> 00:06:56,220
+at Earth Knoll Schoolnet and we looked
+
+158
+00:06:54,210 --> 00:06:59,130
+at where most of the water vapor in the
+
+159
+00:06:56,220 --> 00:07:01,200
+world is and it's along a band kind of
+
+160
+00:06:59,130 --> 00:07:03,630
+near the equator so if you live
+
+161
+00:07:01,200 --> 00:07:05,490
+somewhere we're surrounded by warm ocean
+
+162
+00:07:03,630 --> 00:07:08,040
+and you have warm temperatures you're
+
+163
+00:07:05,490 --> 00:07:10,770
+gonna have pretty high dew points so of
+
+164
+00:07:08,040 --> 00:07:13,590
+these choices Miami is probably your
+
+165
+00:07:10,770 --> 00:07:18,840
+best bet for having highest average dew
+
+166
+00:07:13,590 --> 00:07:23,370
+point okay dew point in this room was 50
+
+167
+00:07:18,840 --> 00:07:26,310
+for temperature is 75 I turned the
+
+168
+00:07:23,370 --> 00:07:30,810
+thermostat up so the room warms to 80
+
+169
+00:07:26,310 --> 00:07:33,660
+how has a dew point changed okay so once
+
+170
+00:07:30,810 --> 00:07:36,210
+again you ask yourself did I add water
+
+171
+00:07:33,660 --> 00:07:39,030
+to the air J subtract water from the air
+
+172
+00:07:36,210 --> 00:07:42,360
+or did I not add or subtract any water
+
+173
+00:07:39,030 --> 00:07:45,390
+from the air so all I did here is so we
+
+174
+00:07:42,360 --> 00:07:50,610
+know the dew points 54 temperatures 75
+
+175
+00:07:45,390 --> 00:07:52,860
+so if I increase the temperature have I
+
+176
+00:07:50,610 --> 00:07:55,440
+added water to the air no if I
+
+177
+00:07:52,860 --> 00:07:59,790
+subtracted water from the air no dew
+
+178
+00:07:55,440 --> 00:08:05,100
+point still 54 okay so dew point has not
+
+179
+00:07:59,790 --> 00:08:07,170
+changed okay similar to one that always
+
+180
+00:08:05,100 --> 00:08:08,900
+seemed just a minute ago a pot of what a
+
+181
+00:08:07,170 --> 00:08:11,640
+water is boiling on the kitchen stove
+
+182
+00:08:08,900 --> 00:08:12,990
+windows and doors are all closed how is
+
+183
+00:08:11,640 --> 00:08:13,890
+the mixing ratio inside the kitchen
+
+184
+00:08:12,990 --> 00:08:16,740
+changing
+
+185
+00:08:13,890 --> 00:08:19,500
+so again if you're boiling water on the
+
+186
+00:08:16,740 --> 00:08:21,690
+stove that water is coming out of the
+
+187
+00:08:19,500 --> 00:08:24,180
+pot going into the air we're literally
+
+188
+00:08:21,690 --> 00:08:30,660
+adding grams of water to the air so that
+
+189
+00:08:24,180 --> 00:08:32,100
+mixing ratio is increasing wind has been
+
+190
+00:08:30,660 --> 00:08:34,200
+blowing from the west for several days
+
+191
+00:08:32,100 --> 00:08:35,640
+suddenly shifts directions and starts
+
+192
+00:08:34,200 --> 00:08:37,380
+blowing from the east how's the dew
+
+193
+00:08:35,640 --> 00:08:40,620
+point likely change so we just kind of
+
+194
+00:08:37,380 --> 00:08:42,900
+talked about this so if it's coming from
+
+195
+00:08:40,620 --> 00:08:44,790
+the West it's coming from off the
+
+196
+00:08:42,900 --> 00:08:46,890
+Pacific Ocean the Pacific Ocean is very
+
+197
+00:08:44,790 --> 00:08:47,250
+cold and the dew points are usually
+
+198
+00:08:46,890 --> 00:08:50,900
+going to be
+
+199
+00:08:47,250 --> 00:08:53,610
+very low over here coming from the east
+
+200
+00:08:50,900 --> 00:08:55,530
+if we trace that ear back somewhere it
+
+201
+00:08:53,610 --> 00:08:58,380
+probably came over maybe the Atlantic or
+
+202
+00:08:55,530 --> 00:09:00,150
+maybe the Gulf of Mexico and the dew
+
+203
+00:08:58,380 --> 00:09:07,800
+points were pretty high so most likely
+
+204
+00:09:00,150 --> 00:09:09,930
+the dew point has increased ok dew point
+
+205
+00:09:07,800 --> 00:09:13,350
+in this room is fifty four temperature
+
+206
+00:09:09,930 --> 00:09:17,520
+is 75 I turned the thermostat down so
+
+207
+00:09:13,350 --> 00:09:21,030
+the room cools to 40 does the air become
+
+208
+00:09:17,520 --> 00:09:25,280
+saturated in other words another way of
+
+209
+00:09:21,030 --> 00:09:28,440
+asking this is do we make do in our room
+
+210
+00:09:25,280 --> 00:09:31,650
+so in order to answer that I need to
+
+211
+00:09:28,440 --> 00:09:34,500
+know the dew point 54 okay then I need
+
+212
+00:09:31,650 --> 00:09:37,260
+to know are we cooling it down to or
+
+213
+00:09:34,500 --> 00:09:39,120
+below the dew point yes
+
+214
+00:09:37,260 --> 00:09:42,330
+we're cooling it down to 40 that's below
+
+215
+00:09:39,120 --> 00:09:48,480
+54 so we are going to make do we are
+
+216
+00:09:42,330 --> 00:09:50,910
+going to saturate the air so yes same
+
+217
+00:09:48,480 --> 00:09:55,980
+question except I added one more
+
+218
+00:09:50,910 --> 00:10:00,330
+sentence does the dew point change okay
+
+219
+00:09:55,980 --> 00:10:04,680
+so to illustrate what happens here let's
+
+220
+00:10:00,330 --> 00:10:06,990
+consider I got two thermometers one
+
+221
+00:10:04,680 --> 00:10:11,640
+measures temperature one measures
+
+222
+00:10:06,990 --> 00:10:13,500
+dewpoint let's say okay so right now the
+
+223
+00:10:11,640 --> 00:10:17,520
+temperature is above dew point and let's
+
+224
+00:10:13,500 --> 00:10:19,050
+say I cool down the room all right or
+
+225
+00:10:17,520 --> 00:10:22,880
+maybe this is happening outside doesn't
+
+226
+00:10:19,050 --> 00:10:25,530
+matter so I cool it down 10 degrees
+
+227
+00:10:22,880 --> 00:10:26,430
+temperatures drop 10 degrees dew point
+
+228
+00:10:25,530 --> 00:10:28,380
+has not changed
+
+229
+00:10:26,430 --> 00:10:31,290
+why is dew point not changed we haven't
+
+230
+00:10:28,380 --> 00:10:34,050
+taken any water or added any water from
+
+231
+00:10:31,290 --> 00:10:36,360
+the atmosphere cool it down further now
+
+232
+00:10:34,050 --> 00:10:39,000
+it's 60 dew point still hasn't changed
+
+233
+00:10:36,360 --> 00:10:43,110
+same amount of water in the air now we
+
+234
+00:10:39,000 --> 00:10:45,900
+drop it down to 50 and at 50 degrees air
+
+235
+00:10:43,110 --> 00:10:49,770
+is saturated okay so from this point
+
+236
+00:10:45,900 --> 00:10:52,140
+forward we're gonna start making do so
+
+237
+00:10:49,770 --> 00:10:54,600
+right at 50 where the temperature equals
+
+238
+00:10:52,140 --> 00:10:57,420
+the dew point right at this point right
+
+239
+00:10:54,600 --> 00:11:00,000
+here both of those values are the same
+
+240
+00:10:57,420 --> 00:11:01,030
+the air is saturated and what we would
+
+241
+00:11:00,000 --> 00:11:02,950
+get at this
+
+242
+00:11:01,030 --> 00:11:05,100
+instant in time would be like
+
+243
+00:11:02,950 --> 00:11:07,810
+microscopic do tiny tiny little
+
+244
+00:11:05,100 --> 00:11:11,010
+particles you could hardly see but as a
+
+245
+00:11:07,810 --> 00:11:13,090
+COO it further below 50 those little Dew
+
+246
+00:11:11,010 --> 00:11:17,050
+droplets we're gonna start to grow
+
+247
+00:11:13,090 --> 00:11:19,810
+larger and larger now as I start to grow
+
+248
+00:11:17,050 --> 00:11:22,540
+do larger and larger I have to take
+
+249
+00:11:19,810 --> 00:11:25,480
+water molecules out of the air and put
+
+250
+00:11:22,540 --> 00:11:27,280
+them down onto the ground like the grass
+
+251
+00:11:25,480 --> 00:11:30,790
+or if this is happening inside to beyond
+
+252
+00:11:27,280 --> 00:11:33,640
+the walls so here we are 50 I'm going to
+
+253
+00:11:30,790 --> 00:11:36,550
+cool it further down to 40 and notice
+
+254
+00:11:33,640 --> 00:11:40,120
+what happens dew point has to change
+
+255
+00:11:36,550 --> 00:11:42,850
+with temperature so if the temperature
+
+256
+00:11:40,120 --> 00:11:45,790
+drops to 40 the dew point also has to
+
+257
+00:11:42,850 --> 00:11:49,090
+drop to 40 and if I drop it further to
+
+258
+00:11:45,790 --> 00:11:52,530
+30 the dew point still has to follow the
+
+259
+00:11:49,090 --> 00:11:55,420
+temperature and also go down to 30
+
+260
+00:11:52,530 --> 00:11:59,110
+one of the laws to keep in mind in your
+
+261
+00:11:55,420 --> 00:12:01,510
+head dew point can never be higher in
+
+262
+00:11:59,110 --> 00:12:03,250
+temperature ok dew point can never be
+
+263
+00:12:01,510 --> 00:12:06,040
+higher than temperature so here they're
+
+264
+00:12:03,250 --> 00:12:08,590
+the same you can have temperature higher
+
+265
+00:12:06,040 --> 00:12:18,450
+than dew point but you can't have dew
+
+266
+00:12:08,590 --> 00:12:18,450
+point higher than temperature ok ok
+
+267
+00:12:19,170 --> 00:12:24,730
+monsoon season in New Mexico and we
+
+268
+00:12:22,990 --> 00:12:27,220
+notice that over several days the dew
+
+269
+00:12:24,730 --> 00:12:29,760
+point is decreasing right so let's
+
+270
+00:12:27,220 --> 00:12:31,690
+imagine worth it's in August and we
+
+271
+00:12:29,760 --> 00:12:34,390
+notice that the dew point has been
+
+272
+00:12:31,690 --> 00:12:35,940
+decreasing for several days how will
+
+273
+00:12:34,390 --> 00:12:39,400
+this most likely affect our weather
+
+274
+00:12:35,940 --> 00:12:42,520
+so if dew point goes down that means
+
+275
+00:12:39,400 --> 00:12:44,560
+there was less water molecules in the
+
+276
+00:12:42,520 --> 00:12:46,570
+air if there's less water molecules in
+
+277
+00:12:44,560 --> 00:12:49,450
+the air you're gonna have a harder time
+
+278
+00:12:46,570 --> 00:12:50,620
+making precipitation right so if you
+
+279
+00:12:49,450 --> 00:12:53,620
+want to make a cumulonimbus a
+
+280
+00:12:50,620 --> 00:12:55,720
+thunderstorm you need to have water
+
+281
+00:12:53,620 --> 00:12:58,690
+vapor available for that to happen
+
+282
+00:12:55,720 --> 00:13:00,910
+so when dew point goes down the chance
+
+283
+00:12:58,690 --> 00:13:04,390
+of precipitation goes down with it
+
+284
+00:13:00,910 --> 00:13:10,810
+usually so most likely we would have a
+
+285
+00:13:04,390 --> 00:13:13,780
+lower chance of precipitation ok story
+
+286
+00:13:10,810 --> 00:13:14,769
+problem dew point is 52 today does not
+
+287
+00:13:13,780 --> 00:13:17,860
+change for the
+
+288
+00:13:14,769 --> 00:13:20,470
+next 24 hours it's sunrise a temperature
+
+289
+00:13:17,860 --> 00:13:23,679
+of 68 by noon the temperature is 85 by 4
+
+290
+00:13:20,470 --> 00:13:25,509
+the temperature is 94 when do we have
+
+291
+00:13:23,679 --> 00:13:28,600
+the highest concentration of water
+
+292
+00:13:25,509 --> 00:13:31,689
+molecules in the air is that sunrise is
+
+293
+00:13:28,600 --> 00:13:33,730
+it at noon is it at 4:00 the amount of
+
+294
+00:13:31,689 --> 00:13:36,459
+water in the air doesn't change not
+
+295
+00:13:33,730 --> 00:13:40,480
+enough information to determine so what
+
+296
+00:13:36,459 --> 00:13:41,980
+do you think about that one so the key
+
+297
+00:13:40,480 --> 00:13:45,790
+to this question is in the first
+
+298
+00:13:41,980 --> 00:13:49,389
+sentence it says the dew point is 52 and
+
+299
+00:13:45,790 --> 00:13:52,329
+does not change for the next 24 hours so
+
+300
+00:13:49,389 --> 00:13:54,850
+the only way I can change dew point is
+
+301
+00:13:52,329 --> 00:13:57,519
+to add water to the air or subtract
+
+302
+00:13:54,850 --> 00:14:00,339
+water from the air the fact that the dew
+
+303
+00:13:57,519 --> 00:14:02,319
+point is not changing it tells me does
+
+304
+00:14:00,339 --> 00:14:04,389
+not change for 24 hours so the amount of
+
+305
+00:14:02,319 --> 00:14:08,079
+water in the air is not going to change
+
+306
+00:14:04,389 --> 00:14:10,720
+for 24 hours so d the amount of water in
+
+307
+00:14:08,079 --> 00:14:13,059
+the air does not change so you have to
+
+308
+00:14:10,720 --> 00:14:15,480
+in your mind keep separate temperature
+
+309
+00:14:13,059 --> 00:14:18,399
+from dew point temperature can
+
+310
+00:14:15,480 --> 00:14:20,769
+effectuate up and down every day dew
+
+311
+00:14:18,399 --> 00:14:22,360
+point often remains constant all day
+
+312
+00:14:20,769 --> 00:14:28,990
+long for day after day after day
+
+313
+00:14:22,360 --> 00:14:31,749
+sometimes so today we're introducing a
+
+314
+00:14:28,990 --> 00:14:34,629
+third way to describe humidity which is
+
+315
+00:14:31,749 --> 00:14:36,459
+relative humidity turns out relative
+
+316
+00:14:34,629 --> 00:14:38,529
+humidity is the most common way that
+
+317
+00:14:36,459 --> 00:14:40,839
+humidity is described to the general
+
+318
+00:14:38,529 --> 00:14:44,199
+public but it's also completely
+
+319
+00:14:40,839 --> 00:14:45,069
+misunderstood by almost everybody we're
+
+320
+00:14:44,199 --> 00:14:47,379
+going to talk about why it's so
+
+321
+00:14:45,069 --> 00:14:49,509
+confusing in a minute but you've
+
+322
+00:14:47,379 --> 00:14:51,129
+probably heard relative humidity before
+
+323
+00:14:49,509 --> 00:14:53,259
+in a weather report they might say
+
+324
+00:14:51,129 --> 00:14:56,139
+something like the relative humidity is
+
+325
+00:14:53,259 --> 00:14:59,110
+35% okay so before we explain what that
+
+326
+00:14:56,139 --> 00:15:02,259
+means let's make a point to explain what
+
+327
+00:14:59,110 --> 00:15:07,540
+it does not mean it does not mean that
+
+328
+00:15:02,259 --> 00:15:09,429
+the air is 35% water vapor because in
+
+329
+00:15:07,540 --> 00:15:12,939
+the last lecture one of the things we
+
+330
+00:15:09,429 --> 00:15:15,910
+talked about is that water vapor ranges
+
+331
+00:15:12,939 --> 00:15:18,160
+somewhere between zero and almost 4% of
+
+332
+00:15:15,910 --> 00:15:20,679
+the total of gases in the atmosphere so
+
+333
+00:15:18,160 --> 00:15:24,759
+there's no way that it could be 35% of
+
+334
+00:15:20,679 --> 00:15:27,910
+total gases so it does not mean that we
+
+335
+00:15:24,759 --> 00:15:30,940
+can define relative humidity
+
+336
+00:15:27,910 --> 00:15:33,490
+as this fraction where we're looking at
+
+337
+00:15:30,940 --> 00:15:36,370
+the current mixing ratio that's on the
+
+338
+00:15:33,490 --> 00:15:39,070
+top divided by the maximum possible
+
+339
+00:15:36,370 --> 00:15:42,130
+mixing ratio at the current temperature
+
+340
+00:15:39,070 --> 00:15:44,470
+on the in the denominator now for this
+
+341
+00:15:42,130 --> 00:15:46,900
+class generally speaking you're going to
+
+342
+00:15:44,470 --> 00:15:48,790
+be given the the top you're going to be
+
+343
+00:15:46,900 --> 00:15:51,610
+given what the current mixing ratio is
+
+344
+00:15:48,790 --> 00:15:53,470
+and the bottom number we're going to
+
+345
+00:15:51,610 --> 00:15:56,560
+have to look up from the table that we
+
+346
+00:15:53,470 --> 00:15:59,200
+had last time so then we take that
+
+347
+00:15:56,560 --> 00:16:01,570
+fraction and we multiply it by hundred
+
+348
+00:15:59,200 --> 00:16:04,120
+to turn it into a percent so relative
+
+349
+00:16:01,570 --> 00:16:08,080
+humidity is given as a percent between
+
+350
+00:16:04,120 --> 00:16:11,320
+zero and 100 percent so what does this
+
+351
+00:16:08,080 --> 00:16:15,580
+tell you well the percentage tells you
+
+352
+00:16:11,320 --> 00:16:17,860
+how close you are to saturation so 100%
+
+353
+00:16:15,580 --> 00:16:20,710
+relative humidity means the air is
+
+354
+00:16:17,860 --> 00:16:23,800
+saturated meaning it can't hold any more
+
+355
+00:16:20,710 --> 00:16:27,850
+water vapor okay so we're gonna do a
+
+356
+00:16:23,800 --> 00:16:31,170
+sample problem and here's an example of
+
+357
+00:16:27,850 --> 00:16:35,140
+the type of problem that we would see so
+
+358
+00:16:31,170 --> 00:16:36,960
+mixing ratio is 4 grams per kilogram the
+
+359
+00:16:35,140 --> 00:16:40,120
+temperature is 80 degrees Fahrenheit
+
+360
+00:16:36,960 --> 00:16:42,480
+what is the relative humidity so the
+
+361
+00:16:40,120 --> 00:16:45,010
+first thing I do is I write out the
+
+362
+00:16:42,480 --> 00:16:46,930
+definition of relative humidity it's a
+
+363
+00:16:45,010 --> 00:16:49,150
+current mixing ratio divided by the
+
+364
+00:16:46,930 --> 00:16:51,310
+maximum possible possible mixing ratio
+
+365
+00:16:49,150 --> 00:16:58,150
+at the current temperature times a
+
+366
+00:16:51,310 --> 00:16:59,830
+hundred okay so what do we know so the
+
+367
+00:16:58,150 --> 00:17:02,560
+current mixing ratio is given to us
+
+368
+00:16:59,830 --> 00:17:07,390
+that's 4 grams per kilogram so put that
+
+369
+00:17:02,560 --> 00:17:09,310
+in on the top now the maximum possible
+
+370
+00:17:07,390 --> 00:17:10,960
+mixing ratio at the current temperature
+
+371
+00:17:09,310 --> 00:17:12,280
+the temperature is 80 degrees I've got
+
+372
+00:17:10,960 --> 00:17:13,230
+to go back to the graph that we used
+
+373
+00:17:12,280 --> 00:17:16,990
+last time
+
+374
+00:17:13,230 --> 00:17:19,750
+here is 80 degrees the maximum possible
+
+375
+00:17:16,990 --> 00:17:21,670
+mixing ratio 20 7.01
+
+376
+00:17:19,750 --> 00:17:25,830
+grams per kilogram so I'm going to put
+
+377
+00:17:21,670 --> 00:17:33,010
+that in 20 7.01 Bram's per kilogram
+
+378
+00:17:25,830 --> 00:17:35,550
+times 100 all right so I'm going to do
+
+379
+00:17:33,010 --> 00:17:35,550
+that calculation
+
+380
+00:17:37,720 --> 00:17:50,150
+4/20 7.01 times 100 and I get 14.8% okay
+
+381
+00:17:45,800 --> 00:17:53,410
+so that's my relative humidity all right
+
+382
+00:17:50,150 --> 00:17:56,510
+so now what I'm gonna do is I'm going to
+
+383
+00:17:53,410 --> 00:17:59,180
+change the problem by just changing one
+
+384
+00:17:56,510 --> 00:18:02,210
+little thing which is let's go back to
+
+385
+00:17:59,180 --> 00:18:05,030
+the original problem and let's say that
+
+386
+00:18:02,210 --> 00:18:07,910
+it's 80 degrees in the afternoon when
+
+387
+00:18:05,030 --> 00:18:11,600
+all this happens and then the Sun Goes
+
+388
+00:18:07,910 --> 00:18:14,270
+Down and becomes cooler and it cools off
+
+389
+00:18:11,600 --> 00:18:17,570
+overnight and it cools down to 50
+
+390
+00:18:14,270 --> 00:18:19,990
+degrees and everything else stays the
+
+391
+00:18:17,570 --> 00:18:22,730
+same the mixing ratio is still the same
+
+392
+00:18:19,990 --> 00:18:27,200
+so let's make a new calculation of
+
+393
+00:18:22,730 --> 00:18:31,300
+relative humidity all right so back to
+
+394
+00:18:27,200 --> 00:18:33,590
+this what do we know well we know that
+
+395
+00:18:31,300 --> 00:18:37,330
+the top of the fraction is still the
+
+396
+00:18:33,590 --> 00:18:40,700
+same but now the bottom of the fraction
+
+397
+00:18:37,330 --> 00:18:42,590
+has a different number because we're at
+
+398
+00:18:40,700 --> 00:18:47,810
+the different temperature so I go back
+
+399
+00:18:42,590 --> 00:18:50,450
+to the table 50 degrees the maximum
+
+400
+00:18:47,810 --> 00:18:54,890
+possible mixing ratio is 9.2 4 grams per
+
+401
+00:18:50,450 --> 00:18:59,720
+kilogram so I'm gonna put that in 9.2 4
+
+402
+00:18:54,890 --> 00:19:08,060
+grams per kilogram times 100 ok so now
+
+403
+00:18:59,720 --> 00:19:13,670
+we will do that math so I've got 4/9
+
+404
+00:19:08,060 --> 00:19:21,710
+point 2 4 times 100 is forty three point
+
+405
+00:19:13,670 --> 00:19:25,340
+three percent okay so here is the point
+
+406
+00:19:21,710 --> 00:19:27,950
+and this is a really important one where
+
+407
+00:19:25,340 --> 00:19:31,100
+I'm gonna say this more than once the
+
+408
+00:19:27,950 --> 00:19:34,730
+relative humidity was about 15 percent
+
+409
+00:19:31,100 --> 00:19:38,180
+and then it jumps up to 43 so more than
+
+410
+00:19:34,730 --> 00:19:40,070
+doubles right so if I went to the
+
+411
+00:19:38,180 --> 00:19:43,060
+average person on the street and I told
+
+412
+00:19:40,070 --> 00:19:45,470
+them that this morning or this afternoon
+
+413
+00:19:43,060 --> 00:19:48,110
+the relative humidity was about 15
+
+414
+00:19:45,470 --> 00:19:51,090
+percent and then tonight it went up it
+
+415
+00:19:48,110 --> 00:19:53,910
+more than doubled most people would
+
+416
+00:19:51,090 --> 00:19:57,720
+think that we must have more water in
+
+417
+00:19:53,910 --> 00:20:00,750
+the air because relative humidity went
+
+418
+00:19:57,720 --> 00:20:02,280
+up if the relative humidity doubled most
+
+419
+00:20:00,750 --> 00:20:03,870
+people would think oh we must have
+
+420
+00:20:02,280 --> 00:20:06,890
+double the amount of water in the air
+
+421
+00:20:03,870 --> 00:20:09,690
+because that's what humanity describes
+
+422
+00:20:06,890 --> 00:20:13,110
+except that's not what happened because
+
+423
+00:20:09,690 --> 00:20:15,660
+the mixing ratio is the same for both of
+
+424
+00:20:13,110 --> 00:20:17,490
+these the mixing ratio tells us how much
+
+425
+00:20:15,660 --> 00:20:19,620
+water is in the air there's four grams
+
+426
+00:20:17,490 --> 00:20:23,460
+for every box you know every one
+
+427
+00:20:19,620 --> 00:20:25,680
+kilogram box of air so the relative
+
+428
+00:20:23,460 --> 00:20:28,170
+humidity went up not because there's
+
+429
+00:20:25,680 --> 00:20:31,530
+more water in the air but just because
+
+430
+00:20:28,170 --> 00:20:33,480
+it's a cold air temperature this is why
+
+431
+00:20:31,530 --> 00:20:36,120
+relative humidity is so confusing to
+
+432
+00:20:33,480 --> 00:20:38,790
+people the general public thinks that
+
+433
+00:20:36,120 --> 00:20:41,070
+when relative humidity goes up the air
+
+434
+00:20:38,790 --> 00:20:43,650
+got more humid there's more water in the
+
+435
+00:20:41,070 --> 00:20:45,780
+air but in fact that's not what happened
+
+436
+00:20:43,650 --> 00:20:48,480
+at all the amount of water in this case
+
+437
+00:20:45,780 --> 00:20:51,000
+stayed exactly the same what happened
+
+438
+00:20:48,480 --> 00:20:52,950
+was we went to a colder temperature and
+
+439
+00:20:51,000 --> 00:20:55,290
+the colder temperature meant we were
+
+440
+00:20:52,950 --> 00:20:58,020
+dividing by a smaller number which gave
+
+441
+00:20:55,290 --> 00:21:01,320
+us a bigger answer so what this really
+
+442
+00:20:58,020 --> 00:21:04,920
+tells us is that initially we were
+
+443
+00:21:01,320 --> 00:21:06,960
+pretty far from saturation about 15% we
+
+444
+00:21:04,920 --> 00:21:10,080
+got closer to the saturation we're still
+
+445
+00:21:06,960 --> 00:21:12,330
+a long ways away but that's all this
+
+446
+00:21:10,080 --> 00:21:15,630
+really tells us is that the air became
+
+447
+00:21:12,330 --> 00:21:17,910
+closer to saturation but the amount of
+
+448
+00:21:15,630 --> 00:21:20,550
+water in this case stayed exactly the
+
+449
+00:21:17,910 --> 00:21:24,650
+same in both instances and that is why
+
+450
+00:21:20,550 --> 00:21:24,650
+relative humidity is so confusing
+
+451
+00:21:24,710 --> 00:21:29,280
+so with relative humidity a lot of times
+
+452
+00:21:27,630 --> 00:21:31,290
+we're not so much interested in the
+
+453
+00:21:29,280 --> 00:21:33,510
+actual numbers as much as we want to
+
+454
+00:21:31,290 --> 00:21:37,410
+know if relative humidity is going to
+
+455
+00:21:33,510 --> 00:21:39,660
+increase decrease or stay the same so if
+
+456
+00:21:37,410 --> 00:21:41,010
+you've got one of those problems first
+
+457
+00:21:39,660 --> 00:21:43,140
+thing to do is write out the definition
+
+458
+00:21:41,010 --> 00:21:44,790
+of relative humidity which we said is
+
+459
+00:21:43,140 --> 00:21:47,280
+the current mixing ratio divided by the
+
+460
+00:21:44,790 --> 00:21:48,810
+maximum possible mixing ratio at the
+
+461
+00:21:47,280 --> 00:21:50,670
+current temperature now these problems
+
+462
+00:21:48,810 --> 00:21:52,350
+that we're going to see we're gonna
+
+463
+00:21:50,670 --> 00:21:54,000
+we're trying to figure out how relative
+
+464
+00:21:52,350 --> 00:21:55,680
+humidity is gonna change so we're going
+
+465
+00:21:54,000 --> 00:21:57,420
+to change the temperature we're gonna
+
+466
+00:21:55,680 --> 00:22:00,030
+change the mixing ratio so even though
+
+467
+00:21:57,420 --> 00:22:02,190
+keep in mind that even though I use the
+
+468
+00:22:00,030 --> 00:22:04,120
+word current in here we're projecting
+
+469
+00:22:02,190 --> 00:22:06,040
+into the future of some
+
+470
+00:22:04,120 --> 00:22:11,560
+that's gonna happen so it won't be
+
+471
+00:22:06,040 --> 00:22:13,960
+current so what you would do is with a
+
+472
+00:22:11,560 --> 00:22:16,180
+given problem is write this out and
+
+473
+00:22:13,960 --> 00:22:19,390
+think okay is that is the mixing ratio
+
+474
+00:22:16,180 --> 00:22:22,390
+gonna increase decrease or stay the same
+
+475
+00:22:19,390 --> 00:22:25,210
+and then is the maximum possible mixing
+
+476
+00:22:22,390 --> 00:22:27,940
+ratio on the increase decrease or stay
+
+477
+00:22:25,210 --> 00:22:29,470
+the same once you figure that out you
+
+478
+00:22:27,940 --> 00:22:32,020
+can figure out whether the overall
+
+479
+00:22:29,470 --> 00:22:34,750
+answer the relative humidity itself is
+
+480
+00:22:32,020 --> 00:22:36,520
+going to increase decrease or stay the
+
+481
+00:22:34,750 --> 00:22:38,200
+same but you don't actually have to do
+
+482
+00:22:36,520 --> 00:22:40,780
+any math you're just trying to reason
+
+483
+00:22:38,200 --> 00:22:44,200
+out which way it's gonna go so I do a
+
+484
+00:22:40,780 --> 00:22:46,120
+couple of examples here so the mixing
+
+485
+00:22:44,200 --> 00:22:48,370
+ratio today stays constant throughout
+
+486
+00:22:46,120 --> 00:22:50,880
+the day how does the relative humidity
+
+487
+00:22:48,370 --> 00:22:53,020
+this afternoon compared to this morning
+
+488
+00:22:50,880 --> 00:22:56,260
+so we're going on the assumption here
+
+489
+00:22:53,020 --> 00:23:00,370
+that this afternoon is warmer than this
+
+490
+00:22:56,260 --> 00:23:02,500
+morning normal day okay so then we write
+
+491
+00:23:00,370 --> 00:23:04,570
+out the definition of relative humidity
+
+492
+00:23:02,500 --> 00:23:05,440
+and think about okay is the numerator
+
+493
+00:23:04,570 --> 00:23:08,020
+gonna change
+
+494
+00:23:05,440 --> 00:23:10,840
+is it denominator going to change so
+
+495
+00:23:08,020 --> 00:23:12,940
+let's start with the top is the mixing
+
+496
+00:23:10,840 --> 00:23:15,070
+ratio going to change here it says
+
+497
+00:23:12,940 --> 00:23:16,690
+mixing ratio today stays constant so the
+
+498
+00:23:15,070 --> 00:23:18,820
+top of this fraction is going to stay
+
+499
+00:23:16,690 --> 00:23:21,360
+constant throughout the day because
+
+500
+00:23:18,820 --> 00:23:23,500
+we're told that the bottom though
+
+501
+00:23:21,360 --> 00:23:25,210
+maximum possible mixing ratio at the
+
+502
+00:23:23,500 --> 00:23:28,330
+current temperature the temperature
+
+503
+00:23:25,210 --> 00:23:30,910
+itself is going to change and so we from
+
+504
+00:23:28,330 --> 00:23:33,190
+the chart we know that if we increase
+
+505
+00:23:30,910 --> 00:23:35,710
+the temperatures throughout the day the
+
+506
+00:23:33,190 --> 00:23:39,030
+maximum possible mixing ratios are also
+
+507
+00:23:35,710 --> 00:23:42,340
+going to increase so that tells us that
+
+508
+00:23:39,030 --> 00:23:46,330
+the bottom of this fraction is going to
+
+509
+00:23:42,340 --> 00:23:47,830
+increase as the day gets warmer so that
+
+510
+00:23:46,330 --> 00:23:49,630
+means we're taking a number even though
+
+511
+00:23:47,830 --> 00:23:51,160
+we don't know what the number is and
+
+512
+00:23:49,630 --> 00:23:54,040
+we're dividing it by another number
+
+513
+00:23:51,160 --> 00:23:56,770
+that's getting bigger if you divide by a
+
+514
+00:23:54,040 --> 00:24:00,520
+bigger number you get a smaller answer
+
+515
+00:23:56,770 --> 00:24:02,170
+so from this then we can predict that
+
+516
+00:24:00,520 --> 00:24:04,960
+the relative humidity is going to
+
+517
+00:24:02,170 --> 00:24:06,760
+decrease as the day gets warmer we're
+
+518
+00:24:04,960 --> 00:24:09,940
+dividing by a bigger and bigger number
+
+519
+00:24:06,760 --> 00:24:12,580
+as the day goes on so do another one
+
+520
+00:24:09,940 --> 00:24:15,220
+here you put a sealed box of air into
+
+521
+00:24:12,580 --> 00:24:17,560
+the refrigerator as it cools how does
+
+522
+00:24:15,220 --> 00:24:19,750
+the relative humidity change so
+
+523
+00:24:17,560 --> 00:24:21,700
+by sealed box we can assume that there's
+
+524
+00:24:19,750 --> 00:24:23,260
+no water that goes in or out of the box
+
+525
+00:24:21,700 --> 00:24:25,390
+there's some amount of water vapor in
+
+526
+00:24:23,260 --> 00:24:27,280
+the box we don't know how much so we
+
+527
+00:24:25,390 --> 00:24:29,530
+don't know the current mixing ratio but
+
+528
+00:24:27,280 --> 00:24:30,750
+the way the problem set up it's not
+
+529
+00:24:29,530 --> 00:24:34,030
+going to change
+
+530
+00:24:30,750 --> 00:24:35,710
+well the bottom of this change yes we
+
+531
+00:24:34,030 --> 00:24:37,420
+are assuming that we've got air that is
+
+532
+00:24:35,710 --> 00:24:39,190
+probably room temperature we're putting
+
+533
+00:24:37,420 --> 00:24:42,160
+it in the refrigerator it's going to
+
+534
+00:24:39,190 --> 00:24:45,520
+start cooling and so again from the
+
+535
+00:24:42,160 --> 00:24:47,950
+table as we cool down the temperatures
+
+536
+00:24:45,520 --> 00:24:51,280
+we're going to have smaller and smaller
+
+537
+00:24:47,950 --> 00:24:53,260
+maximum possible mixing ratios so in
+
+538
+00:24:51,280 --> 00:24:56,200
+this case the bottom part of this
+
+539
+00:24:53,260 --> 00:24:57,910
+fraction is becoming smaller so now
+
+540
+00:24:56,200 --> 00:25:00,070
+you're taking a number you don't know
+
+541
+00:24:57,910 --> 00:25:02,080
+the number but whatever it is you're
+
+542
+00:25:00,070 --> 00:25:05,140
+dividing it by a smaller and smaller
+
+543
+00:25:02,080 --> 00:25:07,150
+number as it gets colder and colder so
+
+544
+00:25:05,140 --> 00:25:08,620
+what happens to the answer it gets
+
+545
+00:25:07,150 --> 00:25:11,290
+bigger if you divide by a smaller number
+
+546
+00:25:08,620 --> 00:25:14,560
+you get a bigger answer so the relative
+
+547
+00:25:11,290 --> 00:25:19,120
+humidity increases as this box gets
+
+548
+00:25:14,560 --> 00:25:21,670
+colder let's do another example
+
+549
+00:25:19,120 --> 00:25:24,670
+so sprinklers come on in our yard in
+
+550
+00:25:21,670 --> 00:25:26,350
+they stay on for 30 minutes and says
+
+551
+00:25:24,670 --> 00:25:29,380
+during this time the temperature outside
+
+552
+00:25:26,350 --> 00:25:34,120
+does not change how does the relative
+
+553
+00:25:29,380 --> 00:25:36,340
+humidity change so could we change the
+
+554
+00:25:34,120 --> 00:25:38,170
+top part of this fraction well for
+
+555
+00:25:36,340 --> 00:25:41,380
+sending streams of water through the air
+
+556
+00:25:38,170 --> 00:25:43,120
+and tiny droplets there's a very good
+
+557
+00:25:41,380 --> 00:25:44,740
+chance that a lot of that water at least
+
+558
+00:25:43,120 --> 00:25:47,290
+a portion of it is going to evaporate
+
+559
+00:25:44,740 --> 00:25:49,690
+and we're going to add water molecules
+
+560
+00:25:47,290 --> 00:25:51,310
+to the atmosphere right that's not what
+
+561
+00:25:49,690 --> 00:25:53,200
+a sprinkler is trying to do sprinklers
+
+562
+00:25:51,310 --> 00:25:55,720
+trying to sprinkle the grass but it goes
+
+563
+00:25:53,200 --> 00:25:58,180
+through the air and you're guaranteed to
+
+564
+00:25:55,720 --> 00:26:00,280
+have some evaporation so if we have
+
+565
+00:25:58,180 --> 00:26:02,710
+evaporation we're going to increase
+
+566
+00:26:00,280 --> 00:26:04,780
+think of it as increasing the grams of
+
+567
+00:26:02,710 --> 00:26:07,180
+water in the air we're increasing the
+
+568
+00:26:04,780 --> 00:26:10,120
+top part of this fraction what about the
+
+569
+00:26:07,180 --> 00:26:12,220
+bottom well the bottom depends on the
+
+570
+00:26:10,120 --> 00:26:15,280
+temperature but the temperature says is
+
+571
+00:26:12,220 --> 00:26:16,900
+not changing right so the bottom part of
+
+572
+00:26:15,280 --> 00:26:20,320
+this fraction stays the same
+
+573
+00:26:16,900 --> 00:26:23,980
+so the top part gets larger the bottom
+
+574
+00:26:20,320 --> 00:26:27,760
+part stays the same so overall my answer
+
+575
+00:26:23,980 --> 00:26:29,960
+is going to increase so relative
+
+576
+00:26:27,760 --> 00:26:33,440
+humidity increases as we
+
+577
+00:26:29,960 --> 00:26:36,169
+water to the hair okay here's another
+
+578
+00:26:33,440 --> 00:26:39,020
+example it's a little different so on
+
+579
+00:26:36,169 --> 00:26:41,990
+Monday the relative humidity is 25% on
+
+580
+00:26:39,020 --> 00:26:44,840
+Tuesday the relative humidity is 45% on
+
+581
+00:26:41,990 --> 00:26:45,919
+which day was there more water vapor in
+
+582
+00:26:44,840 --> 00:26:47,899
+the air
+
+583
+00:26:45,919 --> 00:26:50,840
+okay so what's clear from this question
+
+584
+00:26:47,899 --> 00:26:53,899
+is that the relative humidity increases
+
+585
+00:26:50,840 --> 00:26:56,510
+right so let's think about why that
+
+586
+00:26:53,899 --> 00:26:59,600
+might have happened could we increase
+
+587
+00:26:56,510 --> 00:27:03,559
+the relative humidity by increasing the
+
+588
+00:26:59,600 --> 00:27:06,500
+numerator of this fraction so yes if we
+
+589
+00:27:03,559 --> 00:27:08,360
+increase the mixing ratio then that
+
+590
+00:27:06,500 --> 00:27:12,169
+would make the relative humidity go up
+
+591
+00:27:08,360 --> 00:27:14,029
+so that could be a possibility but we
+
+592
+00:27:12,169 --> 00:27:18,169
+could also make that number bigger if
+
+593
+00:27:14,029 --> 00:27:21,320
+we're dividing by a smaller number so if
+
+594
+00:27:18,169 --> 00:27:23,600
+I decrease this number and how would I
+
+595
+00:27:21,320 --> 00:27:27,380
+decrease this number I could decrease
+
+596
+00:27:23,600 --> 00:27:30,140
+this number if I made it colder so one
+
+597
+00:27:27,380 --> 00:27:32,870
+possibility is I could have made the top
+
+598
+00:27:30,140 --> 00:27:35,620
+number larger another possibility is I
+
+599
+00:27:32,870 --> 00:27:38,929
+could make the bottom number smaller
+
+600
+00:27:35,620 --> 00:27:42,950
+either way could have get could get me
+
+601
+00:27:38,929 --> 00:27:45,830
+from 25% to 45% the problem is without
+
+602
+00:27:42,950 --> 00:27:47,510
+enough information I actually don't know
+
+603
+00:27:45,830 --> 00:27:50,960
+which of those two things happen or
+
+604
+00:27:47,510 --> 00:27:53,630
+maybe it's a little bit of both so this
+
+605
+00:27:50,960 --> 00:27:57,320
+is the problem with relative humidity if
+
+606
+00:27:53,630 --> 00:27:58,880
+I told you the dew point increases you
+
+607
+00:27:57,320 --> 00:28:01,490
+know the amount of water in the
+
+608
+00:27:58,880 --> 00:28:03,620
+atmosphere had to increase have I tell
+
+609
+00:28:01,490 --> 00:28:05,690
+you the mixing ratio increases you know
+
+610
+00:28:03,620 --> 00:28:08,120
+the amount of water and the atmosphere
+
+611
+00:28:05,690 --> 00:28:11,149
+had to increase if I tell you the
+
+612
+00:28:08,120 --> 00:28:13,730
+relative humidity increases without more
+
+613
+00:28:11,149 --> 00:28:16,039
+information you don't know if I added
+
+614
+00:28:13,730 --> 00:28:19,000
+more water to the air or if I just made
+
+615
+00:28:16,039 --> 00:28:22,340
+it colder or a little bit of both so
+
+616
+00:28:19,000 --> 00:28:23,480
+relative humidity is ambiguous and a lot
+
+617
+00:28:22,340 --> 00:28:25,700
+of times when we're dealing with
+
+618
+00:28:23,480 --> 00:28:28,669
+relative humidity we just don't have
+
+619
+00:28:25,700 --> 00:28:33,500
+enough information to answer questions
+
+620
+00:28:28,669 --> 00:28:36,649
+like this so few more facts about
+
+621
+00:28:33,500 --> 00:28:38,899
+relative humidity a few things to keep
+
+622
+00:28:36,649 --> 00:28:42,679
+in mind when temperature equals dew
+
+623
+00:28:38,899 --> 00:28:43,820
+point your air is saturated and your
+
+624
+00:28:42,679 --> 00:28:46,220
+relative humidity
+
+625
+00:28:43,820 --> 00:28:49,670
+is a hundred percent okay so remember
+
+626
+00:28:46,220 --> 00:28:50,390
+that one inside a cloud relative
+
+627
+00:28:49,670 --> 00:28:53,060
+humidity
+
+628
+00:28:50,390 --> 00:28:56,060
+always a hundred percent or fog fog is a
+
+629
+00:28:53,060 --> 00:28:58,210
+cloud on the ground you can't have
+
+630
+00:28:56,060 --> 00:29:01,220
+relative humidity over a hundred percent
+
+631
+00:28:58,210 --> 00:29:02,720
+okay at least not in this class so if
+
+632
+00:29:01,220 --> 00:29:04,970
+you're doing the math and you come up
+
+633
+00:29:02,720 --> 00:29:07,970
+come up with a number over a hundred he
+
+634
+00:29:04,970 --> 00:29:10,940
+did something wrong all right the
+
+635
+00:29:07,970 --> 00:29:13,300
+relative humidity usually cycles over 24
+
+636
+00:29:10,940 --> 00:29:16,970
+hours whereas dewpoint mixing ratio
+
+637
+00:29:13,300 --> 00:29:21,530
+usually do not okay so let me explain
+
+638
+00:29:16,970 --> 00:29:24,040
+that one a little bit more so if we
+
+639
+00:29:21,530 --> 00:29:27,290
+measure temperature every hour
+
+640
+00:29:24,040 --> 00:29:29,690
+throughout a 24 hour cycle day after day
+
+641
+00:29:27,290 --> 00:29:31,280
+after day we would notice that the
+
+642
+00:29:29,690 --> 00:29:34,310
+temperature is cycle right
+
+643
+00:29:31,280 --> 00:29:36,290
+it gets warms up during the day the
+
+644
+00:29:34,310 --> 00:29:40,160
+hottest time is usually late afternoon
+
+645
+00:29:36,290 --> 00:29:42,530
+then it cools down and then the coldest
+
+646
+00:29:40,160 --> 00:29:45,560
+time in the 24 hour period is usually
+
+647
+00:29:42,530 --> 00:29:47,720
+right before the Sun rises and then the
+
+648
+00:29:45,560 --> 00:29:52,250
+cycle continues again right we have this
+
+649
+00:29:47,720 --> 00:29:55,160
+call sign wave curve of temperature well
+
+650
+00:29:52,250 --> 00:29:57,470
+what we said now several times is that
+
+651
+00:29:55,160 --> 00:29:59,270
+relative humidity depends on the
+
+652
+00:29:57,470 --> 00:30:02,060
+temperature that's on the bottom of that
+
+653
+00:29:59,270 --> 00:30:05,000
+fraction that we keep talking about so
+
+654
+00:30:02,060 --> 00:30:07,790
+what that means is where the temperature
+
+655
+00:30:05,000 --> 00:30:10,760
+is the warmest we would expect the
+
+656
+00:30:07,790 --> 00:30:12,590
+relative humidity to be the lowest and
+
+657
+00:30:10,760 --> 00:30:14,480
+where the temperature is the lowest we
+
+658
+00:30:12,590 --> 00:30:17,690
+would expect relative humidity to be the
+
+659
+00:30:14,480 --> 00:30:19,850
+highest so this is the kind of graph
+
+660
+00:30:17,690 --> 00:30:24,410
+that you expect to see with relative
+
+661
+00:30:19,850 --> 00:30:26,690
+humidity in a normal 24 hour day the dew
+
+662
+00:30:24,410 --> 00:30:29,450
+point in the mixing ratio don't change
+
+663
+00:30:26,690 --> 00:30:31,610
+very much in fact usually especially
+
+664
+00:30:29,450 --> 00:30:34,220
+here in New Mexico day after day after
+
+665
+00:30:31,610 --> 00:30:38,060
+day you typically have a pretty constant
+
+666
+00:30:34,220 --> 00:30:40,430
+dew point usually okay but the relative
+
+667
+00:30:38,060 --> 00:30:42,890
+humidity is always in a 24-hour cycle
+
+668
+00:30:40,430 --> 00:30:45,530
+because the temperature is in a 24-hour
+
+669
+00:30:42,890 --> 00:30:47,810
+cycle so we typically see the lowest
+
+670
+00:30:45,530 --> 00:30:50,690
+relative humidities the hottest part of
+
+671
+00:30:47,810 --> 00:30:52,310
+the day then they rise at night so we
+
+672
+00:30:50,690 --> 00:30:54,860
+see the highest relative humidities at
+
+673
+00:30:52,310 --> 00:30:57,710
+night and then the cycle repeats again
+
+674
+00:30:54,860 --> 00:30:59,720
+so again I keep repeating myself
+
+675
+00:30:57,710 --> 00:31:02,179
+but it's really important to emphasize a
+
+676
+00:30:59,720 --> 00:31:04,250
+lot of people are super confused about
+
+677
+00:31:02,179 --> 00:31:06,649
+relative humidity if they have a little
+
+678
+00:31:04,250 --> 00:31:08,059
+weather station they look at it and it's
+
+679
+00:31:06,649 --> 00:31:11,210
+night and they see the relative humidity
+
+680
+00:31:08,059 --> 00:31:13,460
+go up they think oh there's there's more
+
+681
+00:31:11,210 --> 00:31:15,260
+humid there's more water in the air but
+
+682
+00:31:13,460 --> 00:31:17,029
+no that's not what's happening the only
+
+683
+00:31:15,260 --> 00:31:19,370
+thing that's happening is a temperature
+
+684
+00:31:17,029 --> 00:31:21,350
+as increase temperature has decreased in
+
+685
+00:31:19,370 --> 00:31:26,600
+the night time which makes the relative
+
+686
+00:31:21,350 --> 00:31:28,789
+humidity increase so with all this
+
+687
+00:31:26,600 --> 00:31:30,470
+confusion then good question would be
+
+688
+00:31:28,789 --> 00:31:34,309
+why in the world that were using
+
+689
+00:31:30,470 --> 00:31:36,380
+relative humidity at all in fact when I
+
+690
+00:31:34,309 --> 00:31:38,419
+started this I said that we use relative
+
+691
+00:31:36,380 --> 00:31:41,149
+humidity more than the other two
+
+692
+00:31:38,419 --> 00:31:43,340
+variables so one of the reasons is that
+
+693
+00:31:41,149 --> 00:31:46,130
+it's related to human comfort or
+
+694
+00:31:43,340 --> 00:31:49,700
+discomfort so you've probably
+
+695
+00:31:46,130 --> 00:31:52,010
+experienced these at some point if you
+
+696
+00:31:49,700 --> 00:31:54,679
+have a hot day with high relative
+
+697
+00:31:52,010 --> 00:31:56,419
+humidity you feel miserable and we'll
+
+698
+00:31:54,679 --> 00:31:59,600
+talk more about this in the next lecture
+
+699
+00:31:56,419 --> 00:32:01,669
+but a lot of it has to do with the
+
+700
+00:31:59,600 --> 00:32:06,950
+evaporation or the lack thereof of your
+
+701
+00:32:01,669 --> 00:32:10,279
+sweat in fact there are something called
+
+702
+00:32:06,950 --> 00:32:15,559
+the heat index sometimes referred to as
+
+703
+00:32:10,279 --> 00:32:17,990
+a misery index and on the y-axis here we
+
+704
+00:32:15,559 --> 00:32:19,789
+have relative humidity so there are 0%
+
+705
+00:32:17,990 --> 00:32:23,000
+to a hundred percent this is the
+
+706
+00:32:19,789 --> 00:32:26,090
+temperature from 70 to 110 and these
+
+707
+00:32:23,000 --> 00:32:29,299
+boxes are what it feels like to you
+
+708
+00:32:26,090 --> 00:32:30,890
+that's the heat index so you'll notice
+
+709
+00:32:29,299 --> 00:32:33,429
+that for example if you have low
+
+710
+00:32:30,890 --> 00:32:35,720
+relative humidity it actually will feel
+
+711
+00:32:33,429 --> 00:32:37,970
+cooler than it really is
+
+712
+00:32:35,720 --> 00:32:40,850
+right so if it's a hundred degrees
+
+713
+00:32:37,970 --> 00:32:45,320
+outside but the relative you made it is
+
+714
+00:32:40,850 --> 00:32:49,279
+0% then it feels like it's about 91 okay
+
+715
+00:32:45,320 --> 00:32:51,049
+so that's nice but of course what's not
+
+716
+00:32:49,279 --> 00:32:54,500
+nice is when you get too high relative
+
+717
+00:32:51,049 --> 00:32:57,409
+humidity right so if you have a 100
+
+718
+00:32:54,500 --> 00:33:00,080
+degree day and 80 percent relative
+
+719
+00:32:57,409 --> 00:33:02,419
+humidity you end up with a heat index of
+
+720
+00:33:00,080 --> 00:33:06,320
+157 meaning it feels like it's a hundred
+
+721
+00:33:02,419 --> 00:33:07,850
+fifty seven outside so in New Mexico we
+
+722
+00:33:06,320 --> 00:33:11,059
+don't really talk about this too much we
+
+723
+00:33:07,850 --> 00:33:12,889
+don't have much of a heat index here
+
+724
+00:33:11,059 --> 00:33:14,989
+because a relative humidities are
+
+725
+00:33:12,889 --> 00:33:17,090
+usually kind of especially in the summer
+
+726
+00:33:14,989 --> 00:33:18,859
+they're kind of in this range up in here
+
+727
+00:33:17,090 --> 00:33:20,659
+so we really don't have to worry about
+
+728
+00:33:18,859 --> 00:33:22,580
+this too much if you live in the
+
+729
+00:33:20,659 --> 00:33:27,440
+southeast for example they deal with
+
+730
+00:33:22,580 --> 00:33:30,259
+this a lot now what we do get in New
+
+731
+00:33:27,440 --> 00:33:33,169
+Mexico a lot is the second one here hot
+
+732
+00:33:30,259 --> 00:33:35,450
+date and low relative humidity that
+
+733
+00:33:33,169 --> 00:33:38,029
+produces desiccation meaning that your
+
+734
+00:33:35,450 --> 00:33:40,039
+skin dries out right so you know when we
+
+735
+00:33:38,029 --> 00:33:42,970
+have these days especially in New Mexico
+
+736
+00:33:40,039 --> 00:33:44,720
+they occur usually in June is is the
+
+737
+00:33:42,970 --> 00:33:46,580
+time where we have the hottest
+
+738
+00:33:44,720 --> 00:33:48,889
+temperatures and the lowest relative
+
+739
+00:33:46,580 --> 00:33:51,409
+humidity in your lips are dry and your
+
+740
+00:33:48,889 --> 00:33:54,019
+skin is dry and your itchy all that
+
+741
+00:33:51,409 --> 00:33:56,929
+stuff right so that's because a little
+
+742
+00:33:54,019 --> 00:33:58,909
+relative humidity and then it also
+
+743
+00:33:56,929 --> 00:34:01,220
+affects the way you feel cold
+
+744
+00:33:58,909 --> 00:34:03,529
+temperatures as well so when it's cold
+
+745
+00:34:01,220 --> 00:34:08,750
+and the relatively relative humidity is
+
+746
+00:34:03,529 --> 00:34:11,270
+high it does feel colder to you another
+
+747
+00:34:08,750 --> 00:34:14,329
+reason that we use relative humidity is
+
+748
+00:34:11,270 --> 00:34:17,059
+for fire danger so when you have low
+
+749
+00:34:14,329 --> 00:34:19,190
+relative humidity that means it's much
+
+750
+00:34:17,059 --> 00:34:20,990
+easier to start a fire and then once the
+
+751
+00:34:19,190 --> 00:34:25,099
+fire starts it's much easier for that
+
+752
+00:34:20,990 --> 00:34:27,169
+fire to keep burning and then finally
+
+753
+00:34:25,099 --> 00:34:28,250
+it's related to evaporation rate and
+
+754
+00:34:27,169 --> 00:34:30,319
+we're going to talk about this in the
+
+755
+00:34:28,250 --> 00:34:33,049
+next lecture but when you have low
+
+756
+00:34:30,319 --> 00:34:38,809
+relative humidity you have very rapid
+
+757
+00:34:33,049 --> 00:34:40,579
+evaporation so let's go back this is a
+
+758
+00:34:38,809 --> 00:34:42,710
+question that they had the beginning of
+
+759
+00:34:40,579 --> 00:34:45,169
+this lecture temperature in this
+
+760
+00:34:42,710 --> 00:34:46,579
+classroom of 75 the dew point is 54 I
+
+761
+00:34:45,169 --> 00:34:50,659
+changed the thermostat and the
+
+762
+00:34:46,579 --> 00:34:53,919
+temperature rises to 85 degrees as the
+
+763
+00:34:50,659 --> 00:34:56,450
+room warms up what happens
+
+764
+00:34:53,919 --> 00:34:58,250
+dew point increases dew point decreases
+
+765
+00:34:56,450 --> 00:35:01,099
+dew point doesn't change not enough
+
+766
+00:34:58,250 --> 00:35:02,750
+information well in this case if I just
+
+767
+00:35:01,099 --> 00:35:06,049
+increase the temperature
+
+768
+00:35:02,750 --> 00:35:06,650
+I'm not increasing the amount of water
+
+769
+00:35:06,049 --> 00:35:08,690
+in the air
+
+770
+00:35:06,650 --> 00:35:10,790
+I'm not decreasing the amount of water
+
+771
+00:35:08,690 --> 00:35:13,160
+in the air dew point does not change
+
+772
+00:35:10,790 --> 00:35:15,680
+okay so this is what we're saying in the
+
+773
+00:35:13,160 --> 00:35:17,780
+beginning of this lecture that when we
+
+774
+00:35:15,680 --> 00:35:19,460
+increase temperature and we decrease
+
+775
+00:35:17,780 --> 00:35:20,450
+temperature if we're not adding or
+
+776
+00:35:19,460 --> 00:35:22,220
+subtracting water
+
+777
+00:35:20,450 --> 00:35:23,820
+dew points and mixing ratios don't
+
+778
+00:35:22,220 --> 00:35:26,130
+change
+
+779
+00:35:23,820 --> 00:35:28,500
+I take this exact same problem and they
+
+780
+00:35:26,130 --> 00:35:32,120
+just change one thing instead of dew
+
+781
+00:35:28,500 --> 00:35:37,890
+points I change it to relative humidity
+
+782
+00:35:32,120 --> 00:35:39,630
+now as I warm the room up the bottom of
+
+783
+00:35:37,890 --> 00:35:41,160
+the fraction of relative humidity
+
+784
+00:35:39,630 --> 00:35:44,130
+changes right
+
+785
+00:35:41,160 --> 00:35:48,320
+so this is a typical problem that you
+
+786
+00:35:44,130 --> 00:35:51,660
+might face so as I warm the room up I'm
+
+787
+00:35:48,320 --> 00:35:52,320
+dividing by a number that's getting
+
+788
+00:35:51,660 --> 00:35:55,230
+bigger
+
+789
+00:35:52,320 --> 00:35:57,890
+so my overall answer is getting smaller
+
+790
+00:35:55,230 --> 00:36:00,960
+so in this case the relative humidity
+
+791
+00:35:57,890 --> 00:36:02,580
+decreases so this is what you got to
+
+792
+00:36:00,960 --> 00:36:04,440
+keep track of you got to keep track of
+
+793
+00:36:02,580 --> 00:36:06,840
+dew point mixing ratio and relative
+
+794
+00:36:04,440 --> 00:36:09,690
+humidity if you add water to the air
+
+795
+00:36:06,840 --> 00:36:11,700
+what will do each of those do if you
+
+796
+00:36:09,690 --> 00:36:13,770
+subtract water from the air what do each
+
+797
+00:36:11,700 --> 00:36:16,080
+of those do if you increase the
+
+798
+00:36:13,770 --> 00:36:19,050
+temperature what to each of those do
+
+799
+00:36:16,080 --> 00:36:20,520
+when you lower the temperature what do
+
+800
+00:36:19,050 --> 00:36:22,590
+each of those do okay
+
+801
+00:36:20,520 --> 00:36:25,380
+so again if you're one of my students on
+
+802
+00:36:22,590 --> 00:36:29,070
+learn the next quiz or question is all
+
+803
+00:36:25,380 --> 00:36:31,520
+about this all right thanks for
+
+804
+00:36:29,070 --> 00:36:31,520
+listening
+
+805
+00:36:37,900 --> 00:36:39,960
+you
+
