@@ -31,13 +31,27 @@
             .no-print { display: none; }
         }
         
+        /* Navigation */
+        nav {
+            background: #333;
+            padding: 10px;
+            text-align: center;
+            font-family: sans-serif;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+
         /* Header */
         header {
             position: absolute;
-            top: 10mm;
+            top: 15mm;
             left: 10mm;
             right: 10mm;
-            height: 20mm;
+            height: 15mm;
             border-bottom: 2px solid #333;
             display: flex;
             justify-content: space-between;
@@ -45,14 +59,14 @@
             padding-bottom: 5px;
         }
         h1 {
-            font-size: 24px;
+            font-size: 22px;
             margin: 0;
             text-transform: uppercase;
             letter-spacing: 2px;
             color: #333;
         }
         .meta {
-            font-size: 12px;
+            font-size: 11px;
             color: #555;
         }
 
@@ -62,7 +76,7 @@
             top: 35mm;
             left: 10mm;
             right: 10mm;
-            bottom: 20mm;
+            bottom: 15mm;
             border-left: 2px solid #333;
             border-bottom: 2px solid #333;
         }
@@ -81,10 +95,10 @@
             background: white;
             padding-left: 5px;
             font-family: monospace;
-            font-size: 12px;
+            font-size: 11px;
             display: flex;
             align-items: center;
-            width: 140px; /* Fixed width for alignment */
+            width: 130px;
             justify-content: space-between;
         }
         .temp-f { font-weight: bold; color: #000; }
@@ -105,11 +119,12 @@
         .annotation {
             position: absolute;
             font-size: 11px;
-            background: rgba(255,255,255,0.8);
-            padding: 2px 5px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-            box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
+            background: rgba(255,255,255,0.9);
+            padding: 4px 8px;
+            border: 1px solid #333;
+            border-radius: 2px;
+            z-index: 5;
+            box-shadow: 2px 2px 0px rgba(0,0,0,0.1);
         }
 
         .watermark {
@@ -127,14 +142,13 @@
 </head>
 <body>
 
-    <nav class="no-print" style="background: #333; padding: 10px; text-align: center; margin-bottom: 20px; font-family: sans-serif;">
-        <a href="index.html" style="color: white; text-decoration: none; margin: 0 15px; font-weight: bold;">Thermal Analysis</a>
-        <a href="mixing-ratio.html" style="color: white; text-decoration: none; margin: 0 15px; font-weight: bold;">Mixing Ratio</a>
-        <a href="states-of-matter.html" style="color: white; text-decoration: none; margin: 0 15px; font-weight: bold;">States of Matter</a>
+    <nav class="no-print">
+        <a href="index.html">Thermal Analysis</a>
+        <a href="mixing-ratio.html">Mixing Ratio</a>
     </nav>
 
     <div class="no-print" style="position: fixed; top: 60px; right: 10px; z-index: 100;">
-        <button onclick="window.print()" style="padding: 10px 20px; cursor: pointer; font-size: 16px; background: #333; color: white; border: none; border-radius: 4px;">Print Worksheet</button>
+        <button onclick="window.print()" style="padding: 10px 20px; cursor: pointer; font-size: 14px; background: #333; color: white; border: none; border-radius: 4px;">Print Worksheet</button>
     </div>
 
     <div class="sheet">
@@ -148,125 +162,56 @@
         <div class="watermark">atmosphere</div>
 
         <div class="chart-container">
-            <!-- Mountain Slope & Arrows -->
+            <!-- Jagged Mountain Slope -->
             <svg class="graphic-overlay" viewBox="0 0 1000 1000" preserveAspectRatio="none">
-                <!-- Mountain Slope Line -->
-                <!-- Peak at 7,000ft (56.25% down, y=562.5), sloping to Surface (100% down, y=1000) -->
-                <path d="M 50,562.5 L 200,650 L 300,700 L 500,800 L 700,900 L 900,1000" 
-                      fill="none" stroke="black" stroke-width="3" stroke-linecap="round" />
-                
-                <!-- Ground fill (optional, stylistic) -->
-                <path d="M 50,562.5 L 200,650 L 300,700 L 500,800 L 700,900 L 900,1000 L 50,1000 Z" 
-                      fill="rgba(200,200,200,0.1)" stroke="none" />
-                
-                <!-- No arrows per request -->
+                <!-- Peak at 7,000ft (approx 56.25% from top) -->
+                <path d="M 0,562.5 
+                         L 40,575 L 80,560 L 120,590 L 160,570 L 200,650 
+                         L 240,630 L 280,680 L 320,660 L 360,720 L 400,700 
+                         L 440,760 L 480,740 L 520,800 L 560,780 L 600,850 
+                         L 640,830 L 680,890 L 720,870 L 760,930 L 800,910 
+                         L 840,970 L 880,950 L 920,1000 L 1000,1000" 
+                      fill="rgba(200,200,200,0.2)" stroke="black" stroke-width="2" />
             </svg>
 
-            <!-- Annotations (Absolute positioned relative to chart container height) -->
-            <!-- 7,000ft is at ~56% top. 0ft is 100% top. -->
-            
-            <!-- High Annotation (Around 7,000ft on the slope) -->
-            <div class="annotation" style="top: 54%; left: 5%;">
-                <strong>At surface:</strong> 64°F<br>
-                Dew Point = 37°F
+            <!-- At Surface Boxes BELOW the mountain line -->
+            <!-- High (Near 7k peak) -->
+            <div class="annotation" style="top: 65%; left: 5%;">
+                <strong>At surface:</strong> 64°F / 18°C<br>
+                Dew Point = 37°F / 3°C
             </div>
 
-            <!-- Mid Annotation (Around 3,500ft on the slope) -->
-            <!-- 3,500ft is ~78% top. -->
-            <div class="annotation" style="top: 76%; left: 35%;">
-                <strong>At surface:</strong> 76°F<br>
-                Dew Point = 49°F
+            <!-- Mid (Near 3.5k slope) -->
+            <div class="annotation" style="top: 85%; left: 35%;">
+                <strong>At surface:</strong> 76°F / 24°C<br>
+                Dew Point = 49°F / 9°C
             </div>
 
-            <!-- Low Annotation (Around 1,000ft on the slope) -->
-            <!-- 1,000ft is ~94% top. -->
-            <div class="annotation" style="top: 92%; left: 65%;">
-                <strong>At surface:</strong> 85°F<br>
-                Dew Point = 55°F
+            <!-- Low (Near 1k base) -->
+            <div class="annotation" style="top: 95%; left: 65%;">
+                <strong>At surface:</strong> 85°F / 29°C<br>
+                Dew Point = 55°F / 13°C
             </div>
             
-            <div style="position: absolute; bottom: 5%; left: 10%; font-size: 24px; font-style: italic; color: #444; font-family: serif;">Mountain</div>
+            <div style="position: absolute; top: 75%; left: 10%; font-size: 24px; font-style: italic; color: #777; font-family: serif; opacity: 0.4;">Mountain</div>
 
-            <!-- Altitude Rows (Generated 16k to 0) -->
-            <!-- 16k-12k: Extrapolated (-3.5F/1k) -->
-            <!-- 11k-8k: User Provided -->
-            <!-- 7k-3k: Image Data -->
-            <!-- 2k-0: Extrapolated (+3.5F/1k) -->
-
-            <!-- 16,000 -->
-            <div class="grid-line" style="top: 0%;">
-                <div class="label-container"><span class="temp-f">26°F</span><span class="temp-c">/-3°C</span><span class="alt-tag">16,000'</span></div>
-            </div>
-            <!-- 15,000 -->
-            <div class="grid-line" style="top: 6.25%;">
-                <div class="label-container"><span class="temp-f">29°F</span><span class="temp-c">/-2°C</span><span class="alt-tag">15,000'</span></div>
-            </div>
-            <!-- 14,000 -->
-            <div class="grid-line" style="top: 12.5%;">
-                <div class="label-container"><span class="temp-f">33°F</span><span class="temp-c">/ 1°C</span><span class="alt-tag">14,000'</span></div>
-            </div>
-            <!-- 13,000 -->
-            <div class="grid-line" style="top: 18.75%;">
-                <div class="label-container"><span class="temp-f">36°F</span><span class="temp-c">/ 2°C</span><span class="alt-tag">13,000'</span></div>
-            </div>
-            <!-- 12,000 -->
-            <div class="grid-line" style="top: 25%;">
-                <div class="label-container"><span class="temp-f">40°F</span><span class="temp-c">/ 4°C</span><span class="alt-tag">12,000'</span></div>
-            </div>
-
-            <!-- USER DATA -->
-            <!-- 11,000 -->
-            <div class="grid-line" style="top: 31.25%;">
-                <div class="label-container"><span class="temp-f">43°F</span><span class="temp-c">/ 6°C</span><span class="alt-tag">11,000'</span></div>
-            </div>
-            <!-- 10,000 -->
-            <div class="grid-line" style="top: 37.5%;">
-                <div class="label-container"><span class="temp-f">42°F</span><span class="temp-c">/ 6°C</span><span class="alt-tag">10,000'</span></div>
-            </div>
-            <!-- 9,000 -->
-            <div class="grid-line" style="top: 43.75%;">
-                <div class="label-container"><span class="temp-f">46°F</span><span class="temp-c">/ 8°C</span><span class="alt-tag"> 9,000'</span></div>
-            </div>
-            <!-- 8,000 -->
-            <div class="grid-line" style="top: 50%;">
-                <div class="label-container"><span class="temp-f">48°F</span><span class="temp-c">/ 9°C</span><span class="alt-tag"> 8,000'</span></div>
-            </div>
-
-            <!-- IMAGE DATA -->
-            <!-- 7,000 -->
-            <div class="grid-line" style="top: 56.25%;">
-                <div class="label-container"><span class="temp-f">53°F</span><span class="temp-c">/12°C</span><span class="alt-tag"> 7,000'</span></div>
-            </div>
-            <!-- 6,000 -->
-            <div class="grid-line" style="top: 62.5%;">
-                <div class="label-container"><span class="temp-f">57°F</span><span class="temp-c">/14°C</span><span class="alt-tag"> 6,000'</span></div>
-            </div>
-            <!-- 5,000 -->
-            <div class="grid-line" style="top: 68.75%;">
-                <div class="label-container"><span class="temp-f">62°F</span><span class="temp-c">/17°C</span><span class="alt-tag"> 5,000'</span></div>
-            </div>
-            <!-- 4,000 -->
-            <div class="grid-line" style="top: 75%;">
-                <div class="label-container"><span class="temp-f">70°F</span><span class="temp-c">/21°C</span><span class="alt-tag"> 4,000'</span></div>
-            </div>
-            <!-- 3,000 -->
-            <div class="grid-line" style="top: 81.25%;">
-                <div class="label-container"><span class="temp-f">72°F</span><span class="temp-c">/22°C</span><span class="alt-tag"> 3,000'</span></div>
-            </div>
-
-            <!-- EXTRAPOLATED LOWER -->
-            <!-- 2,000 -->
-            <div class="grid-line" style="top: 87.5%;">
-                <div class="label-container"><span class="temp-f">76°F</span><span class="temp-c">/24°C</span><span class="alt-tag"> 2,000'</span></div>
-            </div>
-            <!-- 1,000 -->
-            <div class="grid-line" style="top: 93.75%;">
-                <div class="label-container"><span class="temp-f">79°F</span><span class="temp-c">/26°C</span><span class="alt-tag"> 1,000'</span></div>
-            </div>
-            <!-- SURFACE (0) -->
-            <div class="grid-line" style="top: 100%; border-top: 2px solid #333;">
-                <div class="label-container"><span class="temp-f">83°F</span><span class="temp-c">/28°C</span><span class="alt-tag">SURFACE</span></div>
-            </div>
+            <!-- Altitude Rows (16k down to 1k) -->
+            <div class="grid-line" style="top: 0%;"><div class="label-container"><span class="temp-f">47°F</span><span class="temp-c">/ 8°C</span><span class="alt-tag">16,000'</span></div></div>
+            <div class="grid-line" style="top: 6.25%;"><div class="label-container"><span class="temp-f">29°F</span><span class="temp-c">/-2°C</span><span class="alt-tag">15,000'</span></div></div>
+            <div class="grid-line" style="top: 12.5%;"><div class="label-container"><span class="temp-f">30°F</span><span class="temp-c">/-1°C</span><span class="alt-tag">14,000'</span></div></div>
+            <div class="grid-line" style="top: 18.75%;"><div class="label-container"><span class="temp-f">32°F</span><span class="temp-c">/ 0°C</span><span class="alt-tag">13,000'</span></div></div>
+            <div class="grid-line" style="top: 25%;"><div class="label-container"><span class="temp-f">36°F</span><span class="temp-c">/ 2°C</span><span class="alt-tag">12,000'</span></div></div>
+            <div class="grid-line" style="top: 31.25%;"><div class="label-container"><span class="temp-f">42°F</span><span class="temp-c">/ 6°C</span><span class="alt-tag">11,000'</span></div></div>
+            <div class="grid-line" style="top: 37.5%;"><div class="label-container"><span class="temp-f">43°F</span><span class="temp-c">/ 6°C</span><span class="alt-tag">10,000'</span></div></div>
+            <div class="grid-line" style="top: 43.75%;"><div class="label-container"><span class="temp-f">46°F</span><span class="temp-c">/ 8°C</span><span class="alt-tag"> 9,000'</span></div></div>
+            <div class="grid-line" style="top: 50%;"><div class="label-container"><span class="temp-f">48°F</span><span class="temp-c">/ 9°C</span><span class="alt-tag"> 8,000'</span></div></div>
+            <div class="grid-line" style="top: 56.25%;"><div class="label-container"><span class="temp-f">57°F</span><span class="temp-c">/14°C</span><span class="alt-tag"> 7,000'</span></div></div>
+            <div class="grid-line" style="top: 62.5%;"><div class="label-container"><span class="temp-f">57°F</span><span class="temp-c">/14°C</span><span class="alt-tag"> 6,000'</span></div></div>
+            <div class="grid-line" style="top: 68.75%;"><div class="label-container"><span class="temp-f">62°F</span><span class="temp-c">/17°C</span><span class="alt-tag"> 5,000'</span></div></div>
+            <div class="grid-line" style="top: 75%;"><div class="label-container"><span class="temp-f">70°F</span><span class="temp-c">/21°C</span><span class="alt-tag"> 4,000'</span></div></div>
+            <div class="grid-line" style="top: 81.25%;"><div class="label-container"><span class="temp-f">72°F</span><span class="temp-c">/22°C</span><span class="alt-tag"> 3,000'</span></div></div>
+            <div class="grid-line" style="top: 87.5%;"><div class="label-container"><span class="temp-f">78°F</span><span class="temp-c">/26°C</span><span class="alt-tag"> 2,000'</span></div></div>
+            <div class="grid-line" style="top: 93.75%;"><div class="label-container"><span class="temp-f">84°F</span><span class="temp-c">/29°C</span><span class="alt-tag"> 1,000'</span></div></div>
 
         </div>
     </div>
