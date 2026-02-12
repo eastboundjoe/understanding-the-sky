@@ -167,7 +167,7 @@
         <div class="chart-container">
             <!-- Mountain Slope - smooth descending ridge from upper-left peak -->
             <svg class="graphic-overlay" viewBox="0 0 1000 1000" preserveAspectRatio="none">
-                <!-- Mountain ridge path: steep near peak, smooth descent -->
+                <!-- Mountain ridge path: steep near peak, smooth descent, foot ends left of labels -->
                 <path d="M 0,560
                          C 20,555 35,548 50,540
                          C 65,545 80,555 100,558
@@ -177,11 +177,10 @@
                          L 320,675 L 340,680
                          C 370,692 400,705 430,720
                          C 480,745 520,765 560,785
-                         C 600,805 640,825 680,850
-                         C 710,868 740,885 770,905
-                         C 800,922 830,940 860,955
-                         C 890,970 920,982 950,992
-                         L 1000,1000 L 0,1000 Z"
+                         C 600,805 630,820 660,840
+                         C 690,858 710,875 730,895
+                         C 750,915 765,935 775,950
+                         L 780,960 L 780,1000 L 0,1000 Z"
                       fill="rgba(200,200,200,0.15)" stroke="black" stroke-width="2.5" />
 
                 <!-- Arrow: 64°F box → mountain at ~7,000ft (slope crosses y≈560 at x≈50) -->
@@ -190,12 +189,12 @@
                         <polygon points="0 0, 10 3.5, 0 7" fill="black" />
                     </marker>
                 </defs>
-                <!-- 64°F → peak area at 7,000ft -->
-                <line x1="180" y1="630" x2="70" y2="555" stroke="black" stroke-width="2.5" marker-end="url(#arrowhead)" />
-                <!-- 76°F → slope at ~4,000ft -->
-                <line x1="380" y1="790" x2="480" y2="750" stroke="black" stroke-width="2.5" marker-end="url(#arrowhead)" />
-                <!-- 85°F → slope at ~1,000ft -->
-                <line x1="680" y1="930" x2="830" y2="945" stroke="black" stroke-width="2.5" marker-end="url(#arrowhead)" />
+                <!-- 64°F → slope where 7,000ft line (y=562) meets mountain (~x=100) -->
+                <line x1="170" y1="615" x2="105" y2="560" stroke="black" stroke-width="2.5" marker-end="url(#arrowhead)" />
+                <!-- 76°F → slope where 4,000ft line (y=750) meets mountain (~x=500) -->
+                <line x1="380" y1="790" x2="490" y2="750" stroke="black" stroke-width="2.5" marker-end="url(#arrowhead)" />
+                <!-- 85°F → slope where 1,000ft line (y=937) meets mountain (~x=760) -->
+                <line x1="670" y1="930" x2="755" y2="940" stroke="black" stroke-width="2.5" marker-end="url(#arrowhead)" />
             </svg>
 
             <!-- At Surface Boxes with arrows pointing to slope -->
