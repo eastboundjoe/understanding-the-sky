@@ -6,12 +6,135 @@
     <title>Max Mixing Ratio Worksheet</title>
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <style>
-        body { font-family: 'Segoe UI', Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; height: 100vh; display: flex; flex-direction: column; }
-        nav { background: #333; padding: 10px; text-align: center; }
-        nav a { color: white; text-decoration: none; margin: 0 15px; font-weight: bold; }
+        @page {
+            size: A4 landscape;
+            margin: 0;
+        }
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            -webkit-print-color-adjust: exact;
+        }
+        .sheet {
+            width: 297mm;
+            height: 210mm;
+            background: white;
+            margin: 10mm auto;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            display: flex;
+            flex-direction: column;
+        }
+        @media print {
+            body { background: none; }
+            .sheet { margin: 0; box-shadow: none; width: 100%; height: 100%; }
+            .no-print { display: none; }
+        }
+
+        nav {
+            background: #333;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
         nav a:hover { text-decoration: underline; }
-        .pdf-container { flex-grow: 1; width: 100%; border: none; }
-        @media print { nav { display: none; } }
+
+        .sheet-header {
+            padding: 8mm 10mm 4mm;
+            border-bottom: 2px solid #333;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-end;
+        }
+        .sheet-header h1 {
+            font-size: 20px;
+            margin: 0;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: #333;
+        }
+        .meta {
+            font-size: 11px;
+            color: #555;
+        }
+
+        .sheet-body {
+            flex: 1;
+            display: flex;
+            padding: 5mm 10mm 8mm;
+            gap: 8mm;
+        }
+
+        /* Data table */
+        .data-table-wrap {
+            width: 200px;
+            flex-shrink: 0;
+        }
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 11px;
+        }
+        .data-table th {
+            background: #333;
+            color: white;
+            padding: 4px 6px;
+            text-align: center;
+            font-size: 10px;
+            line-height: 1.3;
+        }
+        .data-table td {
+            border: 1px solid #ccc;
+            padding: 2px 6px;
+            text-align: center;
+            font-family: 'Courier New', monospace;
+            font-size: 11px;
+        }
+        .data-table tr:nth-child(even) td {
+            background: #f8f8f8;
+        }
+
+        /* Chart area */
+        .chart-wrap {
+            flex: 1;
+            position: relative;
+            border-left: 2px solid #333;
+            border-bottom: 2px solid #333;
+        }
+        .chart-wrap canvas {
+            position: absolute;
+            top: 0; left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        .y-label {
+            position: absolute;
+            left: -38px;
+            top: 50%;
+            transform: rotate(-90deg) translateX(-50%);
+            transform-origin: 0 0;
+            font-size: 11px;
+            font-weight: bold;
+            color: #333;
+            white-space: nowrap;
+        }
+        .x-label {
+            position: absolute;
+            bottom: -22px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 11px;
+            font-weight: bold;
+            color: #333;
+        }
     </style>
 </head>
 <body>
@@ -20,8 +143,150 @@
         <a href="mixing-ratio.html">Mixing Ratio</a>
         <a href="states-of-matter.html">States of Matter</a>
         <a href="lectures.html">Lectures</a>
+        <a href="relative-humidity.html">RH Simulator</a>
     </nav>
 
-    <iframe class="pdf-container" src="Max_Mixing_Ratio_Worksheet.pdf"></iframe>
+    <div class="no-print" style="position: fixed; top: 60px; right: 10px; z-index: 100;">
+        <button onclick="window.print()" style="padding: 10px 20px; cursor: pointer; font-size: 14px; background: #333; color: white; border: none; border-radius: 4px;">Print Worksheet</button>
+    </div>
+
+    <div class="sheet">
+        <div class="sheet-header">
+            <h1>Maximum Mixing Ratio Worksheet</h1>
+            <div class="meta">Date: _______________ &nbsp;|&nbsp; Name: _______________</div>
+        </div>
+
+        <div class="sheet-body">
+            <div class="data-table-wrap">
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>Air Temp<br>(°F)</th>
+                            <th>Max Mixing Ratio<br>(g/kg)</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody"></tbody>
+                </table>
+            </div>
+
+            <div class="chart-wrap">
+                <div class="y-label">Maximum Mixing Ratio (g/kg)</div>
+                <div class="x-label">Temperature (°F)</div>
+                <canvas id="chart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <script>
+    // Saturation mixing ratio data: temp (°F) → g/kg
+    const data = [
+        [100, 52.38], [95, 44.48], [90, 37.71], [85, 31.91],
+        [80, 27.01], [75, 22.76], [70, 16.02], [65, 16.02],
+        [60, 13.38], [55, 11.34], [50, 9.24], [45, 7.64],
+        [40, 6.29], [35, 6.29], [30, 4.21], [25, 3.42],
+        [20, 2.77], [15, 2.23], [10, 1.78], [5, 1.42],
+        [0, 1.12], [-10, 0.69], [-20, 0.42], [-30, 0.24],
+        [-40, 0.14], [-50, 0.08], [-60, 0.04]
+    ];
+
+    // Build table
+    const tbody = document.getElementById('tableBody');
+    data.forEach(([temp, ratio]) => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `<td>${temp}</td><td>${ratio.toFixed(2)}</td>`;
+        tbody.appendChild(tr);
+    });
+
+    // Draw chart
+    const canvas = document.getElementById('chart');
+    const dpr = window.devicePixelRatio || 1;
+
+    function drawChart() {
+        const rect = canvas.parentElement.getBoundingClientRect();
+        canvas.width = rect.width * dpr;
+        canvas.height = rect.height * dpr;
+        canvas.style.width = rect.width + 'px';
+        canvas.style.height = rect.height + 'px';
+
+        const ctx = canvas.getContext('2d');
+        ctx.scale(dpr, dpr);
+
+        const W = rect.width;
+        const H = rect.height;
+        const pad = { top: 15, right: 15, bottom: 30, left: 45 };
+        const cw = W - pad.left - pad.right;
+        const ch = H - pad.top - pad.bottom;
+
+        // Ranges
+        const tempMin = -60, tempMax = 100;
+        const ratioMin = 0, ratioMax = 55;
+
+        function xPos(temp) { return pad.left + ((temp - tempMin) / (tempMax - tempMin)) * cw; }
+        function yPos(ratio) { return pad.top + ch - ((ratio - ratioMin) / (ratioMax - ratioMin)) * ch; }
+
+        // Grid lines
+        ctx.strokeStyle = '#ddd';
+        ctx.lineWidth = 0.5;
+
+        // Vertical grid (every 10°F)
+        for (let t = -60; t <= 100; t += 10) {
+            ctx.beginPath();
+            ctx.moveTo(xPos(t), pad.top);
+            ctx.lineTo(xPos(t), pad.top + ch);
+            ctx.stroke();
+
+            // Label
+            ctx.fillStyle = '#666';
+            ctx.font = '9px Segoe UI';
+            ctx.textAlign = 'center';
+            if (t % 20 === 0) {
+                ctx.fillText(t + '°', xPos(t), pad.top + ch + 14);
+            }
+        }
+
+        // Horizontal grid (every 5 g/kg)
+        for (let r = 0; r <= 55; r += 5) {
+            ctx.beginPath();
+            ctx.strokeStyle = '#ddd';
+            ctx.moveTo(pad.left, yPos(r));
+            ctx.lineTo(pad.left + cw, yPos(r));
+            ctx.stroke();
+
+            // Label
+            ctx.fillStyle = '#666';
+            ctx.font = '9px Segoe UI';
+            ctx.textAlign = 'right';
+            ctx.fillText(r, pad.left - 5, yPos(r) + 3);
+        }
+
+        // Sort data by temperature for drawing
+        const sorted = [...data].sort((a, b) => a[0] - b[0]);
+
+        // Draw curve
+        ctx.beginPath();
+        ctx.strokeStyle = '#333';
+        ctx.lineWidth = 2;
+        sorted.forEach(([temp, ratio], i) => {
+            const x = xPos(temp);
+            const y = yPos(ratio);
+            if (i === 0) ctx.moveTo(x, y);
+            else ctx.lineTo(x, y);
+        });
+        ctx.stroke();
+
+        // Draw data points
+        sorted.forEach(([temp, ratio]) => {
+            const x = xPos(temp);
+            const y = yPos(ratio);
+            ctx.beginPath();
+            ctx.arc(x, y, 3, 0, Math.PI * 2);
+            ctx.fillStyle = '#333';
+            ctx.fill();
+        });
+    }
+
+    drawChart();
+    window.addEventListener('resize', drawChart);
+    </script>
 </body>
 </html>
