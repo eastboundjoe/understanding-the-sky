@@ -3,211 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Max Mixing Ratio Worksheet - Landscape</title>
+    <title>Max Mixing Ratio Worksheet</title>
     <style>
-        @page { 
-            size: A4 landscape; 
-            margin: 10mm; 
-        }
-        body { 
-            font-family: 'Segoe UI', Arial, sans-serif; 
-            margin: 0; 
-            padding: 20px; 
-            background-color: #f4f4f4; 
-        }
-        nav { 
-            background: #333; 
-            padding: 10px; 
-            text-align: center; 
-            margin-bottom: 20px; 
-            border-radius: 5px; 
-        }
-        nav a { 
-            color: white; 
-            text-decoration: none; 
-            margin: 0 15px; 
-            font-weight: bold; 
-        }
+        body { font-family: 'Segoe UI', Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; height: 100vh; display: flex; flex-direction: column; }
+        nav { background: #333; padding: 10px; text-align: center; }
+        nav a { color: white; text-decoration: none; margin: 0 15px; font-weight: bold; }
         nav a:hover { text-decoration: underline; }
-
-        .sheet { 
-            width: 277mm; /* A4 Landscape width minus margins */
-            min-height: 190mm; 
-            background: white; 
-            margin: 0 auto; 
-            padding: 10mm; 
-            box-sizing: border-box; 
-            box-shadow: 0 0 10px rgba(0,0,0,0.1); 
-            display: flex;
-            flex-direction: column;
-        }
-        
-        h1 { 
-            text-align: center; 
-            text-transform: uppercase; 
-            border-bottom: 2px solid #333; 
-            padding-bottom: 5px; 
-            margin: 0 0 15px 0;
-            font-size: 20px;
-        }
-
-        .content { 
-            display: flex; 
-            gap: 15px; 
-            flex-grow: 1;
-            align-items: stretch;
-        }
-
-        .table-container {
-            width: 25%;
-        }
-
-        table { 
-            border-collapse: collapse; 
-            width: 100%; 
-            font-size: 10px; 
-        }
-        th, td { 
-            border: 1px solid #333; 
-            padding: 3px; 
-            text-align: center; 
-        }
-        th { background: #eee; font-weight: bold; }
-
-        .chart-container { 
-            flex-grow: 1; 
-            border: 2px solid #333; 
-            position: relative; 
-            display: flex; 
-            flex-direction: column; 
-            padding: 30px 20px 40px 60px; /* Space for labels */
-        }
-
-        .grid-bg {
-            position: absolute;
-            top: 30px;
-            left: 60px;
-            right: 20px;
-            bottom: 40px;
-            border-left: 2px solid black;
-            border-bottom: 2px solid black;
-            background-image: 
-                linear-gradient(#ddd 1px, transparent 1px), 
-                linear-gradient(90deg, #ddd 1px, transparent 1px);
-            background-size: 4% 5%; /* Approximate grid */
-            z-index: 1;
-        }
-
-        .y-axis-label {
-            position: absolute;
-            left: 10px;
-            top: 50%;
-            transform: translateY(-50%) rotate(-90deg);
-            font-weight: bold;
-            font-size: 14px;
-            white-space: nowrap;
-        }
-
-        .x-axis-label {
-            position: absolute;
-            bottom: 10px;
-            left: 50%;
-            transform: translateX(-50%);
-            font-weight: bold;
-            font-size: 14px;
-        }
-
-        svg {
-            position: absolute;
-            top: 30px;
-            left: 60px;
-            right: 20px;
-            bottom: 40px;
-            width: calc(100% - 80px);
-            height: calc(100% - 70px);
-            z-index: 2;
-            overflow: visible;
-        }
-
-        @media print { 
-            .no-print { display: none; } 
-            body { background: none; padding: 0; } 
-            .sheet { box-shadow: none; margin: 0; width: 100%; height: 100%; } 
-            nav { display: none; } 
-        }
+        .pdf-container { flex-grow: 1; width: 100%; border: none; }
+        @media print { nav { display: none; } }
     </style>
 </head>
 <body>
     <nav class="no-print">
         <a href="index.html">Thermal Analysis</a>
         <a href="mixing-ratio.html">Mixing Ratio</a>
-        <a href="states-of-matter.html">States of Matter</a>
     </nav>
 
-    <div class="sheet">
-        <h1>Maximum Mixing Ratio Worksheet</h1>
-        <div class="content">
-            <div class="table-container">
-                <table>
-                    <thead>
-                        <tr>
-                            <th>Temp (&deg;F)</th>
-                            <th>Ratio (g/kg)</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr><td>100</td><td>52.38</td></tr>
-                        <tr><td>95</td><td>44.48</td></tr>
-                        <tr><td>90</td><td>37.71</td></tr>
-                        <tr><td>85</td><td>31.91</td></tr>
-                        <tr><td>80</td><td>27.01</td></tr>
-                        <tr><td>75</td><td>22.76</td></tr>
-                        <tr><td>70</td><td>16.02</td></tr>
-                        <tr><td>65</td><td>16.02</td></tr>
-                        <tr><td>60</td><td>13.38</td></tr>
-                        <tr><td>55</td><td>11.34</td></tr>
-                        <tr><td>50</td><td>9.24</td></tr>
-                        <tr><td>45</td><td>7.64</td></tr>
-                        <tr><td>40</td><td>6.29</td></tr>
-                        <tr><td>35</td><td>6.29</td></tr>
-                        <tr><td>30</td><td>4.21</td></tr>
-                        <tr><td>25</td><td>3.42</td></tr>
-                        <tr><td>20</td><td>2.77</td></tr>
-                        <tr><td>15</td><td>2.23</td></tr>
-                        <tr><td>10</td><td>1.78</td></tr>
-                        <tr><td>5</td><td>1.42</td></tr>
-                        <tr><td>0</td><td>1.12</td></tr>
-                        <tr><td>-10</td><td>0.69</td></tr>
-                        <tr><td>-20</td><td>0.42</td></tr>
-                        <tr><td>-30</td><td>0.24</td></tr>
-                        <tr><td>-40</td><td>0.14</td></tr>
-                        <tr><td>-50</td><td>0.08</td></tr>
-                        <tr><td>-60</td><td>0.04</td></tr>
-                    </tbody>
-                </table>
-            </div>
-            
-            <div class="chart-container">
-                <div class="y-axis-label">Maximum Mixing Ratio (g/kg)</div>
-                <div class="grid-bg"></div>
-                <svg viewBox="0 0 1000 1000" preserveAspectRatio="none">
-                    <!-- Accurate curve plotting based on data -->
-                    <!-- Temperature Range: -60 to 100 (160 units) -->
-                    <!-- Ratio Range: 0 to 55 (55 units) -->
-                    <path d="M 0,999 
-                             L 62,997 L 125,996 L 187,994 L 250,991 L 312,985 
-                             L 375,979 L 437,973 L 500,967 L 531,957 L 562,945 
-                             L 593,932 L 625,913 L 656,860 L 687,860 L 718,811 
-                             L 750,772 L 781,732 L 812,657 L 843,584 L 875,502 
-                             L 906,420 L 937,314 L 968,191 L 1000,47" 
-                          fill="none" stroke="black" stroke-width="4" stroke-linejoin="round"/>
-                </svg>
-                <div class="x-axis-label">Temperature (&deg;F)</div>
-            </div>
-        </div>
-        <div style="margin-top:10px; font-style: italic; font-size: 11px; text-align: right;">
-            Note: Saturation mixing ratio is a function of air temperature.
-        </div>
-    </div>
+    <iframe class="pdf-container" src="Max_Mixing_Ratio_Worksheet.pdf"></iframe>
 </body>
 </html>
