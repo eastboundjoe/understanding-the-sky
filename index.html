@@ -167,11 +167,7 @@
         <div class="chart-container">
             <!-- Mountain Slope - smooth descending ridge from upper-left peak -->
             <svg class="graphic-overlay" viewBox="0 0 1000 1000" preserveAspectRatio="none">
-                <!-- Peak at ~7,000ft on left, arrow up from peak, slope descends to lower-right -->
-                <!-- Arrow at peak -->
-                <line x1="50" y1="520" x2="50" y2="440" stroke="black" stroke-width="2.5" />
-                <polygon points="42,450 50,430 58,450" fill="black" />
-                <!-- Mountain ridge path: steep near peak, smooth descent with subtle texture -->
+                <!-- Mountain ridge path: steep near peak, smooth descent -->
                 <path d="M 0,560
                          C 20,555 35,548 50,540
                          C 65,545 80,555 100,558
@@ -187,6 +183,19 @@
                          C 890,970 920,982 950,992
                          L 1000,1000 L 0,1000 Z"
                       fill="rgba(200,200,200,0.15)" stroke="black" stroke-width="2.5" />
+
+                <!-- Arrow: 64°F box → mountain at ~7,000ft (slope crosses y≈560 at x≈50) -->
+                <defs>
+                    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+                        <polygon points="0 0, 10 3.5, 0 7" fill="black" />
+                    </marker>
+                </defs>
+                <!-- 64°F → peak area at 7,000ft -->
+                <line x1="180" y1="630" x2="70" y2="555" stroke="black" stroke-width="2.5" marker-end="url(#arrowhead)" />
+                <!-- 76°F → slope at ~4,000ft -->
+                <line x1="380" y1="790" x2="480" y2="750" stroke="black" stroke-width="2.5" marker-end="url(#arrowhead)" />
+                <!-- 85°F → slope at ~1,000ft -->
+                <line x1="680" y1="930" x2="830" y2="945" stroke="black" stroke-width="2.5" marker-end="url(#arrowhead)" />
             </svg>
 
             <!-- At Surface Boxes with arrows pointing to slope -->
