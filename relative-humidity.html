@@ -25,37 +25,63 @@
         }
         nav a:hover { text-decoration: underline; }
         .content {
-            max-width: 1000px;
-            margin: 0 auto;
+            max-width: 620px;
+            margin: 20px auto;
             background: white;
-            padding: 30px;
+            padding: 20px 30px 30px;
             border-radius: 5px;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
         h1 {
             text-align: center;
-            text-transform: uppercase;
+            font-size: 1.3em;
             border-bottom: 2px solid #333;
             padding-bottom: 10px;
-            margin: 0 0 20px 0;
-            font-size: 1.5em;
+            margin: 0 0 6px 0;
         }
-        .sim-container {
-            width: 100%;
-            aspect-ratio: 4 / 3;
-            max-height: 700px;
+        .subtitle {
+            text-align: center;
+            font-size: 13px;
+            color: #555;
+            margin-bottom: 10px;
         }
-        .sim-container iframe {
-            width: 100%;
-            height: 100%;
-            border: none;
-            border-radius: 4px;
+        .RHdivcan {
+            padding: 5px;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            user-select: none;
+            -webkit-tap-highlight-color: transparent;
+            display: flex;
+            justify-content: center;
+        }
+        canvas { cursor: pointer; }
+        .RHcont {
+            display: inline-block;
+            text-align: center;
+            vertical-align: middle;
+            color: black;
+            background-color: #e0e0e0;
+            font-family: sans-serif;
+            font-size: 12px;
+        }
+        #divsel, #divsel2 {
+            background-color: #e0e0e0;
+            width: 550px;
+            margin: 0 auto;
+            padding: 4px 0;
+        }
+        .instructions {
+            max-width: 550px;
+            margin: 12px auto 0;
+            font-size: 13px;
+            color: #555;
+            line-height: 1.6;
         }
         .credit {
             text-align: center;
-            margin-top: 15px;
-            font-size: 0.85em;
-            color: #666;
+            margin-top: 16px;
+            font-size: 0.8em;
+            color: #999;
         }
         .credit a { color: #2a6496; }
     </style>
@@ -68,14 +94,352 @@
         <a href="lectures.html">Lectures</a>
         <a href="relative-humidity.html">RH Simulator</a>
     </nav>
+
     <div class="content">
-        <h1>Relative Humidity Simulator</h1>
-        <div class="sim-container">
-            <iframe src="https://cimss.ssec.wisc.edu/wxfest/RH/rh.html" allowfullscreen></iframe>
+        <h1>Temperature, Dew Point, &amp; Relative Humidity</h1>
+        <p class="subtitle">The simulator shows what happens <strong>inside your house</strong> when the <em>outdoor temperature and dew point</em> change.</p>
+
+        <div id="divcan" class="RHdivcan" style="height:300px;">
+            <canvas id="mycan" height="300" width="550">Your browser does not support canvas.</canvas>
         </div>
+
+        <div id="divsel" style="width:550px; margin:0 auto; background-color:#e0e0e0; padding:4px 0;">
+            <span class="RHcont" style="width:80px;">Thermostat</span>
+            <span class="RHcont" style="width:90px;"><input type="checkbox" id="furnace" checked>Furnace</span>
+            <span class="RHcont" style="width:110px;"><input type="checkbox" id="aircon">Air Conditioner</span>
+            <span class="RHcont" style="width:120px;"><input type="radio" name="door" id="dooropen">Door is Open</span>
+            <span class="RHcont" style="width:130px;">Activities</span>
+        </div>
+
+        <div id="divsel2" style="width:550px; margin:0 auto; background-color:#e0e0e0; padding:4px 0;">
+            <span class="RHcont" style="width:80px;">
+                <select id="thermostat">
+                    <option value="85">85&deg;</option>
+                    <option value="80">80&deg;</option>
+                    <option value="75">75&deg;</option>
+                    <option value="70" selected>70&deg;</option>
+                    <option value="65">65&deg;</option>
+                    <option value="60">60&deg;</option>
+                    <option value="55">55&deg;</option>
+                </select>
+            </span>
+            <span class="RHcont" id="furnmsg" style="width:90px;">Furnace is <b>OFF</b></span>
+            <span class="RHcont" id="acmsg" style="width:110px;">A / C is <b>OFF</b></span>
+            <span class="RHcont" style="width:120px;"><input type="radio" name="door" id="doorclosed" checked>Door is Closed</span>
+            <span class="RHcont" style="width:130px;">
+                <select id="activities">
+                    <option value="0" selected>Hang out</option>
+                    <option value="1">Take shower</option>
+                    <option value="2">Cook dinner</option>
+                    <option value="3">Throw party</option>
+                    <option value="4">Throw BIG party</option>
+                    <option value="5">Run humidifier</option>
+                </select>
+            </span>
+        </div>
+
+        <div class="instructions">
+            Control the outdoor conditions by sliding the red portion of the two thermometers encased in blue (one for temperature and one for dew point). The Relative Humidity meter will instantly show the RH value. You can also control the thermostat and choose different activities.
+        </div>
+
         <p class="credit">
-            Simulation by <a href="https://cimss.ssec.wisc.edu/" target="_blank" rel="noopener">CIMSS</a>, University of Wisconsin-Madison.
+            Original simulation by <a href="https://cimss.ssec.wisc.edu/wxfest/" target="_blank" rel="noopener">CIMSS WxFest</a>, University of Wisconsin-Madison.
         </p>
     </div>
+
+<script>
+// Simple pointer event handler (replacement for CIMSS PEvs)
+function PEvs(canvas, down, up, click, drag, over, out) {
+    var px = 0, py = 0, dragging = false;
+    function getPos(e) {
+        var rect = canvas.getBoundingClientRect();
+        var evt = e.touches ? e.touches[0] : e;
+        px = evt.clientX - rect.left;
+        py = evt.clientY - rect.top;
+    }
+    canvas.addEventListener('mousedown', function(e) { dragging = true; getPos(e); if (down) down(); });
+    canvas.addEventListener('mousemove', function(e) { if (dragging) { getPos(e); if (drag) drag(); } });
+    canvas.addEventListener('mouseup', function(e) { dragging = false; if (up) up(); });
+    canvas.addEventListener('mouseleave', function(e) { dragging = false; });
+    canvas.addEventListener('touchstart', function(e) { e.preventDefault(); dragging = true; getPos(e); if (down) down(); }, {passive: false});
+    canvas.addEventListener('touchmove', function(e) { e.preventDefault(); if (dragging) { getPos(e); if (drag) drag(); } }, {passive: false});
+    canvas.addEventListener('touchend', function(e) { dragging = false; if (up) up(); });
+    this.getX = function() { return px; }
+    this.getY = function() { return py; }
+}
+
+// Original CIMSS RH simulation code
+var RH = new function () {
+  var dcan;
+  var mainCan, ctx;
+  var bi;
+  var season;
+  var count = 0;
+  var ang, x0, y0, x1, y1, lab, w;
+  var outdoorT=32, indoorT=72, indoorRH, outdoorRH, outdoorTD=0, indoorTD=40;
+  var isFurnaceRunning=false, isACRunning=false;
+  var showingSummer = false;
+  var tin, tdin, rhin, act, actCount, oldActivity, stepRH, currentRH;
+
+  var tscales = [
+    {"x":53,"y":225},
+    {"x":403,"y":225},
+    {"x":493,"y":202}
+  ];
+  var thermos = [
+    {"x":370, "y":31},
+    {"x":460, "y":9}
+  ];
+  var metb = [
+    {"x":112,"y":52, "xc":145,"yc":82},
+    {"x":462,"y":237, "xc":495,"yc":267}
+  ];
+  var radius = 58.0;
+  var action;
+  var $ = function(e) { return document.getElementById(e); }
+
+  this.setup = function() {
+    mainCan = document.getElementById("mycan");
+    ctx = mainCan.getContext("2d");
+    action = new PEvs(mainCan, null, null, null, RH.drag, null, null);
+    season = 1;
+    bi = [new Image(), new Image()];
+    bi[1].onload = function() { RH.clear(); }
+    bi[0].src = "rh-images/house-summer.png";
+    bi[1].src = "rh-images/house-winter.png";
+  }
+
+  this.clear = function() {
+    ctx.drawImage(bi[season],0,0);
+    drawTemp(0,indoorT);
+    drawTemp(1,outdoorTD);
+    drawTemp(2,outdoorT);
+    drawMeter(0);
+    drawMeter(1);
+    tin = indoorT;
+    tdin = indoorTD;
+    rhin = indoorRH;
+    actCount = 0;
+    oldActivity = 0;
+    stepRH = 0;
+    currentRH = 0;
+    RH.run();
+  }
+
+  var makeRH = function(t, td) {
+    var dt = 5.*(t - 32.)/9.;
+    var dtd = 5.*(td - 32.)/9.;
+    if (dtd > dt) dtd = dt;
+    var satvap = satVapPres(dt);
+    var actvap = satVapPres(dtd);
+    var rh = Math.round(100.*actvap/satvap);
+    if (rh > 100) rh = 100;
+    return rh;
+  }
+
+  var makeTD = function(t, rh) {
+    var dt = 5.*(t - 32.)/9.;
+    var satvap = satVapPres(dt);
+    var newRH = 100;
+    var td = t;
+    while (rh < newRH) {
+      td = td - 1;
+      var dtd = 5.*(td - 32.)/9.;
+      var actvap = satVapPres(dtd);
+      newRH = Math.round(100.*actvap/satvap);
+    }
+    return td;
+  }
+
+  var satVapPres = function(temp) {
+    var coef = [6.1104546, 0.4442351, 1.4302099e-2, 2.6454708e-4,
+                3.0357098e-6, 2.0972268e-8, 6.0487594e-11, -1.469687e-13];
+    var t1 = temp*(coef[6] + temp*coef[7]);
+    var t2 = temp*(coef[5] + t1);
+    return (coef[0] + temp*(coef[1] + temp*(coef[2] + temp*(coef[3] +
+            temp*(coef[4] + t2)))));
+  }
+
+  this.drag = function() {
+    var x = action.getX();
+    var y = action.getY();
+    var therm = -1;
+    if (x > thermos[0].x && x < thermos[0].x+64 &&
+        y > thermos[0].y && y < thermos[0].y+200) therm = 1;
+    if (x > thermos[1].x && x < thermos[1].x+64 &&
+        y > thermos[1].y && y < thermos[1].y+200) therm = 2;
+    if (therm != -1) {
+      var t = (170./172.)*(150 - (y-thermos[therm-1].y));
+      if (t > 130) t = 130;
+      if (t < -40) t = -40;
+      if (therm == 1) {
+        outdoorTD = t;
+        if (outdoorTD > outdoorT) outdoorT = outdoorTD;
+      }
+      if (therm == 2) {
+        outdoorT = t;
+        if (outdoorT < outdoorTD) outdoorTD = outdoorT;
+      }
+      if (outdoorT < 60 && !showingSummer) {
+        drawTemp(1, outdoorTD);
+        drawTemp(2, outdoorT);
+      } else {
+        if (outdoorT < 60) {
+          season = 1;
+          showingSummer = false;
+        } else {
+          season = 0;
+          showingSummer = true;
+        }
+        ctx.drawImage(bi[season],0,0);
+        drawTemp(0,indoorT);
+        drawTemp(1,outdoorTD);
+        drawTemp(2,outdoorT);
+        drawMeter(0);
+        drawMeter(1);
+      }
+    }
+    drawMeter(1);
+  }
+
+  var drawMeter = function(m) {
+    ctx.drawImage(bi[season], metb[m].x, metb[m].y, 65, 45,
+                  metb[m].x, metb[m].y, 65, 45);
+    var v;
+    if (m == 0) {
+      indoorRH = makeRH(indoorT, indoorTD);
+      v = indoorRH;
+    } else {
+      outdoorRH = makeRH(outdoorT, outdoorTD);
+      v = outdoorRH;
+    }
+    ang = v/100.;
+    if (ang < 0.0) ang = 0.0;
+    if (ang > 1.0) ang = 1.0;
+    ang = ang * 180.0 * .01745329252;
+    x0 = Math.round(metb[m].xc - Math.cos(ang)*(radius*.45));
+    y0 = Math.round(metb[m].yc - Math.sin(ang)*(radius*.45));
+    ctx.fillStyle = "red";
+    ctx.beginPath();
+    ctx.moveTo(x0, y0);
+    x1 = Math.round(metb[m].xc - Math.cos(ang - 1.571)*(radius*.08));
+    y1 = Math.round(metb[m].yc - Math.sin(ang - 1.571)*(radius*.08));
+    ctx.lineTo(x1,y1);
+    x1 = Math.round(metb[m].xc - Math.cos(ang + 1.571)*(radius*.08));
+    y1 = Math.round(metb[m].yc - Math.sin(ang + 1.571)*(radius*.08));
+    ctx.lineTo(x1,y1);
+    ctx.lineTo(x0,y0);
+    ctx.fill();
+    ctx.arc(metb[m].xc, metb[m].yc, radius*.10, 0, 2*Math.PI);
+    ctx.fill();
+    ctx.closePath();
+    ctx.fillStyle = "black";
+    ctx.font="12px sans-serif";
+    lab = v+"%";
+    w = ctx.measureText(lab).width;
+    ctx.fillText(lab, metb[m].xc-w/2, metb[m].y+44);
+  }
+
+  var drawTemp = function(w, tf) {
+    var p = (40+tf)*(172./170.);
+    ctx.fillStyle = "white";
+    ctx.clearRect(tscales[w].x, tscales[w].y-173, 4, 173);
+    ctx.fillStyle = "red";
+    ctx.fillRect(tscales[w].x, tscales[w].y-p, 4, p+1);
+  }
+
+  this.run = function() {
+    count = count + 1;
+    if ($("dooropen").checked) {
+      tin = ((outdoorT - tin)*.5) + tin;
+      tdin = ((outdoorTD - tdin)*.5) + tdin;
+    } else {
+      tin = ((outdoorT - tin)*.03) + tin;
+      tdin = ((outdoorTD - tdin)*.01) + tdin;
+    }
+    var thermo = 85 - 5 * $("thermostat").selectedIndex;
+    if ($("furnace").checked && isFurnaceRunning) {
+      tin = ((thermo - tin)*.5) + tin + 1.5;
+      $("furnmsg").innerHTML="Furnace is <b>ON</b>";
+    }
+    if ($("furnace").checked) {
+      if (tin >= thermo) {
+        if (isFurnaceRunning) $("furnmsg").innerHTML="Furnace is <b>OFF</b>";
+        isFurnaceRunning = false;
+      }
+      if (thermo - tin > 3) {
+        if (!isFurnaceRunning) $("furnmsg").innerHTML="Furnace is <b>ON</b>";
+        isFurnaceRunning = true;
+      }
+    } else {
+      $("furnmsg").innerHTML="Furnace is <b>OFF</b>";
+    }
+    if ($("aircon").checked && isACRunning) {
+      var tchange = (thermo - tin) * .5;
+      if (tchange > 8) tchange = 8;
+      if (tchange < -8) tchange = -8;
+      tin = tchange + tin - 1.5;
+      tdin = tchange * .5 + tdin - 1.5;
+      $("acmsg").innerHTML="A / C is <b>ON</b>";
+    }
+    if ($("aircon").checked) {
+      if (tin < thermo) {
+        if (isACRunning) $("acmsg").innerHTML="A / C is <b>OFF</b>";
+        isACRunning = false;
+      }
+      if ((tin - thermo) > 3) {
+        if (!isACRunning) $("acmsg").innerHTML="A / C is <b>ON</b>";
+        isACRunning = true;
+      }
+    } else {
+      $("acmsg").innerHTML="A / C is <b>OFF</b>";
+    }
+    var act = $("activities").selectedIndex;
+    if (act != oldActivity) {
+      actCount = 6;
+      if (act == 3 || act == 4) actCount = 12;
+      oldActivity = act;
+      if (act == 5) {
+        stepRH = (35. - indoorRH)/5.;
+        if (stepRH < 0) stepRH = 0;
+      } else {
+        stepRH = 0;
+      }
+      currentRH = indoorRH;
+    }
+    if (actCount != 0) {
+      actCount = actCount - 1;
+      if (act == 1) {
+        tin = tin + .3; tdin = tdin + 2.0;
+      } else if (act == 2) {
+        tin = tin + .8; tdin = tdin + .3;
+      } else if (act == 3) {
+        tin = tin + 1.; tdin = tdin + 2.;
+      } else if (act == 4) {
+        tin = tin + 2.; tdin = tdin + 3.0;
+      } else if (act == 5) {
+        if (stepRH > 0) {
+          indoorTD = makeTD(indoorT, (6-actCount)*stepRH + currentRH);
+          tdin = indoorTD;
+        }
+      }
+    } else {
+      oldActivity = 0;
+      $("activities").selectedIndex = 0;
+    }
+    if (tdin > tin) tdin = tin - 1;
+    indoorRH = makeRH(indoorT, tdin);
+    indoorTD = tdin;
+    indoorT = tin;
+    drawTemp(0,indoorT);
+    drawMeter(0);
+    setTimeout("RH.run()",1000);
+  }
+  return this;
+}
+
+// Start on load
+window.addEventListener('load', function() { RH.setup(); });
+</script>
 </body>
 </html>
