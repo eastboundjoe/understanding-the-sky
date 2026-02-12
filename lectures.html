@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Weather & Climate Lectures - Mel Strong</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <style>
         body {
             font-family: 'Segoe UI', Arial, sans-serif;
@@ -122,17 +123,46 @@
         .transcript {
             display: none;
             margin-top: 10px;
-            padding: 14px;
+            padding: 0;
             background: #fafafa;
             border: 1px solid #eee;
             border-radius: 4px;
-            font-size: 13px;
+            font-size: 13.5px;
             line-height: 1.7;
             color: #444;
-            max-height: 400px;
+            max-height: 500px;
             overflow-y: auto;
         }
         .transcript.show { display: block; }
+        .ts-paragraph {
+            padding: 10px 14px;
+            border-bottom: 1px solid #f0f0f0;
+            display: flex;
+            gap: 12px;
+            align-items: flex-start;
+        }
+        .ts-paragraph:last-child { border-bottom: none; }
+        .ts-paragraph:hover { background: #f5f7fa; }
+        .ts-link {
+            color: #2a6496;
+            font-weight: 600;
+            font-size: 12px;
+            font-family: 'Courier New', monospace;
+            cursor: pointer;
+            white-space: nowrap;
+            flex-shrink: 0;
+            padding: 2px 6px;
+            background: #e8f0fe;
+            border-radius: 3px;
+            text-decoration: none;
+            min-width: 52px;
+            text-align: center;
+        }
+        .ts-link:hover {
+            background: #2a6496;
+            color: white;
+        }
+        .ts-text { flex: 1; }
         @media (max-width: 600px) {
             .content { padding: 10px; }
             .lecture-header { padding: 12px 14px; gap: 10px; }
@@ -156,6 +186,17 @@
     <div class="content" id="lectures"></div>
 
     <script>
+    // YouTube IFrame API
+    const tag = document.createElement('script');
+    tag.src = 'https://www.youtube.com/iframe_api';
+    document.head.appendChild(tag);
+
+    const players = {}; // videoId -> YT.Player
+
+    function onYouTubeIframeAPIReady() {
+        // API ready — players created on demand when cards open
+    }
+
     const lectures = [
         { num: "1", id: "pOwPs4kNSwc", title: "How to identify and name clouds (introduction to weather)", dur: "34:13" },
         { num: "2", id: "WEJbG-gTu0Q", title: "Introduction to humidity - part I - mixing ratio and dew point", dur: "42:44" },
@@ -189,6 +230,7 @@
     lectures.forEach((lec, i) => {
         const card = document.createElement('div');
         card.className = 'lecture-card';
+        card.dataset.videoId = lec.id;
         card.innerHTML = `
             <div class="lecture-header" onclick="toggleLecture(this)">
                 <div class="lecture-num ${lec.extra ? 'extra' : ''}">${lec.num}</div>
@@ -198,7 +240,7 @@
             </div>
             <div class="lecture-body">
                 <div class="video-wrap">
-                    <iframe data-src="https://www.youtube.com/embed/${lec.id}" allowfullscreen loading="lazy"></iframe>
+                    <div id="player-${lec.id}"></div>
                 </div>
                 <button class="transcript-toggle" onclick="toggleTranscript(this, '${String(i + 1).padStart(2, '0')}-${lec.id}')">Show Transcript</button>
                 <div class="transcript" id="transcript-${lec.id}"></div>
@@ -212,18 +254,34 @@
         const wasOpen = card.classList.contains('open');
         card.classList.toggle('open');
 
-        // Lazy-load the YouTube iframe only when opened
         if (!wasOpen) {
-            const iframe = card.querySelector('iframe[data-src]');
-            if (iframe) {
-                iframe.src = iframe.dataset.src;
-                iframe.removeAttribute('data-src');
+            const videoId = card.dataset.videoId;
+            const playerDiv = card.querySelector(`#player-${videoId}`);
+            if (!players[videoId] && typeof YT !== 'undefined' && YT.Player) {
+                players[videoId] = new YT.Player(`player-${videoId}`, {
+                    videoId: videoId,
+                    width: '100%',
+                    height: '100%',
+                    playerVars: { rel: 0, modestbranding: 1 }
+                });
             }
+        }
+    }
+
+    function seekTo(videoId, seconds) {
+        const player = players[videoId];
+        if (player && player.seekTo) {
+            player.seekTo(seconds, true);
+            player.playVideo();
+            // Scroll the video into view
+            const el = document.getElementById(`player-${videoId}`);
+            if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
         }
     }
 
     async function toggleTranscript(btn, fileKey) {
         const card = btn.closest('.lecture-card');
+        const videoId = card.dataset.videoId;
         const div = card.querySelector('.transcript');
 
         if (div.classList.contains('show')) {
@@ -235,14 +293,20 @@
         if (!div.dataset.loaded) {
             btn.textContent = 'Loading...';
             try {
-                const resp = await fetch(`transcripts/clean/${fileKey}.txt`);
+                const resp = await fetch(`transcripts/clean/${fileKey}.json`);
                 if (resp.ok) {
-                    div.textContent = await resp.text();
+                    const data = await resp.json();
+                    div.innerHTML = data.map(p =>
+                        `<div class="ts-paragraph">` +
+                        `<a class="ts-link" onclick="seekTo('${videoId}', ${p.time})">${p.ts}</a>` +
+                        `<span class="ts-text">${p.text}</span>` +
+                        `</div>`
+                    ).join('');
                 } else {
-                    div.textContent = 'Transcript not available.';
+                    div.innerHTML = '<div style="padding:14px">Transcript not available.</div>';
                 }
             } catch (e) {
-                div.textContent = 'Failed to load transcript.';
+                div.innerHTML = '<div style="padding:14px">Failed to load transcript.</div>';
             }
             div.dataset.loaded = '1';
         }

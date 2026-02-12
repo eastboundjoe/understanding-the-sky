@@ -165,33 +165,45 @@
         <div class="watermark">atmosphere</div>
 
         <div class="chart-container">
-            <!-- Jagged Mountain Slope -->
+            <!-- Mountain Slope - smooth descending ridge from upper-left peak -->
             <svg class="graphic-overlay" viewBox="0 0 1000 1000" preserveAspectRatio="none">
-                <!-- Peak at 7,000ft (approx 56.25% from top) -->
-                <path d="M 0,562.5 
-                         L 40,575 L 80,560 L 120,590 L 160,570 L 200,650 
-                         L 240,630 L 280,680 L 320,660 L 360,720 L 400,700 
-                         L 440,760 L 480,740 L 520,800 L 560,780 L 600,850 
-                         L 640,830 L 680,890 L 720,870 L 760,930 L 800,910 
-                         L 840,970 L 880,950 L 920,1000 L 1000,1000" 
-                      fill="rgba(200,200,200,0.2)" stroke="black" stroke-width="2" />
+                <!-- Peak at ~7,000ft on left, arrow up from peak, slope descends to lower-right -->
+                <!-- Arrow at peak -->
+                <line x1="50" y1="520" x2="50" y2="440" stroke="black" stroke-width="2.5" />
+                <polygon points="42,450 50,430 58,450" fill="black" />
+                <!-- Mountain ridge path: steep near peak, smooth descent with subtle texture -->
+                <path d="M 0,560
+                         C 20,555 35,548 50,540
+                         C 65,545 80,555 100,558
+                         C 120,562 135,568 150,580
+                         C 180,600 200,615 230,635
+                         C 260,652 280,660 300,670
+                         L 320,675 L 340,680
+                         C 370,692 400,705 430,720
+                         C 480,745 520,765 560,785
+                         C 600,805 640,825 680,850
+                         C 710,868 740,885 770,905
+                         C 800,922 830,940 860,955
+                         C 890,970 920,982 950,992
+                         L 1000,1000 L 0,1000 Z"
+                      fill="rgba(200,200,200,0.15)" stroke="black" stroke-width="2.5" />
             </svg>
 
-            <!-- At Surface Boxes BELOW the mountain line -->
+            <!-- At Surface Boxes with arrows pointing to slope -->
             <!-- High (Near 7k peak) -->
-            <div class="annotation" style="top: 65%; left: 5%;">
+            <div class="annotation" style="top: 62%; left: 2%;">
                 <strong>At surface:</strong> 64°F / 18°C<br>
                 Dew Point = 37°F / 3°C
             </div>
 
-            <!-- Mid (Near 3.5k slope) -->
-            <div class="annotation" style="top: 85%; left: 35%;">
+            <!-- Mid (Near 4k slope) -->
+            <div class="annotation" style="top: 79%; left: 25%;">
                 <strong>At surface:</strong> 76°F / 24°C<br>
                 Dew Point = 49°F / 9°C
             </div>
 
             <!-- Low (Near 1k base) -->
-            <div class="annotation" style="top: 95%; left: 65%;">
+            <div class="annotation" style="top: 93%; left: 55%;">
                 <strong>At surface:</strong> 85°F / 29°C<br>
                 Dew Point = 55°F / 13°C
             </div>
