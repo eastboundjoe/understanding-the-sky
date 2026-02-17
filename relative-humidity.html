@@ -5,24 +5,39 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Relative Humidity Simulator</title>
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
-    <link rel="stylesheet" href="styles.css">
     <style>
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        nav {
+            background: #333;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        nav a:hover { text-decoration: underline; }
         .content {
             max-width: 620px;
-            margin: 28px auto 48px;
+            margin: 20px auto;
             background: white;
-            padding: 24px 30px 32px;
-            border-radius: var(--radius);
-            box-shadow: var(--card-shadow);
-            border: 1px solid rgba(203,213,225,0.6);
+            padding: 20px 30px 30px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
         h1 {
             text-align: center;
-            font-size: 1.2em;
-            border-bottom: 2px solid var(--sky-navy);
+            font-size: 1.3em;
+            border-bottom: 2px solid #333;
             padding-bottom: 10px;
             margin: 0 0 6px 0;
-            color: var(--sky-dark);
         }
         .subtitle {
             text-align: center;
@@ -68,22 +83,16 @@
             font-size: 0.8em;
             color: #999;
         }
-        .credit a { color: var(--sky-blue); }
+        .credit a { color: #2a6496; }
     </style>
 </head>
 <body>
-    <nav class="site-nav">
-        <a href="index.html" class="nav-brand">
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17.5 19H9a7 7 0 1 1 6.71-9h1.79a4.5 4.5 0 1 1 0 9Z"/></svg>
-            Understanding the Sky
-        </a>
-        <div class="nav-links">
-            <a href="index.html">Thermals</a>
-            <a href="mixing-ratio.html">Mixing Ratio</a>
-            <a href="states-of-matter.html">States of Matter</a>
-            <a href="lectures.html">Lectures</a>
-            <a href="relative-humidity.html" class="active">RH Simulator</a>
-        </div>
+    <nav class="no-print">
+        <a href="index.html">Thermals Worksheet</a>
+        <a href="mixing-ratio.html">Mixing Ratio</a>
+        <a href="states-of-matter.html">States of Matter</a>
+        <a href="lectures.html">Lectures</a>
+        <a href="relative-humidity.html">RH Simulator</a>
     </nav>
 
     <div class="content">

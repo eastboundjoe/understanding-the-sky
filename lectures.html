@@ -5,8 +5,43 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Weather & Climate Lectures - Mel Strong</title>
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
-    <link rel="stylesheet" href="styles.css">
     <style>
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        nav {
+            background: #333;
+            padding: 10px;
+            text-align: center;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        nav a:hover { text-decoration: underline; }
+        .page-header {
+            background: linear-gradient(135deg, #1a1a2e, #16213e);
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+        }
+        .page-header h1 {
+            margin: 0 0 8px 0;
+            font-size: 1.8em;
+        }
+        .page-header p {
+            margin: 0;
+            color: #a0b8d8;
+            font-size: 0.95em;
+        }
         .content {
             max-width: 900px;
             margin: 0 auto;
@@ -14,10 +49,9 @@
         }
         .lecture-card {
             background: white;
-            border-radius: var(--radius);
-            margin-bottom: 14px;
-            box-shadow: var(--card-shadow);
-            border: 1px solid rgba(203,213,225,0.5);
+            border-radius: 8px;
+            margin-bottom: 16px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
             overflow: hidden;
         }
         .lecture-header {
@@ -28,9 +62,9 @@
             gap: 14px;
             transition: background 0.2s;
         }
-        .lecture-header:hover { background: #f8fafc; }
+        .lecture-header:hover { background: #f8f9fa; }
         .lecture-num {
-            background: var(--sky-navy);
+            background: #333;
             color: white;
             width: 36px;
             height: 36px;
@@ -42,8 +76,8 @@
             font-size: 14px;
             flex-shrink: 0;
         }
-        .lecture-num.extra { background: #475569; font-size: 11px; }
-        .lecture-title { flex: 1; font-weight: 600; color: var(--text); }
+        .lecture-num.extra { background: #666; font-size: 11px; }
+        .lecture-title { flex: 1; font-weight: 600; color: #333; }
         .lecture-duration {
             color: #888;
             font-size: 13px;
@@ -110,7 +144,7 @@
         .ts-paragraph:last-child { border-bottom: none; }
         .ts-paragraph:hover { background: #f5f7fa; }
         .ts-link {
-            color: var(--sky-blue);
+            color: #2a6496;
             font-weight: 600;
             font-size: 12px;
             font-family: 'Courier New', monospace;
@@ -118,14 +152,14 @@
             white-space: nowrap;
             flex-shrink: 0;
             padding: 2px 6px;
-            background: #dbeafe;
-            border-radius: 4px;
+            background: #e8f0fe;
+            border-radius: 3px;
             text-decoration: none;
             min-width: 52px;
             text-align: center;
         }
         .ts-link:hover {
-            background: var(--sky-blue);
+            background: #2a6496;
             color: white;
         }
         .ts-text { flex: 1; }
@@ -137,21 +171,15 @@
     </style>
 </head>
 <body>
-    <nav class="site-nav">
-        <a href="index.html" class="nav-brand">
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17.5 19H9a7 7 0 1 1 6.71-9h1.79a4.5 4.5 0 1 1 0 9Z"/></svg>
-            Understanding the Sky
-        </a>
-        <div class="nav-links">
-            <a href="index.html">Thermals</a>
-            <a href="mixing-ratio.html">Mixing Ratio</a>
-            <a href="states-of-matter.html">States of Matter</a>
-            <a href="lectures.html" class="active">Lectures</a>
-            <a href="relative-humidity.html">RH Simulator</a>
-        </div>
+    <nav class="no-print">
+        <a href="index.html">Thermals Worksheet</a>
+        <a href="mixing-ratio.html">Mixing Ratio</a>
+        <a href="states-of-matter.html">States of Matter</a>
+        <a href="lectures.html">Lectures</a>
+        <a href="relative-humidity.html">RH Simulator</a>
     </nav>
 
-    <div class="page-hero">
+    <div class="page-header">
         <h1>Introduction to Weather &amp; Climate</h1>
         <p>Lecture series by Mel Strong &mdash; 25 videos</p>
     </div>
