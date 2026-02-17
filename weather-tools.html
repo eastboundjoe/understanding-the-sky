@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Weather Tools</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <style>
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        nav {
+            background: #333;
+            padding: 10px;
+            text-align: center;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        nav a:hover { text-decoration: underline; }
+
+        .page-header {
+            background: linear-gradient(135deg, #1a1a2e, #16213e);
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+        }
+        .page-header h1 { margin: 0 0 8px 0; font-size: 1.8em; }
+        .page-header p  { margin: 0; color: #a0b8d8; font-size: 0.95em; }
+
+        .content {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 30px 20px 50px;
+        }
+
+        .tool-card {
+            background: white;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            overflow: hidden;
+            display: flex;
+            align-items: stretch;
+        }
+        .tool-color-bar {
+            width: 6px;
+            flex-shrink: 0;
+        }
+        .tool-body {
+            padding: 22px 24px;
+            flex: 1;
+        }
+        .tool-body h2 {
+            margin: 0 0 6px 0;
+            font-size: 1.1em;
+            color: #222;
+        }
+        .tool-body p {
+            margin: 0 0 14px 0;
+            font-size: 14px;
+            color: #555;
+            line-height: 1.6;
+        }
+        .tool-link {
+            display: inline-block;
+            padding: 9px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 14px;
+            color: white;
+            transition: opacity 0.15s;
+        }
+        .tool-link:hover { opacity: 0.85; }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <a href="index.html">Thermals Worksheet</a>
+        <a href="mixing-ratio.html">Mixing Ratio</a>
+        <a href="states-of-matter.html">States of Matter</a>
+        <a href="lectures.html">Lectures</a>
+        <a href="relative-humidity.html">RH Simulator</a>
+        <a href="weather-tools.html">Live Weather</a>
+    </nav>
+
+    <div class="page-header">
+        <h1>Live Weather Tools</h1>
+        <p>Observe current atmospheric conditions with these real-time tools</p>
+    </div>
+
+    <div class="content">
+
+        <div class="tool-card">
+            <div class="tool-color-bar" style="background: #2a7ae2;"></div>
+            <div class="tool-body">
+                <h2>Earth — Global Wind & Weather Visualization</h2>
+                <p>
+                    A beautiful animated map of global weather conditions including wind, temperature,
+                    ocean currents, and more. Great for visualizing large-scale atmospheric circulation,
+                    jet streams, and storm systems in real time.
+                </p>
+                <a href="https://earth.nullschool.net/" target="_blank" rel="noopener" class="tool-link" style="background: #2a7ae2;">
+                    Open Earth ↗
+                </a>
+            </div>
+        </div>
+
+        <div class="tool-card">
+            <div class="tool-color-bar" style="background: #e05c1a;"></div>
+            <div class="tool-body">
+                <h2>Windy — Interactive Weather Forecast Map</h2>
+                <p>
+                    A highly detailed interactive weather map showing wind, rain, temperature,
+                    cloud cover, and more. Supports multiple forecast models (ECMWF, GFS, NAM)
+                    and is widely used by pilots, sailors, and weather enthusiasts.
+                </p>
+                <a href="https://www.windy.com/" target="_blank" rel="noopener" class="tool-link" style="background: #e05c1a;">
+                    Open Windy ↗
+                </a>
+            </div>
+        </div>
+
+        <div class="tool-card">
+            <div class="tool-color-bar" style="background: #1a6e3c;"></div>
+            <div class="tool-body">
+                <h2>Aviation Weather — GFA Prog Chart</h2>
+                <p>
+                    The FAA / NOAA Graphical Forecasts for Aviation (GFA) tool. Displays current
+                    and forecast conditions across the contiguous US including clouds, icing,
+                    turbulence, and winds aloft — essential for flight planning and weather study.
+                </p>
+                <a href="https://aviationweather.gov/gfa/#progchart" target="_blank" rel="noopener" class="tool-link" style="background: #1a6e3c;">
+                    Open GFA ↗
+                </a>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+</html>
