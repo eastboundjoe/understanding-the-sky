@@ -5,21 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Max Mixing Ratio Worksheet</title>
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="stylesheet" href="styles.css">
     <style>
-        body { font-family: 'Segoe UI', Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; height: 100vh; display: flex; flex-direction: column; }
-        nav { background: #333; padding: 10px; text-align: center; }
-        nav a { color: white; text-decoration: none; margin: 0 15px; font-weight: bold; }
-        nav a:hover { text-decoration: underline; }
+        body { height: 100vh; display: flex; flex-direction: column; }
         .pdf-container { flex-grow: 1; width: 100%; border: none; }
-        @media print { nav { display: none; } }
+        @media print { .site-nav { display: none; } }
     </style>
 </head>
 <body>
-    <nav class="no-print">
-        <a href="index.html">Thermals Worksheet</a>
-        <a href="mixing-ratio.html">Mixing Ratio</a>        <a href="states-of-matter.html">States of Matter</a>
-        <a href="lectures.html">Lectures</a>
-        <a href="relative-humidity.html">RH Simulator</a>
+    <nav class="site-nav no-print">
+        <a href="index.html" class="nav-brand">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17.5 19H9a7 7 0 1 1 6.71-9h1.79a4.5 4.5 0 1 1 0 9Z"/></svg>
+            Understanding the Sky
+        </a>
+        <div class="nav-links">
+            <a href="index.html">Thermals</a>
+            <a href="mixing-ratio.html" class="active">Mixing Ratio</a>
+            <a href="states-of-matter.html">States of Matter</a>
+            <a href="lectures.html">Lectures</a>
+            <a href="relative-humidity.html">RH Simulator</a>
+        </div>
     </nav>
 
     <iframe class="pdf-container" src="Max_Mixing_Ratio_Worksheet.pdf"></iframe>
