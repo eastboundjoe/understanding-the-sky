@@ -202,6 +202,27 @@
             margin-top: 10px;
         }
         .btn-reset:hover { background: #444; }
+        .controls {
+            max-width: 1000px;
+        }
+        .control-grid-inputs {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+            gap: 5px;
+            margin-top: 10px;
+            background: #f9f9f9;
+            padding: 10px;
+            border-radius: 4px;
+        }
+        .grid-input-item {
+            font-size: 11px;
+            display: flex;
+            flex-direction: column;
+        }
+        .grid-input-item input {
+            width: 45px;
+        }
+
     </style>
 </head>
 <body>
@@ -246,7 +267,34 @@
             </div>
             <div id="status-msg" style="margin-top: 10px; font-size: 12px; font-weight: bold; color: #28a745; height: 15px;"></div>
         </div>
-        <div style="flex: 1; font-size: 12px; color: #666;">
+        
+        <div class="control-group">
+            <h3>Custom Day 3 Environmental Lapse Rate</h3>
+            <div class="input-row">
+                <label>1,000' Base Temp (°C):</label>
+                <input type="number" id="input-d3-base" value="29" step="1">
+            </div>
+            <div class="input-row">
+                <label>Lapse Rate (°C/1k'):</label>
+                <input type="number" id="input-d3-rate" value="2" step="0.1">
+            </div>
+            <button class="btn-reset" style="background: #2a6496;" onclick="applyLapseRate()">Apply Lapse Rate</button>
+            
+            <div class="control-grid-inputs">
+                <!-- Manual overrides for 1k to 16k -->
+                <script>
+                    const container = document.currentScript.parentElement;
+                    for (let alt = 1000; alt <= 16000; alt += 1000) {
+                        const div = document.createElement('div');
+                        div.className = 'grid-input-item';
+                        div.innerHTML = `<label>${alt.toLocaleString()}'</label>
+                                         <input type="number" id="manual-d3-${alt}" value="0" step="1" onchange="updateCustomDayFromManual(${alt})">`;
+                        container.appendChild(div);
+                    }
+                </script>
+            </div>
+        </div>
+<div style="flex: 1; font-size: 12px; color: #666;">
             <p><strong>Instructions:</strong> Change the surface Temperature and dew point (DP) temperatures in Celsius. Fahrenheit values will update automatically. Changes apply to both Day 1 and Day 2 sheets. Use the Print button to save as PDF or print.</p>
         </div>
     </div>
@@ -387,7 +435,7 @@
                 const d = parseFloat(dInput.value);
                 
                 // Update all instances on Day 1 (day 1) and Day 2 (day 2)
-                [1, 2].forEach(dayNum => {
+                [1, 2, 3].forEach(dayNum => {
                     const tC = document.getElementById('d' + dayNum + '-s' + i + '-t-c');
                     const tF = document.getElementById('d' + dayNum + '-s' + i + '-t-f');
                     const dC = document.getElementById('d' + dayNum + '-s' + i + '-d-c');
@@ -419,11 +467,90 @@
             updateValues(true);
         }
 
+
+        function applyLapseRate() {
+            const baseTemp = parseFloat(document.getElementById('input-d3-base').value);
+            const rate = parseFloat(document.getElementById('input-d3-rate').value);
+            
+            for (let alt = 1000; alt <= 16000; alt += 1000) {
+                // Calculate: baseTemp - ((alt - 1000) / 1000 * rate)
+                const currentTemp = Math.round((baseTemp - ((alt - 1000) / 1000 * rate)) * 10) / 10;
+                
+                // Update manual input box
+                const input = document.getElementById('manual-d3-' + alt);
+                if (input) input.value = currentTemp;
+                
+                // Update worksheet
+                const elC = document.getElementById('d3-alt-' + alt + '-c');
+                const elF = document.getElementById('d3-alt-' + alt + '-f');
+                if (elC) elC.textContent = currentTemp + '°C';
+                if (elF) elF.textContent = '/ ' + cToF(currentTemp) + '°F';
+            }
+        }
+
+        function updateCustomDayFromManual(alt) {
+            const val = parseFloat(document.getElementById('manual-d3-' + alt).value);
+            const elC = document.getElementById('d3-alt-' + alt + '-c');
+            const elF = document.getElementById('d3-alt-' + alt + '-f');
+            if (elC) elC.textContent = val + '°C';
+            if (elF) elF.textContent = '/ ' + cToF(val) + '°F';
+        }
+
         window.onload = function() {
+            applyLapseRate();
             updateValues();
         };
     </script>
 
 
+
+    <!-- PAGE 3: CUSTOM DAY -->
+    <div class="sheet">
+        <header>
+            <h1>Thermals Worksheet CUSTOM DAY</h1>
+            <div class="meta">
+                Date: _______________ &nbsp;|&nbsp; Location: _______________<br>
+                <strong>DALR = 3°C / 5.5°F per 1,000ft</strong> &nbsp;|&nbsp; <strong>MALR = 1.5°C / 3°F per 1,000ft</strong>
+            </div>
+        </header>
+
+        <div class="watermark">atmosphere</div>
+
+        <div class="chart-container">
+            <svg class="graphic-overlay" viewBox="0 0 1000 1000" preserveAspectRatio="none">
+                <path d="M 0,560 C 20,555 35,548 50,540 C 65,545 80,555 100,558 C 120,562 135,568 150,580 C 180,600 200,615 230,635 C 260,652 280,660 300,670 L 320,675 L 340,680 C 370,692 400,705 430,720 C 480,745 520,765 560,785 C 600,805 630,820 660,840 C 690,858 710,875 730,895 C 750,915 765,935 775,950 L 780,960 L 780,1000 L 0,1000 Z" fill="rgba(200,200,200,0.15)" stroke="black" stroke-width="2.5" />
+                <defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="black" /></marker></defs>
+                <line x1="170" y1="615" x2="105" y2="560" stroke="black" stroke-width="2.5" marker-end="url(#arrowhead)" />
+                <line x1="380" y1="790" x2="490" y2="750" stroke="black" stroke-width="2.5" marker-end="url(#arrowhead)" />
+                <line x1="670" y1="930" x2="755" y2="940" stroke="black" stroke-width="2.5" marker-end="url(#arrowhead)" />
+                <path d="M 780,965 C 790,955 800,955 810,965 C 820,975 830,975 840,965 C 850,955 860,955 870,965 C 880,975 890,975 900,965 C 910,955 920,955 930,965 C 940,975 950,975 960,965 C 970,955 980,955 990,965 L 1000,965" stroke="#4a8ab5" stroke-width="2" fill="none" />
+                <path d="M 790,978 C 800,968 810,968 820,978 C 830,988 840,988 850,978 C 860,968 870,968 880,978 C 890,988 900,988 910,978 C 920,968 930,968 940,978 C 950,988 960,988 970,978 C 980,968 990,968 1000,978" stroke="#4a8ab5" stroke-width="1.8" fill="none" />
+                <path d="M 800,990 C 810,982 820,982 830,990 C 840,998 850,998 860,990 C 870,982 880,982 890,990 C 900,998 910,998 920,990 C 930,982 940,982 950,990 C 960,998 970,998 980,990 C 990,982 1000,982 1000,990" stroke="#4a8ab5" stroke-width="1.5" fill="none" />
+            </svg>
+
+            <div class="annotation" style="top: 62%; left: 2%;"><strong>At surface:</strong> <span id="d3-s1-t-c">18</span>°C / <span id="d3-s1-t-f">64</span>°F<br>Dew Point = <span id="d3-s1-d-c">3</span>°C / <span id="d3-s1-d-f">37</span>°F</div>
+            <div class="annotation" style="top: 79%; left: 25%;"><strong>At surface:</strong> <span id="d3-s2-t-c">24</span>°C / <span id="d3-s2-t-f">76</span>°F<br>Dew Point = <span id="d3-s2-d-c">9</span>°C / <span id="d3-s2-d-f">49</span>°F</div>
+            <div class="annotation" style="top: 93%; left: 48.5%;"><strong>At surface:</strong> <span id="d3-s3-t-c">29</span>°C / <span id="d3-s3-t-f">85</span>°F<br>Dew Point = <span id="d3-s3-d-c">13</span>°C / <span id="d3-s3-d-f">55</span>°F</div>
+            <div style="position: absolute; top: 75%; left: 10%; font-size: 24px; font-style: italic; color: #777; font-family: serif; opacity: 0.4;">Mountain</div>
+
+            <div class="grid-line" style="top: 0.0%;"><div class="label-container"><span class="temp-c" id="d3-alt-16000-c">0°C</span><span class="temp-f" id="d3-alt-16000-f">/ 32°F</span><span class="alt-tag">16,000'</span></div></div>
+            <div class="grid-line" style="top: 6.25%;"><div class="label-container"><span class="temp-c" id="d3-alt-15000-c">0°C</span><span class="temp-f" id="d3-alt-15000-f">/ 32°F</span><span class="alt-tag">15,000'</span></div></div>
+            <div class="grid-line" style="top: 12.5%;"><div class="label-container"><span class="temp-c" id="d3-alt-14000-c">0°C</span><span class="temp-f" id="d3-alt-14000-f">/ 32°F</span><span class="alt-tag">14,000'</span></div></div>
+            <div class="grid-line" style="top: 18.75%;"><div class="label-container"><span class="temp-c" id="d3-alt-13000-c">0°C</span><span class="temp-f" id="d3-alt-13000-f">/ 32°F</span><span class="alt-tag">13,000'</span></div></div>
+            <div class="grid-line" style="top: 25.0%;"><div class="label-container"><span class="temp-c" id="d3-alt-12000-c">0°C</span><span class="temp-f" id="d3-alt-12000-f">/ 32°F</span><span class="alt-tag">12,000'</span></div></div>
+            <div class="grid-line" style="top: 31.25%;"><div class="label-container"><span class="temp-c" id="d3-alt-11000-c">0°C</span><span class="temp-f" id="d3-alt-11000-f">/ 32°F</span><span class="alt-tag">11,000'</span></div></div>
+            <div class="grid-line" style="top: 37.5%;"><div class="label-container"><span class="temp-c" id="d3-alt-10000-c">0°C</span><span class="temp-f" id="d3-alt-10000-f">/ 32°F</span><span class="alt-tag">10,000'</span></div></div>
+            <div class="grid-line" style="top: 43.75%;"><div class="label-container"><span class="temp-c" id="d3-alt-9000-c">0°C</span><span class="temp-f" id="d3-alt-9000-f">/ 32°F</span><span class="alt-tag">9,000'</span></div></div>
+            <div class="grid-line" style="top: 50.0%;"><div class="label-container"><span class="temp-c" id="d3-alt-8000-c">0°C</span><span class="temp-f" id="d3-alt-8000-f">/ 32°F</span><span class="alt-tag">8,000'</span></div></div>
+            <div class="grid-line" style="top: 56.25%;"><div class="label-container"><span class="temp-c" id="d3-alt-7000-c">0°C</span><span class="temp-f" id="d3-alt-7000-f">/ 32°F</span><span class="alt-tag">7,000'</span></div></div>
+            <div class="grid-line" style="top: 62.5%;"><div class="label-container"><span class="temp-c" id="d3-alt-6000-c">0°C</span><span class="temp-f" id="d3-alt-6000-f">/ 32°F</span><span class="alt-tag">6,000'</span></div></div>
+            <div class="grid-line" style="top: 68.75%;"><div class="label-container"><span class="temp-c" id="d3-alt-5000-c">0°C</span><span class="temp-f" id="d3-alt-5000-f">/ 32°F</span><span class="alt-tag">5,000'</span></div></div>
+            <div class="grid-line" style="top: 75.0%;"><div class="label-container"><span class="temp-c" id="d3-alt-4000-c">0°C</span><span class="temp-f" id="d3-alt-4000-f">/ 32°F</span><span class="alt-tag">4,000'</span></div></div>
+            <div class="grid-line" style="top: 81.25%;"><div class="label-container"><span class="temp-c" id="d3-alt-3000-c">0°C</span><span class="temp-f" id="d3-alt-3000-f">/ 32°F</span><span class="alt-tag">3,000'</span></div></div>
+            <div class="grid-line" style="top: 87.5%;"><div class="label-container"><span class="temp-c" id="d3-alt-2000-c">0°C</span><span class="temp-f" id="d3-alt-2000-f">/ 32°F</span><span class="alt-tag">2,000'</span></div></div>
+            <div class="grid-line" style="top: 93.75%;"><div class="label-container"><span class="temp-c" id="d3-alt-1000-c">0°C</span><span class="temp-f" id="d3-alt-1000-f">/ 32°F</span><span class="alt-tag">1,000'</span></div></div>
+
+        </div>
+    </div>
 </body>
 </html>
