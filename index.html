@@ -151,6 +151,57 @@
             font-weight: bold;
             text-transform: uppercase;
         }
+
+        /* Control Panel */
+        .controls {
+            background: #fff;
+            padding: 15px;
+            margin: 10px auto;
+            max-width: 800px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            font-family: sans-serif;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        .control-group {
+            flex: 1;
+            min-width: 250px;
+        }
+        .control-group h3 {
+            margin: 0 0 10px 0;
+            font-size: 14px;
+            color: #333;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 5px;
+        }
+        .input-row {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 8px;
+            font-size: 13px;
+        }
+        .input-row label { width: 120px; }
+        .input-row input {
+            width: 50px;
+            padding: 4px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+        }
+        .btn-reset {
+            background: #666;
+            color: white;
+            border: none;
+            padding: 8px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 13px;
+            margin-top: 10px;
+        }
+        .btn-reset:hover { background: #444; }
     </style>
 </head>
 <body>
@@ -163,6 +214,31 @@
         <a href="relative-humidity.html">RH Simulator</a>
         <a href="weather-tools.html">Live Weather</a>
     </nav>
+    <div class="no-print controls">
+        <div class="control-group">
+            <h3>Surface Values (°C)</h3>
+            <div class="input-row">
+                <label>Mountain (Left):</label>
+                S: <input type="number" id="input-s1-t" value="18" step="1" onchange="updateValues()">
+                DP: <input type="number" id="input-s1-d" value="3" step="1" onchange="updateValues()">
+            </div>
+            <div class="input-row">
+                <label>Mid-Valley:</label>
+                S: <input type="number" id="input-s2-t" value="24" step="1" onchange="updateValues()">
+                DP: <input type="number" id="input-s2-d" value="9" step="1" onchange="updateValues()">
+            </div>
+            <div class="input-row">
+                <label>Ocean (Right):</label>
+                S: <input type="number" id="input-s3-t" value="29" step="1" onchange="updateValues()">
+                DP: <input type="number" id="input-s3-d" value="13" step="1" onchange="updateValues()">
+            </div>
+            <button class="btn-reset" onclick="resetDefaults()">Reset to Defaults</button>
+        </div>
+        <div style="flex: 1; font-size: 12px; color: #666;">
+            <p><strong>Instructions:</strong> Change the surface (S) and dew point (DP) temperatures in Celsius. Fahrenheit values will update automatically. Changes apply to both Day 1 and Day 2 sheets. Use the Print button to save as PDF or print.</p>
+        </div>
+    </div>
+
 
     <div class="no-print" style="position: fixed; top: 60px; right: 10px; z-index: 100;">
         <button onclick="window.print()" style="padding: 10px 20px; cursor: pointer; font-size: 14px; background: #333; color: white; border: none; border-radius: 4px;">Print Worksheet</button>
@@ -192,7 +268,7 @@
                 <path d="M 800,990 C 810,982 820,982 830,990 C 840,998 850,998 860,990 C 870,982 880,982 890,990 C 900,998 910,998 920,990 C 930,982 940,982 950,990 C 960,998 970,998 980,990 C 990,982 1000,982 1000,990" stroke="#4a8ab5" stroke-width="1.5" fill="none" />
             </svg>
 
-            <div class="annotation" style="top: 62%; left: 2%;"><strong>At surface:</strong> 18°C / 64°F<br>Dew Point = 3°C / 37°F</div>
+            <div class="annotation" style="top: 62%; left: 2%;"><strong>At surface:</strong> <span id="d1-s3-t-c"><span id="d1-s2-t-c"><span id="d1-s1-t-c">18</span></span></span>°C / <span id="d1-s3-t-f"><span id="d1-s2-t-f"><span id="d1-s1-t-f">64</span></span></span>°F<br>Dew Point = <span id="d1-s3-d-c"><span id="d1-s2-d-c"><span id="d1-s1-d-c">3</span></span></span>°C / <span id="d1-s3-d-f"><span id="d1-s2-d-f"><span id="d1-s1-d-f">37</span></span></span>°F</div>
             <div class="annotation" style="top: 79%; left: 25%;"><strong>At surface:</strong> 24°C / 76°F<br>Dew Point = 9°C / 49°F</div>
             <div class="annotation" style="top: 93%; left: 48.5%;"><strong>At surface:</strong> 29°C / 85°F<br>Dew Point = 13°C / 55°F</div>
             <div style="position: absolute; top: 75%; left: 10%; font-size: 24px; font-style: italic; color: #777; font-family: serif; opacity: 0.4;">Mountain</div>
@@ -247,7 +323,7 @@
             </div>
             <div style="position: absolute; top: 18.75%; right: 60px; transform: translateY(-50%) rotate(-90deg); white-space: nowrap; font-size: 20px; font-weight: bold; color: #4a8ab5; opacity: 0.8; z-index: 2; font-style: italic;">Cold air moves in from the north</div>
 
-            <div class="annotation" style="top: 62%; left: 2%;"><strong>At surface:</strong> 18°C / 64°F<br>Dew Point = 3°C / 37°F</div>
+            <div class="annotation" style="top: 62%; left: 2%;"><strong>At surface:</strong> <span id="d2-s3-t-c"><span id="d2-s2-t-c"><span id="d2-s1-t-c">18</span></span></span>°C / <span id="d2-s3-t-f"><span id="d2-s2-t-f"><span id="d2-s1-t-f">64</span></span></span>°F<br>Dew Point = <span id="d2-s3-d-c"><span id="d2-s2-d-c"><span id="d2-s1-d-c">3</span></span></span>°C / <span id="d2-s3-d-f"><span id="d2-s2-d-f"><span id="d2-s1-d-f">37</span></span></span>°F</div>
             <div class="annotation" style="top: 79%; left: 25%;"><strong>At surface:</strong> 24°C / 76°F<br>Dew Point = 9°C / 49°F</div>
             <div class="annotation" style="top: 93%; left: 48.5%;"><strong>At surface:</strong> 29°C / 85°F<br>Dew Point = 13°C / 55°F</div>
             <div style="position: absolute; top: 75%; left: 10%; font-size: 24px; font-style: italic; color: #777; font-family: serif; opacity: 0.4;">Mountain</div>
@@ -271,5 +347,46 @@
         </div>
     </div>
 
+
+    <script>
+        const defaults = {
+            s1: { t: 18, d: 3 },
+            s2: { t: 24, d: 9 },
+            s3: { t: 29, d: 13 }
+        };
+
+        function cToF(c) {
+            return Math.round(c * 1.8 + 32);
+        }
+
+        function updateValues() {
+            for (let i = 1; i <= 3; i++) {
+                const tInput = document.getElementById(`input-s${i}-t`);
+                const dInput = document.getElementById(`input-s${i}-d`);
+                const t = parseFloat(tInput.value);
+                const d = parseFloat(dInput.value);
+                
+                [1, 2].forEach(day => {
+                    const tC = document.getElementById(`d${day}-s${i}-t-c`);
+                    const tF = document.getElementById(`d${day}-s${i}-t-f`);
+                    const dC = document.getElementById(`d${day}-s${i}-d-c`);
+                    const dF = document.getElementById(`d${day}-s${i}-d-f`);
+                    
+                    if(tC) tC.textContent = t;
+                    if(tF) tF.textContent = cToF(t);
+                    if(dC) dC.textContent = d;
+                    if(dF) dF.textContent = cToF(d);
+                });
+            }
+        }
+
+        function resetDefaults() {
+            for (let i = 1; i <= 3; i++) {
+                document.getElementById(`input-s${i}-t`).value = defaults[`s${i}`].t;
+                document.getElementById(`input-s${i}-d`).value = defaults[`s${i}`].d;
+            }
+            updateValues();
+        }
+    </script>
 </body>
 </html>
